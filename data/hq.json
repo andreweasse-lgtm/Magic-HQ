@@ -1,0 +1,2146 @@
+{
+ "meta": {
+  "away": "0-0",
+  "coach": "Sean Sweeney",
+  "home": "0-0",
+  "keyDates": [
+   {
+    "d": "2026-09-28",
+    "detail": "11 AM ET, AdventHealth Training Center",
+    "label": "Media day"
+   },
+   {
+    "d": "2026-09-29",
+    "detail": "Through Oct 6, off Oct 3",
+    "label": "Training camp opens"
+   },
+   {
+    "d": "2026-10-07",
+    "detail": "8 PM ET",
+    "label": "Preseason opener at Memphis"
+   },
+   {
+    "d": "2026-10-19",
+    "detail": "Rookie-scale window closes",
+    "label": "Anthony Black extension deadline"
+   },
+   {
+    "d": "2026-10-20",
+    "detail": "",
+    "label": "NBA opening night"
+   },
+   {
+    "d": "2026-10-21",
+    "detail": "7 PM ET, Kia Center, TV27",
+    "label": "Season opener vs Atlanta"
+   },
+   {
+    "d": "2026-10-30",
+    "detail": "at Toronto",
+    "label": "NBA Cup group play begins"
+   },
+   {
+    "d": "2027-01-10",
+    "detail": "",
+    "label": "Jamal Cain contract guarantee date"
+   },
+   {
+    "d": "2027-02-11",
+    "detail": "",
+    "label": "Trade deadline"
+   },
+   {
+    "d": "2027-02-19",
+    "detail": "Feb 19-21, Phoenix",
+    "label": "All-Star weekend"
+   },
+   {
+    "d": "2027-04-11",
+    "detail": "at Miami",
+    "label": "Regular season ends"
+   }
+  ],
+  "l10": "",
+  "lastGame": {
+   "d": "2026-05-03",
+   "ha": "A",
+   "label": "2026 Playoffs, Round 1, Game 7",
+   "opp": "DET",
+   "them": 116,
+   "us": 94,
+   "wl": "L"
+  },
+  "lastSeason": {
+   "l": 37,
+   "note": "8th in the East. Lost in the first round to Detroit, 4-3.",
+   "w": 45
+  },
+  "phase": "Preseason",
+  "phaseDetail": "Training camp opens Sept 29",
+  "record": {
+   "l": 0,
+   "w": 0
+  },
+  "season": "2026-27",
+  "standing": {
+   "conf": null,
+   "div": null
+  },
+  "streak": "",
+  "updatedAt": "2026-09-23T00:47:00Z"
+ },
+ "brief": {
+  "bullets": [
+   {
+    "tag": "Health",
+    "text": "Franz Wagner (calf) and Jonathan Isaac (knee) are listed questionable for the start of the season on CBS's injury page. The team has not given an update; expect one at media day. Izaiyah Nelson (ankle surgery) is out until at least Nov 1."
+   },
+   {
+    "tag": "Contract",
+    "text": "No Anthony Black extension yet. The reported range is about $20M to $30M a year. If there is no deal by Oct 19 he heads to restricted free agency next summer."
+   },
+   {
+    "tag": "Camp",
+    "text": "Position battles to watch: starting center (Wendell Carter Jr. vs Nikola Vucevic), Noah Penda vs Tristan da Silva, and whether Suggs keeps the starting point guard job over Black."
+   },
+   {
+    "tag": "Roster",
+    "text": "14 standard contracts. The 15th spot will likely stay open to save tax money. Malaki Branham and JD Davison are in camp on non-guaranteed deals."
+   },
+   {
+    "tag": "Community",
+    "text": "The Magic Youth Foundation committed $1.8M to Central Florida nonprofits for 2026-27. STUFF was named NBA Mascot of the Year for the third time."
+   },
+   {
+    "tag": "Odds",
+    "text": "BetMGM win total 43.5 (Over -130). Title +8000, East +2500, Southeast +250. Most preseason rankings have Orlando between 9th and 11th in the East."
+   }
+  ],
+  "createdAt": "2026-09-23T00:47:00Z",
+  "d": "2026-09-22",
+  "headline": "Six days to media day, and health is the first question",
+  "preview": null,
+  "recap": null,
+  "summary": "A quiet Tuesday before camp. The Magic hold media day Monday and open training camp under new head coach Sean Sweeney on Sept 29. NBA.com's season preview says getting Franz Wagner (34 games last season) and Jalen Suggs (57) healthy is the top priority. Anthony Black still has no extension, with the Oct 19 deadline four weeks away.",
+  "watch": "Next up: media day, Monday Sept 28 at 11 AM ET."
+ },
+ "schedule": {
+  "cup": {
+   "group": "East Group A",
+   "note": "Group games Oct 30 at TOR, Nov 13 vs MIL, Nov 20 at BKN, Nov 24 vs DET. Knockouts Dec 4-9, final Dec 11 in Indianapolis.",
+   "teams": [
+    "DET",
+    "TOR",
+    "MIL",
+    "BKN"
+   ]
+  },
+  "games": [
+   {
+    "d": "2026-10-07",
+    "ha": "A",
+    "id": "p20261007",
+    "note": "Preseason opener. Bane's first game back in Memphis.",
+    "opp": "MEM",
+    "res": null,
+    "t": "8:00 PM",
+    "tag": "",
+    "tv": "TBA",
+    "type": "pre"
+   },
+   {
+    "d": "2026-10-11",
+    "ha": "A",
+    "id": "p20261011",
+    "note": "",
+    "opp": "CLE",
+    "res": null,
+    "t": "6:30 PM",
+    "tag": "",
+    "tv": "ESPN",
+    "type": "pre"
+   },
+   {
+    "d": "2026-10-13",
+    "ha": "H",
+    "id": "p20261013",
+    "note": "",
+    "opp": "CLE",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "Peacock",
+    "type": "pre"
+   },
+   {
+    "d": "2026-10-16",
+    "ha": "H",
+    "id": "p20261016",
+    "note": "",
+    "opp": "MIA",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TBA",
+    "type": "pre"
+   },
+   {
+    "d": "2026-10-21",
+    "ha": "H",
+    "id": "r20261021",
+    "note": "Home opener",
+    "opp": "ATL",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-10-23",
+    "ha": "H",
+    "id": "r20261023",
+    "note": "",
+    "opp": "MIN",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-10-25",
+    "ha": "A",
+    "id": "r20261025",
+    "note": "",
+    "opp": "NYK",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-10-28",
+    "ha": "A",
+    "id": "r20261028",
+    "note": "",
+    "opp": "TOR",
+    "res": null,
+    "t": "7:30 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-10-30",
+    "ha": "A",
+    "id": "r20261030",
+    "note": "",
+    "opp": "TOR",
+    "res": null,
+    "t": "7:30 PM",
+    "tag": "Cup",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-11-01",
+    "ha": "H",
+    "id": "r20261101",
+    "note": "",
+    "opp": "BOS",
+    "res": null,
+    "t": "3:30 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-11-02",
+    "ha": "H",
+    "id": "r20261102",
+    "note": "",
+    "opp": "WAS",
+    "res": null,
+    "t": "7:30 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-11-05",
+    "ha": "A",
+    "id": "r20261105",
+    "note": "",
+    "opp": "PHX",
+    "res": null,
+    "t": "9:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-11-07",
+    "ha": "A",
+    "id": "r20261107",
+    "note": "",
+    "opp": "GSW",
+    "res": null,
+    "t": "8:30 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-11-10",
+    "ha": "A",
+    "id": "r20261110",
+    "note": "",
+    "opp": "SAC",
+    "res": null,
+    "t": "10:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-11-11",
+    "ha": "A",
+    "id": "r20261111",
+    "note": "",
+    "opp": "UTA",
+    "res": null,
+    "t": "9:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-11-13",
+    "ha": "H",
+    "id": "r20261113",
+    "note": "",
+    "opp": "MIL",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "Cup",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-11-16",
+    "ha": "A",
+    "id": "r20261116",
+    "note": "",
+    "opp": "BOS",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "Peacock",
+    "type": "reg"
+   },
+   {
+    "d": "2026-11-18",
+    "ha": "H",
+    "id": "r20261118",
+    "note": "",
+    "opp": "PHI",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-11-20",
+    "ha": "A",
+    "id": "r20261120",
+    "note": "",
+    "opp": "BKN",
+    "res": null,
+    "t": "7:30 PM",
+    "tag": "Cup",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-11-22",
+    "ha": "A",
+    "id": "r20261122",
+    "note": "",
+    "opp": "WAS",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-11-24",
+    "ha": "H",
+    "id": "r20261124",
+    "note": "",
+    "opp": "DET",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "Cup",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-11-28",
+    "ha": "A",
+    "id": "r20261128",
+    "note": "",
+    "opp": "WAS",
+    "res": null,
+    "t": "5:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-11-29",
+    "ha": "A",
+    "id": "r20261129",
+    "note": "",
+    "opp": "DET",
+    "res": null,
+    "t": "6:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-12-02",
+    "ha": "A",
+    "id": "r20261202",
+    "note": "",
+    "opp": "DAL",
+    "res": null,
+    "t": "8:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-12-04",
+    "ha": "",
+    "id": "rcup1",
+    "note": "Played between Dec 4 and Dec 10",
+    "opp": "TBD",
+    "res": null,
+    "t": "TBD",
+    "tag": "Cup TBD",
+    "tbd": true,
+    "tv": "TBD",
+    "type": "reg"
+   },
+   {
+    "d": "2026-12-06",
+    "ha": "",
+    "id": "rcup2",
+    "note": "Played between Dec 4 and Dec 10",
+    "opp": "TBD",
+    "res": null,
+    "t": "TBD",
+    "tag": "Cup TBD",
+    "tbd": true,
+    "tv": "TBD",
+    "type": "reg"
+   },
+   {
+    "d": "2026-12-12",
+    "ha": "A",
+    "id": "r20261212",
+    "note": "",
+    "opp": "PHI",
+    "res": null,
+    "t": "7:30 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-12-14",
+    "ha": "H",
+    "id": "r20261214",
+    "note": "",
+    "opp": "PHI",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "Peacock",
+    "type": "reg"
+   },
+   {
+    "d": "2026-12-16",
+    "ha": "H",
+    "id": "r20261216",
+    "note": "",
+    "opp": "CLE",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-12-18",
+    "ha": "A",
+    "id": "r20261218",
+    "note": "",
+    "opp": "BKN",
+    "res": null,
+    "t": "7:30 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-12-19",
+    "ha": "A",
+    "id": "r20261219",
+    "note": "",
+    "opp": "ATL",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-12-21",
+    "ha": "H",
+    "id": "r20261221",
+    "note": "",
+    "opp": "SAC",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-12-23",
+    "ha": "H",
+    "id": "r20261223",
+    "note": "",
+    "opp": "CHA",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-12-26",
+    "ha": "H",
+    "id": "r20261226",
+    "note": "",
+    "opp": "TOR",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-12-27",
+    "ha": "H",
+    "id": "r20261227",
+    "note": "",
+    "opp": "MIL",
+    "res": null,
+    "t": "6:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-12-29",
+    "ha": "A",
+    "id": "r20261229",
+    "note": "",
+    "opp": "CHA",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2026-12-31",
+    "ha": "A",
+    "id": "r20261231",
+    "note": "",
+    "opp": "IND",
+    "res": null,
+    "t": "3:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-01-01",
+    "ha": "A",
+    "id": "r20270101",
+    "note": "",
+    "opp": "DET",
+    "res": null,
+    "t": "7:30 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-01-03",
+    "ha": "H",
+    "id": "r20270103",
+    "note": "",
+    "opp": "MEM",
+    "res": null,
+    "t": "6:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-01-05",
+    "ha": "H",
+    "id": "r20270105",
+    "note": "",
+    "opp": "LAC",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-01-07",
+    "ha": "H",
+    "id": "r20270107",
+    "note": "",
+    "opp": "CLE",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-01-08",
+    "ha": "A",
+    "id": "r20270108",
+    "note": "",
+    "opp": "NOP",
+    "res": null,
+    "t": "8:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-01-10",
+    "ha": "H",
+    "id": "r20270110",
+    "note": "",
+    "opp": "OKC",
+    "res": null,
+    "t": "6:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-01-12",
+    "ha": "A",
+    "id": "r20270112",
+    "note": "",
+    "opp": "POR",
+    "res": null,
+    "t": "10:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-01-14",
+    "ha": "A",
+    "id": "r20270114",
+    "note": "",
+    "opp": "LAL",
+    "res": null,
+    "t": "10:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-01-15",
+    "ha": "A",
+    "id": "r20270115",
+    "note": "",
+    "opp": "LAC",
+    "res": null,
+    "t": "10:30 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-01-17",
+    "ha": "A",
+    "id": "r20270117",
+    "note": "",
+    "opp": "DEN",
+    "res": null,
+    "t": "8:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-01-19",
+    "ha": "H",
+    "id": "r20270119",
+    "note": "",
+    "opp": "GSW",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-01-22",
+    "ha": "H",
+    "id": "r20270122",
+    "note": "",
+    "opp": "POR",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-01-24",
+    "ha": "H",
+    "id": "r20270124",
+    "note": "",
+    "opp": "HOU",
+    "res": null,
+    "t": "6:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-01-25",
+    "ha": "A",
+    "id": "r20270125",
+    "note": "",
+    "opp": "CHA",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-01-28",
+    "ha": "H",
+    "id": "r20270128",
+    "note": "",
+    "opp": "CHI",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-01-29",
+    "ha": "A",
+    "id": "r20270129",
+    "note": "",
+    "opp": "HOU",
+    "res": null,
+    "t": "8:30 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-01-31",
+    "ha": "H",
+    "id": "r20270131",
+    "note": "",
+    "opp": "BKN",
+    "res": null,
+    "t": "6:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-02-02",
+    "ha": "H",
+    "id": "r20270202",
+    "note": "",
+    "opp": "NOP",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-02-04",
+    "ha": "A",
+    "id": "r20270204",
+    "note": "",
+    "opp": "SAS",
+    "res": null,
+    "t": "8:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-02-06",
+    "ha": "A",
+    "id": "r20270206",
+    "note": "",
+    "opp": "CLE",
+    "res": null,
+    "t": "7:30 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-02-08",
+    "ha": "A",
+    "id": "r20270208",
+    "note": "",
+    "opp": "MIL",
+    "res": null,
+    "t": "8:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-02-10",
+    "ha": "A",
+    "id": "r20270210",
+    "note": "",
+    "opp": "MEM",
+    "res": null,
+    "t": "8:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-02-12",
+    "ha": "H",
+    "id": "r20270212",
+    "note": "",
+    "opp": "MIA",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-02-13",
+    "ha": "H",
+    "id": "r20270213",
+    "note": "",
+    "opp": "SAS",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-02-15",
+    "ha": "A",
+    "id": "r20270215",
+    "note": "",
+    "opp": "OKC",
+    "res": null,
+    "t": "8:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-02-17",
+    "ha": "H",
+    "id": "r20270217",
+    "note": "",
+    "opp": "DAL",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-02-25",
+    "ha": "H",
+    "id": "r20270225",
+    "note": "",
+    "opp": "CHA",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-02-28",
+    "ha": "H",
+    "id": "r20270228",
+    "note": "",
+    "opp": "ATL",
+    "res": null,
+    "t": "4:30 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-03-02",
+    "ha": "H",
+    "id": "r20270302",
+    "note": "",
+    "opp": "LAL",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-03-04",
+    "ha": "H",
+    "id": "r20270304",
+    "note": "",
+    "opp": "IND",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-03-05",
+    "ha": "H",
+    "id": "r20270305",
+    "note": "",
+    "opp": "UTA",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-03-09",
+    "ha": "H",
+    "id": "r20270309",
+    "note": "",
+    "opp": "PHX",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-03-10",
+    "ha": "A",
+    "id": "r20270310",
+    "note": "",
+    "opp": "MIA",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "ESPN",
+    "type": "reg"
+   },
+   {
+    "d": "2027-03-13",
+    "ha": "A",
+    "id": "r20270313",
+    "note": "",
+    "opp": "ATL",
+    "res": null,
+    "t": "3:00 PM",
+    "tag": "",
+    "tv": "Prime Video",
+    "type": "reg"
+   },
+   {
+    "d": "2027-03-15",
+    "ha": "A",
+    "id": "r20270315",
+    "note": "",
+    "opp": "CHI",
+    "res": null,
+    "t": "8:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-03-16",
+    "ha": "A",
+    "id": "r20270316",
+    "note": "",
+    "opp": "MIL",
+    "res": null,
+    "t": "8:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-03-18",
+    "ha": "A",
+    "id": "r20270318",
+    "note": "",
+    "opp": "BOS",
+    "res": null,
+    "t": "7:30 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-03-20",
+    "ha": "H",
+    "id": "r20270320",
+    "note": "",
+    "opp": "DEN",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-03-22",
+    "ha": "H",
+    "id": "r20270322",
+    "note": "",
+    "opp": "IND",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "Peacock",
+    "type": "reg"
+   },
+   {
+    "d": "2027-03-24",
+    "ha": "A",
+    "id": "r20270324",
+    "note": "",
+    "opp": "CHI",
+    "res": null,
+    "t": "8:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-03-26",
+    "ha": "A",
+    "id": "r20270326",
+    "note": "",
+    "opp": "MIN",
+    "res": null,
+    "t": "8:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-03-28",
+    "ha": "H",
+    "id": "r20270328",
+    "note": "",
+    "opp": "NYK",
+    "res": null,
+    "t": "12:30 PM",
+    "tag": "",
+    "tv": "ESPN",
+    "type": "reg"
+   },
+   {
+    "d": "2027-03-30",
+    "ha": "H",
+    "id": "r20270330",
+    "note": "",
+    "opp": "NYK",
+    "res": null,
+    "t": "8:00 PM",
+    "tag": "",
+    "tv": "NBC/Peacock",
+    "type": "reg"
+   },
+   {
+    "d": "2027-04-01",
+    "ha": "A",
+    "id": "r20270401",
+    "note": "",
+    "opp": "IND",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-04-03",
+    "ha": "H",
+    "id": "r20270403",
+    "note": "",
+    "opp": "WAS",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-04-05",
+    "ha": "H",
+    "id": "r20270405",
+    "note": "",
+    "opp": "MIA",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "Peacock",
+    "type": "reg"
+   },
+   {
+    "d": "2027-04-07",
+    "ha": "H",
+    "id": "r20270407",
+    "note": "",
+    "opp": "BOS",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-04-09",
+    "ha": "H",
+    "id": "r20270409",
+    "note": "Home finale",
+    "opp": "TOR",
+    "res": null,
+    "t": "7:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   },
+   {
+    "d": "2027-04-11",
+    "ha": "A",
+    "id": "r20270411",
+    "note": "Season finale",
+    "opp": "MIA",
+    "res": null,
+    "t": "6:00 PM",
+    "tag": "",
+    "tv": "TV27",
+    "type": "reg"
+   }
+  ],
+  "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
+  "season": "2026-27",
+  "updatedAt": "2026-09-23T00:47:00Z"
+ },
+ "standings": {
+  "division": {
+   "name": "Southeast",
+   "teams": [
+    "ATL",
+    "CHA",
+    "MIA",
+    "ORL",
+    "WAS"
+   ]
+  },
+  "last": {
+   "note": "Philadelphia took the 7 seed and Orlando the 8 seed through the Play-In.",
+   "rows": [
+    {
+     "abbr": "DET",
+     "l": 22,
+     "w": 60
+    },
+    {
+     "abbr": "BOS",
+     "l": 26,
+     "w": 56
+    },
+    {
+     "abbr": "NYK",
+     "l": 29,
+     "w": 53
+    },
+    {
+     "abbr": "CLE",
+     "l": 30,
+     "w": 52
+    },
+    {
+     "abbr": "TOR",
+     "l": 36,
+     "w": 46
+    },
+    {
+     "abbr": "ATL",
+     "l": 36,
+     "w": 46
+    },
+    {
+     "abbr": "PHI",
+     "l": 37,
+     "w": 45
+    },
+    {
+     "abbr": "ORL",
+     "l": 37,
+     "w": 45
+    },
+    {
+     "abbr": "CHA",
+     "l": 38,
+     "w": 44
+    },
+    {
+     "abbr": "MIA",
+     "l": 39,
+     "w": 43
+    },
+    {
+     "abbr": "MIL",
+     "l": 50,
+     "w": 32
+    },
+    {
+     "abbr": "CHI",
+     "l": 51,
+     "w": 31
+    },
+    {
+     "abbr": "BKN",
+     "l": 62,
+     "w": 20
+    },
+    {
+     "abbr": "IND",
+     "l": 63,
+     "w": 19
+    },
+    {
+     "abbr": "WAS",
+     "l": 65,
+     "w": 17
+    }
+   ],
+   "season": "2025-26"
+  },
+  "live": {
+   "asOf": null,
+   "rows": []
+  },
+  "projected": {
+   "asOf": "2026-09-11",
+   "note": "Orlando and Atlanta share 43.5. Orlando's steeper Over price puts them 9th.",
+   "rows": [
+    {
+     "abbr": "NYK",
+     "line": 52.5,
+     "over": "+100",
+     "under": "-120"
+    },
+    {
+     "abbr": "BOS",
+     "line": 51.5,
+     "over": "-115",
+     "under": "-105"
+    },
+    {
+     "abbr": "PHI",
+     "line": 50.5,
+     "over": "+100",
+     "under": "-120"
+    },
+    {
+     "abbr": "DET",
+     "line": 49.5,
+     "over": "-105",
+     "under": "-115"
+    },
+    {
+     "abbr": "CLE",
+     "line": 47.5,
+     "over": "-115",
+     "under": "-105"
+    },
+    {
+     "abbr": "MIA",
+     "line": 46.5,
+     "over": "+105",
+     "under": "-125"
+    },
+    {
+     "abbr": "TOR",
+     "line": 45.5,
+     "over": "-125",
+     "under": "+105"
+    },
+    {
+     "abbr": "IND",
+     "line": 44.5,
+     "over": "-125",
+     "under": "+105"
+    },
+    {
+     "abbr": "ATL",
+     "line": 43.5,
+     "over": "-105",
+     "under": "-115"
+    },
+    {
+     "abbr": "ORL",
+     "line": 43.5,
+     "over": "-130",
+     "under": "+110"
+    },
+    {
+     "abbr": "CHA",
+     "line": 37.5,
+     "over": "-120",
+     "under": "-105"
+    },
+    {
+     "abbr": "WAS",
+     "line": 34.5,
+     "over": "-105",
+     "under": "-115"
+    },
+    {
+     "abbr": "CHI",
+     "line": 27.5,
+     "over": "-135",
+     "under": "+110"
+    },
+    {
+     "abbr": "MIL",
+     "line": 25.5,
+     "over": "-115",
+     "under": "-105"
+    },
+    {
+     "abbr": "BKN",
+     "line": 24.5,
+     "over": "+100",
+     "under": "-120"
+    }
+   ],
+   "source": "BetMGM season win totals"
+  },
+  "updatedAt": "2026-09-23T00:47:00Z"
+ },
+ "roster": {
+  "players": [
+   {
+    "age": 23,
+    "contract": "$41.2M. Year 1 of 5-yr, $239M max (through 2030-31)",
+    "cur": null,
+    "exp": "4",
+    "ht": "6-10",
+    "injury": "",
+    "kind": "Standard",
+    "last": {
+     "ast": 5.2,
+     "fg": 0.459,
+     "gp": 72,
+     "pts": 22.2,
+     "reb": 8.4
+    },
+    "name": "Paolo Banchero",
+    "note": "Team leader in points and rebounds last season. Spent the summer working out with Kevin Durant.",
+    "num": "5",
+    "pos": "F",
+    "status": "Healthy",
+    "statusNote": ""
+   },
+   {
+    "age": 25,
+    "contract": "$41.8M. Signed through 2029-30",
+    "cur": null,
+    "exp": "5",
+    "ht": "6-10",
+    "injury": "Calf",
+    "kind": "Standard",
+    "last": {
+     "ast": 3.3,
+     "fg": 0.481,
+     "gp": 34,
+     "pts": 20.6,
+     "reb": 5.2
+    },
+    "name": "Franz Wagner",
+    "note": "Missed 48 games last season with a high ankle sprain, then strained his right calf in the playoffs.",
+    "num": "22",
+    "pos": "F",
+    "status": "Questionable",
+    "statusNote": "Not yet cleared publicly. Listed questionable for the start of the season (CBS). Skipped Germany this summer to rehab."
+   },
+   {
+    "age": 28,
+    "contract": "$39.4M. Signed through 2028-29",
+    "cur": null,
+    "exp": "6",
+    "ht": "6-6",
+    "injury": "",
+    "kind": "Standard",
+    "last": {
+     "ast": 4.1,
+     "fg": 0.484,
+     "gp": 82,
+     "pts": 20.1,
+     "reb": 4.1
+    },
+    "name": "Desmond Bane",
+    "note": "Played all 82 games last season. Sweeney flew to Texas to visit him this summer.",
+    "num": "3",
+    "pos": "G",
+    "status": "Healthy",
+    "statusNote": ""
+   },
+   {
+    "age": 25,
+    "contract": "$32.4M. Signed through 2029-30",
+    "cur": null,
+    "exp": "5",
+    "ht": "6-5",
+    "injury": "",
+    "kind": "Standard",
+    "last": {
+     "ast": 5.5,
+     "fg": 0.435,
+     "gp": 57,
+     "pts": 13.8,
+     "reb": 3.9
+    },
+    "name": "Jalen Suggs",
+    "note": "Led the team in assists and steals. Starting point guard job is a camp storyline.",
+    "num": "4",
+    "pos": "G",
+    "status": "Healthy",
+    "statusNote": ""
+   },
+   {
+    "age": 22,
+    "contract": "$10.1M. Final rookie-scale year. Extension deadline Oct 19",
+    "cur": null,
+    "exp": "3",
+    "ht": "6-7",
+    "injury": "",
+    "kind": "Standard",
+    "last": {
+     "ast": 3.7,
+     "fg": 0.447,
+     "gp": 64,
+     "pts": 15,
+     "reb": 3.8
+    },
+    "name": "Anthony Black",
+    "note": "No extension yet. Restricted free agent in 2027 if no deal. Tabbed as a breakout candidate.",
+    "num": "0",
+    "pos": "G",
+    "status": "Healthy",
+    "statusNote": ""
+   },
+   {
+    "age": 27,
+    "contract": "$18.1M. Through 2028-29 (team option in 2028-29)",
+    "cur": null,
+    "exp": "8",
+    "ht": "6-10",
+    "injury": "",
+    "kind": "Standard",
+    "last": {
+     "ast": 2,
+     "fg": 0.512,
+     "gp": 78,
+     "pts": 11.8,
+     "reb": 7.4
+    },
+    "name": "Wendell Carter Jr.",
+    "note": "Competing with Vucevic for the starting center spot.",
+    "num": "34",
+    "pos": "C-F",
+    "status": "Healthy",
+    "statusNote": ""
+   },
+   {
+    "age": 35,
+    "contract": "1-yr minimum. UFA 2027",
+    "cur": null,
+    "exp": "15",
+    "ht": "6-9",
+    "injury": "",
+    "kind": "Standard",
+    "last": {
+     "ast": 3.3,
+     "fg": 0.493,
+     "gp": 64,
+     "pts": 15.1,
+     "reb": 8.4
+    },
+    "name": "Nikola Vucevic",
+    "note": "Back in Orlando after playing here from 2012 to 2021. Split last season between Chicago and Boston.",
+    "num": "9",
+    "pos": "C",
+    "status": "Healthy",
+    "statusNote": ""
+   },
+   {
+    "age": 25,
+    "contract": "$4.0M. 2027-28 team option ($6.1M) pending",
+    "cur": null,
+    "exp": "2",
+    "ht": "6-8",
+    "injury": "",
+    "kind": "Standard",
+    "last": {
+     "ast": 1.6,
+     "fg": 0.45,
+     "gp": 77,
+     "pts": 9.9,
+     "reb": 3.7
+    },
+    "name": "Tristan da Silva",
+    "note": "Played World Cup qualifiers for Germany in August.",
+    "num": "23",
+    "pos": "F",
+    "status": "Healthy",
+    "statusNote": ""
+   },
+   {
+    "age": 27,
+    "contract": "$7.6M. Final year, UFA 2027",
+    "cur": null,
+    "exp": "7",
+    "ht": "6-11",
+    "injury": "",
+    "kind": "Standard",
+    "last": {
+     "ast": 1.3,
+     "fg": 0.676,
+     "gp": 64,
+     "pts": 5.9,
+     "reb": 5
+    },
+    "name": "Goga Bitadze",
+    "note": "Scored 23 for Georgia in an Aug 28 World Cup qualifier. Projects as the third center.",
+    "num": "35",
+    "pos": "C-F",
+    "status": "Healthy",
+    "statusNote": ""
+   },
+   {
+    "age": 28,
+    "contract": "1-yr minimum. UFA 2027",
+    "cur": null,
+    "exp": "9",
+    "ht": "6-10",
+    "injury": "Knee",
+    "kind": "Standard",
+    "last": {
+     "ast": 0.4,
+     "fg": 0.422,
+     "gp": 52,
+     "pts": 2.6,
+     "reb": 2.5
+    },
+    "name": "Jonathan Isaac",
+    "note": "Waived June 27 and re-signed on a minimum deal July 1.",
+    "num": "1",
+    "pos": "F",
+    "status": "Questionable",
+    "statusNote": "Listed questionable for the start of the season (CBS). Sprained his left knee in March and missed the playoffs."
+   },
+   {
+    "age": 31,
+    "contract": "1-yr minimum. UFA 2027",
+    "cur": null,
+    "exp": "8",
+    "ht": "6-0",
+    "injury": "",
+    "kind": "Standard",
+    "last": {
+     "ast": 2.3,
+     "fg": 0.402,
+     "gp": 30,
+     "pts": 7.2,
+     "reb": 2.1
+    },
+    "name": "Jevon Carter",
+    "note": "Re-signed July 1. Stats shown are his 30 games with Orlando.",
+    "num": "2",
+    "pos": "G",
+    "status": "Healthy",
+    "statusNote": ""
+   },
+   {
+    "age": 27,
+    "contract": "$2.6M. Not fully guaranteed until Jan 10",
+    "cur": null,
+    "exp": "4",
+    "ht": "6-7",
+    "injury": "",
+    "kind": "Standard",
+    "last": {
+     "ast": 0.7,
+     "fg": 0.487,
+     "gp": 40,
+     "pts": 5.4,
+     "reb": 2
+    },
+    "name": "Jamal Cain",
+    "note": "Fighting for a roster spot in camp.",
+    "num": "8",
+    "pos": "F",
+    "status": "Healthy",
+    "statusNote": ""
+   },
+   {
+    "age": 20,
+    "contract": "$3.1M rookie scale. 2027-28 team option pending",
+    "cur": null,
+    "exp": "1",
+    "ht": "6-1",
+    "injury": "",
+    "kind": "Standard",
+    "last": {
+     "ast": 1.1,
+     "fg": 0.473,
+     "gp": 54,
+     "pts": 4.4,
+     "reb": 1.2
+    },
+    "name": "Jase Richardson",
+    "note": "Averaged 18.3 points in Summer League.",
+    "num": "11",
+    "pos": "G",
+    "status": "Healthy",
+    "statusNote": ""
+   },
+   {
+    "age": 21,
+    "contract": "$2.2M. 2027-28 non-guaranteed",
+    "cur": null,
+    "exp": "1",
+    "ht": "6-7",
+    "injury": "",
+    "kind": "Standard",
+    "last": {
+     "ast": 1.2,
+     "fg": 0.404,
+     "gp": 59,
+     "pts": 3.8,
+     "reb": 3.2
+    },
+    "name": "Noah Penda",
+    "note": "Seen as the long-term defensive forward off the bench.",
+    "num": "93",
+    "pos": "G-F",
+    "status": "Healthy",
+    "statusNote": ""
+   },
+   {
+    "age": 23,
+    "contract": "Non-guaranteed camp deal",
+    "cur": null,
+    "exp": "4",
+    "ht": "6-4",
+    "injury": "",
+    "kind": "Exhibit 10",
+    "last": {
+     "ast": 0.8,
+     "fg": 0.473,
+     "gp": 28,
+     "pts": 4.6,
+     "reb": 1.6
+    },
+    "name": "Malaki Branham",
+    "note": "2022 No. 20 pick. Stats from Washington. Competing for the open 15th spot.",
+    "num": "12",
+    "pos": "G",
+    "status": "Healthy",
+    "statusNote": ""
+   },
+   {
+    "age": 23,
+    "contract": "Non-guaranteed camp deal",
+    "cur": null,
+    "exp": "4",
+    "ht": "6-1",
+    "injury": "",
+    "kind": "Exhibit 10",
+    "last": {
+     "ast": 1.3,
+     "fg": 0.375,
+     "gp": 28,
+     "pts": 2.5,
+     "reb": 1.2
+    },
+    "name": "JD Davison",
+    "note": "2024-25 G League MVP. Stats from Houston. Jersey number not final.",
+    "num": "",
+    "pos": "G",
+    "status": "Healthy",
+    "statusNote": ""
+   },
+   {
+    "age": 26,
+    "contract": "Two-way (final year of eligibility)",
+    "cur": null,
+    "exp": "3",
+    "ht": "6-10",
+    "injury": "",
+    "kind": "Two-way",
+    "last": {
+     "ast": 0.3,
+     "fg": 0.4,
+     "gp": 4,
+     "pts": 1.3,
+     "reb": 2
+    },
+    "name": "Colin Castleton",
+    "note": "Averaged 18.5 and 10.5 for Osceola.",
+    "num": "14",
+    "pos": "C",
+    "status": "Healthy",
+    "statusNote": ""
+   },
+   {
+    "age": 28,
+    "contract": "Two-way, year 2",
+    "cur": null,
+    "exp": "1",
+    "ht": "6-6",
+    "injury": "",
+    "kind": "Two-way",
+    "last": {
+     "ast": 1,
+     "fg": 0.429,
+     "gp": 4,
+     "pts": 2,
+     "reb": 0.8
+    },
+    "name": "Alex Morales",
+    "note": "",
+    "num": "30",
+    "pos": "G",
+    "status": "Healthy",
+    "statusNote": ""
+   },
+   {
+    "age": 22,
+    "contract": "Two-way rookie (No. 51 pick)",
+    "cur": null,
+    "exp": "R",
+    "ht": "6-10",
+    "injury": "Left ankle",
+    "kind": "Two-way",
+    "last": {
+     "ast": null,
+     "fg": null,
+     "gp": null,
+     "pts": null,
+     "reb": null
+    },
+    "name": "Izaiyah Nelson",
+    "note": "AAC Player of the Year at South Florida: 15.9 points, 9.6 rebounds.",
+    "num": "25",
+    "pos": "F",
+    "status": "Out",
+    "statusNote": "Surgery after fracturing his ankle at Summer League (July). Out until at least Nov 1."
+   }
+  ],
+  "statsLabel": "2025-26 per game",
+  "updatedAt": "2026-09-23T00:47:00Z"
+ },
+ "team": {
+  "arena": "Kia Center, Orlando",
+  "coaches": [
+   {
+    "name": "Sean Sweeney",
+    "note": "Hired June 1, 2026. Former Spurs associate head coach, known for defense. 16th head coach in team history.",
+    "role": "Head coach"
+   },
+   {
+    "name": "John Beilein",
+    "note": "Joined Aug 17. Worked with Sweeney in Detroit.",
+    "role": "Senior coaching consultant"
+   },
+   {
+    "name": "Joe Prunty",
+    "note": "Only holdover from the Mosley staff.",
+    "role": "Assistant"
+   },
+   {
+    "name": "Greg Buckner",
+    "note": "From Milwaukee.",
+    "role": "Assistant"
+   },
+   {
+    "name": "Popeye Jones",
+    "note": "From Dallas.",
+    "role": "Assistant"
+   },
+   {
+    "name": "Tom Bialaszewski",
+    "note": "Spurs advance scout.",
+    "role": "Assistant"
+   },
+   {
+    "name": "Riley Crean",
+    "note": "Mavericks head video coordinator.",
+    "role": "Assistant"
+   },
+   {
+    "name": "Jon Harris",
+    "note": "Spurs player development.",
+    "role": "Assistant"
+   },
+   {
+    "name": "Ben Johnson",
+    "note": "Former Minnesota head coach.",
+    "role": "Assistant"
+   },
+   {
+    "name": "Jacqlyn Poss",
+    "note": "Promoted from Magic senior data scientist.",
+    "role": "Assistant"
+   },
+   {
+    "name": "Mfon Udofia",
+    "note": "Long Island Nets head coach.",
+    "role": "Assistant"
+   },
+   {
+    "name": "D.J. Bakker",
+    "note": "Won the 2025-26 G League title with Greensboro.",
+    "role": "Assistant / Director of player development"
+   },
+   {
+    "name": "Shannan Lum",
+    "note": "From the Texas Legends.",
+    "role": "Assistant / Director of coaching operations"
+   }
+  ],
+  "contractWatch": [
+   {
+    "text": "Rookie-scale extension deadline. No deal yet. Reported range about $20M-$30M a year; Spotrac projects 4 yrs, $80M. Restricted FA in 2027 if no deal.",
+    "title": "Anthony Black extension",
+    "when": "2026-10-19"
+   },
+   {
+    "text": "2027-28 options on Tristan da Silva ($6.1M) and Jase Richardson ($3.3M). Oct 31 is the standard deadline.",
+    "title": "Team options",
+    "when": "2026-10-31"
+   },
+   {
+    "text": "$2.6M salary becomes fully guaranteed if he is on the roster.",
+    "title": "Jamal Cain guarantee",
+    "when": "2027-01-10"
+   },
+   {
+    "text": "Goga Bitadze, Nikola Vucevic, Jevon Carter, Jonathan Isaac, Jamal Cain (all unrestricted in 2027).",
+    "title": "Expiring after this season",
+    "when": ""
+   }
+  ],
+  "frontOffice": [
+   {
+    "name": "Jeff Weltman",
+    "note": "Since 2017. Extended in Dec 2025, led the coaching search.",
+    "role": "President of Basketball Operations"
+   },
+   {
+    "name": "Anthony Parker",
+    "note": "Since July 2023.",
+    "role": "General Manager"
+   },
+   {
+    "name": "David Bencs",
+    "note": "",
+    "role": "Assistant GM"
+   },
+   {
+    "name": "Pete D'Alessandro",
+    "note": "",
+    "role": "EVP, Basketball Operations"
+   },
+   {
+    "name": "John Hammond",
+    "note": "",
+    "role": "Senior Advisor"
+   },
+   {
+    "name": "Adetunji Adedipe",
+    "note": "",
+    "role": "VP, Player Personnel"
+   }
+  ],
+  "futures": {
+   "asOf": "2026-09-11",
+   "book": "BetMGM",
+   "extra": [
+    "FanDuel win total 44.5 (Over -105 / Under -125).",
+    "Sweeney Coach of the Year +1000, Black Sixth Man +2000 (BetRivers)."
+   ],
+   "rows": [
+    {
+     "detail": "Over -130 / Under +110",
+     "market": "Win total",
+     "price": "43.5"
+    },
+    {
+     "detail": "About 60% implied",
+     "market": "Make playoffs",
+     "price": "-150"
+    },
+    {
+     "detail": "Heat +175 favored, Hawks +275",
+     "market": "Southeast Division",
+     "price": "+250"
+    },
+    {
+     "detail": "10th-best price in the East",
+     "market": "Eastern Conference",
+     "price": "+2500"
+    },
+    {
+     "detail": "FanDuel as short as +4000 to +6500",
+     "market": "NBA title",
+     "price": "+8000"
+    }
+   ]
+  },
+  "gleague": {
+   "arena": "Silver Spurs Arena, Kissimmee",
+   "coach": "Ronnie Burrell (hired Sept 18)",
+   "name": "Osceola Magic",
+   "note": "Season opens Nov 8, 3 PM vs OKC Blue."
+  },
+  "lastSeason": {
+   "finish": "8th in the East (via Play-In), 2nd in the Southeast",
+   "leaders": [
+    {
+     "k": "Points",
+     "v": "Banchero 22.2"
+    },
+    {
+     "k": "Rebounds",
+     "v": "Banchero 8.4"
+    },
+    {
+     "k": "Assists",
+     "v": "Suggs 5.5"
+    },
+    {
+     "k": "Steals",
+     "v": "Suggs 1.8"
+    },
+    {
+     "k": "Blocks",
+     "v": "Bitadze 1.0"
+    }
+   ],
+   "lines": [
+    "Play-In: lost at Philadelphia 109-97, beat Charlotte 121-90.",
+    "NBA Cup: reached the semifinal in Las Vegas, lost to the Knicks 132-120.",
+    "Ratings: offense 114.9 (19th), defense 114.3 (11th), net +0.6 (17th).",
+    "No All-Stars and no All-NBA or All-Defense picks.",
+    "Franchise-record 52-point loss to Toronto on Mar 29."
+   ],
+   "playoffs": "Lost 4-3 to No. 1 Detroit in the first round after leading 3-1. Blew a 24-point lead in Game 6.",
+   "record": "45-37"
+  },
+  "ownership": [
+   {
+    "name": "Dan DeVos",
+    "note": "DeVos family (RDV Sports)",
+    "role": "Chairman"
+   },
+   {
+    "name": "Ryan DeVos",
+    "note": "Since July 2025",
+    "role": "Managing Director"
+   },
+   {
+    "name": "Alex Martins",
+    "note": "Former CEO. 2026 Magic Hall of Fame inductee.",
+    "role": "Vice Chair"
+   },
+   {
+    "name": "Charlie Freeman",
+    "note": "Runs the business side. The CEO job was not refilled.",
+    "role": "President of Business Operations"
+   }
+  ],
+  "payroll": {
+   "label": "Tax payroll (includes $8M Isaac dead money)",
+   "lines": [
+    {
+     "k": "Over the luxury tax",
+     "v": "$17.4M"
+    },
+    {
+     "k": "Estimated tax bill",
+     "v": "$32.2M"
+    },
+    {
+     "k": "Room under 2nd apron",
+     "v": "$2.5M"
+    },
+    {
+     "k": "Standard contracts",
+     "v": "14 of 15"
+    }
+   ],
+   "note": "First tax bill since 2010-11. The 15th spot is likely to stay open to save money.",
+   "total": "$217.9M"
+  },
+  "predictions": [
+   {
+    "d": "2026-09-21",
+    "outlet": "The Ringer",
+    "text": "15th overall, 9th in the East"
+   },
+   {
+    "d": "2026-09-21",
+    "outlet": "Yahoo (Kevin O'Connor)",
+    "text": "19th overall, 11th in the East. Cites 3-point shooting."
+   },
+   {
+    "d": "2026-09-18",
+    "outlet": "ESPN future rankings",
+    "text": "21st in the three-year outlook, down from 7th a year ago"
+   },
+   {
+    "d": "2026-08-24",
+    "outlet": "ESPN Summer Forecast",
+    "text": "44-38, 10th in the East"
+   },
+   {
+    "d": "2026-07-29",
+    "outlet": "CBS Sports",
+    "text": "18th overall, 10th in the East"
+   }
+  ],
+  "staffChanges": [
+   "Jamahl Mosley fired May 4 after five seasons (189-221). Now head coach of the Pelicans.",
+   "God Shammgod, Bret Brielmaier, Dale Osbourne and Randy Gregory followed Mosley to New Orleans.",
+   "Assistant GM Stephen Mervis left for the Bulls on May 14."
+  ],
+  "transactions": [
+   {
+    "d": "2026-09-03",
+    "text": "Signed Malaki Branham and JD Davison to Exhibit 10 camp deals."
+   },
+   {
+    "d": "2026-07-01",
+    "text": "Signed Nikola Vucevic (1 yr, minimum)."
+   },
+   {
+    "d": "2026-07-01",
+    "text": "Re-signed Jevon Carter and Jonathan Isaac (1 yr, minimum each)."
+   },
+   {
+    "d": "2026-07-01",
+    "text": "Re-signed Colin Castleton and signed No. 51 pick Izaiyah Nelson to two-way deals."
+   },
+   {
+    "d": "2026-07-01",
+    "text": "Moritz Wagner left for Brooklyn (2 yrs, $19M). Jett Howard later signed a two-way with Dallas."
+   },
+   {
+    "d": "2026-06-29",
+    "text": "Exercised Jamal Cain's team option ($2.6M)."
+   },
+   {
+    "d": "2026-06-27",
+    "text": "Waived Jonathan Isaac before his $14.5M salary guaranteed. $8M dead money this season."
+   },
+   {
+    "d": "2026-06-24",
+    "text": "Draft: traded No. 46 (Felix Okpara) to Washington for No. 51 (Izaiyah Nelson) and No. 60; sent No. 60 to Milwaukee for cash. No first-round pick (owed to Memphis from the Bane trade)."
+   },
+   {
+    "d": "2026-06-01",
+    "text": "Hired Sean Sweeney as head coach."
+   },
+   {
+    "d": "2026-05-04",
+    "text": "Fired head coach Jamahl Mosley."
+   }
+  ],
+  "updatedAt": "2026-09-23T00:47:00Z",
+  "watch": [
+   {
+    "k": "Local TV",
+    "v": "MagicTV 27 (WRDQ) carries every non-national game free over the air. WFTV 9 has select games."
+   },
+   {
+    "k": "Streaming",
+    "v": "DAZN: $19.99/month or $119.99/season, 7-day free trial."
+   },
+   {
+    "k": "National TV",
+    "v": "8 games: Peacock/NBC, ESPN, Prime Video."
+   },
+   {
+    "k": "Radio",
+    "v": "96.9 The Game / AM 740, Orlando Magic Audio Network. SiriusXM."
+   },
+   {
+    "k": "TV crew",
+    "v": "Dante Marchitelli (play-by-play, replaced the retired David Steele), Jeff Turner, Kendra Douglas."
+   },
+   {
+    "k": "Radio voice",
+    "v": "Jake Chapman"
+   },
+   {
+    "k": "Other markets",
+    "v": "Tampa WMOR 32, Jacksonville Action Sports Jax 47, Gainesville WTGB, Tallahassee WCTV, Panama City WJHG."
+   }
+  ]
+ }
+}
