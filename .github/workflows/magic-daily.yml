@@ -2,8 +2,9 @@ name: Magic HQ daily update
 
 on:
   schedule:
-    - cron: "17 11 * * *"   # about 7:17 AM ET (6:17 AM in winter)
-  workflow_dispatch:         # adds a "Run workflow" button for manual runs
+    - cron: "17 11,17,22 * * *"   # about 7:17 AM, 1:17 PM, 6:17 PM ET (1 hour earlier in winter)
+    - cron: "47 3 * * *"          # about 11:47 PM ET, after night games end
+  workflow_dispatch:               # adds a "Run workflow" button for manual runs
 
 permissions:
   contents: write
@@ -33,6 +34,8 @@ jobs:
             --allowedTools "WebSearch,WebFetch,Read,Write,Edit,Glob,Grep,Bash(python3:*),Bash(date:*),Bash(ls:*)"
           prompt: |
             You are the daily editor for "Magic HQ", Andrew's personal Orlando Magic app. It is a static web app on GitHub Pages (https://andreweasse-lgtm.github.io/Magic-HQ/) that he opens from his iPhone home screen. Every morning you research everything new about the Orlando Magic and update the app's data files so he sees a fresh, accurate daily brief. Run unattended: never ask questions, make reasonable calls and note them in your final summary.
+
+            This runs several times a day. If the brief is already dated today and nothing new has happened since meta.updatedAt, keep the brief as it is and only refresh meta.updatedAt.
 
             You are running inside a GitHub Actions checkout of the Magic-HQ repo (the current directory). Edit ONLY the three files under data/. Do NOT touch index.html, manifest.webmanifest, icons/ or .github/. Do NOT run git; the workflow validates, commits and publishes your changes after you finish.
 
