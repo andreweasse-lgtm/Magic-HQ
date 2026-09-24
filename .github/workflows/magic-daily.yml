@@ -1,0 +1,101 @@
+name: Magic HQ daily update
+
+on:
+  schedule:
+    - cron: "17 11 * * *"   # about 7:17 AM ET (6:17 AM in winter)
+  workflow_dispatch:         # adds a "Run workflow" button for manual runs
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: magic-hq-daily
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      - name: Research and edit the data files
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          claude_args: |
+            --max-turns 120
+            --allowedTools "WebSearch,WebFetch,Read,Write,Edit,Glob,Grep,Bash(python3:*),Bash(date:*),Bash(ls:*)"
+          prompt: |
+            You are the daily editor for "Magic HQ", Andrew's personal Orlando Magic app. It is a static web app on GitHub Pages (https://andreweasse-lgtm.github.io/Magic-HQ/) that he opens from his iPhone home screen. Every morning you research everything new about the Orlando Magic and update the app's data files so he sees a fresh, accurate daily brief. Run unattended: never ask questions, make reasonable calls and note them in your final summary.
+
+            You are running inside a GitHub Actions checkout of the Magic-HQ repo (the current directory). Edit ONLY the three files under data/. Do NOT touch index.html, manifest.webmanifest, icons/ or .github/. Do NOT run git; the workflow validates, commits and publishes your changes after you finish.
+
+            CRITICAL: your training data is stale (new coach, new roster, new TV deals). Research everything with WebSearch/WebFetch and confirm each fact against a recent, dated source before writing it. Never invent scores, stats, quotes, injuries or odds. If you cannot confirm something, leave the existing value alone.
+
+            STEP 1: READ CURRENT STATE: data/hq.json, data/news.json, data/briefs.json. Get today's date in Eastern time with: TZ=America/New_York date
+
+            FILE SCHEMAS (keep these exact field names; the page depends on them):
+            - data/hq.json = {meta, brief, schedule, standings, roster, team}
+              - meta: {updatedAt (ISO UTC now), season "2026-27", phase ("Preseason" | "Regular season" | "Play-In" | "Playoffs" | "Offseason"), phaseDetail (short line), record {w, l} (regular season only), home "W-L", away "W-L", streak (e.g. "W3"), l10 (e.g. "6-4"), standing {conf: East seed int or null, div: int or null}, lastSeason (keep), coach, lastGame {d, opp (NBA abbr), ha ("H"/"A"), us, them, wl ("W"/"L"), label}, keyDates [{d, label, detail}]}
+              - brief: {d (today's date in ET, YYYY-MM-DD), createdAt, headline, summary, bullets [{tag, text}], recap ({title, text, leaders} or null), preview ({title, text, line} or null), watch}
+              - schedule: {season, updatedAt, localTV, cup, games [{id, type ("pre" | "reg" | "playin" | "playoff" | "cup-final"), d, t ("7:00 PM" ET, or "TBD"), ha ("H"/"A"), opp (NBA abbr), tv, tag, note, res (null, or {us, them, wl, ot ("OT"/"2OT"/""), note}), tbd (only on unknown games)}]}
+              - standings: {updatedAt, live {asOf, rows [{abbr, w, l, gb, home, away, l10, strk}] ordered 1-15}, projected (leave), last (leave), division (leave)}
+              - roster: {updatedAt, statsLabel, players [{num, name, pos, age, ht, exp, kind ("Standard" | "Two-way" | "Exhibit 10"), contract, status ("Healthy" | "Probable" | "Questionable" | "Doubtful" | "Day-to-day" | "Out"), injury, statusNote, last {gp, pts, reb, ast, fg}, cur ({gp, pts, reb, ast, fg} or null), note}]}  (fg is a decimal like 0.459)
+              - team: {coaches, frontOffice, ownership [{name, role, note}], staffChanges [strings], transactions [{d, text}], contractWatch [{title, when, text}], payroll, futures {asOf, book, rows [{market, price, detail}], extra}, predictions [{outlet, d, text}], watch, arena, gleague, lastSeason}
+            - data/news.json = {items: [{id, d, cat (Game | Injury | Player | Coaching | Front Office | Trade/Rumor | Contract | Team/Business | G League | Schedule), headline, summary (1-3 sentences), source (outlet name), url, flag ("rumor" or null), addedAt (ISO now)}]}, newest first. id = "<YYYY-MM-DD>-<headline slug: lowercase letters, digits, hyphens, max 40 chars>".
+            - data/briefs.json = {items: [previous brief objects]}, newest first.
+
+            STEP 2: RESEARCH (focus on the last ~36 hours)
+            Sources: Orlando Sentinel (Jason Beede), NBA.com/magic (John Denton), Magic PR (magicpr.wordpress.com), ESPN, The Athletic, Magic On SI, Orlando Magic Daily, ClickOrlando/WFTV/Spectrum News 13, HoopsHype, RealGM, Hoops Rumors, Spotrac, CBS Sports Magic injuries page, the official NBA injury report.
+            a) Games: final score of any Magic game since the last update, top performers, key moments, in-game injuries. Next game: date, time ET, TV, opponent form and injuries, and the current spread / total / moneyline from a named sportsbook once posted.
+            b) Health: status of every player (practice participation, official designations on game days, return timelines).
+            c) Player, coaching and front-office news; transactions (signings, waivers, trades, two-way moves, G League assignments); contracts and extensions; rumors (label single-source or unsourced items as rumor).
+            d) Once the regular season starts: full East standings (all 15 teams: W-L, GB, home, away, L10, streak) and Magic player season per-game stats (GP, PTS, REB, AST, FG%).
+            e) Mondays only: refresh futures (win total, make playoffs, Southeast, East, title) from one named book, and add notable new power rankings or projections to predictions.
+
+            STEP 3: EDIT THE FILES (use a short Python script that loads, changes and rewrites the JSON with indent=1, ensure_ascii=False)
+            1. If the current brief's d differs from today, insert it at the top of briefs.json items.
+            2. brief: headline specific and plain (under ~80 characters). Summary: 2-4 sentences on what matters most today. Bullets: 3-7 items, each tagged (Game, Health, Lineup, Roster, Contract, Coaching, Front office, Rumor, Standings, Odds, Next game, Community, G League). recap only when a game was played since the last brief (title like "Magic 112, Hawks 104", leaders like "Banchero 28 pts, 9 reb; Wagner 22 pts"). preview when the next game is within 2 days (title like "Thursday vs Hawks, 7:00 PM, TV27"; line like "ORL -4.5, total 221.5 (DraftKings)"). watch: one line on what is next. On quiet days say so and keep it short; never pad with old news.
+            3. schedule: fill res for finished games; fix any changed times or TV; when announced, replace the two NBA Cup placeholder games (ids rcup1, rcup2) with the real games (keep type "reg", remove tbd); add Play-In and playoff games when scheduled.
+            4. standings: update live (asOf today) once the regular season starts.
+            5. roster: update every player's status/injury/statusNote (a cleared player goes back to "Healthy" with empty injury and statusNote); update cur stats once games start and set statsLabel to "2026-27 per game"; add or remove players on transactions; update contract text after extensions.
+            6. team: add new transactions and staff changes; update contractWatch (remove items once resolved or past, e.g. the Anthony Black extension deadline Oct 19); futures and predictions on Mondays.
+            7. meta: updatedAt now; phase and phaseDetail; record, home/away, streak, l10, standing; lastGame; remove keyDates that have passed and add newly announced ones.
+            8. news: add each genuinely new story at the top (skip anything already posted, matching by URL or substance). Every item needs a working source URL. Remove items whose d is more than 90 days old. Remove briefs more than 60 days old.
+            Always update meta.updatedAt and the brief, even on quiet days, so the app shows it ran. Check that all three files parse as JSON when you are done.
+
+            STYLE: plain, clear, factual English. No emojis. No em dashes. All times Eastern. NBA abbreviations (ORL, ATL, NYK...) in opp/abbr fields.
+
+            FINISH with a 2-4 line summary: today's headline, then the two or three most important items (result, injury change, big news, next game).
+
+      - name: Check the data files are valid JSON
+        run: |
+          python3 - <<'EOF'
+          import json
+          for f in ("data/hq.json", "data/news.json", "data/briefs.json"):
+              json.load(open(f, encoding="utf-8"))
+          print("All three data files are valid JSON")
+          EOF
+
+      - name: Commit and publish
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "Magic HQ"
+          git config user.email "magic-hq@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No changes to publish"
+            exit 0
+          fi
+          git commit -m "Daily update $(TZ=America/New_York date +%F)"
+          git pull --rebase origin main
+          git push origin HEAD:main
+          # Pushes made with the built-in Actions token don't start a Pages build on their own, so request one.
+          gh api -X POST "repos/${{ github.repository }}/pages/builds"
