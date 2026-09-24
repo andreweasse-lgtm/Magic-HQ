@@ -87,17 +87,25 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-09-23T00:47:00Z"
+  "updatedAt": "2026-09-24T01:08:34Z"
  },
  "brief": {
+  "d": "2026-09-23",
+  "createdAt": "2026-09-24T01:08:34Z",
+  "headline": "Four camp signees quietly routed to Osceola's G League roster",
+  "summary": "A quiet Wednesday before camp. Orlando signed and waived four Exhibit 10 players this week purely to secure their G League rights for Osceola; the actual 14-man standard roster is unchanged. Franz Wagner and Jonathan Isaac remain questionable for the season opener with no new team update, and Anthony Black still has no extension four weeks from his Oct 19 deadline.",
   "bullets": [
    {
+    "tag": "G League",
+    "text": "The Magic signed Ace Baldwin Jr., Ricky Council IV, Jarron Cumberland and Au'Diese Toney to Exhibit 10 deals and waived all four the same day, a routine move that locks up their returning-player rights for Osceola. It does not change the real training camp roster."
+   },
+   {
     "tag": "Health",
-    "text": "Franz Wagner (calf) and Jonathan Isaac (knee) are listed questionable for the start of the season on CBS's injury page. The team has not given an update; expect one at media day. Izaiyah Nelson (ankle surgery) is out until at least Nov 1."
+    "text": "Franz Wagner (calf) and Jonathan Isaac (knee) are still listed questionable for the start of the season on CBS's injury page, unchanged since Sept 8. No team statement yet; expect one at media day Monday. Izaiyah Nelson (ankle surgery) is out until at least Nov 1."
    },
    {
     "tag": "Contract",
-    "text": "No Anthony Black extension yet. The reported range is about $20M to $30M a year. If there is no deal by Oct 19 he heads to restricted free agency next summer."
+    "text": "Still no Anthony Black extension. Bleacher Report projects the Magic will let the Oct 19 deadline pass and revisit it in restricted free agency next July, citing the team's tax bill and apron limits."
    },
    {
     "tag": "Camp",
@@ -105,23 +113,11 @@
    },
    {
     "tag": "Roster",
-    "text": "14 standard contracts. The 15th spot will likely stay open to save tax money. Malaki Branham and JD Davison are in camp on non-guaranteed deals."
-   },
-   {
-    "tag": "Community",
-    "text": "The Magic Youth Foundation committed $1.8M to Central Florida nonprofits for 2026-27. STUFF was named NBA Mascot of the Year for the third time."
-   },
-   {
-    "tag": "Odds",
-    "text": "BetMGM win total 43.5 (Over -130). Title +8000, East +2500, Southeast +250. Most preseason rankings have Orlando between 9th and 11th in the East."
+    "text": "14 standard contracts, with the 15th spot likely to stay open to save tax money. Malaki Branham and JD Davison remain in camp on non-guaranteed Exhibit 10 deals."
    }
   ],
-  "createdAt": "2026-09-23T00:47:00Z",
-  "d": "2026-09-22",
-  "headline": "Six days to media day, and health is the first question",
-  "preview": null,
   "recap": null,
-  "summary": "A quiet Tuesday before camp. The Magic hold media day Monday and open training camp under new head coach Sean Sweeney on Sept 29. NBA.com's season preview says getting Franz Wagner (34 games last season) and Jalen Suggs (57) healthy is the top priority. Anthony Black still has no extension, with the Oct 19 deadline four weeks away.",
+  "preview": null,
   "watch": "Next up: media day, Monday Sept 28 at 11 AM ET."
  },
  "schedule": {
@@ -2070,6 +2066,10 @@
    "Assistant GM Stephen Mervis left for the Bulls on May 14."
   ],
   "transactions": [
+   {
+    "d": "2026-09-22",
+    "text": "Signed Ace Baldwin Jr., Ricky Council IV, Jarron Cumberland and Au'Diese Toney to Exhibit 10 deals and waived all four the same day to secure their G League rights for Osceola."
+   },
    {
     "d": "2026-09-03",
     "text": "Signed Malaki Branham and JD Davison to Exhibit 10 camp deals."
