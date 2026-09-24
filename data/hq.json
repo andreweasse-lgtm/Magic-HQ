@@ -87,33 +87,29 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-09-24T01:08:34Z"
+  "updatedAt": "2026-09-24T08:48:08Z"
  },
  "brief": {
-  "d": "2026-09-23",
-  "createdAt": "2026-09-24T01:08:34Z",
-  "headline": "Four camp signees quietly routed to Osceola's G League roster",
-  "summary": "A quiet Wednesday before camp. Orlando signed and waived four Exhibit 10 players this week purely to secure their G League rights for Osceola; the actual 14-man standard roster is unchanged. Franz Wagner and Jonathan Isaac remain questionable for the season opener with no new team update, and Anthony Black still has no extension four weeks from his Oct 19 deadline.",
+  "d": "2026-09-24",
+  "createdAt": "2026-09-24T08:48:08Z",
+  "headline": "Magic add Kevin Knox II to camp roster on Exhibit 10 deal",
+  "summary": "Orlando's 20-man training camp roster is set, one shy of the offseason limit, after signing forward Kevin Knox II on Wednesday. Unlike the four players signed and waived earlier in the week, Knox is staying in camp to compete for a roster spot. No change yet on Franz Wagner or Jonathan Isaac's status, and Anthony Black still has no extension with the Oct 19 deadline approaching.",
   "bullets": [
    {
-    "tag": "G League",
-    "text": "The Magic signed Ace Baldwin Jr., Ricky Council IV, Jarron Cumberland and Au'Diese Toney to Exhibit 10 deals and waived all four the same day, a routine move that locks up their returning-player rights for Osceola. It does not change the real training camp roster."
-   },
-   {
-    "tag": "Health",
-    "text": "Franz Wagner (calf) and Jonathan Isaac (knee) are still listed questionable for the start of the season on CBS's injury page, unchanged since Sept 8. No team statement yet; expect one at media day Monday. Izaiyah Nelson (ankle surgery) is out until at least Nov 1."
-   },
-   {
-    "tag": "Contract",
-    "text": "Still no Anthony Black extension. Bleacher Report projects the Magic will let the Oct 19 deadline pass and revisit it in restricted free agency next July, citing the team's tax bill and apron limits."
-   },
-   {
-    "tag": "Camp",
-    "text": "Position battles to watch: starting center (Wendell Carter Jr. vs Nikola Vucevic), Noah Penda vs Tristan da Silva, and whether Suggs keeps the starting point guard job over Black."
+    "tag": "Roster",
+    "text": "Kevin Knox II, the No. 9 pick in 2018, signed an Exhibit 10 deal Sept 23 and will wear No. 24. He averaged 22.7 points, 8.2 rebounds and 2.5 assists for Windy City in the G League last season and will compete for a camp spot rather than being waived immediately."
    },
    {
     "tag": "Roster",
-    "text": "14 standard contracts, with the 15th spot likely to stay open to save tax money. Malaki Branham and JD Davison remain in camp on non-guaranteed Exhibit 10 deals."
+    "text": "The camp roster is now 20 players, one below the offseason limit, with media day Monday and camp opening Sept 29."
+   },
+   {
+    "tag": "Health",
+    "text": "Franz Wagner (calf) and Jonathan Isaac (knee) remain questionable for the start of the season on CBS's injury page, unchanged since Sept 8. Izaiyah Nelson (ankle surgery) is out until at least Nov 1."
+   },
+   {
+    "tag": "Contract",
+    "text": "Still no Anthony Black extension with the Oct 19 rookie-scale deadline three and a half weeks away."
    }
   ],
   "recap": null,
@@ -1785,10 +1781,32 @@
     "pos": "F",
     "status": "Out",
     "statusNote": "Surgery after fracturing his ankle at Summer League (July). Out until at least Nov 1."
+   },
+   {
+    "num": "24",
+    "name": "Kevin Knox II",
+    "pos": "F",
+    "age": 27,
+    "ht": "6-8",
+    "exp": "7",
+    "kind": "Exhibit 10",
+    "contract": "Non-guaranteed camp deal",
+    "status": "Healthy",
+    "injury": "",
+    "statusNote": "",
+    "last": {
+     "gp": 26,
+     "pts": 22.7,
+     "reb": 8.2,
+     "ast": 2.5,
+     "fg": null
+    },
+    "cur": null,
+    "note": "No. 9 pick in 2018 by the Knicks. Stats from Windy City (G League) last season. Competing for the open 15th spot."
    }
   ],
   "statsLabel": "2025-26 per game",
-  "updatedAt": "2026-09-23T00:47:00Z"
+  "updatedAt": "2026-09-24T08:48:08Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
@@ -2067,6 +2085,10 @@
   ],
   "transactions": [
    {
+    "d": "2026-09-23",
+    "text": "Signed Kevin Knox II to an Exhibit 10 deal. Unlike the four players signed and waived Sept 22, Knox stays in training camp; roster now stands at 20."
+   },
+   {
     "d": "2026-09-22",
     "text": "Signed Ace Baldwin Jr., Ricky Council IV, Jarron Cumberland and Au'Diese Toney to Exhibit 10 deals and waived all four the same day to secure their G League rights for Osceola."
    },
@@ -2111,7 +2133,7 @@
     "text": "Fired head coach Jamahl Mosley."
    }
   ],
-  "updatedAt": "2026-09-23T00:47:00Z",
+  "updatedAt": "2026-09-24T08:48:08Z",
   "watch": [
    {
     "k": "Local TV",
