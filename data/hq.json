@@ -87,29 +87,33 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-09-26T00:41:20Z"
+  "updatedAt": "2026-09-26T08:52:15Z"
  },
  "brief": {
-  "d": "2026-09-25",
-  "createdAt": "2026-09-25T09:08:12Z",
-  "headline": "Quiet Friday: camp roster set, media day three days out",
-  "summary": "No new Magic transactions, injury updates or scheduling news since Wednesday's Kevin Knox II signing. The 20-man training camp roster stands pat heading into media day Monday and the start of camp Tuesday. Franz Wagner and Jonathan Isaac remain questionable for the season and Anthony Black still has no extension.",
+  "d": "2026-09-26",
+  "createdAt": "2026-09-26T08:52:15Z",
+  "headline": "Quiet Saturday: media day two days out, roster unchanged",
+  "summary": "No transactions, injury changes or extension news since Wednesday. Sean Sweeney said he has met individually with every player this offseason and singled out Desmond Bane's leadership and Jalen Suggs' offseason effort. Media day is Monday morning, with camp opening Tuesday.",
   "bullets": [
    {
+    "tag": "Coaching",
+    "text": "Sean Sweeney said he prioritized meeting one-on-one with every player this summer, calling Desmond Bane leadership and team personified and praising Jalen Suggs' offseason commitment (HoopsHype, Sept 25)."
+   },
+   {
     "tag": "Roster",
-    "text": "Camp roster holds at 20 players, one below the offseason limit. No moves since Kevin Knox II's Exhibit 10 signing Wednesday."
+    "text": "Camp roster still stands at 20, unchanged since Kevin Knox II's Exhibit 10 signing Sept 23. No cuts expected until camp opens Sept 29."
    },
    {
     "tag": "Health",
-    "text": "Franz Wagner (calf) and Jonathan Isaac (knee) are still questionable for the start of the season on the official injury report, unchanged since Sept 8. Izaiyah Nelson (ankle surgery) remains out until at least Nov 1."
+    "text": "Franz Wagner (calf) and Jonathan Isaac (knee) remain questionable for the start of the season on the official injury report, unchanged since Sept 8. Izaiyah Nelson (ankle surgery) remains out until at least Nov 1."
    },
    {
     "tag": "Contract",
-    "text": "No Anthony Black extension yet, with the Oct 19 rookie-scale deadline just over three weeks away. Reports still put the range between $20M and $30M a year, with no signs a deal is close."
+    "text": "No Anthony Black extension yet, with the Oct 19 rookie-scale deadline just over three weeks away."
    },
    {
     "tag": "Next game",
-    "text": "Preseason opens Oct 7 at Memphis. First up on the calendar: media day Monday, Sept 28 at 11 AM ET, then camp opens Sept 29."
+    "text": "Media day is Monday, Sept 28 at 11 AM ET, with training camp opening Tuesday, Sept 29. Preseason opens Oct 7 at Memphis."
    }
   ],
   "recap": null,

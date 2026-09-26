@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "d": "2026-09-25",
+   "createdAt": "2026-09-25T09:08:12Z",
+   "headline": "Quiet Friday: camp roster set, media day three days out",
+   "summary": "No new Magic transactions, injury updates or scheduling news since Wednesday's Kevin Knox II signing. The 20-man training camp roster stands pat heading into media day Monday and the start of camp Tuesday. Franz Wagner and Jonathan Isaac remain questionable for the season and Anthony Black still has no extension.",
+   "bullets": [
+    {
+     "tag": "Roster",
+     "text": "Camp roster holds at 20 players, one below the offseason limit. No moves since Kevin Knox II's Exhibit 10 signing Wednesday."
+    },
+    {
+     "tag": "Health",
+     "text": "Franz Wagner (calf) and Jonathan Isaac (knee) are still questionable for the start of the season on the official injury report, unchanged since Sept 8. Izaiyah Nelson (ankle surgery) remains out until at least Nov 1."
+    },
+    {
+     "tag": "Contract",
+     "text": "No Anthony Black extension yet, with the Oct 19 rookie-scale deadline just over three weeks away. Reports still put the range between $20M and $30M a year, with no signs a deal is close."
+    },
+    {
+     "tag": "Next game",
+     "text": "Preseason opens Oct 7 at Memphis. First up on the calendar: media day Monday, Sept 28 at 11 AM ET, then camp opens Sept 29."
+    }
+   ],
+   "recap": null,
+   "preview": null,
+   "watch": "Next up: media day, Monday Sept 28 at 11 AM ET."
+  },
+  {
    "d": "2026-09-24",
    "createdAt": "2026-09-24T08:48:08Z",
    "headline": "Magic add Kevin Knox II to camp roster on Exhibit 10 deal",
