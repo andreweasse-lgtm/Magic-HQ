@@ -87,42 +87,38 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-09-28T00:52:18Z"
+  "updatedAt": "2026-09-28T10:14:26Z"
  },
  "brief": {
-  "d": "2026-09-27",
-  "createdAt": "2026-09-27T20:16:06Z",
-  "headline": "Quiet Sunday: Weltman stands pat, media day tomorrow",
-  "summary": "No transactions, injury changes or extension news since Saturday. A Yahoo Sports preview says GM Jeff Weltman is sticking with the core (only real addition was Nikola Vucevic) and expects Sean Sweeney's hire to produce immediate results, even as the East got tougher with Philadelphia, Boston and Indiana all improving. Media day is tomorrow morning, with camp opening Tuesday.",
+  "d": "2026-09-28",
+  "createdAt": "2026-09-28T10:14:26Z",
+  "headline": "Media day today: Wagner says he's fully healthy",
+  "summary": "Media day is this morning at 11 AM ET, with training camp opening tomorrow. Franz Wagner told Orlando Magic Daily (Sept 27) he feels fully healthy and has no setbacks after his offseason rehab, though he remains officially questionable for the start of the season until the team says otherwise. BetMGM has posted a line for the Oct 21 season opener against Atlanta. No transactions or extension news since Saturday.",
   "bullets": [
    {
-    "tag": "Front office",
-    "text": "Jeff Weltman avoided blockbuster moves this offseason, betting on the existing young core rather than a shakeup; Nikola Vucevic's return was the only notable addition. A Yahoo Sports preview frames Sean Sweeney's hire as a bet on immediate improvement, not a rebuild (Yahoo Sports, Sept 27)."
+    "tag": "Health",
+    "text": "Franz Wagner told Orlando Magic Daily (Sept 27) he is fully healthy with nothing holding him back, describing a roughly six-week ramp-up from his ankle sprain before the calf strain, a short rehab window, and pickup runs in Los Angeles in August. He remains officially listed questionable for the start of the season on CBS's injury page, unchanged since Sept 8. Jonathan Isaac (knee) is also still questionable, and Izaiyah Nelson (ankle surgery) remains out until at least Nov 1."
    },
    {
-    "tag": "Standings",
-    "text": "The same preview notes the East got harder to climb: the champion Knicks, Philadelphia, Boston and Indiana are all seen as improved, raising the bar for Orlando's playoff push."
+    "tag": "Odds",
+    "text": "BetMGM has posted a line for the Oct 21 season opener at home against Atlanta: Magic -2.5 (-110), moneyline -135. Season-long futures are unchanged: Southeast Division +250, Eastern Conference +2500, NBA title +8000."
    },
    {
     "tag": "Roster",
-    "text": "Camp roster still stands at 20, unchanged since Kevin Knox II's Exhibit 10 signing Sept 23. No cuts expected until camp opens Sept 29."
-   },
-   {
-    "tag": "Health",
-    "text": "Franz Wagner (calf) and Jonathan Isaac (knee) remain questionable for the start of the season on the official injury report, unchanged since Sept 8. Izaiyah Nelson (ankle surgery) remains out until at least Nov 1."
+    "text": "Camp roster holds at 20, unchanged since Kevin Knox II's Exhibit 10 signing Sept 23. No cuts expected until camp trims the roster later this week."
    },
    {
     "tag": "Contract",
-    "text": "No Anthony Black extension yet, with the Oct 19 rookie-scale deadline just over three weeks away."
+    "text": "No Anthony Black extension yet, with the Oct 19 rookie-scale deadline three weeks away."
    },
    {
     "tag": "Next game",
-    "text": "Media day is tomorrow, Monday Sept 28 at 11 AM ET, with training camp opening Tuesday, Sept 29. Preseason opens Oct 7 at Memphis."
+    "text": "Media day is today, Monday Sept 28, at 11 AM ET at the AdventHealth Training Center. Training camp opens tomorrow, Sept 29, running through Oct 6 (off Oct 3). Preseason opens Oct 7 at Memphis."
    }
   ],
   "recap": null,
   "preview": null,
-  "watch": "Next up: media day, Monday Sept 28 at 11 AM ET."
+  "watch": "Next up: media day today at 11 AM ET, then training camp opens tomorrow, Sept 29."
  },
  "schedule": {
   "cup": {
@@ -1414,7 +1410,7 @@
     "num": "22",
     "pos": "F",
     "status": "Questionable",
-    "statusNote": "Not yet cleared publicly. Listed questionable for the start of the season (CBS). Skipped Germany this summer to rehab."
+    "statusNote": "Not yet officially cleared by the team. Told Orlando Magic Daily (Sept 27) he feels fully healthy with nothing holding him back after his offseason rehab and August pickup runs in Los Angeles. Still listed questionable for the start of the season (CBS)."
    },
    {
     "age": 28,
@@ -1814,7 +1810,7 @@
    }
   ],
   "statsLabel": "2025-26 per game",
-  "updatedAt": "2026-09-24T08:48:08Z"
+  "updatedAt": "2026-09-28T10:14:26Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
@@ -1940,11 +1936,12 @@
    }
   ],
   "futures": {
-   "asOf": "2026-09-11",
+   "asOf": "2026-09-28",
    "book": "BetMGM",
    "extra": [
     "FanDuel win total 44.5 (Over -105 / Under -125).",
-    "Sweeney Coach of the Year +1000, Black Sixth Man +2000 (BetRivers)."
+    "Sweeney Coach of the Year +1000, Black Sixth Man +2000 (BetRivers).",
+    "Season-opener line posted (BetMGM): Magic -2.5 (-110) at home vs Atlanta on Oct 21, moneyline -135."
    ],
    "rows": [
     {
@@ -2141,7 +2138,7 @@
     "text": "Fired head coach Jamahl Mosley."
    }
   ],
-  "updatedAt": "2026-09-24T08:48:08Z",
+  "updatedAt": "2026-09-28T10:14:26Z",
   "watch": [
    {
     "k": "Local TV",
