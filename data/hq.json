@@ -5,11 +5,6 @@
   "home": "0-0",
   "keyDates": [
    {
-    "d": "2026-09-28",
-    "detail": "11 AM ET, AdventHealth Training Center",
-    "label": "Media day"
-   },
-   {
     "d": "2026-09-29",
     "detail": "Through Oct 6, off Oct 3",
     "label": "Training camp opens"
@@ -76,7 +71,7 @@
    "w": 45
   },
   "phase": "Preseason",
-  "phaseDetail": "Media day Monday Sept 28, camp opens Tuesday Sept 29",
+  "phaseDetail": "Media day done, camp opens Tuesday Sept 29",
   "record": {
    "l": 0,
    "w": 0
@@ -87,17 +82,21 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-09-28T18:37:54Z"
+  "updatedAt": "2026-09-29T02:03:18Z"
  },
  "brief": {
   "d": "2026-09-28",
-  "createdAt": "2026-09-28T10:14:26Z",
-  "headline": "Media day today: Wagner says he's fully healthy",
-  "summary": "Media day is this morning at 11 AM ET, with training camp opening tomorrow. Franz Wagner told Orlando Magic Daily (Sept 27) he feels fully healthy and has no setbacks after his offseason rehab, though he remains officially questionable for the start of the season until the team says otherwise. BetMGM has posted a line for the Oct 21 season opener against Atlanta. No transactions or extension news since Saturday.",
+  "createdAt": "2026-09-29T02:03:18Z",
+  "headline": "Media day done: Banchero slimmer, Nelson out to start",
+  "summary": "Media day is complete and training camp opens Tuesday, Sept 29. Coach Sean Sweeney's staff set player roles before media day, and Paolo Banchero looked slimmer and stronger after his offseason work. Izaiyah Nelson (ankle) will not be ready for the season start, and Jonathan Isaac is still hoping to be ready for the Oct 21 opener. No transactions or extension news.",
   "bullets": [
    {
     "tag": "Health",
-    "text": "Franz Wagner told Orlando Magic Daily (Sept 27) he is fully healthy with nothing holding him back, describing a roughly six-week ramp-up from his ankle sprain before the calf strain, a short rehab window, and pickup runs in Los Angeles in August. He remains officially listed questionable for the start of the season on CBS's injury page, unchanged since Sept 8. Jonathan Isaac (knee) is also still questionable, and Izaiyah Nelson (ankle surgery) remains out until at least Nov 1."
+    "text": "Per Magic On SI's media day coverage, Izaiyah Nelson (ankle) will not be ready for the season start and Jonathan Isaac (knee) is still hoping to be ready for the opener. Franz Wagner said Sept 27 he feels fully healthy but remains officially questionable on CBS's injury page."
+   },
+   {
+    "tag": "Coaching",
+    "text": "Sweeney's staff met before media day to define every player's role for the season, a change from past years, with flexibility to adjust. Banchero appeared slimmer and stronger."
    },
    {
     "tag": "Odds",
@@ -113,12 +112,12 @@
    },
    {
     "tag": "Next game",
-    "text": "Media day is today, Monday Sept 28, at 11 AM ET at the AdventHealth Training Center. Training camp opens tomorrow, Sept 29, running through Oct 6 (off Oct 3). Preseason opens Oct 7 at Memphis."
+    "text": "Training camp opens tomorrow, Sept 29, running through Oct 6 (off Oct 3). Preseason opens Oct 7 at Memphis."
    }
   ],
   "recap": null,
   "preview": null,
-  "watch": "Next up: media day today at 11 AM ET, then training camp opens tomorrow, Sept 29."
+  "watch": "Next up: training camp opens tomorrow, Sept 29, then preseason at Memphis Oct 7."
  },
  "schedule": {
   "cup": {
