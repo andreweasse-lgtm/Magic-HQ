@@ -5,11 +5,6 @@
   "home": "0-0",
   "keyDates": [
    {
-    "d": "2026-09-29",
-    "detail": "Through Oct 6, off Oct 3",
-    "label": "Training camp opens"
-   },
-   {
     "d": "2026-10-07",
     "detail": "8 PM ET",
     "label": "Preseason opener at Memphis"
@@ -71,7 +66,7 @@
    "w": 45
   },
   "phase": "Preseason",
-  "phaseDetail": "Media day done, camp opens Tuesday Sept 29",
+  "phaseDetail": "Training camp opens today, Sept 29",
   "record": {
    "l": 0,
    "w": 0
@@ -82,42 +77,34 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-09-29T02:03:18Z"
+  "updatedAt": "2026-09-29T10:09:53Z"
  },
  "brief": {
-  "d": "2026-09-28",
-  "createdAt": "2026-09-29T02:03:18Z",
-  "headline": "Media day done: Banchero slimmer, Nelson out to start",
-  "summary": "Media day is complete and training camp opens Tuesday, Sept 29. Coach Sean Sweeney's staff set player roles before media day, and Paolo Banchero looked slimmer and stronger after his offseason work. Izaiyah Nelson (ankle) will not be ready for the season start, and Jonathan Isaac is still hoping to be ready for the Oct 21 opener. No transactions or extension news.",
+  "d": "2026-09-29",
+  "createdAt": "2026-09-29T10:09:53Z",
+  "headline": "Training camp opens today, no new injury or roster news",
+  "summary": "Training camp opens today at the AdventHealth Training Center under Sean Sweeney. No new transactions, injury designations or extension news have been reported since media day. Izaiyah Nelson (ankle) is still about a month from live play and Jonathan Isaac (knee) expects some restrictions early in camp.",
   "bullets": [
    {
+    "tag": "Next game",
+    "text": "Camp runs through Oct 6 (off Oct 3). Preseason opens Oct 7 at Memphis."
+   },
+   {
     "tag": "Health",
-    "text": "Per Magic On SI's media day coverage, Izaiyah Nelson (ankle) will not be ready for the season start and Jonathan Isaac (knee) is still hoping to be ready for the opener. Franz Wagner said Sept 27 he feels fully healthy but remains officially questionable on CBS's injury page."
-   },
-   {
-    "tag": "Coaching",
-    "text": "Sweeney's staff met before media day to define every player's role for the season, a change from past years, with flexibility to adjust. Banchero appeared slimmer and stronger."
-   },
-   {
-    "tag": "Odds",
-    "text": "BetMGM has posted a line for the Oct 21 season opener at home against Atlanta: Magic -2.5 (-110), moneyline -135. Season-long futures are unchanged: Southeast Division +250, Eastern Conference +2500, NBA title +8000."
+    "text": "Nelson is still recovering from July ankle surgery; team president Jeff Weltman has said he is about a month from live play. Isaac said he will not be fully unrestricted at the start of camp."
    },
    {
     "tag": "Roster",
-    "text": "Camp roster holds at 20, unchanged since Kevin Knox II's Exhibit 10 signing Sept 23. No cuts expected until camp trims the roster later this week."
+    "text": "Camp roster stays at 20, including Exhibit 10 players Malaki Branham, J.D. Davison and Kevin Knox II."
    },
    {
     "tag": "Contract",
-    "text": "No Anthony Black extension yet, with the Oct 19 rookie-scale deadline three weeks away."
-   },
-   {
-    "tag": "Next game",
-    "text": "Training camp opens tomorrow, Sept 29, running through Oct 6 (off Oct 3). Preseason opens Oct 7 at Memphis."
+    "text": "No Anthony Black extension yet; the rookie-scale deadline is Oct 19."
    }
   ],
   "recap": null,
   "preview": null,
-  "watch": "Next up: training camp opens tomorrow, Sept 29, then preseason at Memphis Oct 7."
+  "watch": "Next up: first camp practice reports today, then preseason at Memphis Oct 7."
  },
  "schedule": {
   "cup": {
