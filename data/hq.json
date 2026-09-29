@@ -66,7 +66,7 @@
    "w": 45
   },
   "phase": "Preseason",
-  "phaseDetail": "Training camp opens today, Sept 29",
+  "phaseDetail": "Training camp under way, first practices Sept 29",
   "record": {
    "l": 0,
    "w": 0
@@ -77,14 +77,18 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-09-29T16:55:12Z"
+  "updatedAt": "2026-09-29T21:26:59Z"
  },
  "brief": {
   "d": "2026-09-29",
   "createdAt": "2026-09-29T10:09:53Z",
-  "headline": "Training camp opens today, no new injury or roster news",
-  "summary": "Training camp opens today at the AdventHealth Training Center under Sean Sweeney. No new transactions, injury designations or extension news have been reported since media day. Izaiyah Nelson (ankle) is still about a month from live play and Jonathan Isaac (knee) expects some restrictions early in camp.",
+  "headline": "Camp opens with an intense, detail-heavy first practice",
+  "summary": "Sean Sweeney's first Magic practices ran Tuesday, with defensive installation in the morning and offensive sets in a non-contact evening session. Franz Wagner called it very organized and very intense. No new transactions or injury designations have been reported.",
   "bullets": [
+   {
+    "tag": "Coaching",
+    "text": "Wagner: \"Every drill is scheduled to the second pretty much. It's very intentional and very intense.\" Paolo Banchero said the new terminology takes adjustment but should turn the defense up."
+   },
    {
     "tag": "Next game",
     "text": "Camp runs through Oct 6 (off Oct 3). Preseason opens Oct 7 at Memphis."
@@ -104,7 +108,7 @@
   ],
   "recap": null,
   "preview": null,
-  "watch": "Next up: first camp practice reports today, then preseason at Memphis Oct 7."
+  "watch": "Next up: more camp practices, then preseason at Memphis Oct 7."
  },
  "schedule": {
   "cup": {
