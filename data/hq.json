@@ -66,7 +66,7 @@
    "w": 45
   },
   "phase": "Preseason",
-  "phaseDetail": "Training camp under way, second day of practices Sept 30",
+  "phaseDetail": "Training camp under way; Black and Penda day-to-day",
   "record": {
    "l": 0,
    "w": 0
@@ -77,21 +77,25 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-09-30T16:51:19Z"
+  "updatedAt": "2026-09-30T21:27:27Z"
  },
  "brief": {
   "d": "2026-09-30",
-  "createdAt": "2026-09-30T10:05:00Z",
-  "headline": "Camp day two: Isaac a partial participant, no new moves",
-  "summary": "Training camp continues Wednesday at 10 AM ET. Sean Sweeney praised the intent of the first day, which centered on defensive installation. No new transactions or injury designations have been reported.",
+  "createdAt": "2026-09-30T21:27:27Z",
+  "headline": "Camp day two: Black and Penda day-to-day, Isaac limited",
+  "summary": "Training camp continues with a focus on spacing. Anthony Black (minor ankle sprain) and Noah Penda (hamstring) are day-to-day, and the Magic are being cautious with two practices a day. Jonathan Isaac remains limited and Izaiyah Nelson is out.",
   "bullets": [
    {
     "tag": "Coaching",
     "text": "Sweeney: \"I thought the intent was phenomenal.\" Day one focused on learning the defensive scheme."
    },
    {
+    "tag": "Coaching",
+    "text": "Day two of camp focuses on spacing the floor and defining positioning."
+   },
+   {
     "tag": "Health",
-    "text": "Jonathan Isaac is a partial participant while rehabbing his left knee; Sweeney said he did breakdown drills and some live-ish work. Izaiyah Nelson remains out after ankle surgery."
+    "text": "Black has a minor ankle sprain from voluntary workouts and Penda tweaked a hamstring; both are day-to-day. Isaac is a partial participant with his left knee; Nelson is out after ankle surgery."
    },
    {
     "tag": "Roster",
@@ -1448,7 +1452,7 @@
     "cur": null,
     "exp": "3",
     "ht": "6-7",
-    "injury": "",
+    "injury": "Ankle",
     "kind": "Standard",
     "last": {
      "ast": 3.7,
@@ -1461,8 +1465,8 @@
     "note": "No extension yet. Restricted free agent in 2027 if no deal. Tabbed as a breakout candidate.",
     "num": "0",
     "pos": "G",
-    "status": "Healthy",
-    "statusNote": ""
+    "status": "Day-to-day",
+    "statusNote": "Minor ankle sprain from voluntary workouts; limited in camp, passing drills (Sweeney, per ClutchPoints)."
    },
    {
     "age": 27,
@@ -1646,7 +1650,7 @@
     "cur": null,
     "exp": "1",
     "ht": "6-7",
-    "injury": "",
+    "injury": "Hamstring",
     "kind": "Standard",
     "last": {
      "ast": 1.2,
@@ -1659,8 +1663,8 @@
     "note": "Seen as the long-term defensive forward off the bench.",
     "num": "93",
     "pos": "G-F",
-    "status": "Healthy",
-    "statusNote": ""
+    "status": "Day-to-day",
+    "statusNote": "Tweaked his hamstring in early camp; Magic being cautious with two practices a day."
    },
    {
     "age": 23,
@@ -1796,7 +1800,7 @@
    }
   ],
   "statsLabel": "2025-26 per game",
-  "updatedAt": "2026-09-28T10:14:26Z"
+  "updatedAt": "2026-09-30T21:27:27Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
