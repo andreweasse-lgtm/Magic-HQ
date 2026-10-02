@@ -66,7 +66,7 @@
    "w": 45
   },
   "phase": "Preseason",
-  "phaseDetail": "Training camp under way; Black and Penda day-to-day",
+  "phaseDetail": "Training camp, week one done; Black and Penda close to full availability",
   "record": {
    "l": 0,
    "w": 0
@@ -77,21 +77,25 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-10-02T16:41:07Z"
+  "updatedAt": "2026-10-02T21:25:00Z"
  },
  "brief": {
   "d": "2026-10-02",
-  "createdAt": "2026-10-02T10:04:32Z",
-  "headline": "Quiet camp day: no changes to Magic injury list",
-  "summary": "No new developments found since yesterday. Anthony Black (ankle) and Noah Penda (hamstring) remain day-to-day as the team manages workload during two-a-day practices. Preseason opens Oct 7 at Memphis.",
+  "createdAt": "2026-10-02T21:25:00Z",
+  "headline": "Magic finish camp week one; Penda close to return",
+  "summary": "Coach Sean Sweeney said Noah Penda is pretty close to being back, and he and Anthony Black are doing non-contact drills and feeling better. The Magic wrapped a first week focused on installing new offensive and defensive systems. Preseason opens Wednesday at Memphis.",
   "bullets": [
    {
     "tag": "Health",
-    "text": "Black (minor ankle sprain) and Penda (hamstring) are day-to-day; no return dates given."
+    "text": "Penda (hamstring) is pretty close to being back and ready to go, per Sweeney. Black (ankle) is also close to full availability."
+   },
+   {
+    "tag": "Coaching",
+    "text": "Sweeney brought in former boxing champion Chris Algieri to speak to the team; players praised the detail and accountability of practices."
    },
    {
     "tag": "Next game",
-    "text": "Preseason opener at Memphis, Oct 7, 8:00 PM ET."
+    "text": "Preseason opener at Memphis, Wednesday Oct 7, 8:00 PM ET."
    }
   ],
   "recap": null,
@@ -1454,7 +1458,7 @@
     "num": "0",
     "pos": "G",
     "status": "Day-to-day",
-    "statusNote": "Minor ankle sprain from voluntary workouts; limited in camp, passing drills (Sweeney, per ClutchPoints)."
+    "statusNote": "Minor ankle sprain from voluntary workouts; doing non-contact drills and feeling better, close to fully available (Orlando Magic Daily, Oct 2)."
    },
    {
     "age": 27,
@@ -1652,7 +1656,7 @@
     "num": "93",
     "pos": "G-F",
     "status": "Day-to-day",
-    "statusNote": "Tweaked his hamstring in early camp; Magic being cautious with two practices a day."
+    "statusNote": "Tweaked hamstring early in camp; doing non-contact drills. Sweeney said Oct 2 he is pretty close to being back (Yahoo Sports, Orlando Magic Daily)."
    },
    {
     "age": 23,
