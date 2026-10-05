@@ -66,7 +66,7 @@
    "w": 45
   },
   "phase": "Preseason",
-  "phaseDetail": "Training camp, week one done; Black and Penda close to full availability",
+  "phaseDetail": "Training camp; Black and Penda back at full practice, preseason opens Wednesday at Memphis",
   "record": {
    "l": 0,
    "w": 0
@@ -77,17 +77,25 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-10-04T20:13:52Z"
+  "updatedAt": "2026-10-05T01:10:00Z"
  },
  "brief": {
   "d": "2026-10-04",
-  "createdAt": "2026-10-04T10:14:04Z",
-  "headline": "Quiet Sunday in camp; preseason opens Wednesday",
-  "summary": "No new developments found since Saturday. Noah Penda (hamstring) and Anthony Black (ankle) were last reported close to full availability by Sean Sweeney. The Magic open preseason Wednesday at Memphis.",
+  "createdAt": "2026-10-05T01:10:00Z",
+  "headline": "Black and Penda return to full practice; preseason opens Wednesday",
+  "summary": "Anthony Black (ankle) and Noah Penda (hamstring) took part in full practice Sunday, and Sean Sweeney said they look good. Neither is confirmed yet for Wednesday's preseason opener at Memphis. Jalen Suggs missed the media portion because he was under the weather.",
   "bullets": [
    {
     "tag": "Health",
-    "text": "Penda (hamstring) and Black (ankle) were last reported doing non-contact work and close to returning; no new update."
+    "text": "Black (ankle) and Penda (hamstring) practiced fully Sunday and felt great, per Sweeney. Not yet confirmed for Wednesday."
+   },
+   {
+    "tag": "Health",
+    "text": "Jalen Suggs was out of the media-viewing portion of practice with a minor illness, not an injury."
+   },
+   {
+    "tag": "Coaching",
+    "text": "Sunday focused on half-court execution; Monday is full-court running, Tuesday a mix. Sweeney will set preseason minutes after these sessions."
    },
    {
     "tag": "Next game",
@@ -96,7 +104,7 @@
   ],
   "recap": null,
   "preview": null,
-  "watch": "Next up: more camp practices, then preseason at Memphis Oct 7."
+  "watch": "Next up: Monday and Tuesday practices, then preseason at Memphis Oct 7."
  },
  "schedule": {
   "cup": {
@@ -1432,7 +1440,7 @@
     "num": "4",
     "pos": "G",
     "status": "Healthy",
-    "statusNote": ""
+    "statusNote": "Under the weather Oct 4 (not an injury)"
    },
    {
     "age": 22,
@@ -1453,8 +1461,8 @@
     "note": "No extension yet. Restricted free agent in 2027 if no deal. Tabbed as a breakout candidate.",
     "num": "0",
     "pos": "G",
-    "status": "Day-to-day",
-    "statusNote": "Minor ankle sprain from voluntary workouts; doing non-contact drills and feeling better, close to fully available (Orlando Magic Daily, Oct 2)."
+    "status": "Probable",
+    "statusNote": "Full practice Sunday Oct 4; not yet confirmed for Oct 7 preseason opener"
    },
    {
     "age": 27,
@@ -1651,8 +1659,8 @@
     "note": "Seen as the long-term defensive forward off the bench.",
     "num": "93",
     "pos": "G-F",
-    "status": "Day-to-day",
-    "statusNote": "Tweaked hamstring early in camp; doing non-contact drills. Sweeney said Oct 2 he is pretty close to being back (Yahoo Sports, Orlando Magic Daily)."
+    "status": "Probable",
+    "statusNote": "Full practice Sunday Oct 4; not yet confirmed for Oct 7 preseason opener"
    },
    {
     "age": 23,
@@ -1788,7 +1796,7 @@
    }
   ],
   "statsLabel": "2025-26 per game",
-  "updatedAt": "2026-09-30T21:27:27Z"
+  "updatedAt": "2026-10-05T01:10:00Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
