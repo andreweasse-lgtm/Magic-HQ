@@ -1,6 +1,17 @@
 {
  "items": [
   {
+   "id": "2026-10-08-magic-beat-grizzlies-122-118-in-presea",
+   "d": "2026-10-08",
+   "cat": "Game",
+   "headline": "Magic beat Grizzlies 122-118 in preseason opener",
+   "summary": "Jamal Cain scored 15 and Franz Wagner had 7 assists in Sweeney's first game. Anthony Black and Jalen Suggs were ruled out.",
+   "source": "Magic On SI",
+   "url": "https://www.si.com/nba/magic/onsi/what-we-learned-from-magic-s-first-preseason-game-against-grizzlies-01m4ch3cz1jk",
+   "flag": null,
+   "addedAt": "2026-10-08T10:58:24Z"
+  },
+  {
    "id": "2026-10-04-black-penda-return-to-full-practice",
    "d": "2026-10-04",
    "cat": "Injury",
@@ -505,83 +516,6 @@
    "flag": null,
    "addedAt": "2026-09-23T00:47:00Z",
    "id": "2026-07-13-izaiyah-nelson-fractures-ankle-at-summer"
-  },
-  {
-   "d": "2026-07-06",
-   "cat": "Coaching",
-   "headline": "Sweeney's coaching staff finalized",
-   "summary": "Joe Prunty stays. Additions include Greg Buckner, Popeye Jones, Ben Johnson, Mfon Udofia and D.J. Bakker. Jacqlyn Poss and Shannan Lum are the team's first female assistant coaches.",
-   "source": "WFTV",
-   "url": "https://www.wftv.com/news/local/magics-revamped-staff-signals-focus-game-strategy-player-growth/5UHSFJS65BAZNGFAQXK6AIQ6OQ/",
-   "flag": null,
-   "addedAt": "2026-09-23T00:47:00Z",
-   "id": "2026-07-06-sweeney-s-coaching-staff-finalized"
-  },
-  {
-   "d": "2026-07-01",
-   "cat": "Contract",
-   "headline": "Moritz Wagner signs with Brooklyn",
-   "summary": "Two years, $19M with the Nets.",
-   "source": "NBA.com",
-   "url": "https://www.nba.com/news/moritz-wagner-nets-free-agency-2026",
-   "flag": null,
-   "addedAt": "2026-09-23T00:47:00Z",
-   "id": "2026-07-01-moritz-wagner-signs-with-brooklyn"
-  },
-  {
-   "d": "2026-07-01",
-   "cat": "Contract",
-   "headline": "Vucevic returns to Orlando on a one-year deal",
-   "summary": "The former Magic All-Star signed for the minimum. Jevon Carter and Jonathan Isaac also re-signed.",
-   "source": "NBA.com",
-   "url": "https://www.nba.com/news/nikola-vucevic-returning-to-magic-on-1-year-deal",
-   "flag": null,
-   "addedAt": "2026-09-23T00:47:00Z",
-   "id": "2026-07-01-vucevic-returns-to-orlando-on-a-one-year"
-  },
-  {
-   "d": "2026-06-27",
-   "cat": "Contract",
-   "headline": "Magic waive Jonathan Isaac to save money",
-   "summary": "Waived one day before his $14.5M salary guaranteed, leaving $8M in dead money. He re-signed on a minimum deal July 1.",
-   "source": "WHBL",
-   "url": "https://whbl.com/2026/06/27/magic-waive-f-jonathan-isaac-in-cost-saving-move/",
-   "flag": null,
-   "addedAt": "2026-09-23T00:47:00Z",
-   "id": "2026-06-27-magic-waive-jonathan-isaac-to-save-money"
-  },
-  {
-   "d": "2026-06-24",
-   "cat": "Front Office",
-   "headline": "Magic trade back and take Izaiyah Nelson at No. 51",
-   "summary": "Orlando sent No. 46 to Washington for Nos. 51 and 60, then sent No. 60 to Milwaukee for cash.",
-   "source": "NBA.com",
-   "url": "https://www.nba.com/news/magic-wizards-bucks-trade-2026-nba-draft",
-   "flag": null,
-   "addedAt": "2026-09-23T00:47:00Z",
-   "id": "2026-06-24-magic-trade-back-and-take-izaiyah-nelson"
-  },
-  {
-   "d": "2026-06-18",
-   "cat": "Coaching",
-   "headline": "Sean Sweeney formally introduced",
-   "summary": "The former Spurs associate head coach was introduced after San Antonio's Finals run ended.",
-   "source": "Orlando Sentinel",
-   "url": "https://sports.yahoo.com/articles/magic-coach-sean-sweeney-formally-193100675.html",
-   "flag": null,
-   "addedAt": "2026-09-23T00:47:00Z",
-   "id": "2026-06-18-sean-sweeney-formally-introduced"
-  },
-  {
-   "d": "2026-05-04",
-   "cat": "Coaching",
-   "headline": "Magic fire Jamahl Mosley",
-   "summary": "Fired after five seasons and a first-round loss to Detroit in which Orlando led 3-1. Jeff Weltman said the team needed a fresh voice.",
-   "source": "NBA.com",
-   "url": "https://www.nba.com/magic/news/orlando-magic-dismiss-jamahl-mosley-as-head-coach-20260504",
-   "flag": null,
-   "addedAt": "2026-09-23T00:47:00Z",
-   "id": "2026-05-04-magic-fire-jamahl-mosley"
   }
  ]
 }

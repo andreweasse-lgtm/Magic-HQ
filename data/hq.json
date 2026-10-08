@@ -5,11 +5,6 @@
   "home": "0-0",
   "keyDates": [
    {
-    "d": "2026-10-07",
-    "detail": "8 PM ET",
-    "label": "Preseason opener at Memphis"
-   },
-   {
     "d": "2026-10-19",
     "detail": "Rookie-scale window closes",
     "label": "Anthony Black extension deadline"
@@ -52,13 +47,13 @@
   ],
   "l10": "",
   "lastGame": {
-   "d": "2026-05-03",
+   "d": "2026-10-07",
+   "opp": "MEM",
    "ha": "A",
-   "label": "2026 Playoffs, Round 1, Game 7",
-   "opp": "DET",
-   "them": 116,
-   "us": 94,
-   "wl": "L"
+   "us": 122,
+   "them": 118,
+   "wl": "W",
+   "label": "2026 Preseason opener"
   },
   "lastSeason": {
    "l": 37,
@@ -66,7 +61,7 @@
    "w": 45
   },
   "phase": "Preseason",
-  "phaseDetail": "Training camp; Black and Penda back at full practice, preseason opens Wednesday at Memphis",
+  "phaseDetail": "Preseason; Magic beat Memphis 122-118 in the opener, at Cleveland Sunday",
   "record": {
    "l": 0,
    "w": 0
@@ -77,34 +72,46 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-10-08T02:02:29Z"
+  "updatedAt": "2026-10-08T10:58:24Z"
  },
  "brief": {
-  "d": "2026-10-07",
-  "createdAt": "2026-10-07T10:36:15Z",
-  "headline": "Preseason opener at Memphis tonight, 8:00 PM ET",
-  "summary": "The Magic open the preseason tonight at Memphis. I could not confirm any new injury, roster or contract news since yesterday. Anthony Black (ankle) and Noah Penda (hamstring) were close to returning per Sean Sweeney, but their availability for tonight is not confirmed.",
+  "d": "2026-10-08",
+  "createdAt": "2026-10-08T10:58:24Z",
+  "headline": "Magic win preseason opener at Memphis, 122-118",
+  "summary": "Orlando won its first preseason game under Sean Sweeney, 122-118 at FedExForum. Anthony Black and Jalen Suggs were ruled out, and Jase Richardson started in Black's place. The Magic visit Cleveland on Sunday.",
   "bullets": [
    {
-    "tag": "Next game",
-    "text": "Preseason opener at Memphis, tonight 8:00 PM ET. TV not confirmed; no line posted."
+    "tag": "Game",
+    "text": "Magic 122, Grizzlies 118 in the preseason opener, Sweeney's first game as head coach."
+   },
+   {
+    "tag": "Game",
+    "text": "Jamal Cain scored 15 on 6-of-9 shooting with 3 threes. Franz Wagner had 6 points, 7 assists and 2 steals in 14 minutes. Alex Morales grabbed 10 rebounds in 24 minutes."
    },
    {
     "tag": "Health",
-    "text": "Black and Penda status for tonight not confirmed; check the pregame report."
+    "text": "Black (ankle) and Suggs were ruled out. The reason for Suggs's absence was not confirmed (he was under the weather Oct 4). Penda's status for the game was not confirmed."
+   },
+   {
+    "tag": "Lineup",
+    "text": "Richardson started for Black and played 23 minutes (3 pts, 3 reb, 3 ast). Orlando opened with Spain pick-and-rolls featuring Wagner and Banchero."
    },
    {
     "tag": "Contract",
-    "text": "Anthony Black extension deadline is Oct 19; no deal reported."
+    "text": "Black extension deadline is Oct 19; no deal reported."
+   },
+   {
+    "tag": "Next game",
+    "text": "Sunday Oct 11 at Cleveland, 6:30 PM ET, ESPN. No line posted."
    }
   ],
-  "recap": null,
-  "preview": {
-   "title": "Tonight at Memphis, 8:00 PM",
-   "text": "First preseason game under Sean Sweeney. Bane returns to Memphis.",
-   "line": "No line posted"
+  "recap": {
+   "title": "Magic 122, Grizzlies 118",
+   "text": "Orlando won the preseason opener at Memphis without Black and Suggs. The offense looked clean early, with Spain pick-and-roll actions leading to baskets for Wendell Carter Jr.",
+   "leaders": "Cain 15 pts; Morales 10 reb; Wagner 6 pts, 7 ast"
   },
-  "watch": "Tonight's preseason opener, then at Cleveland Sunday, Oct 11."
+  "preview": null,
+  "watch": "At Cleveland Sunday, Oct 11 (6:30 PM, ESPN), then home vs Cleveland Tuesday."
  },
  "schedule": {
   "cup": {
@@ -124,7 +131,13 @@
     "id": "p20261007",
     "note": "Preseason opener. Bane's first game back in Memphis.",
     "opp": "MEM",
-    "res": null,
+    "res": {
+     "us": 122,
+     "them": 118,
+     "wl": "W",
+     "ot": "",
+     "note": "Preseason opener"
+    },
     "t": "8:00 PM",
     "tag": "",
     "tv": "TBA",
@@ -1155,7 +1168,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-09-23T00:47:00Z"
+  "updatedAt": "2026-10-08T10:58:24Z"
  },
  "standings": {
   "division": {
@@ -1426,7 +1439,7 @@
     "cur": null,
     "exp": "5",
     "ht": "6-5",
-    "injury": "",
+    "injury": "Not disclosed",
     "kind": "Standard",
     "last": {
      "ast": 5.5,
@@ -1439,8 +1452,8 @@
     "note": "Led the team in assists and steals. Starting point guard job is a camp storyline.",
     "num": "4",
     "pos": "G",
-    "status": "Healthy",
-    "statusNote": "Under the weather Oct 4 (not an injury)"
+    "status": "Day-to-day",
+    "statusNote": "Ruled out of the Oct 7 preseason opener; reason not confirmed."
    },
    {
     "age": 22,
@@ -1461,8 +1474,8 @@
     "note": "No extension yet. Restricted free agent in 2027 if no deal. Tabbed as a breakout candidate.",
     "num": "0",
     "pos": "G",
-    "status": "Probable",
-    "statusNote": "Full practice Sunday Oct 4; not yet confirmed for Oct 7 preseason opener"
+    "status": "Day-to-day",
+    "statusNote": "Ruled out of the Oct 7 preseason opener (ankle). Return date not confirmed."
    },
    {
     "age": 27,
@@ -1660,7 +1673,7 @@
     "num": "93",
     "pos": "G-F",
     "status": "Probable",
-    "statusNote": "Full practice Sunday Oct 4; not yet confirmed for Oct 7 preseason opener"
+    "statusNote": "Full practice Sunday Oct 4; status for the Oct 7 game not confirmed."
    },
    {
     "age": 23,
@@ -1796,7 +1809,7 @@
    }
   ],
   "statsLabel": "2025-26 per game",
-  "updatedAt": "2026-10-05T01:10:00Z"
+  "updatedAt": "2026-10-08T10:58:24Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",

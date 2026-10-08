@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "d": "2026-10-07",
+   "createdAt": "2026-10-07T10:36:15Z",
+   "headline": "Preseason opener at Memphis tonight, 8:00 PM ET",
+   "summary": "The Magic open the preseason tonight at Memphis. I could not confirm any new injury, roster or contract news since yesterday. Anthony Black (ankle) and Noah Penda (hamstring) were close to returning per Sean Sweeney, but their availability for tonight is not confirmed.",
+   "bullets": [
+    {
+     "tag": "Next game",
+     "text": "Preseason opener at Memphis, tonight 8:00 PM ET. TV not confirmed; no line posted."
+    },
+    {
+     "tag": "Health",
+     "text": "Black and Penda status for tonight not confirmed; check the pregame report."
+    },
+    {
+     "tag": "Contract",
+     "text": "Anthony Black extension deadline is Oct 19; no deal reported."
+    }
+   ],
+   "recap": null,
+   "preview": {
+    "title": "Tonight at Memphis, 8:00 PM",
+    "text": "First preseason game under Sean Sweeney. Bane returns to Memphis.",
+    "line": "No line posted"
+   },
+   "watch": "Tonight's preseason opener, then at Cleveland Sunday, Oct 11."
+  },
+  {
    "d": "2026-10-06",
    "createdAt": "2026-10-06T10:48:46Z",
    "headline": "Quiet Tuesday: Black and Penda close, Memphis opener Wednesday",
