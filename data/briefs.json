@@ -1,6 +1,45 @@
 {
  "items": [
   {
+   "d": "2026-10-08",
+   "createdAt": "2026-10-08T10:58:24Z",
+   "headline": "Magic win preseason opener at Memphis, 122-118",
+   "summary": "Orlando won its first preseason game under Sean Sweeney, 122-118 at FedExForum. Anthony Black and Jalen Suggs were ruled out, and Jase Richardson started in Black's place. The Magic visit Cleveland on Sunday.",
+   "bullets": [
+    {
+     "tag": "Game",
+     "text": "Magic 122, Grizzlies 118 in the preseason opener, Sweeney's first game as head coach."
+    },
+    {
+     "tag": "Game",
+     "text": "Jamal Cain scored 15 on 6-of-9 shooting with 3 threes. Franz Wagner had 6 points, 7 assists and 2 steals in 14 minutes. Alex Morales grabbed 10 rebounds in 24 minutes."
+    },
+    {
+     "tag": "Health",
+     "text": "Black (ankle) and Suggs were ruled out. The reason for Suggs's absence was not confirmed (he was under the weather Oct 4). Penda's status for the game was not confirmed."
+    },
+    {
+     "tag": "Lineup",
+     "text": "Richardson started for Black and played 23 minutes (3 pts, 3 reb, 3 ast). Orlando opened with Spain pick-and-rolls featuring Wagner and Banchero."
+    },
+    {
+     "tag": "Contract",
+     "text": "Black extension deadline is Oct 19; no deal reported."
+    },
+    {
+     "tag": "Next game",
+     "text": "Sunday Oct 11 at Cleveland, 6:30 PM ET, ESPN. No line posted."
+    }
+   ],
+   "recap": {
+    "title": "Magic 122, Grizzlies 118",
+    "text": "Orlando won the preseason opener at Memphis without Black and Suggs. The offense looked clean early, with Spain pick-and-roll actions leading to baskets for Wendell Carter Jr.",
+    "leaders": "Cain 15 pts; Morales 10 reb; Wagner 6 pts, 7 ast"
+   },
+   "preview": null,
+   "watch": "At Cleveland Sunday, Oct 11 (6:30 PM, ESPN), then home vs Cleveland Tuesday."
+  },
+  {
    "d": "2026-10-07",
    "createdAt": "2026-10-07T10:36:15Z",
    "headline": "Preseason opener at Memphis tonight, 8:00 PM ET",

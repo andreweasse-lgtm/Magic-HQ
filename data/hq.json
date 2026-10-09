@@ -72,29 +72,21 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-10-09T02:15:30Z"
+  "updatedAt": "2026-10-09T10:56:19Z"
  },
  "brief": {
-  "d": "2026-10-08",
-  "createdAt": "2026-10-08T10:58:24Z",
-  "headline": "Magic win preseason opener at Memphis, 122-118",
-  "summary": "Orlando won its first preseason game under Sean Sweeney, 122-118 at FedExForum. Anthony Black and Jalen Suggs were ruled out, and Jase Richardson started in Black's place. The Magic visit Cleveland on Sunday.",
+  "d": "2026-10-09",
+  "createdAt": "2026-10-09T10:56:19Z",
+  "headline": "Quiet day: Magic prep for Sunday at Cleveland",
+  "summary": "No new Magic stories were confirmed today. Orlando beat Memphis 122-118 in the preseason opener and next plays at Cleveland on Sunday. No source found changed the status of Anthony Black or Jalen Suggs.",
   "bullets": [
    {
     "tag": "Game",
-    "text": "Magic 122, Grizzlies 118 in the preseason opener, Sweeney's first game as head coach."
-   },
-   {
-    "tag": "Game",
-    "text": "Jamal Cain scored 15 on 6-of-9 shooting with 3 threes. Franz Wagner had 6 points, 7 assists and 2 steals in 14 minutes. Alex Morales grabbed 10 rebounds in 24 minutes."
+    "text": "Last result: Magic 122, Grizzlies 118 on Oct 7."
    },
    {
     "tag": "Health",
-    "text": "Black (ankle) and Suggs were ruled out. The reason for Suggs's absence was not confirmed (he was under the weather Oct 4). Penda's status for the game was not confirmed."
-   },
-   {
-    "tag": "Lineup",
-    "text": "Richardson started for Black and played 23 minutes (3 pts, 3 reb, 3 ast). Orlando opened with Spain pick-and-rolls featuring Wagner and Banchero."
+    "text": "No new injury updates confirmed for Black (ankle) or Suggs."
    },
    {
     "tag": "Contract",
@@ -105,11 +97,7 @@
     "text": "Sunday Oct 11 at Cleveland, 6:30 PM ET, ESPN. No line posted."
    }
   ],
-  "recap": {
-   "title": "Magic 122, Grizzlies 118",
-   "text": "Orlando won the preseason opener at Memphis without Black and Suggs. The offense looked clean early, with Spain pick-and-roll actions leading to baskets for Wendell Carter Jr.",
-   "leaders": "Cain 15 pts; Morales 10 reb; Wagner 6 pts, 7 ast"
-  },
+  "recap": null,
   "preview": null,
   "watch": "At Cleveland Sunday, Oct 11 (6:30 PM, ESPN), then home vs Cleveland Tuesday."
  },
