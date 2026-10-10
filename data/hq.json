@@ -72,13 +72,13 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-10-10T01:47:52Z"
+  "updatedAt": "2026-10-10T10:08:58Z"
  },
  "brief": {
-  "d": "2026-10-09",
-  "createdAt": "2026-10-09T10:56:19Z",
-  "headline": "Quiet day: Magic prep for Sunday at Cleveland",
-  "summary": "No new Magic stories were confirmed today. Orlando beat Memphis 122-118 in the preseason opener and next plays at Cleveland on Sunday. No source found changed the status of Anthony Black or Jalen Suggs.",
+  "d": "2026-10-10",
+  "createdAt": "2026-10-10T10:08:58Z",
+  "headline": "Quiet Saturday: Magic head to Cleveland Sunday",
+  "summary": "No new Magic stories were confirmed today. Orlando beat Memphis 122-118 in the preseason opener and plays at Cleveland on Sunday. No source found changed the status of Anthony Black or Jalen Suggs.",
   "bullets": [
    {
     "tag": "Game",
@@ -98,8 +98,12 @@
    }
   ],
   "recap": null,
-  "preview": null,
-  "watch": "At Cleveland Sunday, Oct 11 (6:30 PM, ESPN), then home vs Cleveland Tuesday."
+  "preview": {
+   "title": "Sunday at Cavaliers, 6:30 PM, ESPN",
+   "text": "Second preseason game for Orlando. Home vs Cleveland follows Tuesday.",
+   "line": "No line posted"
+  },
+  "watch": "At Cleveland Sunday, Oct 11 (6:30 PM, ESPN), then home vs Cleveland Tuesday (7:00 PM, Peacock)."
  },
  "schedule": {
   "cup": {

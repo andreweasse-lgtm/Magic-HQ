@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "d": "2026-10-09",
+   "createdAt": "2026-10-09T10:56:19Z",
+   "headline": "Quiet day: Magic prep for Sunday at Cleveland",
+   "summary": "No new Magic stories were confirmed today. Orlando beat Memphis 122-118 in the preseason opener and next plays at Cleveland on Sunday. No source found changed the status of Anthony Black or Jalen Suggs.",
+   "bullets": [
+    {
+     "tag": "Game",
+     "text": "Last result: Magic 122, Grizzlies 118 on Oct 7."
+    },
+    {
+     "tag": "Health",
+     "text": "No new injury updates confirmed for Black (ankle) or Suggs."
+    },
+    {
+     "tag": "Contract",
+     "text": "Black extension deadline is Oct 19; no deal reported."
+    },
+    {
+     "tag": "Next game",
+     "text": "Sunday Oct 11 at Cleveland, 6:30 PM ET, ESPN. No line posted."
+    }
+   ],
+   "recap": null,
+   "preview": null,
+   "watch": "At Cleveland Sunday, Oct 11 (6:30 PM, ESPN), then home vs Cleveland Tuesday."
+  },
+  {
    "d": "2026-10-08",
    "createdAt": "2026-10-08T10:58:24Z",
    "headline": "Magic win preseason opener at Memphis, 122-118",
