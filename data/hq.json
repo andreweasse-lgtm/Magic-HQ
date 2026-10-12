@@ -61,7 +61,7 @@
    "w": 45
   },
   "phase": "Preseason",
-  "phaseDetail": "Preseason; Magic lost 119-105 at Cleveland, host Cleveland again Tuesday",
+  "phaseDetail": "Preseason (1-1). Off Monday; host Cleveland Tuesday at 7:00 PM",
   "record": {
    "l": 0,
    "w": 0
@@ -72,42 +72,42 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-10-12T01:24:22Z"
+  "updatedAt": "2026-10-12T11:15:09Z"
  },
  "brief": {
-  "d": "2026-10-11",
-  "createdAt": "2026-10-12T01:24:22Z",
-  "headline": "Magic fall 119-105 at Cleveland without five players",
-  "summary": "Orlando lost its second preseason game, 119-105 at Cleveland, with Black, Suggs, Bane, Isaac and Nelson all out. Tristan da Silva led the Magic with 17 points. The teams meet again Tuesday in Orlando.",
+  "d": "2026-10-12",
+  "createdAt": "2026-10-12T11:15:09Z",
+  "headline": "Report: no Anthony Black extension expected by Oct 19",
+  "summary": "Marc Stein and Jake Fischer report the Magic and Anthony Black are not expected to agree on a rookie-scale extension before the Oct 19 deadline, which would make him a restricted free agent next summer. Orlando is off Monday after Sunday's 119-105 preseason loss at Cleveland and hosts the Cavaliers on Tuesday.",
   "bullets": [
    {
-    "tag": "Game",
-    "text": "Cavaliers 119, Magic 105. James Harden led all scorers with 24 points; da Silva had 17 for Orlando. Magic are 1-1 in preseason."
+    "tag": "Contract",
+    "text": "Stein and Fischer: the sides have not held serious extension talks this offseason or in camp, and a deal by Oct 19 is not expected. Without one, Black is a restricted free agent in 2027."
    },
    {
     "tag": "Health",
-    "text": "Out Sunday: Anthony Black (right ankle sprain), Jalen Suggs (illness), Izaiyah Nelson (left ankle rehab), Desmond Bane (rest), Jonathan Isaac (personal reasons)."
+    "text": "Noah Penda returned from his right hamstring strain at Cleveland (8 pts, 5 reb, 5 ast in 22 min). Black (right ankle) practiced fully Friday but sat again; Suggs (illness), Isaac (personal reasons) and Nelson (left ankle rehab) were also out, and Bane rested."
    },
    {
-    "tag": "Contract",
-    "text": "Black extension deadline is Oct 19; no deal reported."
+    "tag": "Lineup",
+    "text": "Jase Richardson started for Suggs and Tristan da Silva for Bane. Banchero and Wagner played only the first half for the second straight game."
+   },
+   {
+    "tag": "Odds",
+    "text": "FanDuel has the Magic win total at 43.5 (Over -115 / Under -110) and make playoffs at -165. Opener vs Atlanta: Magic -2.5, total 233.5."
    },
    {
     "tag": "Next game",
-    "text": "Tuesday vs Cleveland, 7:00 PM ET, Peacock."
+    "text": "Tuesday vs Cleveland, 7:00 PM ET, Peacock. Miami visits Friday to close the preseason."
    }
   ],
-  "recap": {
-   "title": "Cavaliers 119, Magic 105",
-   "text": "Cleveland led 61-50 at the half and 90-75 after three quarters despite a 14-3 Orlando run to open the third. Orlando played without five rotation players.",
-   "leaders": "da Silva 17 pts; Cavs: Harden 24 pts, Mobley 14 pts"
-  },
+  "recap": null,
   "preview": {
    "title": "Tuesday vs Cavaliers, 7:00 PM, Peacock",
-   "text": "Third preseason game, at home.",
+   "text": "Third preseason game and the first at Kia Center. Cleveland won Sunday's meeting 119-105. Watch whether Black and Suggs make their preseason debuts and Bane returns from rest.",
    "line": "No line posted"
   },
-  "watch": "Home vs Cleveland Tuesday (7:00 PM, Peacock), then Miami Friday."
+  "watch": "Home vs Cleveland Tuesday (7:00 PM, Peacock), Miami Friday (7:00 PM), then the Black extension deadline Monday, Oct 19."
  },
  "schedule": {
   "cup": {
@@ -1397,7 +1397,7 @@
     "cur": null,
     "exp": "5",
     "ht": "6-10",
-    "injury": "Calf",
+    "injury": "",
     "kind": "Standard",
     "last": {
      "ast": 3.3,
@@ -1407,11 +1407,11 @@
      "reb": 5.2
     },
     "name": "Franz Wagner",
-    "note": "Missed 48 games last season with a high ankle sprain, then strained his right calf in the playoffs.",
+    "note": "Missed 48 games last season with a high ankle sprain, then strained his right calf in the playoffs. Has played the first half of both preseason games.",
     "num": "22",
     "pos": "F",
-    "status": "Questionable",
-    "statusNote": "Not yet officially cleared by the team. Told Orlando Magic Daily (Sept 27) he feels fully healthy with nothing holding him back after his offseason rehab and August pickup runs in Los Angeles. Still listed questionable for the start of the season (CBS)."
+    "status": "Healthy",
+    "statusNote": ""
    },
    {
     "age": 28,
@@ -1455,7 +1455,7 @@
     "num": "4",
     "pos": "G",
     "status": "Day-to-day",
-    "statusNote": "Missed Oct 11 preseason game at Cleveland"
+    "statusNote": "Missed both preseason games; listed with an illness Oct 11."
    },
    {
     "age": 22,
@@ -1473,11 +1473,11 @@
      "reb": 3.8
     },
     "name": "Anthony Black",
-    "note": "No extension yet. Restricted free agent in 2027 if no deal. Tabbed as a breakout candidate.",
+    "note": "Marc Stein and Jake Fischer reported Oct 11 that no extension is expected by Oct 19. Restricted free agent in 2027 if no deal.",
     "num": "0",
     "pos": "G",
     "status": "Day-to-day",
-    "statusNote": "Missed Oct 11 preseason game at Cleveland"
+    "statusNote": "Practiced fully Oct 9 but sat Oct 11 at Cleveland (Orlando Sentinel). Has not played in the preseason."
    },
    {
     "age": 27,
@@ -1586,8 +1586,8 @@
     "note": "Waived June 27 and re-signed on a minimum deal July 1.",
     "num": "1",
     "pos": "F",
-    "status": "Questionable",
-    "statusNote": "Partial participant at the start of camp; did breakdown drills and some live-ish work (Sweeney). Sprained his left knee in March and missed the playoffs."
+    "status": "Day-to-day",
+    "statusNote": "Missed Oct 11 at Cleveland for personal reasons. Sprained his left knee in March and missed the playoffs."
    },
    {
     "age": 31,
@@ -1661,7 +1661,7 @@
     "cur": null,
     "exp": "1",
     "ht": "6-7",
-    "injury": "Hamstring",
+    "injury": "",
     "kind": "Standard",
     "last": {
      "ast": 1.2,
@@ -1671,11 +1671,11 @@
      "reb": 3.2
     },
     "name": "Noah Penda",
-    "note": "Seen as the long-term defensive forward off the bench.",
+    "note": "Seen as the long-term defensive forward off the bench. Returned from a right hamstring strain Oct 11 (8 pts, 5 reb, 5 ast).",
     "num": "93",
     "pos": "G-F",
-    "status": "Probable",
-    "statusNote": "Full practice Sunday Oct 4; status for the Oct 7 game not confirmed."
+    "status": "Healthy",
+    "statusNote": ""
    },
    {
     "age": 23,
@@ -1785,7 +1785,7 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Did not play Oct 11"
+    "statusNote": "Has not played in the preseason."
    },
    {
     "num": "24",
@@ -1811,7 +1811,7 @@
    }
   ],
   "statsLabel": "2025-26 per game",
-  "updatedAt": "2026-10-08T10:58:24Z"
+  "updatedAt": "2026-10-12T11:15:09Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
@@ -1884,7 +1884,7 @@
   ],
   "contractWatch": [
    {
-    "text": "Rookie-scale extension deadline. No deal yet. Reported range about $20M-$30M a year; Spotrac projects 4 yrs, $80M. Restricted FA in 2027 if no deal.",
+    "text": "Rookie-scale extension deadline. Marc Stein and Jake Fischer reported Oct 11 that no deal is expected and the sides have not held serious talks. Reported range about $20M-$30M a year; Spotrac projects 4 yrs, $80M. Restricted FA in 2027 if no deal.",
     "title": "Anthony Black extension",
     "when": "2026-10-19"
    },
@@ -1937,39 +1937,40 @@
    }
   ],
   "futures": {
-   "asOf": "2026-09-28",
-   "book": "BetMGM",
-   "extra": [
-    "FanDuel win total 44.5 (Over -105 / Under -125).",
-    "Sweeney Coach of the Year +1000, Black Sixth Man +2000 (BetRivers).",
-    "Season-opener line posted (BetMGM): Magic -2.5 (-110) at home vs Atlanta on Oct 21, moneyline -135."
-   ],
+   "asOf": "2026-10-12",
+   "book": "FanDuel",
    "rows": [
     {
-     "detail": "Over -130 / Under +110",
      "market": "Win total",
-     "price": "43.5"
+     "price": "43.5",
+     "detail": "Over -115 / Under -110 (was 44.5 at FanDuel in late September)"
     },
     {
-     "detail": "About 60% implied",
      "market": "Make playoffs",
-     "price": "-150"
+     "price": "-165",
+     "detail": "Miss +130. About 62% implied"
     },
     {
-     "detail": "Heat +175 favored, Hawks +275",
      "market": "Southeast Division",
-     "price": "+250"
+     "price": "+250",
+     "detail": "Same price at BetMGM"
     },
     {
-     "detail": "10th-best price in the East",
      "market": "Eastern Conference",
-     "price": "+2500"
+     "price": "+1600",
+     "detail": "Reach East finals +650"
     },
     {
-     "detail": "FanDuel as short as +4000 to +6500",
      "market": "NBA title",
-     "price": "+8000"
+     "price": "+4000",
+     "detail": "BetMGM +8000"
     }
+   ],
+   "extra": [
+    "BetMGM (Oct 12): title +8000, East +2500, Southeast +250.",
+    "Season opener vs Atlanta, Oct 21: FanDuel Magic -2.5 (-115), moneyline -142, total 233.5. BetMGM Magic -2.5 (-110), moneyline -135, total 233.5.",
+    "FanDuel NBA Cup winner +2500; Cup East Group A winner +260.",
+    "Sweeney Coach of the Year +1000, Black Sixth Man +2000 (BetRivers, late September)."
    ]
   },
   "gleague": {
@@ -2059,6 +2060,11 @@
   },
   "predictions": [
    {
+    "outlet": "Bleacher Report (Andy Bailey)",
+    "d": "2026-10-02",
+    "text": "15th overall. Calls it a borderline make-or-break season for the Banchero-Wagner pairing."
+   },
+   {
     "d": "2026-09-21",
     "outlet": "The Ringer",
     "text": "15th overall, 9th in the East"
@@ -2139,7 +2145,7 @@
     "text": "Fired head coach Jamahl Mosley."
    }
   ],
-  "updatedAt": "2026-09-28T10:14:26Z",
+  "updatedAt": "2026-10-12T11:15:09Z",
   "watch": [
    {
     "k": "Local TV",

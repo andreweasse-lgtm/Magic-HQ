@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "2026-10-11-report-black-extension-unlikely-before-o",
+   "d": "2026-10-11",
+   "cat": "Contract",
+   "headline": "Report: Black extension unlikely before Oct 19 deadline",
+   "summary": "Marc Stein and Jake Fischer report the Magic and Anthony Black are not expected to agree on a rookie-scale extension before Oct 19, and that the sides have not held serious talks. Without a deal he becomes a restricted free agent in 2027.",
+   "source": "RealGM (via The Stein Line)",
+   "url": "https://basketball.realgm.com/wiretap/287597/Anthony-Black-Magic-Unlikely-To-Agree-To-Extension-By-Deadline",
+   "flag": "rumor",
+   "addedAt": "2026-10-12T11:15:09Z"
+  },
+  {
+   "id": "2026-10-11-penda-returns-from-hamstring-black-and-s",
+   "d": "2026-10-11",
+   "cat": "Injury",
+   "headline": "Penda returns from hamstring; Black and Suggs still out",
+   "summary": "Noah Penda made his preseason debut at Cleveland with 8 points, 5 rebounds and 5 assists in 22 minutes after a right hamstring strain. Anthony Black (right ankle) and Jalen Suggs (illness) sat again, and Desmond Bane had a scheduled rest night.",
+   "source": "Orlando Sentinel",
+   "url": "https://sports.yahoo.com/articles/beede-breakdown-magic-fall-preseason-010700719.html",
+   "flag": null,
+   "addedAt": "2026-10-12T11:15:09Z"
+  },
+  {
    "id": "2026-10-11-cavaliers-beat-magic-119-105-in-preseason",
    "d": "2026-10-11",
    "cat": "Game",
@@ -516,17 +538,6 @@
    "flag": null,
    "addedAt": "2026-09-23T00:47:00Z",
    "id": "2026-07-15-david-steele-retires-after-37-seasons"
-  },
-  {
-   "d": "2026-07-13",
-   "cat": "Injury",
-   "headline": "Izaiyah Nelson fractures ankle at Summer League",
-   "summary": "The two-way rookie had surgery with a 3-4 month timeline.",
-   "source": "Orlando Magic Daily",
-   "url": "https://orlandomagicdaily.com/orlando-magic-players-get-chance-make-first-impression-world-cup-qualifiers",
-   "flag": null,
-   "addedAt": "2026-09-23T00:47:00Z",
-   "id": "2026-07-13-izaiyah-nelson-fractures-ankle-at-summer"
   }
  ]
 }
