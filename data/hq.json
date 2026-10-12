@@ -47,13 +47,13 @@
   ],
   "l10": "",
   "lastGame": {
-   "d": "2026-10-07",
-   "opp": "MEM",
+   "d": "2026-10-11",
+   "opp": "CLE",
    "ha": "A",
-   "us": 122,
-   "them": 118,
-   "wl": "W",
-   "label": "2026 Preseason opener"
+   "us": 105,
+   "them": 119,
+   "wl": "L",
+   "label": "Preseason game 2"
   },
   "lastSeason": {
    "l": 37,
@@ -61,7 +61,7 @@
    "w": 45
   },
   "phase": "Preseason",
-  "phaseDetail": "Preseason; Magic beat Memphis 122-118 in the opener, at Cleveland Sunday",
+  "phaseDetail": "Preseason; Magic lost 119-105 at Cleveland, host Cleveland again Tuesday",
   "record": {
    "l": 0,
    "w": 0
@@ -72,21 +72,21 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-10-11T20:59:12Z"
+  "updatedAt": "2026-10-12T01:24:22Z"
  },
  "brief": {
   "d": "2026-10-11",
-  "createdAt": "2026-10-11T10:20:46Z",
-  "headline": "Magic at Cleveland tonight in second preseason game",
-  "summary": "No new Magic stories were confirmed this morning. Orlando (1-0 in preseason) plays at Cleveland tonight. No new status changes were found for Anthony Black or Jalen Suggs.",
+  "createdAt": "2026-10-12T01:24:22Z",
+  "headline": "Magic fall 119-105 at Cleveland without five players",
+  "summary": "Orlando lost its second preseason game, 119-105 at Cleveland, with Black, Suggs, Bane, Isaac and Nelson all out. Tristan da Silva led the Magic with 17 points. The teams meet again Tuesday in Orlando.",
   "bullets": [
    {
     "tag": "Game",
-    "text": "Last result: Magic 122, Grizzlies 118 on Oct 7."
+    "text": "Cavaliers 119, Magic 105. James Harden led all scorers with 24 points; da Silva had 17 for Orlando. Magic are 1-1 in preseason."
    },
    {
     "tag": "Health",
-    "text": "No new injury updates confirmed; check the official report before tip."
+    "text": "Out Sunday: Anthony Black (right ankle sprain), Jalen Suggs (illness), Izaiyah Nelson (left ankle rehab), Desmond Bane (rest), Jonathan Isaac (personal reasons)."
    },
    {
     "tag": "Contract",
@@ -94,16 +94,20 @@
    },
    {
     "tag": "Next game",
-    "text": "Tonight at Cleveland, 6:30 PM ET, ESPN. No line posted."
+    "text": "Tuesday vs Cleveland, 7:00 PM ET, Peacock."
    }
   ],
-  "recap": null,
+  "recap": {
+   "title": "Cavaliers 119, Magic 105",
+   "text": "Cleveland led 61-50 at the half and 90-75 after three quarters despite a 14-3 Orlando run to open the third. Orlando played without five rotation players.",
+   "leaders": "da Silva 17 pts; Cavs: Harden 24 pts, Mobley 14 pts"
+  },
   "preview": {
-   "title": "Sunday at Cavaliers, 6:30 PM, ESPN",
-   "text": "Second preseason game for Orlando. Home vs Cleveland follows Tuesday.",
+   "title": "Tuesday vs Cavaliers, 7:00 PM, Peacock",
+   "text": "Third preseason game, at home.",
    "line": "No line posted"
   },
-  "watch": "At Cleveland tonight (6:30 PM, ESPN), then home vs Cleveland Tuesday (7:00 PM, Peacock)."
+  "watch": "Home vs Cleveland Tuesday (7:00 PM, Peacock), then Miami Friday."
  },
  "schedule": {
   "cup": {
@@ -141,7 +145,13 @@
     "id": "p20261011",
     "note": "",
     "opp": "CLE",
-    "res": null,
+    "res": {
+     "us": 105,
+     "them": 119,
+     "wl": "L",
+     "ot": "",
+     "note": "Da Silva 17"
+    },
     "t": "6:30 PM",
     "tag": "",
     "tv": "ESPN",
@@ -1431,7 +1441,7 @@
     "cur": null,
     "exp": "5",
     "ht": "6-5",
-    "injury": "Not disclosed",
+    "injury": "Illness",
     "kind": "Standard",
     "last": {
      "ast": 5.5,
@@ -1445,7 +1455,7 @@
     "num": "4",
     "pos": "G",
     "status": "Day-to-day",
-    "statusNote": "Ruled out of the Oct 7 preseason opener; reason not confirmed."
+    "statusNote": "Missed Oct 11 preseason game at Cleveland"
    },
    {
     "age": 22,
@@ -1453,7 +1463,7 @@
     "cur": null,
     "exp": "3",
     "ht": "6-7",
-    "injury": "Ankle",
+    "injury": "Right ankle sprain",
     "kind": "Standard",
     "last": {
      "ast": 3.7,
@@ -1467,7 +1477,7 @@
     "num": "0",
     "pos": "G",
     "status": "Day-to-day",
-    "statusNote": "Ruled out of the Oct 7 preseason opener (ankle). Return date not confirmed."
+    "statusNote": "Missed Oct 11 preseason game at Cleveland"
    },
    {
     "age": 27,
@@ -1761,7 +1771,7 @@
     "cur": null,
     "exp": "R",
     "ht": "6-10",
-    "injury": "Left ankle",
+    "injury": "Left ankle rehab",
     "kind": "Two-way",
     "last": {
      "ast": null,
@@ -1775,7 +1785,7 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Surgery after fracturing his ankle at Summer League (July). Out until at least Nov 1."
+    "statusNote": "Did not play Oct 11"
    },
    {
     "num": "24",
