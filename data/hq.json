@@ -61,7 +61,7 @@
    "w": 45
   },
   "phase": "Preseason",
-  "phaseDetail": "Preseason (1-1). Off Monday; host Cleveland Tuesday at 7:00 PM",
+  "phaseDetail": "Preseason (1-1). Host Cleveland tonight at 7:00 PM; Miami Friday",
   "record": {
    "l": 0,
    "w": 0
@@ -72,42 +72,38 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-10-13T03:04:39Z"
+  "updatedAt": "2026-10-13T11:10:11Z"
  },
  "brief": {
-  "d": "2026-10-12",
-  "createdAt": "2026-10-12T11:15:09Z",
-  "headline": "Report: no Anthony Black extension expected by Oct 19",
-  "summary": "Marc Stein and Jake Fischer report the Magic and Anthony Black are not expected to agree on a rookie-scale extension before the Oct 19 deadline, which would make him a restricted free agent next summer. Orlando is off Monday after Sunday's 119-105 preseason loss at Cleveland and hosts the Cavaliers on Tuesday.",
+  "d": "2026-10-13",
+  "createdAt": "2026-10-13T11:10:11Z",
+  "headline": "Magic host Cleveland tonight in third preseason game",
+  "summary": "Quiet morning with no new confirmed news since yesterday's report that no Anthony Black extension is expected by Oct 19. Orlando (1-1) hosts the Cavaliers at 7:00 PM ET at Kia Center. Official injury designations for tonight were not yet available.",
   "bullets": [
    {
-    "tag": "Contract",
-    "text": "Stein and Fischer: the sides have not held serious extension talks this offseason or in camp, and a deal by Oct 19 is not expected. Without one, Black is a restricted free agent in 2027."
+    "tag": "Next game",
+    "text": "Tonight vs Cleveland, 7:00 PM ET, Peacock. Miami visits Friday to close the preseason."
    },
    {
     "tag": "Health",
-    "text": "Noah Penda returned from his right hamstring strain at Cleveland (8 pts, 5 reb, 5 ast in 22 min). Black (right ankle) practiced fully Friday but sat again; Suggs (illness), Isaac (personal reasons) and Nelson (left ankle rehab) were also out, and Bane rested."
+    "text": "No new confirmed updates. Black (right ankle) and Suggs (illness) sat Sunday; check pregame status. Isaac (personal reasons) and Nelson (left ankle rehab) were also out Sunday."
    },
    {
-    "tag": "Lineup",
-    "text": "Jase Richardson started for Suggs and Tristan da Silva for Bane. Banchero and Wagner played only the first half for the second straight game."
+    "tag": "Contract",
+    "text": "Still no extension reported for Anthony Black ahead of the Oct 19 deadline."
    },
    {
     "tag": "Odds",
-    "text": "FanDuel has the Magic win total at 43.5 (Over -115 / Under -110) and make playoffs at -165. Opener vs Atlanta: Magic -2.5, total 233.5."
-   },
-   {
-    "tag": "Next game",
-    "text": "Tuesday vs Cleveland, 7:00 PM ET, Peacock. Miami visits Friday to close the preseason."
+    "text": "Opener vs Atlanta: Magic -2.5, total 233.5; FanDuel win total 43.5 (as posted Monday)."
    }
   ],
   "recap": null,
   "preview": {
-   "title": "Tuesday vs Cavaliers, 7:00 PM, Peacock",
-   "text": "Third preseason game and the first at Kia Center. Cleveland won Sunday's meeting 119-105. Watch whether Black and Suggs make their preseason debuts and Bane returns from rest.",
+   "title": "Tonight vs Cavaliers, 7:00 PM, Peacock",
+   "text": "Third preseason game and the first at Kia Center. Cleveland won Sunday's meeting 119-105.",
    "line": "No line posted"
   },
-  "watch": "Home vs Cleveland Tuesday (7:00 PM, Peacock), Miami Friday (7:00 PM), then the Black extension deadline Monday, Oct 19."
+  "watch": "Miami Friday (7:00 PM), then the Black extension deadline Monday, Oct 19."
  },
  "schedule": {
   "cup": {
