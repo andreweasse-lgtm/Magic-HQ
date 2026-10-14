@@ -47,13 +47,13 @@
   ],
   "l10": "",
   "lastGame": {
-   "d": "2026-10-11",
+   "d": "2026-10-13",
    "opp": "CLE",
-   "ha": "A",
-   "us": 105,
-   "them": 119,
-   "wl": "L",
-   "label": "Preseason game 2"
+   "ha": "H",
+   "us": 132,
+   "them": 116,
+   "wl": "W",
+   "label": "Preseason game 3"
   },
   "lastSeason": {
    "l": 37,
@@ -61,7 +61,7 @@
    "w": 45
   },
   "phase": "Preseason",
-  "phaseDetail": "Preseason (1-1). Host Cleveland tonight at 7:00 PM; Miami Friday",
+  "phaseDetail": "Preseason (2-1). Host Miami Friday at 7:00 PM to close the preseason",
   "record": {
    "l": 0,
    "w": 0
@@ -72,38 +72,46 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-10-14T01:16:50Z"
+  "updatedAt": "2026-10-14T09:04:08Z"
  },
  "brief": {
-  "d": "2026-10-13",
-  "createdAt": "2026-10-13T11:10:11Z",
-  "headline": "Magic host Cleveland tonight in third preseason game",
-  "summary": "Quiet morning with no new confirmed news since yesterday's report that no Anthony Black extension is expected by Oct 19. Orlando (1-1) hosts the Cavaliers at 7:00 PM ET at Kia Center. Official injury designations for tonight were not yet available.",
+  "d": "2026-10-14",
+  "createdAt": "2026-10-14T09:04:08Z",
+  "headline": "Magic rout Cavaliers 132-116; starters play together",
+  "summary": "Orlando led wire-to-wire in Tuesday night's preseason win over Cleveland, improving to 2-1. The regular starting five played together for the first time this preseason after Jalen Suggs returned from illness. The preseason finale is Friday against Miami.",
   "bullets": [
    {
-    "tag": "Next game",
-    "text": "Tonight vs Cleveland, 7:00 PM ET, Peacock. Miami visits Friday to close the preseason."
+    "tag": "Game",
+    "text": "Magic 132, Cavaliers 116 at Kia Center, up as many as 31. Banchero 24 pts on 10-of-13 shooting, Wagner 20, da Silva 18, Bitadze 14. 64 points in the paint."
+   },
+   {
+    "tag": "Lineup",
+    "text": "Suggs, Bane, Wagner, Banchero and Carter started together for the first time this preseason. Suggs had 9 first-half points."
    },
    {
     "tag": "Health",
-    "text": "No new confirmed updates. Black (right ankle) and Suggs (illness) sat Sunday; check pregame status. Isaac (personal reasons) and Nelson (left ankle rehab) were also out Sunday."
+    "text": "Anthony Black (right ankle sprain) and Jonathan Isaac did not play; Vucevic sat for rest. Suggs is back after missing two games with illness."
    },
    {
     "tag": "Contract",
-    "text": "Still no extension reported for Anthony Black ahead of the Oct 19 deadline."
+    "text": "Still no Black extension reported ahead of the Oct 19 deadline."
    },
    {
-    "tag": "Odds",
-    "text": "Opener vs Atlanta: Magic -2.5, total 233.5; FanDuel win total 43.5 (as posted Monday)."
+    "tag": "Next game",
+    "text": "Friday vs Miami, 7:00 PM ET, MagicTV 27 and DAZN, closes the preseason. Regular season opens Wednesday Oct 21 vs Atlanta."
    }
   ],
-  "recap": null,
+  "recap": {
+   "title": "Magic 132, Cavaliers 116",
+   "text": "Orlando led wire-to-wire and avenged Sunday's 119-105 loss at Cleveland, shooting 36% from three with 64 points in the paint.",
+   "leaders": "Banchero 24 pts, 8 reb; Wagner 20 pts; da Silva 18 pts; Bitadze 14 pts"
+  },
   "preview": {
-   "title": "Tonight vs Cavaliers, 7:00 PM, Peacock",
-   "text": "Third preseason game and the first at Kia Center. Cleveland won Sunday's meeting 119-105.",
+   "title": "Friday vs Heat, 7:00 PM, MagicTV 27",
+   "text": "Preseason finale at Kia Center, also on DAZN.",
    "line": "No line posted"
   },
-  "watch": "Miami Friday (7:00 PM), then the Black extension deadline Monday, Oct 19."
+  "watch": "Friday finale vs Miami, then the Black extension deadline Monday, Oct 19 and the opener Oct 21."
  },
  "schedule": {
   "cup": {
@@ -159,7 +167,13 @@
     "id": "p20261013",
     "note": "",
     "opp": "CLE",
-    "res": null,
+    "res": {
+     "us": 132,
+     "them": 116,
+     "wl": "W",
+     "ot": "",
+     "note": "Banchero 24"
+    },
     "t": "7:00 PM",
     "tag": "",
     "tv": "Peacock",
@@ -174,7 +188,7 @@
     "res": null,
     "t": "7:00 PM",
     "tag": "",
-    "tv": "TBA",
+    "tv": "MagicTV 27, DAZN",
     "type": "pre"
    },
    {
@@ -1166,7 +1180,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-10-08T10:58:24Z"
+  "updatedAt": "2026-10-14T09:04:08Z"
  },
  "standings": {
   "division": {
@@ -1437,7 +1451,7 @@
     "cur": null,
     "exp": "5",
     "ht": "6-5",
-    "injury": "Illness",
+    "injury": "",
     "kind": "Standard",
     "last": {
      "ast": 5.5,
@@ -1450,8 +1464,8 @@
     "note": "Led the team in assists and steals. Starting point guard job is a camp storyline.",
     "num": "4",
     "pos": "G",
-    "status": "Day-to-day",
-    "statusNote": "Missed both preseason games; listed with an illness Oct 11."
+    "status": "Healthy",
+    "statusNote": ""
    },
    {
     "age": 22,
@@ -1473,7 +1487,7 @@
     "num": "0",
     "pos": "G",
     "status": "Day-to-day",
-    "statusNote": "Practiced fully Oct 9 but sat Oct 11 at Cleveland (Orlando Sentinel). Has not played in the preseason."
+    "statusNote": "Practiced fully Oct 9 but sat Oct 11 and Oct 13 (Orlando Sentinel). Has not played in the preseason."
    },
    {
     "age": 27,
@@ -1583,7 +1597,7 @@
     "num": "1",
     "pos": "F",
     "status": "Day-to-day",
-    "statusNote": "Missed Oct 11 at Cleveland for personal reasons. Sprained his left knee in March and missed the playoffs."
+    "statusNote": "Missed Oct 11 and Oct 13 games. Sprained his left knee in March and missed the playoffs."
    },
    {
     "age": 31,
@@ -1807,7 +1821,7 @@
    }
   ],
   "statsLabel": "2025-26 per game",
-  "updatedAt": "2026-10-12T11:15:09Z"
+  "updatedAt": "2026-10-14T09:04:08Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",

@@ -1,6 +1,17 @@
 {
  "items": [
   {
+   "id": "2026-10-14-magic-rout-cavaliers-132-116-in-preseason",
+   "d": "2026-10-14",
+   "cat": "Game",
+   "headline": "Magic rout Cavaliers 132-116 in preseason",
+   "summary": "Orlando led wire-to-wire at Kia Center. Banchero scored 24 on 10-of-13 shooting, Wagner 20 and da Silva 18. Suggs returned from illness and the full starting five played together for the first time. Black (ankle) and Isaac did not play.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/beede-breakdown-magic-bounce-back-012700642.html",
+   "flag": null,
+   "addedAt": "2026-10-14T09:04:08Z"
+  },
+  {
    "id": "2026-10-11-report-black-extension-unlikely-before-o",
    "d": "2026-10-11",
    "cat": "Contract",
@@ -527,17 +538,6 @@
    "flag": null,
    "addedAt": "2026-09-23T00:47:00Z",
    "id": "2026-08-11-franz-wagner-skips-germany-s-summer-to-g"
-  },
-  {
-   "d": "2026-07-15",
-   "cat": "Team/Business",
-   "headline": "David Steele retires after 37 seasons",
-   "summary": "The longtime TV voice of the Magic retired. Dante Marchitelli takes over play-by-play.",
-   "source": "ClickOrlando",
-   "url": "https://www.clickorlando.com/sports/2026/07/15/david-steele-retires-as-the-voice-of-the-orlando-magic/",
-   "flag": null,
-   "addedAt": "2026-09-23T00:47:00Z",
-   "id": "2026-07-15-david-steele-retires-after-37-seasons"
   }
  ]
 }

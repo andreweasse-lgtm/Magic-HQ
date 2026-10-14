@@ -1,6 +1,37 @@
 {
  "items": [
   {
+   "d": "2026-10-13",
+   "createdAt": "2026-10-13T11:10:11Z",
+   "headline": "Magic host Cleveland tonight in third preseason game",
+   "summary": "Quiet morning with no new confirmed news since yesterday's report that no Anthony Black extension is expected by Oct 19. Orlando (1-1) hosts the Cavaliers at 7:00 PM ET at Kia Center. Official injury designations for tonight were not yet available.",
+   "bullets": [
+    {
+     "tag": "Next game",
+     "text": "Tonight vs Cleveland, 7:00 PM ET, Peacock. Miami visits Friday to close the preseason."
+    },
+    {
+     "tag": "Health",
+     "text": "No new confirmed updates. Black (right ankle) and Suggs (illness) sat Sunday; check pregame status. Isaac (personal reasons) and Nelson (left ankle rehab) were also out Sunday."
+    },
+    {
+     "tag": "Contract",
+     "text": "Still no extension reported for Anthony Black ahead of the Oct 19 deadline."
+    },
+    {
+     "tag": "Odds",
+     "text": "Opener vs Atlanta: Magic -2.5, total 233.5; FanDuel win total 43.5 (as posted Monday)."
+    }
+   ],
+   "recap": null,
+   "preview": {
+    "title": "Tonight vs Cavaliers, 7:00 PM, Peacock",
+    "text": "Third preseason game and the first at Kia Center. Cleveland won Sunday's meeting 119-105.",
+    "line": "No line posted"
+   },
+   "watch": "Miami Friday (7:00 PM), then the Black extension deadline Monday, Oct 19."
+  },
+  {
    "d": "2026-10-12",
    "createdAt": "2026-10-12T11:15:09Z",
    "headline": "Report: no Anthony Black extension expected by Oct 19",
