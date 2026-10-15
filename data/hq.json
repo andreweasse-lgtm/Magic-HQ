@@ -72,31 +72,39 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-10-15T08:37:13Z"
+  "updatedAt": "2026-10-15T11:09:38Z"
  },
  "brief": {
   "d": "2026-10-15",
-  "createdAt": "2026-10-15T08:37:13Z",
-  "headline": "Quiet day before Friday's preseason finale vs Miami",
-  "summary": "No new Magic news was confirmed since Tuesday's 132-116 win over Cleveland. Orlando closes the preseason Friday at home against Miami, and the Anthony Black extension deadline is Monday, Oct 19 with no deal reported.",
+  "createdAt": "2026-10-15T11:09:38Z",
+  "headline": "Black progressing, Isaac back with team before Miami finale",
+  "summary": "Sean Sweeney said Anthony Black (right ankle) is progressing well and the team is being careful with him; Black has not played in the preseason. Jonathan Isaac is back with the team after a personal absence and still working back from last season's left knee sprain. Orlando closes the preseason Friday at home against Miami, and the Black extension deadline is Monday with no deal reported.",
   "bullets": [
    {
-    "tag": "Next game",
-    "text": "Friday vs Miami, 7:00 PM ET, MagicTV 27 and DAZN. No line posted."
+    "tag": "Health",
+    "text": "Sweeney on Black (right ankle sprain): \"progressing well,\" and the team will be cautious with his rehab (Orlando Sentinel). He sat all three preseason games so far."
    },
    {
     "tag": "Health",
-    "text": "No new injury updates found. Black (right ankle sprain) and Isaac were out Tuesday; check the official report Friday."
+    "text": "Isaac rejoined the team Oct 13 after missing time for personal reasons and went through individual drills. He sat Tuesday; Friday is his last chance for preseason minutes."
    },
    {
     "tag": "Contract",
-    "text": "No Black extension reported ahead of the Oct 19 deadline."
+    "text": "No Black extension reported ahead of the Oct 19 deadline. Reports on Oct 11 said no deal is expected, which would make him a restricted free agent next summer."
+   },
+   {
+    "tag": "Community",
+    "text": "Walt Disney World extended its long-term partnership with the Magic (terms not disclosed), stays on the jersey, and unveiled a new Walt Disney World Atrium at Kia Center."
+   },
+   {
+    "tag": "Next game",
+    "text": "Friday vs Miami, 7:00 PM ET, MagicTV 27 and DAZN. No line posted yet."
    }
   ],
   "recap": null,
   "preview": {
    "title": "Friday vs Heat, 7:00 PM, MagicTV 27",
-   "text": "Preseason finale at Kia Center, also on DAZN.",
+   "text": "Preseason finale at Kia Center, also on DAZN. Watch for whether Black or Isaac gets minutes before the Oct 21 opener.",
    "line": "No line posted"
   },
   "watch": "Friday finale vs Miami, the Black deadline Oct 19, then the opener Oct 21 vs Atlanta."
@@ -1475,7 +1483,7 @@
     "num": "0",
     "pos": "G",
     "status": "Day-to-day",
-    "statusNote": "Practiced fully Oct 9 but sat Oct 11 and Oct 13 (Orlando Sentinel). Has not played in the preseason."
+    "statusNote": "Has not played in the preseason (sat Oct 7, 11, 13). Sweeney said Oct 13 he is progressing well and the team is being cautious (Orlando Sentinel)."
    },
    {
     "age": 27,
@@ -1571,7 +1579,7 @@
     "cur": null,
     "exp": "9",
     "ht": "6-10",
-    "injury": "Knee",
+    "injury": "Left knee",
     "kind": "Standard",
     "last": {
      "ast": 0.4,
@@ -1585,7 +1593,7 @@
     "num": "1",
     "pos": "F",
     "status": "Day-to-day",
-    "statusNote": "Missed Oct 11 and Oct 13 games. Sprained his left knee in March and missed the playoffs."
+    "statusNote": "Back with the team Oct 13 after a personal absence; did individual drills (Orlando Sentinel). Still working back from the left knee sprain that cost him last season's playoffs. Has not played in the preseason."
    },
    {
     "age": 31,
@@ -1809,7 +1817,7 @@
    }
   ],
   "statsLabel": "2025-26 per game",
-  "updatedAt": "2026-10-14T09:04:08Z"
+  "updatedAt": "2026-10-15T11:09:38Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
