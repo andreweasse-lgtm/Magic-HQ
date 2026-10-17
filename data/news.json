@@ -1,6 +1,39 @@
 {
  "items": [
   {
+   "id": "2026-10-17-magic-waive-branham-davison-knox",
+   "d": "2026-10-17",
+   "cat": "Front Office",
+   "headline": "Magic waive Branham, Davison and Knox",
+   "summary": "Orlando cut the three camp signings less than a day after the preseason finale. Branham and Davison were on Exhibit 10 deals.",
+   "source": "Yahoo Sports",
+   "url": "https://sports.yahoo.com/articles/magic-waives-3-players-preseason-045259248.html",
+   "flag": null,
+   "addedAt": "2026-10-17T08:10:00Z"
+  },
+  {
+   "id": "2026-10-17-wagner-richardson-penda-hurt-vs-heat",
+   "d": "2026-10-17",
+   "cat": "Injury",
+   "headline": "Wagner, Richardson, Penda leave preseason finale hurt",
+   "summary": "Wagner (right shoulder soreness), Richardson (lower back) and Penda (right hamstring) did not finish the game. Sweeney said all will be re-evaluated before the Oct 21 opener.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/beede-breakdown-magic-beat-heat-013100387.html",
+   "flag": null,
+   "addedAt": "2026-10-17T08:10:00Z"
+  },
+  {
+   "id": "2026-10-17-magic-beat-heat-136-115-in-finale",
+   "d": "2026-10-16",
+   "cat": "Game",
+   "headline": "Magic beat Heat 136-115 to finish preseason 3-1",
+   "summary": "Banchero scored 24 and Bane 23 with seven threes. Orlando has won eight straight over Miami.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/beede-breakdown-magic-beat-heat-013100387.html",
+   "flag": null,
+   "addedAt": "2026-10-17T08:10:00Z"
+  },
+  {
    "id": "2026-10-14-magic-rout-cavaliers-132-116-in-preseason",
    "d": "2026-10-14",
    "cat": "Game",

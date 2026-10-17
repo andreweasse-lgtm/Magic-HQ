@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "d": "2026-10-16",
+   "createdAt": "2026-10-16T08:31:40Z",
+   "headline": "Magic close the preseason tonight vs Miami",
+   "summary": "Orlando finishes the preseason at 7:00 PM ET tonight against Miami at Kia Center. No new injury updates or transactions were confirmed overnight; Anthony Black (right ankle) and Jonathan Isaac (left knee) remain the names to watch for minutes. The Black extension deadline is Monday with no deal reported.",
+   "bullets": [
+    {
+     "tag": "Next game",
+     "text": "Tonight vs Miami, 7:00 PM ET, MagicTV 27 and DAZN. No line posted."
+    },
+    {
+     "tag": "Health",
+     "text": "Black (right ankle) sat all three preseason games; Isaac is back with the team but still working back from a left knee sprain. No new status confirmed today."
+    },
+    {
+     "tag": "Contract",
+     "text": "No Black extension reported ahead of the Oct 19 deadline; earlier reports said no deal is expected."
+    }
+   ],
+   "recap": null,
+   "preview": {
+    "title": "Friday vs Heat, 7:00 PM, MagicTV 27",
+    "text": "Preseason finale at Kia Center, also on DAZN. Watch for Black or Isaac minutes before the Oct 21 opener.",
+    "line": "No line posted"
+   },
+   "watch": "Tonight's finale, the Black deadline Oct 19, then the opener Oct 21 vs Atlanta."
+  },
+  {
    "d": "2026-10-15",
    "createdAt": "2026-10-15T11:09:38Z",
    "headline": "Black progressing, Isaac back with team before Miami finale",
