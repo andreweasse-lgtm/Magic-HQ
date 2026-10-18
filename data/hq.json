@@ -72,17 +72,17 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-10-18T08:21:46Z"
+  "updatedAt": "2026-10-18T14:39:59Z"
  },
  "brief": {
   "d": "2026-10-18",
-  "createdAt": "2026-10-18T08:21:46Z",
-  "headline": "Quiet Sunday: Black deadline Monday, opener Wednesday",
-  "summary": "No new Magic game or official update since Friday's 136-115 win over Miami. Franz Wagner (shoulder), Jase Richardson (back) and Noah Penda (hamstring) are still awaiting re-evaluation. Anthony Black's extension deadline is Monday, and the most recent reporting says the Magic have not been willing to meet his price.",
+  "createdAt": "2026-10-18T14:39:59Z",
+  "headline": "Penda out with partial hamstring tear; Wagner still questionable",
+  "summary": "Noah Penda has a partial right hamstring tear and is expected to miss significant time, per the Orlando Sentinel. Franz Wagner (shoulder) and Jase Richardson (back) are still being re-evaluated ahead of Wednesday's opener vs Atlanta. Anthony Black's extension deadline is Monday.",
   "bullets": [
    {
     "tag": "Health",
-    "text": "No new update found on Wagner, Richardson or Penda after they left the preseason finale. Statuses are unchanged pending re-evaluation."
+    "text": "Penda partially tore his right hamstring in the Oct 16 finale and will miss significant time, no timetable. Wagner (right shoulder) is considered questionable for the opener; Richardson (low back) is day-to-day."
    },
    {
     "tag": "Contract",
@@ -90,7 +90,7 @@
    },
    {
     "tag": "Next game",
-    "text": "Wednesday, Oct 21, 7:00 PM ET vs Atlanta, TV27. No line posted yet."
+    "text": "Wednesday, Oct 21, 7:00 PM ET vs Atlanta, TV27. Early line per Dimers: ORL -2.5, total 233.5, ORL -130 / ATL +115 (early, may move)."
    }
   ],
   "recap": null,
@@ -1411,7 +1411,7 @@
     "num": "22",
     "pos": "F",
     "status": "Day-to-day",
-    "statusNote": "Left the Oct 16 preseason finale (ruled out late in 3rd quarter); to be re-evaluated (Orlando Sentinel)."
+    "statusNote": "Left the Oct 16 finale; still being re-evaluated as of Oct 17. Considered questionable for the Oct 21 opener (Orlando Sentinel)."
    },
    {
     "age": 28,
@@ -1661,7 +1661,7 @@
     "cur": null,
     "exp": "1",
     "ht": "6-7",
-    "injury": "Right hamstring tightness",
+    "injury": "Partial right hamstring tear",
     "kind": "Standard",
     "last": {
      "ast": 1.2,
@@ -1674,8 +1674,8 @@
     "note": "Seen as the long-term defensive forward off the bench. Returned from a right hamstring strain Oct 11 (8 pts, 5 reb, 5 ast).",
     "num": "93",
     "pos": "G-F",
-    "status": "Day-to-day",
-    "statusNote": "Left the Oct 16 finale in the 1st quarter; to be re-evaluated (Orlando Sentinel)."
+    "status": "Out",
+    "statusNote": "Expected to miss significant time; no timetable (Orlando Sentinel, Oct 17)."
    },
    {
     "age": 26,
@@ -1745,7 +1745,7 @@
    }
   ],
   "statsLabel": "2025-26 per game",
-  "updatedAt": "2026-10-17T08:10:00Z"
+  "updatedAt": "2026-10-18T14:39:59Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
