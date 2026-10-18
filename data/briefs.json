@@ -1,6 +1,45 @@
 {
  "items": [
   {
+   "d": "2026-10-17",
+   "createdAt": "2026-10-17T08:10:00Z",
+   "headline": "Magic beat Heat 136-115; Wagner, Richardson, Penda hurt",
+   "summary": "Orlando closed the preseason 3-1 with a 136-115 win over Miami, but Franz Wagner (right shoulder soreness), Jase Richardson (lower back) and Noah Penda (right hamstring) all left early and will be re-evaluated. The Magic also waived Malaki Branham, JD Davison and Kevin Knox II. The opener is Wednesday vs Atlanta.",
+   "bullets": [
+    {
+     "tag": "Game",
+     "text": "Magic 136, Heat 115. Banchero 24 points, Bane 23 (7-of-12 from three), Wagner 11 points and 6 assists in 19 minutes. Orlando trailed by 12 early and led by as many as 23."
+    },
+    {
+     "tag": "Health",
+     "text": "Wagner (right shoulder soreness) was ruled out late in the third quarter, Richardson (sore lower back) early in the third, and Penda (right hamstring tightness) left in the first. Sweeney said all three will be re-evaluated."
+    },
+    {
+     "tag": "Health",
+     "text": "Anthony Black and Jonathan Isaac were already out. Beede lists Black with a right hamstring sprain, while earlier reports said right ankle; the exact issue is unclear."
+    },
+    {
+     "tag": "Roster",
+     "text": "Branham, Davison and Knox were waived less than a day after the game."
+    },
+    {
+     "tag": "Contract",
+     "text": "The Black extension deadline is Monday, Oct 19. No deal is reported."
+    },
+    {
+     "tag": "Next game",
+     "text": "Wednesday, Oct 21, 7:00 PM ET vs Atlanta, TV27. No line posted."
+    }
+   ],
+   "recap": {
+    "title": "Magic 136, Heat 115",
+    "text": "Orlando shot 1-of-9 from three early, then Bane scored all 15 of his first-half points from deep. The Magic have beaten Miami eight straight. Giannis Antetokounmpo rested and Bam Adebayo (groin) stayed home for Miami.",
+    "leaders": "Banchero 24 pts; Bane 23 pts; Vucevic 13 pts, 7 reb; Wagner 11 pts, 6 reb, 6 ast"
+   },
+   "preview": null,
+   "watch": "Injury updates on Wagner, Richardson and Penda, the Black deadline Oct 19, then the opener Wednesday vs Atlanta."
+  },
+  {
    "d": "2026-10-16",
    "createdAt": "2026-10-16T08:31:40Z",
    "headline": "Magic close the preseason tonight vs Miami",
