@@ -72,30 +72,42 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-10-19T09:20:02Z"
+  "updatedAt": "2026-10-19T11:21:57Z"
  },
  "brief": {
   "d": "2026-10-19",
-  "createdAt": "2026-10-19T09:20:02Z",
-  "headline": "Quiet Monday: Black deadline day, opener Wednesday",
-  "summary": "No confirmed new developments overnight. Anthony Black's rookie-scale extension deadline is today, and no deal has been reported. Injury statuses for Franz Wagner, Jase Richardson and Noah Penda are unchanged from the last report ahead of Wednesday's opener vs Atlanta.",
+  "createdAt": "2026-10-19T11:21:57Z",
+  "headline": "Deadline day for Black, who is back practicing; Wagner still limited",
+  "summary": "Anthony Black's rookie-scale extension deadline is 6 PM ET today. Marc Stein reports no deal is expected and that Orlando is not looking to trade him, which points to restricted free agency next summer. Black practiced fully Sunday after missing the preseason with a right ankle sprain, while Franz Wagner (right shoulder) did only light work and is questionable for Wednesday's opener vs Atlanta.",
   "bullets": [
    {
     "tag": "Contract",
-    "text": "Black's extension deadline is today. As of this update no agreement has been reported; earlier reports said none was expected."
+    "text": "Black's extension window closes at 6 PM ET. Stein (via BasketNews) says there has been little discussion, no deal is expected, and the Magic are unwilling to trade him. Without a deal he becomes a restricted free agent in 2027."
    },
    {
     "tag": "Health",
-    "text": "No new official injury news. Wagner (shoulder) questionable, Richardson (back) day-to-day, Penda (hamstring) out per the last Sentinel report."
+    "text": "Black (right ankle sprain) took part in Sunday's practice. Sweeney said he looked good, is moving well and will keep ramping up (Orlando Sentinel)."
+   },
+   {
+    "tag": "Health",
+    "text": "Wagner (right shoulder) was limited to light work Sunday and is still being evaluated. Richardson (low back) is day-to-day, Isaac (left knee) is doing more in practice, and Penda (partial hamstring tear) is out with no timetable."
+   },
+   {
+    "tag": "Odds",
+    "text": "FanDuel futures (Oct 19): 43.5 wins (Over -115), make playoffs -155 (was -165 last week), East +1800 (was +1600), title +5000 (was +4000), Southeast +250."
    },
    {
     "tag": "Next game",
-    "text": "Wednesday, Oct 21, 7:00 PM ET vs Atlanta, TV27. Early line per Dimers: ORL -2.5, total 233.5 (may move)."
+    "text": "Wednesday, Oct 21, 7:00 PM ET vs Atlanta at Kia Center, TV27. FanDuel: ORL -2.5, total 234.5, ORL -136 / ATL +118."
    }
   ],
   "recap": null,
-  "preview": null,
-  "watch": "Black deadline tonight, then injury designations ahead of Wednesday's opener vs Atlanta."
+  "preview": {
+   "title": "Wednesday vs Hawks, 7:00 PM, TV27",
+   "text": "Season and home opener at Kia Center. Atlanta went 4-1 in the preseason, closing with a win over Dallas, and is still without Mouhamed Gueye (foot). Orlando is waiting on Wagner (shoulder) and Richardson (back); Black is back practicing and Penda is out.",
+   "line": "ORL -2.5, total 234.5, ML ORL -136 / ATL +118 (FanDuel)"
+  },
+  "watch": "Black's extension deadline at 6 PM ET tonight, then Tuesday's first official injury report for Wednesday's opener vs Atlanta."
  },
  "schedule": {
   "cup": {
@@ -1411,7 +1423,7 @@
     "num": "22",
     "pos": "F",
     "status": "Day-to-day",
-    "statusNote": "Left the Oct 16 finale; still being re-evaluated as of Oct 17. Considered questionable for the Oct 21 opener (Orlando Sentinel)."
+    "statusNote": "Left the Oct 16 finale. Limited to light work at the Oct 18 practice; Sweeney said the team will keep evaluating the shoulder. Questionable for the Oct 21 opener (Orlando Sentinel)."
    },
    {
     "age": 28,
@@ -1473,11 +1485,11 @@
      "reb": 3.8
     },
     "name": "Anthony Black",
-    "note": "Marc Stein and Jake Fischer reported Oct 11 that no extension is expected by Oct 19. Restricted free agent in 2027 if no deal.",
+    "note": "Marc Stein reported Oct 19 that no extension is expected before the deadline and that Orlando is unwilling to trade him. Restricted free agent in 2027 if no deal.",
     "num": "0",
     "pos": "G",
     "status": "Day-to-day",
-    "statusNote": "Has not played in the preseason, including the Oct 16 finale. Described as a right ankle sprain earlier; Orlando Sentinel's Oct 16 game story lists a right hamstring sprain. Extension deadline Oct 19."
+    "statusNote": "Missed the preseason. Full participant in the Oct 16 shootaround and took part in the Oct 18 practice; Sweeney said he looked good, is moving well and will keep ramping up (Orlando Sentinel). Extension deadline 6 PM ET Oct 19."
    },
    {
     "age": 27,
@@ -1587,7 +1599,7 @@
     "num": "1",
     "pos": "F",
     "status": "Day-to-day",
-    "statusNote": "Back with the team Oct 13 after a personal absence; did individual drills (Orlando Sentinel). Still working back from the left knee sprain that cost him last season's playoffs. Has not played in the preseason."
+    "statusNote": "Missed all of camp and the preseason working back from the left knee sprain that cost him last season's playoffs. Ramping up and doing more in practice (Orlando Magic Daily, Oct 18)."
    },
    {
     "age": 31,
@@ -1639,7 +1651,7 @@
     "cur": null,
     "exp": "1",
     "ht": "6-1",
-    "injury": "Lower back soreness",
+    "injury": "Low back soreness",
     "kind": "Standard",
     "last": {
      "ast": 1.1,
@@ -1653,7 +1665,7 @@
     "num": "11",
     "pos": "G",
     "status": "Day-to-day",
-    "statusNote": "Left the Oct 16 finale early in the 3rd quarter; to be re-evaluated (Orlando Sentinel)."
+    "statusNote": "Left the Oct 16 finale early in the 3rd quarter; listed day-to-day (team update, Oct 18)."
    },
    {
     "age": 21,
@@ -1675,7 +1687,7 @@
     "num": "93",
     "pos": "G-F",
     "status": "Out",
-    "statusNote": "Expected to miss significant time; no timetable (Orlando Sentinel, Oct 17)."
+    "statusNote": "Expected to miss significant time; no timetable. Penda said Oct 18 the hamstring is 'really sore' and he has no idea on a return date (Orlando Sentinel)."
    },
    {
     "age": 26,
@@ -1745,7 +1757,7 @@
    }
   ],
   "statsLabel": "2025-26 per game",
-  "updatedAt": "2026-10-18T14:39:59Z"
+  "updatedAt": "2026-10-19T11:21:57Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
@@ -1818,7 +1830,7 @@
   ],
   "contractWatch": [
    {
-    "text": "Rookie-scale extension deadline. Marc Stein and Jake Fischer reported Oct 11 that no deal is expected and the sides have not held serious talks. Reported range about $20M-$30M a year; Spotrac projects 4 yrs, $80M. Restricted FA in 2027 if no deal.",
+    "text": "Rookie-scale extension deadline, 6 PM ET Oct 19. Marc Stein reported Oct 19 that no deal is expected, there has been little discussion, and Orlando is unwilling to trade him. Reported range about $20M-$30M a year; Spotrac projects 4 yrs, $80M. Restricted FA in 2027 if no deal.",
     "title": "Anthony Black extension",
     "when": "2026-10-19"
    },
@@ -1871,39 +1883,39 @@
    }
   ],
   "futures": {
-   "asOf": "2026-10-12",
+   "asOf": "2026-10-19",
    "book": "FanDuel",
    "rows": [
     {
      "market": "Win total",
      "price": "43.5",
-     "detail": "Over -115 / Under -110 (was 44.5 at FanDuel in late September)"
+     "detail": "Over -115 / Under -110 (unchanged from Oct 12; was 44.5 in late September)"
     },
     {
      "market": "Make playoffs",
-     "price": "-165",
-     "detail": "Miss +130. About 62% implied"
+     "price": "-155",
+     "detail": "Miss +125. About 61% implied (was -165 on Oct 12). Make the Play-In +130"
     },
     {
      "market": "Southeast Division",
      "price": "+250",
-     "detail": "Same price at BetMGM"
+     "detail": "Unchanged from Oct 12. Finish 2nd +260"
     },
     {
      "market": "Eastern Conference",
-     "price": "+1600",
-     "detail": "Reach East finals +650"
+     "price": "+1800",
+     "detail": "Was +1600 on Oct 12. Reach East finals +700"
     },
     {
      "market": "NBA title",
-     "price": "+4000",
-     "detail": "BetMGM +8000"
+     "price": "+5000",
+     "detail": "Was +4000 on Oct 12"
     }
    ],
    "extra": [
+    "Season opener vs Atlanta, Oct 21 (FanDuel, Oct 19): Magic -2.5 (-112), moneyline -136, Hawks +118, total 234.5.",
     "BetMGM (Oct 12): title +8000, East +2500, Southeast +250.",
-    "Season opener vs Atlanta, Oct 21: FanDuel Magic -2.5 (-115), moneyline -142, total 233.5. BetMGM Magic -2.5 (-110), moneyline -135, total 233.5.",
-    "FanDuel NBA Cup winner +2500; Cup East Group A winner +260.",
+    "FanDuel NBA Cup winner +2500; Cup East Group A winner +260 (Oct 12).",
     "Sweeney Coach of the Year +1000, Black Sixth Man +2000 (BetRivers, late September)."
    ]
   },
@@ -1994,6 +2006,11 @@
   },
   "predictions": [
    {
+    "outlet": "CBS Sports (Brad Botkin)",
+    "d": "2026-10-15",
+    "text": "Leans Over 43.5 wins but says he would stay away from the bet. Better health could mean 48-50 wins; the team could also slip into the 30s."
+   },
+   {
     "outlet": "Bleacher Report (Andy Bailey)",
     "d": "2026-10-02",
     "text": "15th overall. Calls it a borderline make-or-break season for the Banchero-Wagner pairing."
@@ -2083,7 +2100,7 @@
     "text": "Fired head coach Jamahl Mosley."
    }
   ],
-  "updatedAt": "2026-10-12T11:15:09Z",
+  "updatedAt": "2026-10-19T11:21:57Z",
   "watch": [
    {
     "k": "Local TV",

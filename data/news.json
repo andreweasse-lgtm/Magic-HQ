@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "2026-10-19-stein-no-black-extension-expected-magic",
+   "d": "2026-10-19",
+   "cat": "Contract",
+   "headline": "Stein: No Black extension expected; Magic not looking to trade him",
+   "summary": "Marc Stein reports Anthony Black is not expected to sign a rookie-scale extension before today's 6 PM ET deadline and that there has been little discussion. Orlando still values Black and is unwilling to trade him, so he is likely headed for restricted free agency next summer.",
+   "source": "BasketNews (via The Stein Line)",
+   "url": "https://basketnews.com/news-257646-magic-anthony-black-contract-trade-stance-revealed.html",
+   "flag": "rumor",
+   "addedAt": "2026-10-19T11:21:57Z"
+  },
+  {
+   "id": "2026-10-18-black-practices-wagner-limited-to-light",
+   "d": "2026-10-18",
+   "cat": "Injury",
+   "headline": "Black practices, Wagner limited to light work Sunday",
+   "summary": "Anthony Black (right ankle sprain) took part in Sunday's practice and Sean Sweeney said he is moving well. Franz Wagner (right shoulder) did only light work and is still being evaluated before Wednesday's opener. Jonathan Isaac is ramping up after missing the preseason.",
+   "source": "Orlando Magic Daily",
+   "url": "https://orlandomagicdaily.com/noah-penda-orlando-magic-looking-forward-injury-setback",
+   "flag": null,
+   "addedAt": "2026-10-19T11:21:57Z"
+  },
+  {
    "id": "2026-10-18-penda-partial-hamstring-tear",
    "d": "2026-10-18",
    "cat": "Injury",
