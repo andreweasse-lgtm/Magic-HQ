@@ -67,13 +67,13 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-10-20T15:40:59Z"
+  "updatedAt": "2026-10-20T20:41:02Z"
  },
  "brief": {
   "d": "2026-10-20",
-  "createdAt": "2026-10-20T08:54:27Z",
-  "headline": "No Black extension; Magic open the season Wednesday vs Atlanta",
-  "summary": "Anthony Black and the Magic did not reach a rookie-scale extension before Monday's 6 PM ET deadline, so Black heads to restricted free agency in summer 2027. Orlando opens the season Wednesday at 7:00 PM vs Atlanta. Franz Wagner (right shoulder) is still questionable and the first official injury report for the opener is due today.",
+  "createdAt": "2026-10-20T20:41:02Z",
+  "headline": "Wagner plans to play in Wednesday's opener vs Atlanta",
+  "summary": "Franz Wagner (right shoulder) practiced fully Tuesday and said he plans to play when the Magic open the season Wednesday at 7:00 PM vs Atlanta. Penda remains out and Black is still ramping up. The Black extension deadline passed without a deal.",
   "bullets": [
    {
     "tag": "Contract",
@@ -81,11 +81,11 @@
    },
    {
     "tag": "Health",
-    "text": "Wagner (right shoulder) remains questionable for the opener. Black (right ankle) is ramping up after practicing Sunday. Penda (partial right hamstring tear) is out with no timetable. Richardson (low back) is day-to-day."
+    "text": "Wagner (right shoulder) fully participated in Tuesday practice and says he plans to play (NBC Sports, Sportando). Black (right ankle) is ramping up and questionable. Penda (hamstring) is out. Richardson (low back) is day-to-day. Official designations are still due."
    },
    {
     "tag": "Next game",
-    "text": "Wednesday, Oct 21, 7:00 PM ET vs Atlanta at Kia Center, TV27. Last posted line (FanDuel): ORL -2.5, total 234.5."
+    "text": "Wednesday, Oct 21, 7:00 PM ET vs Atlanta at Kia Center, TV27. Early line: ORL -2.5 (Scores&Stats); last FanDuel total 234.5."
    }
   ],
   "recap": null,
@@ -94,7 +94,7 @@
    "text": "Season and home opener at Kia Center. Atlanta went 4-1 in the preseason, closing with a win over Dallas, and is still without Mouhamed Gueye (foot). Orlando is waiting on Wagner (shoulder) and Richardson (back); Black is back practicing and Penda is out.",
    "line": "ORL -2.5, total 234.5, ML ORL -136 / ATL +118 (FanDuel)"
   },
-  "watch": "Today's first official injury report for Wednesday's opener vs Atlanta, then the 7:00 PM tip Wednesday."
+  "watch": "The official injury report and the 7:00 PM tip Wednesday vs Atlanta."
  },
  "schedule": {
   "cup": {
@@ -1410,7 +1410,7 @@
     "num": "22",
     "pos": "F",
     "status": "Day-to-day",
-    "statusNote": "Left the Oct 16 finale. Limited to light work at the Oct 18 practice; Sweeney said the team will keep evaluating the shoulder. Questionable for the Oct 21 opener (Orlando Sentinel)."
+    "statusNote": "Participated fully in Tuesday practice and said he plans to play in the opener vs Atlanta; official designation pending."
    },
    {
     "age": 28,
