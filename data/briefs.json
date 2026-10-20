@@ -1,6 +1,41 @@
 {
  "items": [
   {
+   "d": "2026-10-19",
+   "createdAt": "2026-10-19T11:21:57Z",
+   "headline": "Deadline day for Black, who is back practicing; Wagner still limited",
+   "summary": "Anthony Black's rookie-scale extension deadline is 6 PM ET today. Marc Stein reports no deal is expected and that Orlando is not looking to trade him, which points to restricted free agency next summer. Black practiced fully Sunday after missing the preseason with a right ankle sprain, while Franz Wagner (right shoulder) did only light work and is questionable for Wednesday's opener vs Atlanta.",
+   "bullets": [
+    {
+     "tag": "Contract",
+     "text": "Black's extension window closes at 6 PM ET. Stein (via BasketNews) says there has been little discussion, no deal is expected, and the Magic are unwilling to trade him. Without a deal he becomes a restricted free agent in 2027."
+    },
+    {
+     "tag": "Health",
+     "text": "Black (right ankle sprain) took part in Sunday's practice. Sweeney said he looked good, is moving well and will keep ramping up (Orlando Sentinel)."
+    },
+    {
+     "tag": "Health",
+     "text": "Wagner (right shoulder) was limited to light work Sunday and is still being evaluated. Richardson (low back) is day-to-day, Isaac (left knee) is doing more in practice, and Penda (partial hamstring tear) is out with no timetable."
+    },
+    {
+     "tag": "Odds",
+     "text": "FanDuel futures (Oct 19): 43.5 wins (Over -115), make playoffs -155 (was -165 last week), East +1800 (was +1600), title +5000 (was +4000), Southeast +250."
+    },
+    {
+     "tag": "Next game",
+     "text": "Wednesday, Oct 21, 7:00 PM ET vs Atlanta at Kia Center, TV27. FanDuel: ORL -2.5, total 234.5, ORL -136 / ATL +118."
+    }
+   ],
+   "recap": null,
+   "preview": {
+    "title": "Wednesday vs Hawks, 7:00 PM, TV27",
+    "text": "Season and home opener at Kia Center. Atlanta went 4-1 in the preseason, closing with a win over Dallas, and is still without Mouhamed Gueye (foot). Orlando is waiting on Wagner (shoulder) and Richardson (back); Black is back practicing and Penda is out.",
+    "line": "ORL -2.5, total 234.5, ML ORL -136 / ATL +118 (FanDuel)"
+   },
+   "watch": "Black's extension deadline at 6 PM ET tonight, then Tuesday's first official injury report for Wednesday's opener vs Atlanta."
+  },
+  {
    "d": "2026-10-18",
    "createdAt": "2026-10-18T14:39:59Z",
    "headline": "Penda out with partial hamstring tear; Wagner still questionable",
