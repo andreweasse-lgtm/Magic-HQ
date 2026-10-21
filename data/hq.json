@@ -50,8 +50,8 @@
    "note": "8th in the East. Lost in the first round to Detroit, 4-3.",
    "w": 45
   },
-  "phase": "Preseason",
-  "phaseDetail": "Preseason finished 3-1. Regular season opens tonight, Oct 21 vs Atlanta, 7:00 PM",
+  "phase": "Regular season",
+  "phaseDetail": "Season opener tonight vs Atlanta, 7:00 PM, Kia Center (TV27). Preseason finished 3-1.",
   "record": {
    "l": 0,
    "w": 0
@@ -62,30 +62,42 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-10-21T09:00:00Z"
+  "updatedAt": "2026-10-21T13:11:28Z"
  },
  "brief": {
   "d": "2026-10-21",
-  "createdAt": "2026-10-21T09:00:00Z",
-  "headline": "Magic open the season tonight vs Atlanta",
-  "summary": "The Magic open the 2026-27 season at 7:00 PM tonight at Kia Center against the Hawks. Franz Wagner is not on the initial injury report after practicing fully Tuesday, and Jase Richardson is also off it. Black, Isaac, Penda and Nelson are out.",
+  "createdAt": "2026-10-21T13:11:28Z",
+  "headline": "Opening night: Magic host Hawks at 7 PM; Black and Isaac out",
+  "summary": "The Magic open Sean Sweeney's first season at 7:00 PM tonight against Atlanta at Kia Center (TV27, DAZN). Franz Wagner (shoulder) and Jase Richardson (back) practiced fully Tuesday and are off the injury report. Anthony Black, Jonathan Isaac, Noah Penda and Izaiyah Nelson are out. The line has moved toward Orlando, now a 3.5-point favorite at FanDuel.",
   "bullets": [
    {
     "tag": "Health",
-    "text": "Initial injury report lists Anthony Black (right ankle sprain), Jonathan Isaac (left knee), Noah Penda (partial right hamstring tear) and Izaiyah Nelson (left ankle) as out. Wagner (shoulder) and Richardson (back) are not listed (Roundtable, CBS Sports)."
+    "text": "Out: Anthony Black (right ankle sprain), Jonathan Isaac (left knee, injury management), Noah Penda (partial right hamstring tear) and Izaiyah Nelson (left ankle, injury management). Wagner and Richardson are available (Orlando Sentinel)."
+   },
+   {
+    "tag": "Odds",
+    "text": "FanDuel has Orlando -3.5 (opened -2.5), moneyline ORL -142 / ATL +120, total 235.5 (up from 234.5)."
    },
    {
     "tag": "Next game",
-    "text": "Wednesday, Oct 21, 7:00 PM ET vs Atlanta at Kia Center, TV27. FanDuel: ORL -2.5, total 234.5."
+    "text": "Atlanta is without Mouhamed Gueye (left foot fracture) and rookie Henri Veesaar (torn ACL, out for the season). Projected Hawks starters: CJ McCollum, Nickeil Alexander-Walker, Dyson Daniels, Jalen Johnson, Onyeka Okongwu (Magic On SI)."
+   },
+   {
+    "tag": "Contract",
+    "text": "Black on the missed extension deadline: \"For an agreement to happen, two people (have) to agree.\" He said his focus is on helping the team win and he is \"definitely feeling better\" (Orlando Sentinel)."
+   },
+   {
+    "tag": "Standings",
+    "text": "Around the East on opening night: Detroit beat Boston 121-113 at home and Philadelphia won 106-100 at New York."
    }
   ],
   "recap": null,
   "preview": {
    "title": "Wednesday vs Hawks, 7:00 PM, TV27",
-   "text": "Season and home opener at Kia Center. Atlanta went 4-1 in the preseason, closing with a win over Dallas, and is still without Mouhamed Gueye (foot). Orlando is waiting on Wagner (shoulder) and Richardson (back); Black is back practicing and Penda is out.",
-   "line": "ORL -2.5, total 234.5, ML ORL -136 / ATL +118 (FanDuel)"
+   "text": "Season and home opener, and Sweeney's regular-season debut. Orlando lost all four regular-season meetings with Atlanta last season and has dropped 18 of the last 23. The headline matchup is Paolo Banchero against fellow Duke product Jalen Johnson. Orlando is without Black, Isaac, Penda and Nelson; Atlanta without Gueye and Veesaar.",
+   "line": "ORL -3.5, total 235.5, ML ORL -142 / ATL +120 (FanDuel)"
   },
-  "watch": "The 7:00 PM tip tonight vs Atlanta, then Friday vs Minnesota."
+  "watch": "Tip at 7:00 PM tonight vs Atlanta, then Friday vs Minnesota at 7:00 PM."
  },
  "schedule": {
   "cup": {
@@ -1387,7 +1399,7 @@
     "cur": null,
     "exp": "5",
     "ht": "6-10",
-    "injury": "Right shoulder soreness",
+    "injury": "",
     "kind": "Standard",
     "last": {
      "ast": 3.3,
@@ -1397,11 +1409,11 @@
      "reb": 5.2
     },
     "name": "Franz Wagner",
-    "note": "Missed 48 games last season with a high ankle sprain, then strained his right calf in the playoffs. Has played the first half of both preseason games.",
+    "note": "Missed 48 games last season with a high ankle sprain, then strained his right calf in the playoffs. Left the preseason finale with right shoulder soreness but practiced fully Oct 20 and is off the injury report.",
     "num": "22",
     "pos": "F",
-    "status": "Probable",
-    "statusNote": "Not on the initial injury report for the opener; participated fully in Tuesday practice and plans to play."
+    "status": "Healthy",
+    "statusNote": ""
    },
    {
     "age": 28,
@@ -1449,7 +1461,7 @@
    },
    {
     "age": 22,
-    "contract": "$10.1M. Final rookie-scale year. Extension deadline Oct 19",
+    "contract": "$10.1M. Final rookie-scale year. No extension; restricted free agent in 2027",
     "cur": null,
     "exp": "3",
     "ht": "6-7",
@@ -1463,11 +1475,11 @@
      "reb": 3.8
     },
     "name": "Anthony Black",
-    "note": "Marc Stein reported Oct 19 that no extension is expected before the deadline and that Orlando is unwilling to trade him. Restricted free agent in 2027 if no deal.",
+    "note": "No rookie-scale extension by the Oct 19 deadline. Restricted free agent in 2027; Orlando can match any offer sheet.",
     "num": "0",
     "pos": "G",
     "status": "Out",
-    "statusNote": "Ruled out for the opener; Sweeney called the right ankle sprain minor and day-to-day. Extension deadline passed without a deal."
+    "statusNote": "Ruled out for the opener. Says he is \"definitely feeling better\"; Sweeney said he is still ramping up."
    },
    {
     "age": 27,
@@ -1563,7 +1575,7 @@
     "cur": null,
     "exp": "9",
     "ht": "6-10",
-    "injury": "Left knee",
+    "injury": "Left knee (injury management)",
     "kind": "Standard",
     "last": {
      "ast": 0.4,
@@ -1577,7 +1589,7 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Listed out for the opener with the left knee; missed all four preseason games."
+    "statusNote": "Ruled out for the opener despite practicing Tuesday. Missed all four preseason games."
    },
    {
     "age": 31,
@@ -1643,7 +1655,7 @@
     "num": "11",
     "pos": "G",
     "status": "Healthy",
-    "statusNote": "Off the injury report for the opener (CBS Sports/RotoWire, Oct 20); unlikely to play a significant role."
+    "statusNote": ""
    },
    {
     "age": 21,
@@ -1717,7 +1729,7 @@
     "cur": null,
     "exp": "R",
     "ht": "6-10",
-    "injury": "Left ankle rehab",
+    "injury": "Left ankle (injury management)",
     "kind": "Two-way",
     "last": {
      "ast": null,
@@ -1731,11 +1743,11 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Has not played in the preseason."
+    "statusNote": "Ruled out for the opener. Did not play in the preseason."
    }
   ],
   "statsLabel": "2025-26 per game",
-  "updatedAt": "2026-10-21T09:00:00Z"
+  "updatedAt": "2026-10-21T13:11:28Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
@@ -1891,7 +1903,7 @@
     }
    ],
    "extra": [
-    "Season opener vs Atlanta, Oct 21 (FanDuel, Oct 19): Magic -2.5 (-112), moneyline -136, Hawks +118, total 234.5.",
+    "Season opener vs Atlanta (FanDuel, Oct 20): Magic -3.5, moneyline -142, Hawks +120, total 235.5. Opened Magic -2.5, total 234.5.",
     "BetMGM (Oct 12): title +8000, East +2500, Southeast +250.",
     "FanDuel NBA Cup winner +2500; Cup East Group A winner +260 (Oct 12).",
     "Sweeney Coach of the Year +1000, Black Sixth Man +2000 (BetRivers, late September)."
@@ -2082,7 +2094,7 @@
     "text": "Fired head coach Jamahl Mosley."
    }
   ],
-  "updatedAt": "2026-10-19T11:21:57Z",
+  "updatedAt": "2026-10-21T13:11:28Z",
   "watch": [
    {
     "k": "Local TV",
