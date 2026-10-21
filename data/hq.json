@@ -5,11 +5,6 @@
   "home": "0-0",
   "keyDates": [
    {
-    "d": "2026-10-20",
-    "detail": "",
-    "label": "NBA opening night"
-   },
-   {
     "d": "2026-10-21",
     "detail": "7 PM ET, Kia Center, TV27",
     "label": "Season opener vs Atlanta"
@@ -56,7 +51,7 @@
    "w": 45
   },
   "phase": "Preseason",
-  "phaseDetail": "Preseason finished 3-1. Regular season opens Wednesday, Oct 21 vs Atlanta, 7:00 PM",
+  "phaseDetail": "Preseason finished 3-1. Regular season opens tonight, Oct 21 vs Atlanta, 7:00 PM",
   "record": {
    "l": 0,
    "w": 0
@@ -67,25 +62,21 @@
    "div": null
   },
   "streak": "",
-  "updatedAt": "2026-10-21T00:40:18Z"
+  "updatedAt": "2026-10-21T09:00:00Z"
  },
  "brief": {
-  "d": "2026-10-20",
-  "createdAt": "2026-10-20T20:41:02Z",
-  "headline": "Wagner plans to play in Wednesday's opener vs Atlanta",
-  "summary": "Franz Wagner (right shoulder) practiced fully Tuesday and said he plans to play when the Magic open the season Wednesday at 7:00 PM vs Atlanta. Penda remains out and Black is still ramping up. The Black extension deadline passed without a deal.",
+  "d": "2026-10-21",
+  "createdAt": "2026-10-21T09:00:00Z",
+  "headline": "Magic open the season tonight vs Atlanta",
+  "summary": "The Magic open the 2026-27 season at 7:00 PM tonight at Kia Center against the Hawks. Franz Wagner is not on the initial injury report after practicing fully Tuesday, and Jase Richardson is also off it. Black, Isaac, Penda and Nelson are out.",
   "bullets": [
    {
-    "tag": "Contract",
-    "text": "No extension for Black by the Oct 19 deadline (Yahoo Sports). He will be a restricted free agent next summer and the Magic can match any offer sheet. Orlando has about $161 million committed to Banchero, Wagner, Suggs and Bane for 2027-28."
-   },
-   {
     "tag": "Health",
-    "text": "Wagner (right shoulder) fully participated in Tuesday practice and says he plans to play (NBC Sports, Sportando). Black (right ankle) is ramping up and questionable. Penda (hamstring) is out. Richardson (low back) is day-to-day. Official designations are still due."
+    "text": "Initial injury report lists Anthony Black (right ankle sprain), Jonathan Isaac (left knee), Noah Penda (partial right hamstring tear) and Izaiyah Nelson (left ankle) as out. Wagner (shoulder) and Richardson (back) are not listed (Roundtable, CBS Sports)."
    },
    {
     "tag": "Next game",
-    "text": "Wednesday, Oct 21, 7:00 PM ET vs Atlanta at Kia Center, TV27. Early line: ORL -2.5 (Scores&Stats); last FanDuel total 234.5."
+    "text": "Wednesday, Oct 21, 7:00 PM ET vs Atlanta at Kia Center, TV27. FanDuel: ORL -2.5, total 234.5."
    }
   ],
   "recap": null,
@@ -94,7 +85,7 @@
    "text": "Season and home opener at Kia Center. Atlanta went 4-1 in the preseason, closing with a win over Dallas, and is still without Mouhamed Gueye (foot). Orlando is waiting on Wagner (shoulder) and Richardson (back); Black is back practicing and Penda is out.",
    "line": "ORL -2.5, total 234.5, ML ORL -136 / ATL +118 (FanDuel)"
   },
-  "watch": "The official injury report and the 7:00 PM tip Wednesday vs Atlanta."
+  "watch": "The 7:00 PM tip tonight vs Atlanta, then Friday vs Minnesota."
  },
  "schedule": {
   "cup": {
@@ -1409,8 +1400,8 @@
     "note": "Missed 48 games last season with a high ankle sprain, then strained his right calf in the playoffs. Has played the first half of both preseason games.",
     "num": "22",
     "pos": "F",
-    "status": "Day-to-day",
-    "statusNote": "Participated fully in Tuesday practice and said he plans to play in the opener vs Atlanta; official designation pending."
+    "status": "Probable",
+    "statusNote": "Not on the initial injury report for the opener; participated fully in Tuesday practice and plans to play."
    },
    {
     "age": 28,
@@ -1475,8 +1466,8 @@
     "note": "Marc Stein reported Oct 19 that no extension is expected before the deadline and that Orlando is unwilling to trade him. Restricted free agent in 2027 if no deal.",
     "num": "0",
     "pos": "G",
-    "status": "Day-to-day",
-    "statusNote": "Missed the preseason. Full participant in the Oct 16 shootaround and took part in the Oct 18 practice; Sweeney said he looked good, is moving well and will keep ramping up (Orlando Sentinel). Extension deadline 6 PM ET Oct 19."
+    "status": "Out",
+    "statusNote": "Ruled out for the opener; Sweeney called the right ankle sprain minor and day-to-day. Extension deadline passed without a deal."
    },
    {
     "age": 27,
@@ -1585,8 +1576,8 @@
     "note": "Waived June 27 and re-signed on a minimum deal July 1.",
     "num": "1",
     "pos": "F",
-    "status": "Day-to-day",
-    "statusNote": "Missed all of camp and the preseason working back from the left knee sprain that cost him last season's playoffs. Ramping up and doing more in practice (Orlando Magic Daily, Oct 18)."
+    "status": "Out",
+    "statusNote": "Listed out for the opener with the left knee; missed all four preseason games."
    },
    {
     "age": 31,
@@ -1638,7 +1629,7 @@
     "cur": null,
     "exp": "1",
     "ht": "6-1",
-    "injury": "Low back soreness",
+    "injury": "",
     "kind": "Standard",
     "last": {
      "ast": 1.1,
@@ -1651,8 +1642,8 @@
     "note": "Averaged 18.3 points in Summer League.",
     "num": "11",
     "pos": "G",
-    "status": "Day-to-day",
-    "statusNote": "Left the Oct 16 finale early in the 3rd quarter; listed day-to-day (team update, Oct 18)."
+    "status": "Healthy",
+    "statusNote": "Off the injury report for the opener (CBS Sports/RotoWire, Oct 20); unlikely to play a significant role."
    },
    {
     "age": 21,
@@ -1744,7 +1735,7 @@
    }
   ],
   "statsLabel": "2025-26 per game",
-  "updatedAt": "2026-10-19T11:21:57Z"
+  "updatedAt": "2026-10-21T09:00:00Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
