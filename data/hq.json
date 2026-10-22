@@ -2,13 +2,8 @@
  "meta": {
   "away": "0-0",
   "coach": "Sean Sweeney",
-  "home": "0-0",
+  "home": "0-1",
   "keyDates": [
-   {
-    "d": "2026-10-21",
-    "detail": "7 PM ET, Kia Center, TV27",
-    "label": "Season opener vs Atlanta"
-   },
    {
     "d": "2026-10-30",
     "detail": "at Toronto",
@@ -35,15 +30,15 @@
     "label": "Regular season ends"
    }
   ],
-  "l10": "",
+  "l10": "0-1",
   "lastGame": {
-   "d": "2026-10-16",
-   "opp": "MIA",
+   "d": "2026-10-21",
+   "opp": "ATL",
    "ha": "H",
-   "us": 136,
-   "them": 115,
-   "wl": "W",
-   "label": "Preseason finale"
+   "us": 125,
+   "them": 132,
+   "wl": "L",
+   "label": "Season opener"
   },
   "lastSeason": {
    "l": 37,
@@ -51,53 +46,53 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Season opener tonight vs Atlanta, 7:00 PM, Kia Center (TV27). Preseason finished 3-1.",
+  "phaseDetail": "Magic 0-1 after a 132-125 opening loss to Atlanta. Next: Friday vs Minnesota, 7:00 PM, TV27.",
   "record": {
-   "l": 0,
-   "w": 0
+   "w": 0,
+   "l": 1
   },
   "season": "2026-27",
   "standing": {
    "conf": null,
    "div": null
   },
-  "streak": "",
-  "updatedAt": "2026-10-22T00:43:37Z"
+  "streak": "L1",
+  "updatedAt": "2026-10-22T08:58:08Z"
  },
  "brief": {
-  "d": "2026-10-21",
-  "createdAt": "2026-10-21T13:11:28Z",
-  "headline": "Opening night: Magic host Hawks at 7 PM; Black and Isaac out",
-  "summary": "The Magic open Sean Sweeney's first season at 7:00 PM tonight against Atlanta at Kia Center (TV27, DAZN). Franz Wagner (shoulder) and Jase Richardson (back) practiced fully Tuesday and are off the injury report. Anthony Black, Jonathan Isaac, Noah Penda and Izaiyah Nelson are out. The line has moved toward Orlando, now a 3.5-point favorite at FanDuel.",
+  "d": "2026-10-22",
+  "createdAt": "2026-10-22T08:58:08Z",
+  "headline": "Magic fall to Hawks 132-125 in opener despite Banchero's 35",
+  "summary": "Atlanta beat Orlando 132-125 in Sean Sweeney's debut. Paolo Banchero had 35 points, 10 assists and 7 rebounds on 10-of-12 shooting, but the Magic had 20 turnovers, missed nine free throws and shot 2-for-11 in the last five minutes. Banchero and Jalen Johnson had a mid-court exchange after the buzzer. Minnesota visits Friday at 7:00 PM.",
   "bullets": [
    {
+    "tag": "Game",
+    "text": "Hawks 132, Magic 125. Orlando led 97-95 in the third quarter before Atlanta won the fourth 33-25. Nickeil Alexander-Walker scored 31 with 13 free throws; Dyson Daniels and Jalen Johnson had 20 each (Yahoo Sports/Orlando Sentinel)."
+   },
+   {
+    "tag": "Game",
+    "text": "Wendell Carter Jr. 22 pts, 7 reb; Franz Wagner 22 pts, 6 reb, 5 ast despite playing 8 first-half minutes with foul trouble; Desmond Bane 18; Tristan da Silva 14 (4-of-10 from three)."
+   },
+   {
     "tag": "Health",
-    "text": "Out: Anthony Black (right ankle sprain), Jonathan Isaac (left knee, injury management), Noah Penda (partial right hamstring tear) and Izaiyah Nelson (left ankle, injury management). Wagner and Richardson are available (Orlando Sentinel)."
-   },
-   {
-    "tag": "Odds",
-    "text": "FanDuel has Orlando -3.5 (opened -2.5), moneyline ORL -142 / ATL +120, total 235.5 (up from 234.5)."
-   },
-   {
-    "tag": "Next game",
-    "text": "Atlanta is without Mouhamed Gueye (left foot fracture) and rookie Henri Veesaar (torn ACL, out for the season). Projected Hawks starters: CJ McCollum, Nickeil Alexander-Walker, Dyson Daniels, Jalen Johnson, Onyeka Okongwu (Magic On SI)."
-   },
-   {
-    "tag": "Contract",
-    "text": "Black on the missed extension deadline: \"For an agreement to happen, two people (have) to agree.\" He said his focus is on helping the team win and he is \"definitely feeling better\" (Orlando Sentinel)."
+    "text": "No new injuries reported. Anthony Black (right ankle) and Noah Penda (partial right hamstring tear) remain out; Jonathan Isaac and Izaiyah Nelson were also out for the opener."
    },
    {
     "tag": "Standings",
-    "text": "Around the East on opening night: Detroit beat Boston 121-113 at home and Philadelphia won 106-100 at New York."
+    "text": "Orlando is 0-1. Atlanta has now beaten the Magic in five straight regular-season meetings."
+   },
+   {
+    "tag": "Next game",
+    "text": "Friday vs Minnesota at 7:00 PM (TV27), then a three-game road trip. Betting line and injury report not yet confirmed."
    }
   ],
-  "recap": null,
-  "preview": {
-   "title": "Wednesday vs Hawks, 7:00 PM, TV27",
-   "text": "Season and home opener, and Sweeney's regular-season debut. Orlando lost all four regular-season meetings with Atlanta last season and has dropped 18 of the last 23. The headline matchup is Paolo Banchero against fellow Duke product Jalen Johnson. Orlando is without Black, Isaac, Penda and Nelson; Atlanta without Gueye and Veesaar.",
-   "line": "ORL -3.5, total 235.5, ML ORL -142 / ATL +120 (FanDuel)"
+  "recap": {
+   "title": "Hawks 132, Magic 125",
+   "text": "Orlando led early and 97-95 in the third, but 20 turnovers, nine missed free throws and a 1-of-12 fourth quarter from three let Atlanta pull away. Sweeney: \"A lot of correctable things.\"",
+   "leaders": "Banchero 35 pts, 10 ast, 7 reb; Carter 22 pts, 7 reb; Wagner 22 pts, 6 reb, 5 ast"
   },
-  "watch": "Tip at 7:00 PM tonight vs Atlanta, then Friday vs Minnesota at 7:00 PM."
+  "preview": null,
+  "watch": "Friday vs Minnesota at 7:00 PM, then the road trip starts Sunday at New York."
  },
  "schedule": {
   "cup": {
@@ -189,7 +184,13 @@
     "id": "r20261021",
     "note": "Home opener",
     "opp": "ATL",
-    "res": null,
+    "res": {
+     "us": 125,
+     "them": 132,
+     "wl": "L",
+     "ot": "",
+     "note": "Banchero 35 pts, 10 ast"
+    },
     "t": "7:00 PM",
     "tag": "",
     "tv": "TV27",
@@ -1172,7 +1173,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-10-17T08:10:00Z"
+  "updatedAt": "2026-10-22T08:58:08Z"
  },
  "standings": {
   "division": {
@@ -1374,7 +1375,13 @@
    {
     "age": 23,
     "contract": "$41.2M. Year 1 of 5-yr, $239M max (through 2030-31)",
-    "cur": null,
+    "cur": {
+     "gp": 1,
+     "pts": 35.0,
+     "reb": 7.0,
+     "ast": 10.0,
+     "fg": 0.833
+    },
     "exp": "4",
     "ht": "6-10",
     "injury": "",
@@ -1747,7 +1754,7 @@
    }
   ],
   "statsLabel": "2025-26 per game",
-  "updatedAt": "2026-10-21T13:11:28Z"
+  "updatedAt": "2026-10-22T08:58:08Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",

@@ -1,6 +1,41 @@
 {
  "items": [
   {
+   "d": "2026-10-21",
+   "createdAt": "2026-10-21T13:11:28Z",
+   "headline": "Opening night: Magic host Hawks at 7 PM; Black and Isaac out",
+   "summary": "The Magic open Sean Sweeney's first season at 7:00 PM tonight against Atlanta at Kia Center (TV27, DAZN). Franz Wagner (shoulder) and Jase Richardson (back) practiced fully Tuesday and are off the injury report. Anthony Black, Jonathan Isaac, Noah Penda and Izaiyah Nelson are out. The line has moved toward Orlando, now a 3.5-point favorite at FanDuel.",
+   "bullets": [
+    {
+     "tag": "Health",
+     "text": "Out: Anthony Black (right ankle sprain), Jonathan Isaac (left knee, injury management), Noah Penda (partial right hamstring tear) and Izaiyah Nelson (left ankle, injury management). Wagner and Richardson are available (Orlando Sentinel)."
+    },
+    {
+     "tag": "Odds",
+     "text": "FanDuel has Orlando -3.5 (opened -2.5), moneyline ORL -142 / ATL +120, total 235.5 (up from 234.5)."
+    },
+    {
+     "tag": "Next game",
+     "text": "Atlanta is without Mouhamed Gueye (left foot fracture) and rookie Henri Veesaar (torn ACL, out for the season). Projected Hawks starters: CJ McCollum, Nickeil Alexander-Walker, Dyson Daniels, Jalen Johnson, Onyeka Okongwu (Magic On SI)."
+    },
+    {
+     "tag": "Contract",
+     "text": "Black on the missed extension deadline: \"For an agreement to happen, two people (have) to agree.\" He said his focus is on helping the team win and he is \"definitely feeling better\" (Orlando Sentinel)."
+    },
+    {
+     "tag": "Standings",
+     "text": "Around the East on opening night: Detroit beat Boston 121-113 at home and Philadelphia won 106-100 at New York."
+    }
+   ],
+   "recap": null,
+   "preview": {
+    "title": "Wednesday vs Hawks, 7:00 PM, TV27",
+    "text": "Season and home opener, and Sweeney's regular-season debut. Orlando lost all four regular-season meetings with Atlanta last season and has dropped 18 of the last 23. The headline matchup is Paolo Banchero against fellow Duke product Jalen Johnson. Orlando is without Black, Isaac, Penda and Nelson; Atlanta without Gueye and Veesaar.",
+    "line": "ORL -3.5, total 235.5, ML ORL -142 / ATL +120 (FanDuel)"
+   },
+   "watch": "Tip at 7:00 PM tonight vs Atlanta, then Friday vs Minnesota at 7:00 PM."
+  },
+  {
    "d": "2026-10-20",
    "createdAt": "2026-10-20T20:41:02Z",
    "headline": "Wagner plans to play in Wednesday's opener vs Atlanta",
