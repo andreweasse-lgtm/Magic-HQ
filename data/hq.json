@@ -46,7 +46,7 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 0-1 after a 132-125 opening loss to Atlanta. Next: Friday vs Minnesota, 7:00 PM, TV27.",
+  "phaseDetail": "Magic 0-1 after a 132-125 opening loss to Atlanta. Next: tonight vs Minnesota, 7:00 PM, TV27.",
   "record": {
    "w": 0,
    "l": 1
@@ -57,42 +57,38 @@
    "div": null
   },
   "streak": "L1",
-  "updatedAt": "2026-10-23T00:43:32Z"
+  "updatedAt": "2026-10-23T08:52:14Z"
  },
  "brief": {
-  "d": "2026-10-22",
-  "createdAt": "2026-10-22T08:58:08Z",
-  "headline": "Magic fall to Hawks 132-125 in opener despite Banchero's 35",
-  "summary": "Atlanta beat Orlando 132-125 in Sean Sweeney's debut. Paolo Banchero had 35 points, 10 assists and 7 rebounds on 10-of-12 shooting, but the Magic had 20 turnovers, missed nine free throws and shot 2-for-11 in the last five minutes. Banchero and Jalen Johnson had a mid-court exchange after the buzzer. Minnesota visits Friday at 7:00 PM.",
+  "d": "2026-10-23",
+  "createdAt": "2026-10-23T08:52:14Z",
+  "headline": "Magic host Timberwolves tonight, looking for first win",
+  "summary": "Orlando (0-1) hosts Minnesota (1-0) at 7:00 PM on TV27 after Wednesday's 132-125 loss to Atlanta. Minnesota is a slight road favorite. No new injury news was confirmed this morning.",
   "bullets": [
    {
-    "tag": "Game",
-    "text": "Hawks 132, Magic 125. Orlando led 97-95 in the third quarter before Atlanta won the fourth 33-25. Nickeil Alexander-Walker scored 31 with 13 free throws; Dyson Daniels and Jalen Johnson had 20 each (Yahoo Sports/Orlando Sentinel)."
+    "tag": "Next game",
+    "text": "Friday vs Minnesota, 7:00 PM, TV27 at Kia Center. The Timberwolves won their opener at Miami."
    },
    {
-    "tag": "Game",
-    "text": "Wendell Carter Jr. 22 pts, 7 reb; Franz Wagner 22 pts, 6 reb, 5 ast despite playing 8 first-half minutes with foul trouble; Desmond Bane 18; Tristan da Silva 14 (4-of-10 from three)."
+    "tag": "Odds",
+    "text": "Timberwolves -1.5, total 239.5, moneyline Minnesota -125 / Orlando +105 (MyBookie, via Capper's Picks). Lines may move."
    },
    {
     "tag": "Health",
-    "text": "No new injuries reported. Anthony Black (right ankle) and Noah Penda (partial right hamstring tear) remain out; Jonathan Isaac and Izaiyah Nelson were also out for the opener."
+    "text": "No new changes confirmed. Anthony Black (right ankle) and Noah Penda (partial right hamstring tear) were out Wednesday; check the official report before tip."
    },
    {
-    "tag": "Standings",
-    "text": "Orlando is 0-1. Atlanta has now beaten the Magic in five straight regular-season meetings."
-   },
-   {
-    "tag": "Next game",
-    "text": "Friday vs Minnesota at 7:00 PM (TV27), then a three-game road trip. Betting line and injury report not yet confirmed."
+    "tag": "Lineup",
+    "text": "Banchero had 35 points and 10 assists in the opener but six turnovers; Orlando had 20 as a team."
    }
   ],
-  "recap": {
-   "title": "Hawks 132, Magic 125",
-   "text": "Orlando led early and 97-95 in the third, but 20 turnovers, nine missed free throws and a 1-of-12 fourth quarter from three let Atlanta pull away. Sweeney: \"A lot of correctable things.\"",
-   "leaders": "Banchero 35 pts, 10 ast, 7 reb; Carter 22 pts, 7 reb; Wagner 22 pts, 6 reb, 5 ast"
+  "recap": null,
+  "preview": {
+   "title": "Friday vs Timberwolves, 7:00 PM, TV27",
+   "text": "Orlando looks to cut down on turnovers against Minnesota's Rudy Gobert and Jaden McDaniels.",
+   "line": "MIN -1.5, total 239.5 (MyBookie)"
   },
-  "preview": null,
-  "watch": "Friday vs Minnesota at 7:00 PM, then the road trip starts Sunday at New York."
+  "watch": "Tonight vs Minnesota, then a three-game road trip starting Sunday at New York."
  },
  "schedule": {
   "cup": {

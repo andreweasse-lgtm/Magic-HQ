@@ -1,6 +1,41 @@
 {
  "items": [
   {
+   "d": "2026-10-22",
+   "createdAt": "2026-10-22T08:58:08Z",
+   "headline": "Magic fall to Hawks 132-125 in opener despite Banchero's 35",
+   "summary": "Atlanta beat Orlando 132-125 in Sean Sweeney's debut. Paolo Banchero had 35 points, 10 assists and 7 rebounds on 10-of-12 shooting, but the Magic had 20 turnovers, missed nine free throws and shot 2-for-11 in the last five minutes. Banchero and Jalen Johnson had a mid-court exchange after the buzzer. Minnesota visits Friday at 7:00 PM.",
+   "bullets": [
+    {
+     "tag": "Game",
+     "text": "Hawks 132, Magic 125. Orlando led 97-95 in the third quarter before Atlanta won the fourth 33-25. Nickeil Alexander-Walker scored 31 with 13 free throws; Dyson Daniels and Jalen Johnson had 20 each (Yahoo Sports/Orlando Sentinel)."
+    },
+    {
+     "tag": "Game",
+     "text": "Wendell Carter Jr. 22 pts, 7 reb; Franz Wagner 22 pts, 6 reb, 5 ast despite playing 8 first-half minutes with foul trouble; Desmond Bane 18; Tristan da Silva 14 (4-of-10 from three)."
+    },
+    {
+     "tag": "Health",
+     "text": "No new injuries reported. Anthony Black (right ankle) and Noah Penda (partial right hamstring tear) remain out; Jonathan Isaac and Izaiyah Nelson were also out for the opener."
+    },
+    {
+     "tag": "Standings",
+     "text": "Orlando is 0-1. Atlanta has now beaten the Magic in five straight regular-season meetings."
+    },
+    {
+     "tag": "Next game",
+     "text": "Friday vs Minnesota at 7:00 PM (TV27), then a three-game road trip. Betting line and injury report not yet confirmed."
+    }
+   ],
+   "recap": {
+    "title": "Hawks 132, Magic 125",
+    "text": "Orlando led early and 97-95 in the third, but 20 turnovers, nine missed free throws and a 1-of-12 fourth quarter from three let Atlanta pull away. Sweeney: \"A lot of correctable things.\"",
+    "leaders": "Banchero 35 pts, 10 ast, 7 reb; Carter 22 pts, 7 reb; Wagner 22 pts, 6 reb, 5 ast"
+   },
+   "preview": null,
+   "watch": "Friday vs Minnesota at 7:00 PM, then the road trip starts Sunday at New York."
+  },
+  {
    "d": "2026-10-21",
    "createdAt": "2026-10-21T13:11:28Z",
    "headline": "Opening night: Magic host Hawks at 7 PM; Black and Isaac out",
