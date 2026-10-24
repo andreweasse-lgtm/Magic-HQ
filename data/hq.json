@@ -57,42 +57,46 @@
    "div": null
   },
   "streak": "L2",
-  "updatedAt": "2026-10-24T08:30:00Z"
+  "updatedAt": "2026-10-24T11:16:52Z"
  },
  "brief": {
   "d": "2026-10-24",
-  "createdAt": "2026-10-24T08:30:00Z",
-  "headline": "Magic fall to 0-2 as Banchero leaves with ankle soreness",
-  "summary": "Orlando lost 115-93 to Minnesota at Kia Center on Friday and is 0-2. Paolo Banchero sat out the fourth quarter with a sore right ankle, and coach Sean Sweeney said he will keep being evaluated. The Magic play at New York on Sunday at 7:00 PM.",
+  "createdAt": "2026-10-24T11:16:52Z",
+  "headline": "Banchero ankle status for Sunday at New York still unannounced",
+  "summary": "Orlando is 0-2 after Friday's 115-93 home loss to Minnesota. Paolo Banchero has a sore right ankle and his status for Sunday at New York has not been announced; the official injury report is due later Saturday. The Knicks are also 0-2 after losing 107-103 at Boston on Friday.",
   "bullets": [
    {
+    "tag": "Health",
+    "text": "Banchero (sore right ankle) left early in the third quarter Friday, returned briefly and sat out the fourth. Sweeney said he will keep being evaluated. No official designation yet for Sunday."
+   },
+   {
+    "tag": "Health",
+    "text": "Anthony Black (right ankle sprain) has missed both games but went through Friday shootaround with no setbacks. Sweeney: \"He's doing a good job, still ramping up and looked good.\" No return date set."
+   },
+   {
     "tag": "Game",
-    "text": "Timberwolves 115, Magic 93. Wendell Carter Jr. led Orlando with 20 points and nine rebounds. Anthony Edwards, held to 5-of-23 shooting, and Jaden McDaniels each scored 15 for Minnesota; Rudy Gobert had 14 points and nine rebounds."
+    "text": "Minnesota outrebounded Orlando 60-43, grabbed 21 offensive rebounds and won the third quarter 29-15. The Magic shot 8-of-39 from three; Desmond Bane was 1-of-9 from deep and fouled out with five points."
    },
    {
-    "tag": "Health",
-    "text": "Banchero (right ankle) hurt it early in the third quarter, briefly returned, then sat out the fourth. He finished with 14 points, six rebounds and five assists. Sweeney confirmed soreness and said he will be evaluated; no official diagnosis yet."
-   },
-   {
-    "tag": "Health",
-    "text": "Anthony Black (right ankle), Jonathan Isaac, Izaiyah Nelson and Noah Penda were out Friday. No new status reports yet for Sunday."
+    "tag": "Standings",
+    "text": "The Magic are one of four East teams at 0-2, with Miami, New York and Milwaukee. Atlanta, Detroit, Philadelphia and Toronto are 2-0."
    },
    {
     "tag": "Next game",
-    "text": "Sunday at New York, 7:00 PM, TV27. Orlando is 0-2; the road trip continues at Toronto on Wednesday and Friday (NBA Cup)."
+    "text": "Sunday at New York, 7:00 PM, TV27. Karl-Anthony Towns had 22 points and 10 rebounds and Jalen Brunson 19 in the Knicks' loss at Boston. No sportsbook spread or total confirmed yet."
    }
   ],
   "recap": {
    "title": "Timberwolves 115, Magic 93",
-   "text": "Minnesota controlled the game and Orlando never found a rhythm. Banchero hurt his right ankle early in the third quarter and did not play in the fourth.",
-   "leaders": "Carter 20 pts, 9 reb; Banchero 14 pts, 6 reb, 5 ast"
+   "text": "Minnesota never trailed and dominated the glass 60-43. Orlando scored 15 points in the third quarter and shot 20.5 percent from three. Banchero hurt his right ankle early in the third and did not play in the fourth.",
+   "leaders": "Carter 20 pts, 9 reb (8-of-9 FG); Wagner 18 pts, 6 reb, 5 ast; Suggs 14 pts, 6 reb, 6 ast; Banchero 14 pts, 6 reb, 5 ast"
   },
   "preview": {
    "title": "Sunday at Knicks, 7:00 PM, TV27",
-   "text": "Orlando seeks its first win on the road against New York, with Banchero and Black both in question.",
+   "text": "Both teams are 0-2. New York lost at home to Philadelphia and at Boston. Orlando waits on Banchero and Black, while Isaac, Nelson and Penda remain out.",
    "line": "Line not yet confirmed"
   },
-  "watch": "Banchero injury update before Sunday at New York, then Toronto Wednesday and Friday."
+  "watch": "Saturday injury report for Sunday at New York (Banchero, Black), then two games at Toronto Wednesday and Friday."
  },
  "schedule": {
   "cup": {
@@ -1179,7 +1183,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-10-24T08:30:00Z"
+  "updatedAt": "2026-10-24T11:16:52Z"
  },
  "standings": {
   "division": {
@@ -1274,8 +1278,28 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-10-23",
+   "asOf": "2026-10-24",
    "rows": [
+    {
+     "abbr": "ATL",
+     "w": 2,
+     "l": 0,
+     "gb": 0,
+     "home": "0-0",
+     "away": "2-0",
+     "l10": "2-0",
+     "strk": "W2"
+    },
+    {
+     "abbr": "DET",
+     "w": 2,
+     "l": 0,
+     "gb": 0,
+     "home": "1-0",
+     "away": "1-0",
+     "l10": "2-0",
+     "strk": "W2"
+    },
     {
      "abbr": "PHI",
      "w": 2,
@@ -1288,72 +1312,62 @@
     },
     {
      "abbr": "TOR",
-     "w": 1,
+     "w": 2,
      "l": 0,
-     "gb": 0.5,
+     "gb": 0,
      "home": "1-0",
-     "away": "0-0",
-     "l10": "1-0",
-     "strk": "W1"
+     "away": "1-0",
+     "l10": "2-0",
+     "strk": "W2"
     },
     {
      "abbr": "WAS",
      "w": 1,
-     "l": 0,
-     "gb": 0.5,
-     "home": "1-0",
+     "l": 1,
+     "gb": 1.0,
+     "home": "1-1",
      "away": "0-0",
-     "l10": "1-0",
+     "l10": "1-1",
+     "strk": "L1"
+    },
+    {
+     "abbr": "BOS",
+     "w": 1,
+     "l": 1,
+     "gb": 1.0,
+     "home": "1-0",
+     "away": "0-1",
+     "l10": "1-1",
      "strk": "W1"
     },
     {
-     "abbr": "DET",
+     "abbr": "CHI",
      "w": 1,
-     "l": 0,
-     "gb": 0.5,
-     "home": "1-0",
-     "away": "0-0",
-     "l10": "1-0",
-     "strk": "W1"
-    },
-    {
-     "abbr": "ATL",
-     "w": 1,
-     "l": 0,
-     "gb": 0.5,
+     "l": 1,
+     "gb": 1.0,
      "home": "0-0",
-     "away": "1-0",
-     "l10": "1-0",
+     "away": "1-1",
+     "l10": "1-1",
      "strk": "W1"
     },
     {
      "abbr": "CHA",
      "w": 1,
-     "l": 0,
-     "gb": 0.5,
-     "home": "0-0",
+     "l": 1,
+     "gb": 1.0,
+     "home": "0-1",
      "away": "1-0",
-     "l10": "1-0",
-     "strk": "W1"
+     "l10": "1-1",
+     "strk": "L1"
     },
     {
      "abbr": "IND",
      "w": 1,
-     "l": 0,
-     "gb": 0.5,
-     "home": "0-0",
-     "away": "1-0",
-     "l10": "1-0",
-     "strk": "W1"
-    },
-    {
-     "abbr": "NYK",
-     "w": 0,
      "l": 1,
-     "gb": 1.5,
+     "gb": 1.0,
      "home": "0-1",
-     "away": "0-0",
-     "l10": "0-1",
+     "away": "1-0",
+     "l10": "1-1",
      "strk": "L1"
     },
     {
@@ -1363,26 +1377,6 @@
      "gb": 1.5,
      "home": "0-1",
      "away": "0-0",
-     "l10": "0-1",
-     "strk": "L1"
-    },
-    {
-     "abbr": "ORL",
-     "w": 0,
-     "l": 1,
-     "gb": 1.5,
-     "home": "0-1",
-     "away": "0-0",
-     "l10": "0-1",
-     "strk": "L1"
-    },
-    {
-     "abbr": "BOS",
-     "w": 0,
-     "l": 1,
-     "gb": 1.5,
-     "home": "0-0",
-     "away": "0-1",
      "l10": "0-1",
      "strk": "L1"
     },
@@ -1397,34 +1391,44 @@
      "strk": "L1"
     },
     {
-     "abbr": "MIL",
+     "abbr": "ORL",
      "w": 0,
-     "l": 1,
-     "gb": 1.5,
-     "home": "0-0",
-     "away": "0-1",
-     "l10": "0-1",
-     "strk": "L1"
+     "l": 2,
+     "gb": 2.0,
+     "home": "0-2",
+     "away": "0-0",
+     "l10": "0-2",
+     "strk": "L2"
     },
     {
      "abbr": "MIA",
      "w": 0,
-     "l": 1,
-     "gb": 1.5,
-     "home": "0-1",
+     "l": 2,
+     "gb": 2.0,
+     "home": "0-2",
      "away": "0-0",
-     "l10": "0-1",
-     "strk": "L1"
+     "l10": "0-2",
+     "strk": "L2"
     },
     {
-     "abbr": "CHI",
+     "abbr": "NYK",
      "w": 0,
-     "l": 1,
-     "gb": 1.5,
-     "home": "0-0",
+     "l": 2,
+     "gb": 2.0,
+     "home": "0-1",
      "away": "0-1",
-     "l10": "0-1",
-     "strk": "L1"
+     "l10": "0-2",
+     "strk": "L2"
+    },
+    {
+     "abbr": "MIL",
+     "w": 0,
+     "l": 2,
+     "gb": 2.0,
+     "home": "0-1",
+     "away": "0-1",
+     "l10": "0-2",
+     "strk": "L2"
     }
    ]
   },
@@ -1525,7 +1529,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-10-23T11:17:19Z"
+  "updatedAt": "2026-10-24T11:16:52Z"
  },
  "roster": {
   "players": [
@@ -1533,11 +1537,11 @@
     "age": 23,
     "contract": "$41.2M. Year 1 of 5-yr, $239M max (through 2030-31)",
     "cur": {
-     "gp": 1,
-     "pts": 35.0,
-     "reb": 7.0,
-     "ast": 10.0,
-     "fg": 0.833
+     "gp": 2,
+     "pts": 24.5,
+     "reb": 6.5,
+     "ast": 7.5,
+     "fg": 0.696
     },
     "exp": "4",
     "ht": "6-10",
@@ -1554,18 +1558,18 @@
     "note": "Team leader in points and rebounds last season. Spent the summer working out with Kevin Durant.",
     "num": "5",
     "pos": "F",
-    "status": "Questionable",
-    "statusNote": "Left Friday game in the third quarter; being evaluated"
+    "status": "Day-to-day",
+    "statusNote": "Hurt early in the third quarter Friday vs Minnesota and sat out the fourth. Being evaluated; status for Sunday at New York not yet announced."
    },
    {
     "age": 25,
     "contract": "$41.8M. Signed through 2029-30",
     "cur": {
-     "gp": 1,
-     "pts": 22.0,
+     "gp": 2,
+     "pts": 20.0,
      "reb": 6.0,
      "ast": 5.0,
-     "fg": 0.45
+     "fg": 0.471
     },
     "exp": "5",
     "ht": "6-10",
@@ -1589,11 +1593,11 @@
     "age": 28,
     "contract": "$39.4M. Signed through 2028-29",
     "cur": {
-     "gp": 1,
-     "pts": 18.0,
-     "reb": 5.0,
-     "ast": 2.0,
-     "fg": 0.333
+     "gp": 2,
+     "pts": 11.5,
+     "reb": 3.5,
+     "ast": 1.0,
+     "fg": 0.269
     },
     "exp": "6",
     "ht": "6-6",
@@ -1617,11 +1621,11 @@
     "age": 25,
     "contract": "$32.4M. Signed through 2029-30",
     "cur": {
-     "gp": 1,
-     "pts": 6.0,
-     "reb": 3.0,
-     "ast": 5.0,
-     "fg": 0.25
+     "gp": 2,
+     "pts": 10.0,
+     "reb": 4.5,
+     "ast": 5.5,
+     "fg": 0.4
     },
     "exp": "5",
     "ht": "6-5",
@@ -1660,18 +1664,18 @@
     "note": "No rookie-scale extension by the Oct 19 deadline. Restricted free agent in 2027; Orlando can match any offer sheet.",
     "num": "0",
     "pos": "G",
-    "status": "Out",
-    "statusNote": "Ruled out for Friday vs Minnesota (Oct 22). Has practiced fully; next chance to play is Sunday at New York."
+    "status": "Day-to-day",
+    "statusNote": "Missed the first two games. Took part in Friday shootaround with no setbacks; Sweeney said he is still ramping up. Status for Sunday not yet announced."
    },
    {
     "age": 27,
     "contract": "$18.1M. Through 2028-29 (team option in 2028-29)",
     "cur": {
-     "gp": 1,
-     "pts": 22.0,
-     "reb": 7.0,
-     "ast": 0.0,
-     "fg": 0.8
+     "gp": 2,
+     "pts": 21.0,
+     "reb": 8.0,
+     "ast": 0.5,
+     "fg": 0.842
     },
     "exp": "8",
     "ht": "6-10",
@@ -1695,11 +1699,11 @@
     "age": 35,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 1,
+     "gp": 2,
      "pts": 0.0,
-     "reb": 1.0,
-     "ast": 1.0,
-     "fg": null
+     "reb": 1.5,
+     "ast": 0.5,
+     "fg": 0.0
     },
     "exp": "15",
     "ht": "6-9",
@@ -1723,11 +1727,11 @@
     "age": 25,
     "contract": "$4.0M. 2027-28 team option ($6.1M) pending",
     "cur": {
-     "gp": 1,
-     "pts": 14.0,
-     "reb": 2.0,
-     "ast": 3.0,
-     "fg": 0.455
+     "gp": 2,
+     "pts": 9.5,
+     "reb": 2.5,
+     "ast": 2.0,
+     "fg": 0.35
     },
     "exp": "2",
     "ht": "6-8",
@@ -1751,11 +1755,11 @@
     "age": 27,
     "contract": "$7.6M. Final year, UFA 2027",
     "cur": {
-     "gp": 1,
-     "pts": 6.0,
-     "reb": 6.0,
-     "ast": 1.0,
-     "fg": 0.333
+     "gp": 2,
+     "pts": 5.0,
+     "reb": 4.5,
+     "ast": 0.5,
+     "fg": 0.4
     },
     "exp": "7",
     "ht": "6-11",
@@ -1795,12 +1799,18 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Ruled out for Friday vs Minnesota. Has not played yet this season, including all four preseason games."
+    "statusNote": "Out for the first two games. Has not played yet this season, including all four preseason games. Status for Sunday not yet announced."
    },
    {
     "age": 31,
     "contract": "1-yr minimum. UFA 2027",
-    "cur": null,
+    "cur": {
+     "gp": 1,
+     "pts": 0.0,
+     "reb": 1.0,
+     "ast": 1.0,
+     "fg": 0.0
+    },
     "exp": "8",
     "ht": "6-0",
     "injury": "",
@@ -1823,9 +1833,9 @@
     "age": 27,
     "contract": "$2.6M. Not fully guaranteed until Jan 10",
     "cur": {
-     "gp": 1,
+     "gp": 2,
      "pts": 0.0,
-     "reb": 0.0,
+     "reb": 0.5,
      "ast": 0.0,
      "fg": 0.0
     },
@@ -1851,11 +1861,11 @@
     "age": 20,
     "contract": "$3.1M rookie scale. 2027-28 team option pending",
     "cur": {
-     "gp": 1,
-     "pts": 2.0,
-     "reb": 2.0,
+     "gp": 2,
+     "pts": 4.0,
+     "reb": 1.5,
      "ast": 3.0,
-     "fg": 0.333
+     "fg": 0.375
     },
     "exp": "1",
     "ht": "6-1",
@@ -1895,12 +1905,18 @@
     "num": "93",
     "pos": "G-F",
     "status": "Out",
-    "statusNote": "Ruled out for Friday vs Minnesota. Expected to miss significant time; no timetable."
+    "statusNote": "Out for the first two games. Expected to miss significant time; no timetable."
    },
    {
     "age": 26,
     "contract": "Two-way (final year of eligibility)",
-    "cur": null,
+    "cur": {
+     "gp": 1,
+     "pts": 7.0,
+     "reb": 2.0,
+     "ast": 1.0,
+     "fg": 1.0
+    },
     "exp": "3",
     "ht": "6-10",
     "injury": "",
@@ -1922,7 +1938,13 @@
    {
     "age": 28,
     "contract": "Two-way, year 2",
-    "cur": null,
+    "cur": {
+     "gp": 1,
+     "pts": 0.0,
+     "reb": 1.0,
+     "ast": 0.0,
+     "fg": 0.0
+    },
     "exp": "1",
     "ht": "6-6",
     "injury": "",
@@ -1961,11 +1983,11 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Ruled out for Friday vs Minnesota; still recovering. Has not played this preseason or season."
+    "statusNote": "Out for the first two games; still recovering. Has not played this preseason or season."
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-10-24T08:30:00Z"
+  "updatedAt": "2026-10-24T11:16:52Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
