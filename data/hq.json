@@ -2,7 +2,7 @@
  "meta": {
   "away": "0-0",
   "coach": "Sean Sweeney",
-  "home": "0-1",
+  "home": "0-2",
   "keyDates": [
    {
     "d": "2026-10-30",
@@ -30,15 +30,15 @@
     "label": "Regular season ends"
    }
   ],
-  "l10": "0-1",
+  "l10": "0-2",
   "lastGame": {
-   "d": "2026-10-21",
-   "opp": "ATL",
+   "d": "2026-10-23",
+   "opp": "MIN",
    "ha": "H",
-   "us": 125,
-   "them": 132,
+   "us": 93,
+   "them": 115,
    "wl": "L",
-   "label": "Season opener"
+   "label": "vs Timberwolves"
   },
   "lastSeason": {
    "l": 37,
@@ -46,53 +46,53 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 0-1 after a 132-125 opening loss to Atlanta. Next: tonight vs Minnesota, 7:00 PM, TV27.",
+  "phaseDetail": "Magic 0-2 after a 115-93 home loss to Minnesota. Next: Sunday at New York, 7:00 PM, TV27.",
   "record": {
    "w": 0,
-   "l": 1
+   "l": 2
   },
   "season": "2026-27",
   "standing": {
    "conf": null,
    "div": null
   },
-  "streak": "L1",
-  "updatedAt": "2026-10-24T00:46:52Z"
+  "streak": "L2",
+  "updatedAt": "2026-10-24T08:30:00Z"
  },
  "brief": {
-  "d": "2026-10-23",
-  "createdAt": "2026-10-23T11:17:19Z",
-  "headline": "Magic host Timberwolves tonight without Black and Isaac",
-  "summary": "Orlando (0-1) hosts Minnesota (1-0) at 7:00 PM on MagicTV 27 after Wednesday's 132-125 loss to Atlanta. Anthony Black, Jonathan Isaac, Izaiyah Nelson and Noah Penda are all ruled out. Minnesota is a 2.5-point favorite at DraftKings after Anthony Edwards scored 45 in a rout of Miami.",
+  "d": "2026-10-24",
+  "createdAt": "2026-10-24T08:30:00Z",
+  "headline": "Magic fall to 0-2 as Banchero leaves with ankle soreness",
+  "summary": "Orlando lost 115-93 to Minnesota at Kia Center on Friday and is 0-2. Paolo Banchero sat out the fourth quarter with a sore right ankle, and coach Sean Sweeney said he will keep being evaluated. The Magic play at New York on Sunday at 7:00 PM.",
   "bullets": [
    {
-    "tag": "Next game",
-    "text": "Tonight vs Minnesota, 7:00 PM, MagicTV 27 and DAZN at Kia Center. The Timberwolves beat Miami 131-106 Wednesday behind Edwards' 45 points and nine 3-pointers. Donte DiVincenzo (Achilles) is out for Minnesota."
+    "tag": "Game",
+    "text": "Timberwolves 115, Magic 93. Wendell Carter Jr. led Orlando with 20 points and nine rebounds. Anthony Edwards, held to 5-of-23 shooting, and Jaden McDaniels each scored 15 for Minnesota; Rudy Gobert had 14 points and nine rebounds."
    },
    {
     "tag": "Health",
-    "text": "Ruled out for tonight: Black (right ankle sprain), Isaac (left knee), Nelson (left ankle) and Penda (partial right hamstring tear). Black's next chance to play is Sunday at New York."
+    "text": "Banchero (right ankle) hurt it early in the third quarter, briefly returned, then sat out the fourth. He finished with 14 points, six rebounds and five assists. Sweeney confirmed soreness and said he will be evaluated; no official diagnosis yet."
    },
    {
-    "tag": "Odds",
-    "text": "Timberwolves -2.5, total 234.5, moneyline Minnesota -130 / Orlando +110 (DraftKings, via VegasInsider). The line opened Minnesota -1.5 with a 237.5 total."
+    "tag": "Health",
+    "text": "Anthony Black (right ankle), Jonathan Isaac, Izaiyah Nelson and Noah Penda were out Friday. No new status reports yet for Sunday."
    },
    {
-    "tag": "Lineup",
-    "text": "Thursday's practice focused on transition defense, closeouts and communication. Orlando committed 20 turnovers that led to 24 Atlanta points, allowed 60 points in the paint and missed nine free throws in the opener."
-   },
-   {
-    "tag": "Standings",
-    "text": "Philadelphia is the East's only 2-0 team. Orlando is one of eight teams at 0-1."
+    "tag": "Next game",
+    "text": "Sunday at New York, 7:00 PM, TV27. Orlando is 0-2; the road trip continues at Toronto on Wednesday and Friday (NBA Cup)."
    }
   ],
-  "recap": null,
-  "preview": {
-   "title": "Friday vs Timberwolves, 7:00 PM, TV27",
-   "text": "Orlando needs fewer turnovers and better transition defense against Anthony Edwards, who opened with 45 points. The rotation stays thin with Black, Isaac and Penda out.",
-   "line": "MIN -2.5, total 234.5 (DraftKings)"
+  "recap": {
+   "title": "Timberwolves 115, Magic 93",
+   "text": "Minnesota controlled the game and Orlando never found a rhythm. Banchero hurt his right ankle early in the third quarter and did not play in the fourth.",
+   "leaders": "Carter 20 pts, 9 reb; Banchero 14 pts, 6 reb, 5 ast"
   },
-  "watch": "Tonight vs Minnesota, then a three-game road trip: Sunday at New York, Wednesday at Toronto and Friday at Toronto, the first NBA Cup game."
+  "preview": {
+   "title": "Sunday at Knicks, 7:00 PM, TV27",
+   "text": "Orlando seeks its first win on the road against New York, with Banchero and Black both in question.",
+   "line": "Line not yet confirmed"
+  },
+  "watch": "Banchero injury update before Sunday at New York, then Toronto Wednesday and Friday."
  },
  "schedule": {
   "cup": {
@@ -202,7 +202,13 @@
     "id": "r20261023",
     "note": "",
     "opp": "MIN",
-    "res": null,
+    "res": {
+     "us": 93,
+     "them": 115,
+     "wl": "L",
+     "ot": "",
+     "note": "Carter 20 pts, 9 reb"
+    },
     "t": "7:00 PM",
     "tag": "",
     "tv": "TV27",
@@ -1173,7 +1179,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-10-22T08:58:08Z"
+  "updatedAt": "2026-10-24T08:30:00Z"
  },
  "standings": {
   "division": {
@@ -1535,7 +1541,7 @@
     },
     "exp": "4",
     "ht": "6-10",
-    "injury": "",
+    "injury": "Right ankle soreness",
     "kind": "Standard",
     "last": {
      "ast": 5.2,
@@ -1548,8 +1554,8 @@
     "note": "Team leader in points and rebounds last season. Spent the summer working out with Kevin Durant.",
     "num": "5",
     "pos": "F",
-    "status": "Healthy",
-    "statusNote": ""
+    "status": "Questionable",
+    "statusNote": "Left Friday game in the third quarter; being evaluated"
    },
    {
     "age": 25,
@@ -1959,7 +1965,7 @@
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-10-23T11:17:19Z"
+  "updatedAt": "2026-10-24T08:30:00Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",

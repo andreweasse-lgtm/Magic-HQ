@@ -1,6 +1,41 @@
 {
  "items": [
   {
+   "d": "2026-10-23",
+   "createdAt": "2026-10-23T11:17:19Z",
+   "headline": "Magic host Timberwolves tonight without Black and Isaac",
+   "summary": "Orlando (0-1) hosts Minnesota (1-0) at 7:00 PM on MagicTV 27 after Wednesday's 132-125 loss to Atlanta. Anthony Black, Jonathan Isaac, Izaiyah Nelson and Noah Penda are all ruled out. Minnesota is a 2.5-point favorite at DraftKings after Anthony Edwards scored 45 in a rout of Miami.",
+   "bullets": [
+    {
+     "tag": "Next game",
+     "text": "Tonight vs Minnesota, 7:00 PM, MagicTV 27 and DAZN at Kia Center. The Timberwolves beat Miami 131-106 Wednesday behind Edwards' 45 points and nine 3-pointers. Donte DiVincenzo (Achilles) is out for Minnesota."
+    },
+    {
+     "tag": "Health",
+     "text": "Ruled out for tonight: Black (right ankle sprain), Isaac (left knee), Nelson (left ankle) and Penda (partial right hamstring tear). Black's next chance to play is Sunday at New York."
+    },
+    {
+     "tag": "Odds",
+     "text": "Timberwolves -2.5, total 234.5, moneyline Minnesota -130 / Orlando +110 (DraftKings, via VegasInsider). The line opened Minnesota -1.5 with a 237.5 total."
+    },
+    {
+     "tag": "Lineup",
+     "text": "Thursday's practice focused on transition defense, closeouts and communication. Orlando committed 20 turnovers that led to 24 Atlanta points, allowed 60 points in the paint and missed nine free throws in the opener."
+    },
+    {
+     "tag": "Standings",
+     "text": "Philadelphia is the East's only 2-0 team. Orlando is one of eight teams at 0-1."
+    }
+   ],
+   "recap": null,
+   "preview": {
+    "title": "Friday vs Timberwolves, 7:00 PM, TV27",
+    "text": "Orlando needs fewer turnovers and better transition defense against Anthony Edwards, who opened with 45 points. The rotation stays thin with Black, Isaac and Penda out.",
+    "line": "MIN -2.5, total 234.5 (DraftKings)"
+   },
+   "watch": "Tonight vs Minnesota, then a three-game road trip: Sunday at New York, Wednesday at Toronto and Friday at Toronto, the first NBA Cup game."
+  },
+  {
    "d": "2026-10-22",
    "createdAt": "2026-10-22T08:58:08Z",
    "headline": "Magic fall to Hawks 132-125 in opener despite Banchero's 35",
