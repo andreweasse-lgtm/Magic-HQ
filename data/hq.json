@@ -46,7 +46,7 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 0-2 after a 115-93 home loss to Minnesota. Next: Sunday at New York, 7:00 PM, TV27.",
+  "phaseDetail": "Magic 0-2 after a 115-93 home loss to Minnesota. Banchero out 4-6 weeks. Next: Sunday at New York, 7:00 PM, TV27.",
   "record": {
    "w": 0,
    "l": 2
@@ -57,21 +57,21 @@
    "div": null
   },
   "streak": "L2",
-  "updatedAt": "2026-10-24T19:32:29Z"
+  "updatedAt": "2026-10-25T00:23:04Z"
  },
  "brief": {
   "d": "2026-10-24",
-  "createdAt": "2026-10-24T11:16:52Z",
-  "headline": "Banchero ankle status for Sunday at New York still unannounced",
-  "summary": "Orlando is 0-2 after Friday's 115-93 home loss to Minnesota. Paolo Banchero has a sore right ankle and his status for Sunday at New York has not been announced; the official injury report is due later Saturday. The Knicks are also 0-2 after losing 107-103 at Boston on Friday.",
+  "createdAt": "2026-10-25T00:23:04Z",
+  "headline": "Banchero out 4-6 weeks with high ankle sprain",
+  "summary": "An MRI showed a low-grade right high ankle sprain for Paolo Banchero, and reports say it typically means 4-6 weeks out. He will miss Sunday at New York and the road trip. Orlando is 0-2; Anthony Black is questionable to return.",
   "bullets": [
    {
     "tag": "Health",
-    "text": "Banchero (sore right ankle) left early in the third quarter Friday, returned briefly and sat out the fourth. Sweeney said he will keep being evaluated. No official designation yet for Sunday."
+    "text": "Banchero has a low-grade right high ankle sprain confirmed by MRI. The Magic have not given an official timeline; reports say 4-6 weeks, which points to around Thanksgiving. He will miss the road trip starting Sunday in New York, plus two games in Toronto."
    },
    {
     "tag": "Health",
-    "text": "Anthony Black (right ankle sprain) has missed both games but went through Friday shootaround with no setbacks. Sweeney: \"He's doing a good job, still ramping up and looked good.\" No return date set."
+    "text": "Anthony Black (right ankle sprain) is questionable for Sunday at New York after missing the first two games. Tristan da Silva is the likely starter in Banchero's place."
    },
    {
     "tag": "Game",
@@ -93,10 +93,10 @@
   },
   "preview": {
    "title": "Sunday at Knicks, 7:00 PM, TV27",
-   "text": "Both teams are 0-2. New York lost at home to Philadelphia and at Boston. Orlando waits on Banchero and Black, while Isaac, Nelson and Penda remain out.",
+   "text": "Both teams are 0-2. Banchero, Isaac, Penda and Nelson are out; Black is questionable.",
    "line": "Line not yet confirmed"
   },
-  "watch": "Saturday injury report for Sunday at New York (Banchero, Black), then two games at Toronto Wednesday and Friday."
+  "watch": "Black's status Sunday, then two games at Toronto Wednesday and Friday."
  },
  "schedule": {
   "cup": {
@@ -1545,7 +1545,7 @@
     },
     "exp": "4",
     "ht": "6-10",
-    "injury": "Right ankle soreness",
+    "injury": "Right high ankle sprain (low-grade)",
     "kind": "Standard",
     "last": {
      "ast": 5.2,
@@ -1558,8 +1558,8 @@
     "note": "Team leader in points and rebounds last season. Spent the summer working out with Kevin Durant.",
     "num": "5",
     "pos": "F",
-    "status": "Day-to-day",
-    "statusNote": "Hurt early in the third quarter Friday vs Minnesota and sat out the fourth. Being evaluated; status for Sunday at New York not yet announced."
+    "status": "Out",
+    "statusNote": "MRI confirmed a low-grade sprain Saturday. No official timeline; reports say 4-6 weeks. Out for Sunday at New York and the road trip."
    },
    {
     "age": 25,
@@ -1664,8 +1664,8 @@
     "note": "No rookie-scale extension by the Oct 19 deadline. Restricted free agent in 2027; Orlando can match any offer sheet.",
     "num": "0",
     "pos": "G",
-    "status": "Day-to-day",
-    "statusNote": "Missed the first two games. Took part in Friday shootaround with no setbacks; Sweeney said he is still ramping up. Status for Sunday not yet announced."
+    "status": "Questionable",
+    "statusNote": "Missed the first two games. Listed questionable for Sunday at New York."
    },
    {
     "age": 27,
@@ -1799,7 +1799,7 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Out for the first two games. Has not played yet this season, including all four preseason games. Status for Sunday not yet announced."
+    "statusNote": "Out for the first two games. Has not played yet this season, including all four preseason games. Out for Sunday at New York."
    },
    {
     "age": 31,
