@@ -1,6 +1,45 @@
 {
  "items": [
   {
+   "d": "2026-10-24",
+   "createdAt": "2026-10-25T00:23:04Z",
+   "headline": "Banchero out 4-6 weeks with high ankle sprain",
+   "summary": "An MRI showed a low-grade right high ankle sprain for Paolo Banchero, and reports say it typically means 4-6 weeks out. He will miss Sunday at New York and the road trip. Orlando is 0-2; Anthony Black is questionable to return.",
+   "bullets": [
+    {
+     "tag": "Health",
+     "text": "Banchero has a low-grade right high ankle sprain confirmed by MRI. The Magic have not given an official timeline; reports say 4-6 weeks, which points to around Thanksgiving. He will miss the road trip starting Sunday in New York, plus two games in Toronto."
+    },
+    {
+     "tag": "Health",
+     "text": "Anthony Black (right ankle sprain) is questionable for Sunday at New York after missing the first two games. Tristan da Silva is the likely starter in Banchero's place."
+    },
+    {
+     "tag": "Game",
+     "text": "Minnesota outrebounded Orlando 60-43, grabbed 21 offensive rebounds and won the third quarter 29-15. The Magic shot 8-of-39 from three; Desmond Bane was 1-of-9 from deep and fouled out with five points."
+    },
+    {
+     "tag": "Standings",
+     "text": "The Magic are one of four East teams at 0-2, with Miami, New York and Milwaukee. Atlanta, Detroit, Philadelphia and Toronto are 2-0."
+    },
+    {
+     "tag": "Next game",
+     "text": "Sunday at New York, 7:00 PM, TV27. Karl-Anthony Towns had 22 points and 10 rebounds and Jalen Brunson 19 in the Knicks' loss at Boston. No sportsbook spread or total confirmed yet."
+    }
+   ],
+   "recap": {
+    "title": "Timberwolves 115, Magic 93",
+    "text": "Minnesota never trailed and dominated the glass 60-43. Orlando scored 15 points in the third quarter and shot 20.5 percent from three. Banchero hurt his right ankle early in the third and did not play in the fourth.",
+    "leaders": "Carter 20 pts, 9 reb (8-of-9 FG); Wagner 18 pts, 6 reb, 5 ast; Suggs 14 pts, 6 reb, 6 ast; Banchero 14 pts, 6 reb, 5 ast"
+   },
+   "preview": {
+    "title": "Sunday at Knicks, 7:00 PM, TV27",
+    "text": "Both teams are 0-2. Banchero, Isaac, Penda and Nelson are out; Black is questionable.",
+    "line": "Line not yet confirmed"
+   },
+   "watch": "Black's status Sunday, then two games at Toronto Wednesday and Friday."
+  },
+  {
    "d": "2026-10-23",
    "createdAt": "2026-10-23T11:17:19Z",
    "headline": "Magic host Timberwolves tonight without Black and Isaac",
