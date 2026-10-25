@@ -46,7 +46,7 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 0-2 after a 115-93 home loss to Minnesota. Banchero out 4-6 weeks. Next: Sunday at New York, 7:00 PM, TV27.",
+  "phaseDetail": "Magic 0-2 after a 115-93 home loss to Minnesota. Banchero out 4-6 weeks. Tonight at New York, 7:00 PM, TV27.",
   "record": {
    "w": 0,
    "l": 2
@@ -57,38 +57,46 @@
    "div": null
   },
   "streak": "L2",
-  "updatedAt": "2026-10-25T08:45:05Z"
+  "updatedAt": "2026-10-25T11:17:59Z"
  },
  "brief": {
   "d": "2026-10-25",
-  "createdAt": "2026-10-25T08:45:05Z",
-  "headline": "Magic seek first win at New York without Banchero",
-  "summary": "Orlando (0-2) plays at the Knicks (0-2) tonight at 7:00 PM on TV27. Paolo Banchero is out with a high ankle sprain, and Anthony Black is questionable. No new roster or front-office news since Saturday.",
+  "createdAt": "2026-10-25T11:17:59Z",
+  "headline": "Magic at Knicks tonight, both 0-2; Black questionable",
+  "summary": "Orlando (0-2) plays at the defending champion Knicks (0-2) tonight at 7:00 PM on TV27. Paolo Banchero (high ankle sprain) did not travel, and Anthony Black is questionable. New York is a 7.5-point favorite. No roster or front-office moves since Saturday.",
   "bullets": [
    {
     "tag": "Health",
-    "text": "Banchero (right high ankle sprain, reported 4-6 weeks), Jonathan Isaac (knee), Noah Penda (hamstring) and Izaiyah Nelson (ankle) are out."
+    "text": "Banchero (right high ankle sprain, reported 4-6 weeks) did not travel to New York, per the Orlando Sentinel. Jonathan Isaac (knee), Noah Penda (hamstring) and Izaiyah Nelson (ankle) are also out."
    },
    {
     "tag": "Health",
-    "text": "Anthony Black (right ankle sprain) is questionable after missing the first two games. Some previews list him as day-to-day."
+    "text": "Anthony Black (right ankle sprain) was upgraded to questionable after missing the first two games. The team will decide closer to tip-off."
+   },
+   {
+    "tag": "Lineup",
+    "text": "Tristan da Silva is expected to start in Banchero's place, with more of the load on Franz Wagner, Desmond Bane, Jalen Suggs and Wendell Carter Jr."
+   },
+   {
+    "tag": "Odds",
+    "text": "Knicks -7.5 (Magic +7.5 at -110, Fanatics). Total 224.5; Knicks about -320 on the moneyline across books."
    },
    {
     "tag": "Next game",
-    "text": "Tonight at New York, 7:00 PM, TV27. Knicks guard Jose Alvarado is listed questionable with an ankle sprain. No sportsbook line confirmed yet."
+    "text": "New York lost to Philadelphia and Boston and is the first reigning champion to start 0-2 since the 2011-12 Mavericks. Jose Alvarado (ankle) is questionable."
    },
    {
     "tag": "Standings",
-    "text": "Both teams are 0-2. The Magic then play at Toronto on Wednesday."
+    "text": "Orlando is one of five winless East teams. Philadelphia (3-0) leads; Miami and Milwaukee fell to 0-3 on Saturday."
    }
   ],
   "recap": null,
   "preview": {
    "title": "Sunday at Knicks, 7:00 PM, TV27",
-   "text": "Both teams are 0-2. Banchero, Isaac, Penda and Nelson are out; Black is questionable. Alvarado is questionable for New York.",
-   "line": "Line not yet confirmed"
+   "text": "Both teams are 0-2. Banchero, Isaac, Penda and Nelson are out; Black is questionable. Alvarado is questionable for New York. Orlando was outrebounded 60-43 by Minnesota on Friday.",
+   "line": "NYK -7.5 (Fanatics); total 224.5, NYK about -320 ML"
   },
-  "watch": "Black's status at tip-off, then at Toronto Wednesday."
+  "watch": "Black's status at tip-off, then at Toronto on Wednesday, 7:30 PM."
  },
  "schedule": {
   "cup": {
@@ -1270,33 +1278,23 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-10-24",
+   "asOf": "2026-10-25",
    "rows": [
     {
-     "abbr": "ATL",
-     "w": 2,
+     "abbr": "PHI",
+     "w": 3,
      "l": 0,
-     "gb": 0,
-     "home": "0-0",
-     "away": "2-0",
-     "l10": "2-0",
-     "strk": "W2"
+     "gb": 0.0,
+     "home": "2-0",
+     "away": "1-0",
+     "l10": "3-0",
+     "strk": "W3"
     },
     {
      "abbr": "DET",
      "w": 2,
      "l": 0,
-     "gb": 0,
-     "home": "1-0",
-     "away": "1-0",
-     "l10": "2-0",
-     "strk": "W2"
-    },
-    {
-     "abbr": "PHI",
-     "w": 2,
-     "l": 0,
-     "gb": 0,
+     "gb": 0.5,
      "home": "1-0",
      "away": "1-0",
      "l10": "2-0",
@@ -1306,27 +1304,67 @@
      "abbr": "TOR",
      "w": 2,
      "l": 0,
-     "gb": 0,
+     "gb": 0.5,
      "home": "1-0",
      "away": "1-0",
      "l10": "2-0",
      "strk": "W2"
     },
     {
+     "abbr": "ATL",
+     "w": 2,
+     "l": 1,
+     "gb": 1.0,
+     "home": "0-1",
+     "away": "2-0",
+     "l10": "2-1",
+     "strk": "L1"
+    },
+    {
      "abbr": "WAS",
-     "w": 1,
+     "w": 2,
      "l": 1,
      "gb": 1.0,
      "home": "1-1",
-     "away": "0-0",
-     "l10": "1-1",
-     "strk": "L1"
+     "away": "1-0",
+     "l10": "2-1",
+     "strk": "W1"
+    },
+    {
+     "abbr": "CHA",
+     "w": 2,
+     "l": 1,
+     "gb": 1.0,
+     "home": "1-1",
+     "away": "1-0",
+     "l10": "2-1",
+     "strk": "W1"
     },
     {
      "abbr": "BOS",
      "w": 1,
      "l": 1,
-     "gb": 1.0,
+     "gb": 1.5,
+     "home": "1-0",
+     "away": "0-1",
+     "l10": "1-1",
+     "strk": "W1"
+    },
+    {
+     "abbr": "IND",
+     "w": 1,
+     "l": 1,
+     "gb": 1.5,
+     "home": "0-1",
+     "away": "1-0",
+     "l10": "1-1",
+     "strk": "L1"
+    },
+    {
+     "abbr": "CLE",
+     "w": 1,
+     "l": 1,
+     "gb": 1.5,
      "home": "1-0",
      "away": "0-1",
      "l10": "1-1",
@@ -1335,68 +1373,28 @@
     {
      "abbr": "CHI",
      "w": 1,
-     "l": 1,
-     "gb": 1.0,
-     "home": "0-0",
+     "l": 2,
+     "gb": 2.0,
+     "home": "0-1",
      "away": "1-1",
-     "l10": "1-1",
-     "strk": "W1"
-    },
-    {
-     "abbr": "CHA",
-     "w": 1,
-     "l": 1,
-     "gb": 1.0,
-     "home": "0-1",
-     "away": "1-0",
-     "l10": "1-1",
-     "strk": "L1"
-    },
-    {
-     "abbr": "IND",
-     "w": 1,
-     "l": 1,
-     "gb": 1.0,
-     "home": "0-1",
-     "away": "1-0",
-     "l10": "1-1",
+     "l10": "1-2",
      "strk": "L1"
     },
     {
      "abbr": "BKN",
      "w": 0,
-     "l": 1,
-     "gb": 1.5,
+     "l": 2,
+     "gb": 2.5,
      "home": "0-1",
-     "away": "0-0",
-     "l10": "0-1",
-     "strk": "L1"
-    },
-    {
-     "abbr": "CLE",
-     "w": 0,
-     "l": 1,
-     "gb": 1.5,
-     "home": "0-0",
      "away": "0-1",
-     "l10": "0-1",
-     "strk": "L1"
+     "l10": "0-2",
+     "strk": "L2"
     },
     {
      "abbr": "ORL",
      "w": 0,
      "l": 2,
-     "gb": 2.0,
-     "home": "0-2",
-     "away": "0-0",
-     "l10": "0-2",
-     "strk": "L2"
-    },
-    {
-     "abbr": "MIA",
-     "w": 0,
-     "l": 2,
-     "gb": 2.0,
+     "gb": 2.5,
      "home": "0-2",
      "away": "0-0",
      "l10": "0-2",
@@ -1406,21 +1404,31 @@
      "abbr": "NYK",
      "w": 0,
      "l": 2,
-     "gb": 2.0,
+     "gb": 2.5,
      "home": "0-1",
      "away": "0-1",
      "l10": "0-2",
      "strk": "L2"
     },
     {
+     "abbr": "MIA",
+     "w": 0,
+     "l": 3,
+     "gb": 3.0,
+     "home": "0-2",
+     "away": "0-1",
+     "l10": "0-3",
+     "strk": "L3"
+    },
+    {
      "abbr": "MIL",
      "w": 0,
-     "l": 2,
-     "gb": 2.0,
+     "l": 3,
+     "gb": 3.0,
      "home": "0-1",
-     "away": "0-1",
-     "l10": "0-2",
-     "strk": "L2"
+     "away": "0-2",
+     "l10": "0-3",
+     "strk": "L3"
     }
    ]
   },
@@ -1521,7 +1529,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-10-24T11:16:52Z"
+  "updatedAt": "2026-10-25T11:17:59Z"
  },
  "roster": {
   "players": [
@@ -1551,7 +1559,7 @@
     "num": "5",
     "pos": "F",
     "status": "Out",
-    "statusNote": "MRI confirmed a low-grade sprain Saturday. No official timeline; reports say 4-6 weeks. Out for Sunday at New York and the road trip."
+    "statusNote": "MRI confirmed a low-grade sprain Saturday. No official timeline; reports say 4-6 weeks. Did not travel to New York, per the Orlando Sentinel."
    },
    {
     "age": 25,
@@ -1657,7 +1665,7 @@
     "num": "0",
     "pos": "G",
     "status": "Questionable",
-    "statusNote": "Missed the first two games. Listed questionable for Sunday at New York."
+    "statusNote": "Missed the first two games. Upgraded to questionable for Sunday at New York; decision expected near tip-off."
    },
    {
     "age": 27,
@@ -1979,7 +1987,7 @@
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-10-24T11:16:52Z"
+  "updatedAt": "2026-10-25T11:17:59Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",

@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "2026-10-24-banchero-will-not-travel-to-new-york",
+   "d": "2026-10-24",
+   "cat": "Injury",
+   "headline": "Banchero will not travel to New York",
+   "summary": "The Orlando Sentinel reported Banchero will not make the trip for Sunday's game at Madison Square Garden. Both teams are 0-2, and the Knicks are the first reigning champion to start 0-2 since the 2011-12 Mavericks.",
+   "source": "WSKO The Score 1260 (citing Orlando Sentinel)",
+   "url": "https://www.thescore1260.com/2026/10/24/winless-knicks-face-magic-without-paolo-banchero/",
+   "flag": null,
+   "addedAt": "2026-10-25T11:17:59Z"
+  },
+  {
+   "id": "2026-10-24-anthony-black-upgraded-to-questionable-f",
+   "d": "2026-10-24",
+   "cat": "Injury",
+   "headline": "Anthony Black upgraded to questionable for Knicks game",
+   "summary": "Black (right ankle sprain) is listed questionable for Sunday at New York after missing the first two games. The Magic will decide on his availability closer to tip-off.",
+   "source": "ClutchPoints (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/magic-guard-anthony-black-gets-204817494.html",
+   "flag": null,
+   "addedAt": "2026-10-25T11:17:59Z"
+  },
+  {
    "id": "2026-10-24-banchero-high-ankle-sprain-out-4-6-weeks",
    "d": "2026-10-24",
    "cat": "Injury",
