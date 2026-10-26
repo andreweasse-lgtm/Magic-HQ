@@ -1,6 +1,39 @@
 {
  "items": [
   {
+   "id": "2026-10-25-magic-beat-knicks-111-102-for",
+   "d": "2026-10-25",
+   "cat": "Game",
+   "headline": "Magic beat Knicks 111-102 for Sweeney's first win",
+   "summary": "Orlando trailed 12-0 and outscored New York 40-27 in the fourth quarter. Wagner had 23 points, 13 rebounds and 9 assists; Bane scored 22 and da Silva 19.",
+   "source": "Yahoo Sports",
+   "url": "https://sports.yahoo.com/articles/magic-score-first-1st-win-033520079.html",
+   "flag": null,
+   "addedAt": "2026-10-26T09:30:00Z"
+  },
+  {
+   "id": "2026-10-25-suggs-helped-off-with-right-k",
+   "d": "2026-10-25",
+   "cat": "Injury",
+   "headline": "Suggs helped off with right knee injury at New York",
+   "summary": "Jalen Suggs landed awkwardly on a layup late in the fourth quarter and was helped to the locker room. Sweeney had no update.",
+   "source": "Deadspin",
+   "url": "https://deadspin.com/franz-wagner-explodes-in-fourth-as-magic-keep-knicks-winless/",
+   "flag": null,
+   "addedAt": "2026-10-26T09:30:00Z"
+  },
+  {
+   "id": "2026-10-25-anthony-black-returns-with-18",
+   "d": "2026-10-25",
+   "cat": "Injury",
+   "headline": "Anthony Black returns with 18 points in season debut",
+   "summary": "Black missed the preseason and first two games with a right ankle sprain, then scored 18 with 5 assists in 26 minutes.",
+   "source": "Yahoo Sports",
+   "url": "https://sports.yahoo.com/articles/magic-score-first-1st-win-033520079.html",
+   "flag": null,
+   "addedAt": "2026-10-26T09:30:00Z"
+  },
+  {
    "id": "2026-10-24-banchero-will-not-travel-to-new-york",
    "d": "2026-10-24",
    "cat": "Injury",

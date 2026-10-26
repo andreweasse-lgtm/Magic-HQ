@@ -1,6 +1,6 @@
 {
  "meta": {
-  "away": "0-0",
+  "away": "1-0",
   "coach": "Sean Sweeney",
   "home": "0-2",
   "keyDates": [
@@ -30,15 +30,15 @@
     "label": "Regular season ends"
    }
   ],
-  "l10": "0-2",
+  "l10": "1-2",
   "lastGame": {
-   "d": "2026-10-23",
-   "opp": "MIN",
-   "ha": "H",
-   "us": 93,
-   "them": 115,
-   "wl": "L",
-   "label": "vs Timberwolves"
+   "d": "2026-10-25",
+   "opp": "NYK",
+   "ha": "A",
+   "us": 111,
+   "them": 102,
+   "wl": "W",
+   "label": "at Knicks"
   },
   "lastSeason": {
    "l": 37,
@@ -46,9 +46,9 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 0-2 after a 115-93 home loss to Minnesota. Banchero out 4-6 weeks. Tonight at New York, 7:00 PM, TV27.",
+  "phaseDetail": "Magic 1-2 after a 111-102 win at New York, Sean Sweeney's first as head coach. Banchero out 4-6 weeks; Suggs (right knee) to be evaluated. Next: at Toronto Wednesday, 7:30 PM, TV27.",
   "record": {
-   "w": 0,
+   "w": 1,
    "l": 2
   },
   "season": "2026-27",
@@ -56,47 +56,51 @@
    "conf": null,
    "div": null
   },
-  "streak": "L2",
-  "updatedAt": "2026-10-26T00:27:36Z"
+  "streak": "W1",
+  "updatedAt": "2026-10-26T09:30:00Z"
  },
  "brief": {
-  "d": "2026-10-25",
-  "createdAt": "2026-10-25T11:17:59Z",
-  "headline": "Magic at Knicks tonight, both 0-2; Black questionable",
-  "summary": "Orlando (0-2) plays at the defending champion Knicks (0-2) tonight at 7:00 PM on TV27. Paolo Banchero (high ankle sprain) did not travel, and Anthony Black is questionable. New York is a 7.5-point favorite. No roster or front-office moves since Saturday.",
+  "d": "2026-10-26",
+  "createdAt": "2026-10-26T09:30:00Z",
+  "headline": "Magic win at Knicks 111-102 for Sweeney's first win; Suggs hurt",
+  "summary": "Orlando (1-2) erased a 12-0 deficit and outscored New York 40-27 in the fourth quarter to win at Madison Square Garden without Paolo Banchero. Franz Wagner had 21 of his 23 points in the fourth. Jalen Suggs hurt his right knee late and will be evaluated. The Magic play at Toronto on Wednesday and again Friday.",
   "bullets": [
    {
-    "tag": "Health",
-    "text": "Banchero (right high ankle sprain, reported 4-6 weeks) did not travel to New York, per the Orlando Sentinel. Jonathan Isaac (knee), Noah Penda (hamstring) and Izaiyah Nelson (ankle) are also out."
-   },
-   {
-    "tag": "Health",
-    "text": "Anthony Black (right ankle sprain) was upgraded to questionable after missing the first two games. The team will decide closer to tip-off."
+    "tag": "Game",
+    "text": "Magic 111, Knicks 102. Orlando trailed 12-0, took its first lead with 7:25 left in the fourth and handed the defending champions an 0-3 start (Yahoo Sports, Deadspin)."
    },
    {
     "tag": "Lineup",
-    "text": "Tristan da Silva is expected to start in Banchero's place, with more of the load on Franz Wagner, Desmond Bane, Jalen Suggs and Wendell Carter Jr."
+    "text": "Wagner 23 pts, 13 reb (career high), 9 ast; Desmond Bane 22 pts, including the go-ahead three; Tristan da Silva 19 pts off the bench."
    },
    {
-    "tag": "Odds",
-    "text": "Knicks -7.5 (Magic +7.5 at -110, Fanatics). Total 224.5; Knicks about -320 on the moneyline across books."
+    "tag": "Health",
+    "text": "Anthony Black returned from his right ankle sprain with 18 pts, 5 ast in 26 minutes and a team-best +21."
+   },
+   {
+    "tag": "Health",
+    "text": "Suggs (6 reb, 6 ast, 3 stl) was helped off with an apparent right knee injury late in the fourth. Sweeney had no update after the game."
+   },
+   {
+    "tag": "Health",
+    "text": "Banchero (low-grade right high ankle sprain) is out, reported 4-6 weeks. Isaac, Penda and Nelson also remain out."
    },
    {
     "tag": "Next game",
-    "text": "New York lost to Philadelphia and Boston and is the first reigning champion to start 0-2 since the 2011-12 Mavericks. Jose Alvarado (ankle) is questionable."
-   },
-   {
-    "tag": "Standings",
-    "text": "Orlando is one of five winless East teams. Philadelphia (3-0) leads; Miami and Milwaukee fell to 0-3 on Saturday."
+    "text": "At Toronto Wednesday, 7:30 PM ET, TV27, with a second game in Toronto Friday. Odds not yet confirmed."
    }
   ],
-  "recap": null,
-  "preview": {
-   "title": "Sunday at Knicks, 7:00 PM, TV27",
-   "text": "Both teams are 0-2. Banchero, Isaac, Penda and Nelson are out; Black is questionable. Alvarado is questionable for New York. Orlando was outrebounded 60-43 by Minnesota on Friday.",
-   "line": "NYK -7.5 (Fanatics); total 224.5, NYK about -320 ML"
+  "recap": {
+   "title": "Magic 111, Knicks 102",
+   "text": "Orlando overcame a 12-0 start by New York and a missing Banchero, outscoring the Knicks 40-27 in the fourth. Bane hit the three that gave Orlando the lead for good.",
+   "leaders": "Wagner 23 pts, 13 reb, 9 ast; Bane 22 pts; da Silva 19 pts; Black 18 pts, 5 ast"
   },
-  "watch": "Black's status at tip-off, then at Toronto on Wednesday, 7:30 PM."
+  "preview": {
+   "title": "Wednesday at Raptors, 7:30 PM, TV27",
+   "text": "Toronto is 2-0. Suggs is a question mark after his knee injury; Banchero remains out.",
+   "line": "Line not yet posted"
+  },
+  "watch": "Suggs' knee evaluation, then at Toronto Wednesday, 7:30 PM."
  },
  "schedule": {
   "cup": {
@@ -224,7 +228,13 @@
     "id": "r20261025",
     "note": "",
     "opp": "NYK",
-    "res": null,
+    "res": {
+     "us": 111,
+     "them": 102,
+     "wl": "W",
+     "ot": "",
+     "note": "Wagner 23 pts, 13 reb, 9 ast; Bane 22"
+    },
     "t": "7:00 PM",
     "tag": "",
     "tv": "TV27",
@@ -1629,7 +1639,7 @@
     },
     "exp": "5",
     "ht": "6-5",
-    "injury": "",
+    "injury": "Right knee",
     "kind": "Standard",
     "last": {
      "ast": 5.5,
@@ -1642,8 +1652,8 @@
     "note": "Led the team in assists and steals. Starting point guard job is a camp storyline.",
     "num": "4",
     "pos": "G",
-    "status": "Healthy",
-    "statusNote": ""
+    "status": "Questionable",
+    "statusNote": "Helped off late in the Oct 25 win at New York after landing awkwardly. Sweeney had no update; he will be evaluated."
    },
    {
     "age": 22,
@@ -1651,7 +1661,7 @@
     "cur": null,
     "exp": "3",
     "ht": "6-7",
-    "injury": "Right ankle sprain",
+    "injury": "",
     "kind": "Standard",
     "last": {
      "ast": 3.7,
@@ -1664,8 +1674,8 @@
     "note": "No rookie-scale extension by the Oct 19 deadline. Restricted free agent in 2027; Orlando can match any offer sheet.",
     "num": "0",
     "pos": "G",
-    "status": "Questionable",
-    "statusNote": "Missed the first two games. Upgraded to questionable for Sunday at New York; decision expected near tip-off."
+    "status": "Healthy",
+    "statusNote": "Returned Oct 25 at New York: 18 pts, 5 ast in 26 minutes."
    },
    {
     "age": 27,
@@ -1987,7 +1997,7 @@
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-10-25T11:17:59Z"
+  "updatedAt": "2026-10-26T09:30:00Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",

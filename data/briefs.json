@@ -1,6 +1,45 @@
 {
  "items": [
   {
+   "d": "2026-10-25",
+   "createdAt": "2026-10-25T11:17:59Z",
+   "headline": "Magic at Knicks tonight, both 0-2; Black questionable",
+   "summary": "Orlando (0-2) plays at the defending champion Knicks (0-2) tonight at 7:00 PM on TV27. Paolo Banchero (high ankle sprain) did not travel, and Anthony Black is questionable. New York is a 7.5-point favorite. No roster or front-office moves since Saturday.",
+   "bullets": [
+    {
+     "tag": "Health",
+     "text": "Banchero (right high ankle sprain, reported 4-6 weeks) did not travel to New York, per the Orlando Sentinel. Jonathan Isaac (knee), Noah Penda (hamstring) and Izaiyah Nelson (ankle) are also out."
+    },
+    {
+     "tag": "Health",
+     "text": "Anthony Black (right ankle sprain) was upgraded to questionable after missing the first two games. The team will decide closer to tip-off."
+    },
+    {
+     "tag": "Lineup",
+     "text": "Tristan da Silva is expected to start in Banchero's place, with more of the load on Franz Wagner, Desmond Bane, Jalen Suggs and Wendell Carter Jr."
+    },
+    {
+     "tag": "Odds",
+     "text": "Knicks -7.5 (Magic +7.5 at -110, Fanatics). Total 224.5; Knicks about -320 on the moneyline across books."
+    },
+    {
+     "tag": "Next game",
+     "text": "New York lost to Philadelphia and Boston and is the first reigning champion to start 0-2 since the 2011-12 Mavericks. Jose Alvarado (ankle) is questionable."
+    },
+    {
+     "tag": "Standings",
+     "text": "Orlando is one of five winless East teams. Philadelphia (3-0) leads; Miami and Milwaukee fell to 0-3 on Saturday."
+    }
+   ],
+   "recap": null,
+   "preview": {
+    "title": "Sunday at Knicks, 7:00 PM, TV27",
+    "text": "Both teams are 0-2. Banchero, Isaac, Penda and Nelson are out; Black is questionable. Alvarado is questionable for New York. Orlando was outrebounded 60-43 by Minnesota on Friday.",
+    "line": "NYK -7.5 (Fanatics); total 224.5, NYK about -320 ML"
+   },
+   "watch": "Black's status at tip-off, then at Toronto on Wednesday, 7:30 PM."
+  },
+  {
    "d": "2026-10-24",
    "createdAt": "2026-10-25T00:23:04Z",
    "headline": "Banchero out 4-6 weeks with high ankle sprain",
