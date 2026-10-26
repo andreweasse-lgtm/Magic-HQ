@@ -46,61 +46,65 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 1-2 after a 111-102 win at New York, Sean Sweeney's first as head coach. Banchero out 4-6 weeks; Suggs (right knee) to be evaluated. Next: at Toronto Wednesday, 7:30 PM, TV27.",
+  "phaseDetail": "Magic 1-2, tied for 10th in the East. Suggs (right knee) awaits a diagnosis; Banchero out 4-6 weeks. Next: at Toronto Wednesday, 7:30 PM, TV27.",
   "record": {
    "w": 1,
    "l": 2
   },
   "season": "2026-27",
   "standing": {
-   "conf": null,
-   "div": null
+   "conf": 11,
+   "div": 4
   },
   "streak": "W1",
-  "updatedAt": "2026-10-26T09:30:00Z"
+  "updatedAt": "2026-10-26T11:21:54Z"
  },
  "brief": {
   "d": "2026-10-26",
-  "createdAt": "2026-10-26T09:30:00Z",
-  "headline": "Magic win at Knicks 111-102 for Sweeney's first win; Suggs hurt",
-  "summary": "Orlando (1-2) erased a 12-0 deficit and outscored New York 40-27 in the fourth quarter to win at Madison Square Garden without Paolo Banchero. Franz Wagner had 21 of his 23 points in the fourth. Jalen Suggs hurt his right knee late and will be evaluated. The Magic play at Toronto on Wednesday and again Friday.",
+  "createdAt": "2026-10-26T11:21:54Z",
+  "headline": "Magic wait on Suggs knee diagnosis; off until Wednesday at Toronto",
+  "summary": "There is no diagnosis yet on Jalen Suggs, who was helped off late in Sunday's 111-102 win at New York with a non-contact right knee injury. Postgame reports said an MRI was expected. Orlando (1-2) has two days off before two games at Toronto on Wednesday and Friday, with Paolo Banchero still out. Catch-up: the Magic picked up 2027-28 options on Tristan da Silva and Jase Richardson on Oct 21.",
   "bullets": [
    {
-    "tag": "Game",
-    "text": "Magic 111, Knicks 102. Orlando trailed 12-0, took its first lead with 7:25 left in the fourth and handed the defending champions an 0-3 start (Yahoo Sports, Deadspin)."
+    "tag": "Health",
+    "text": "Suggs: no update as of Monday morning. Sweeney said he was in good spirits and will be evaluated. He had 4 pts, 6 reb, 6 ast and 3 stl in 34 minutes before going down with 2:09 left (Orlando Sentinel, Hoops Rumors)."
+   },
+   {
+    "tag": "Health",
+    "text": "Banchero (low-grade right high ankle sprain) remains out, reported 4-6 weeks. Isaac, Penda and Nelson have missed all three games."
+   },
+   {
+    "tag": "Contract",
+    "text": "Oct 21: Orlando exercised 2027-28 rookie-scale options on da Silva (about $6.1M) and Richardson (about $3.3M). Both are now signed through 2027-28 (Orlando Sentinel, team release)."
    },
    {
     "tag": "Lineup",
-    "text": "Wagner 23 pts, 13 reb (career high), 9 ast; Desmond Bane 22 pts, including the go-ahead three; Tristan da Silva 19 pts off the bench."
+    "text": "Through three games: Wagner 21.0 pts, 8.3 reb, 6.3 ast; Carter 17.0 pts, 8.7 reb; Bane 15.0 pts; da Silva 12.7 pts. Richardson made his first NBA start Sunday."
    },
    {
-    "tag": "Health",
-    "text": "Anthony Black returned from his right ankle sprain with 18 pts, 5 ast in 26 minutes and a team-best +21."
+    "tag": "Standings",
+    "text": "At 1-2, Orlando is tied with Chicago for 10th in the East. Detroit (3-0) is the East's last unbeaten team after a 106-93 win at Philadelphia."
    },
    {
-    "tag": "Health",
-    "text": "Suggs (6 reb, 6 ast, 3 stl) was helped off with an apparent right knee injury late in the fourth. Sweeney had no update after the game."
-   },
-   {
-    "tag": "Health",
-    "text": "Banchero (low-grade right high ankle sprain) is out, reported 4-6 weeks. Isaac, Penda and Nelson also remain out."
+    "tag": "Odds",
+    "text": "FanDuel has the Magic win total at 41.5 (Over -115), down from 43.5 on Oct 19. East +2200, title +6500 (via VegasInsider)."
    },
    {
     "tag": "Next game",
-    "text": "At Toronto Wednesday, 7:30 PM ET, TV27, with a second game in Toronto Friday. Odds not yet confirmed."
+    "text": "At Toronto Wednesday, 7:30 PM, TV27. The Raptors (2-1) lost 117-94 at Minnesota on Sunday. Line not yet posted."
    }
   ],
   "recap": {
    "title": "Magic 111, Knicks 102",
-   "text": "Orlando overcame a 12-0 start by New York and a missing Banchero, outscoring the Knicks 40-27 in the fourth. Bane hit the three that gave Orlando the lead for good.",
-   "leaders": "Wagner 23 pts, 13 reb, 9 ast; Bane 22 pts; da Silva 19 pts; Black 18 pts, 5 ast"
+   "text": "Orlando overcame a 12-0 start by New York and a missing Banchero, outscoring the Knicks 40-27 in the fourth. Wagner scored 21 of his 23 in the fourth and Bane hit the three that gave Orlando the lead for good. Black fouled out in his season debut.",
+   "leaders": "Wagner 23 pts, 13 reb, 9 ast; Bane 22 pts; da Silva 19 pts (5 threes); Black 18 pts, 5 ast"
   },
   "preview": {
    "title": "Wednesday at Raptors, 7:30 PM, TV27",
-   "text": "Toronto is 2-0. Suggs is a question mark after his knee injury; Banchero remains out.",
+   "text": "Toronto is 2-1 after a 117-94 loss at Minnesota on Sunday. Suggs awaits a diagnosis and Banchero remains out. The teams meet again Friday in Toronto in an NBA Cup group game.",
    "line": "Line not yet posted"
   },
-  "watch": "Suggs' knee evaluation, then at Toronto Wednesday, 7:30 PM."
+  "watch": "Suggs' knee diagnosis, then at Toronto Wednesday, 7:30 PM, TV27."
  },
  "schedule": {
   "cup": {
@@ -1288,37 +1292,37 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-10-25",
+   "asOf": "2026-10-26",
    "rows": [
     {
-     "abbr": "PHI",
+     "abbr": "DET",
      "w": 3,
      "l": 0,
      "gb": 0.0,
-     "home": "2-0",
-     "away": "1-0",
+     "home": "1-0",
+     "away": "2-0",
      "l10": "3-0",
      "strk": "W3"
     },
     {
-     "abbr": "DET",
-     "w": 2,
-     "l": 0,
+     "abbr": "PHI",
+     "w": 3,
+     "l": 1,
      "gb": 0.5,
-     "home": "1-0",
+     "home": "2-1",
      "away": "1-0",
-     "l10": "2-0",
-     "strk": "W2"
+     "l10": "3-1",
+     "strk": "L1"
     },
     {
      "abbr": "TOR",
      "w": 2,
-     "l": 0,
-     "gb": 0.5,
+     "l": 1,
+     "gb": 1.0,
      "home": "1-0",
-     "away": "1-0",
-     "l10": "2-0",
-     "strk": "W2"
+     "away": "1-1",
+     "l10": "2-1",
+     "strk": "L1"
     },
     {
      "abbr": "ATL",
@@ -1351,6 +1355,16 @@
      "strk": "W1"
     },
     {
+     "abbr": "IND",
+     "w": 2,
+     "l": 1,
+     "gb": 1.0,
+     "home": "0-1",
+     "away": "2-0",
+     "l10": "2-1",
+     "strk": "W1"
+    },
+    {
      "abbr": "BOS",
      "w": 1,
      "l": 1,
@@ -1359,16 +1373,6 @@
      "away": "0-1",
      "l10": "1-1",
      "strk": "W1"
-    },
-    {
-     "abbr": "IND",
-     "w": 1,
-     "l": 1,
-     "gb": 1.5,
-     "home": "0-1",
-     "away": "1-0",
-     "l10": "1-1",
-     "strk": "L1"
     },
     {
      "abbr": "CLE",
@@ -1391,34 +1395,34 @@
      "strk": "L1"
     },
     {
-     "abbr": "BKN",
-     "w": 0,
+     "abbr": "ORL",
+     "w": 1,
      "l": 2,
-     "gb": 2.5,
-     "home": "0-1",
-     "away": "0-1",
-     "l10": "0-2",
-     "strk": "L2"
+     "gb": 2.0,
+     "home": "0-2",
+     "away": "1-0",
+     "l10": "1-2",
+     "strk": "W1"
     },
     {
-     "abbr": "ORL",
+     "abbr": "BKN",
      "w": 0,
-     "l": 2,
-     "gb": 2.5,
+     "l": 3,
+     "gb": 3.0,
      "home": "0-2",
-     "away": "0-0",
-     "l10": "0-2",
-     "strk": "L2"
+     "away": "0-1",
+     "l10": "0-3",
+     "strk": "L3"
     },
     {
      "abbr": "NYK",
      "w": 0,
-     "l": 2,
-     "gb": 2.5,
-     "home": "0-1",
+     "l": 3,
+     "gb": 3.0,
+     "home": "0-2",
      "away": "0-1",
-     "l10": "0-2",
-     "strk": "L2"
+     "l10": "0-3",
+     "strk": "L3"
     },
     {
      "abbr": "MIA",
@@ -1539,7 +1543,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-10-25T11:17:59Z"
+  "updatedAt": "2026-10-26T11:21:54Z"
  },
  "roster": {
   "players": [
@@ -1575,11 +1579,11 @@
     "age": 25,
     "contract": "$41.8M. Signed through 2029-30",
     "cur": {
-     "gp": 2,
-     "pts": 20.0,
-     "reb": 6.0,
-     "ast": 5.0,
-     "fg": 0.471
+     "gp": 3,
+     "pts": 21.0,
+     "reb": 8.3,
+     "ast": 6.3,
+     "fg": 0.439
     },
     "exp": "5",
     "ht": "6-10",
@@ -1603,11 +1607,11 @@
     "age": 28,
     "contract": "$39.4M. Signed through 2028-29",
     "cur": {
-     "gp": 2,
-     "pts": 11.5,
-     "reb": 3.5,
-     "ast": 1.0,
-     "fg": 0.269
+     "gp": 3,
+     "pts": 15.0,
+     "reb": 4.3,
+     "ast": 1.3,
+     "fg": 0.333
     },
     "exp": "6",
     "ht": "6-6",
@@ -1631,11 +1635,11 @@
     "age": 25,
     "contract": "$32.4M. Signed through 2029-30",
     "cur": {
-     "gp": 2,
-     "pts": 10.0,
-     "reb": 4.5,
-     "ast": 5.5,
-     "fg": 0.4
+     "gp": 3,
+     "pts": 8.0,
+     "reb": 5.0,
+     "ast": 5.7,
+     "fg": 0.357
     },
     "exp": "5",
     "ht": "6-5",
@@ -1653,12 +1657,18 @@
     "num": "4",
     "pos": "G",
     "status": "Questionable",
-    "statusNote": "Helped off late in the Oct 25 win at New York after landing awkwardly. Sweeney had no update; he will be evaluated."
+    "statusNote": "Non-contact injury with 2:09 left in the Oct 25 win at New York; helped off. Sweeney said he will be evaluated, and an MRI was expected. No diagnosis as of Monday morning."
    },
    {
     "age": 22,
     "contract": "$10.1M. Final rookie-scale year. No extension; restricted free agent in 2027",
-    "cur": null,
+    "cur": {
+     "gp": 1,
+     "pts": 18.0,
+     "reb": 3.0,
+     "ast": 5.0,
+     "fg": 0.545
+    },
     "exp": "3",
     "ht": "6-7",
     "injury": "",
@@ -1671,21 +1681,21 @@
      "reb": 3.8
     },
     "name": "Anthony Black",
-    "note": "No rookie-scale extension by the Oct 19 deadline. Restricted free agent in 2027; Orlando can match any offer sheet.",
+    "note": "No rookie-scale extension by the Oct 19 deadline; restricted free agent in 2027. Returned from a right ankle sprain Oct 25 with 18 points before fouling out.",
     "num": "0",
     "pos": "G",
     "status": "Healthy",
-    "statusNote": "Returned Oct 25 at New York: 18 pts, 5 ast in 26 minutes."
+    "statusNote": ""
    },
    {
     "age": 27,
     "contract": "$18.1M. Through 2028-29 (team option in 2028-29)",
     "cur": {
-     "gp": 2,
-     "pts": 21.0,
-     "reb": 8.0,
-     "ast": 0.5,
-     "fg": 0.842
+     "gp": 3,
+     "pts": 17.0,
+     "reb": 8.7,
+     "ast": 1.0,
+     "fg": 0.76
     },
     "exp": "8",
     "ht": "6-10",
@@ -1709,11 +1719,11 @@
     "age": 35,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 2,
-     "pts": 0.0,
-     "reb": 1.5,
-     "ast": 0.5,
-     "fg": 0.0
+     "gp": 3,
+     "pts": 1.7,
+     "reb": 2.0,
+     "ast": 1.3,
+     "fg": 0.286
     },
     "exp": "15",
     "ht": "6-9",
@@ -1735,13 +1745,13 @@
    },
    {
     "age": 25,
-    "contract": "$4.0M. 2027-28 team option ($6.1M) pending",
+    "contract": "$4.0M. 2027-28 team option ($6.1M) exercised Oct 21; signed through 2027-28",
     "cur": {
-     "gp": 2,
-     "pts": 9.5,
-     "reb": 2.5,
+     "gp": 3,
+     "pts": 12.7,
+     "reb": 2.3,
      "ast": 2.0,
-     "fg": 0.35
+     "fg": 0.424
     },
     "exp": "2",
     "ht": "6-8",
@@ -1809,7 +1819,7 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Out for the first two games. Has not played yet this season, including all four preseason games. Out for Sunday at New York."
+    "statusNote": "Has not played this season, including all four preseason games. Missed the first three games."
    },
    {
     "age": 31,
@@ -1843,11 +1853,11 @@
     "age": 27,
     "contract": "$2.6M. Not fully guaranteed until Jan 10",
     "cur": {
-     "gp": 2,
-     "pts": 0.0,
-     "reb": 0.5,
+     "gp": 3,
+     "pts": 1.7,
+     "reb": 2.0,
      "ast": 0.0,
-     "fg": 0.0
+     "fg": 0.125
     },
     "exp": "4",
     "ht": "6-7",
@@ -1869,13 +1879,13 @@
    },
    {
     "age": 20,
-    "contract": "$3.1M rookie scale. 2027-28 team option pending",
+    "contract": "$3.1M rookie scale. 2027-28 team option ($3.3M) exercised Oct 21",
     "cur": {
-     "gp": 2,
-     "pts": 4.0,
-     "reb": 1.5,
-     "ast": 3.0,
-     "fg": 0.375
+     "gp": 3,
+     "pts": 4.7,
+     "reb": 1.3,
+     "ast": 2.0,
+     "fg": 0.333
     },
     "exp": "1",
     "ht": "6-1",
@@ -1889,7 +1899,7 @@
      "reb": 1.2
     },
     "name": "Jase Richardson",
-    "note": "Averaged 18.3 points in Summer League.",
+    "note": "Averaged 18.3 points in Summer League. Made his first NBA start Oct 25 at New York in place of Banchero.",
     "num": "11",
     "pos": "G",
     "status": "Healthy",
@@ -1915,7 +1925,7 @@
     "num": "93",
     "pos": "G-F",
     "status": "Out",
-    "statusNote": "Out for the first two games. Expected to miss significant time; no timetable."
+    "statusNote": "Missed the first three games. Expected to miss significant time; no timetable."
    },
    {
     "age": 26,
@@ -1993,11 +2003,11 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Out for the first two games; still recovering. Has not played this preseason or season."
+    "statusNote": "Missed the first three games; still recovering. Has not played this preseason or season."
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-10-26T09:30:00Z"
+  "updatedAt": "2026-10-26T11:21:54Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
@@ -2075,11 +2085,6 @@
     "when": "Summer 2027"
    },
    {
-    "text": "2027-28 options on Tristan da Silva ($6.1M) and Jase Richardson ($3.3M). Oct 31 is the standard deadline.",
-    "title": "Team options",
-    "when": "2026-10-31"
-   },
-   {
     "text": "$2.6M salary becomes fully guaranteed if he is on the roster.",
     "title": "Jamal Cain guarantee",
     "when": "2027-01-10"
@@ -2123,37 +2128,36 @@
    }
   ],
   "futures": {
-   "asOf": "2026-10-19",
-   "book": "FanDuel",
+   "asOf": "2026-10-26",
+   "book": "FanDuel (via VegasInsider)",
    "rows": [
     {
      "market": "Win total",
-     "price": "43.5",
-     "detail": "Over -115 / Under -110 (unchanged from Oct 12; was 44.5 in late September)"
+     "price": "41.5",
+     "detail": "Over -115 (Under price not listed). Down from 43.5 on Oct 19 and 44.5 in late September."
     },
     {
      "market": "Make playoffs",
      "price": "-155",
-     "detail": "Miss +125. About 61% implied (was -165 on Oct 12). Make the Play-In +130"
+     "detail": "Oct 19 price, not re-confirmed this week. Miss +125."
     },
     {
      "market": "Southeast Division",
      "price": "+250",
-     "detail": "Unchanged from Oct 12. Finish 2nd +260"
+     "detail": "Oct 19 price, not re-confirmed this week."
     },
     {
      "market": "Eastern Conference",
-     "price": "+1800",
-     "detail": "Was +1600 on Oct 12. Reach East finals +700"
+     "price": "+2200",
+     "detail": "Was +1800 on Oct 19. +2500 at BetMGM, Caesars and bet365; +3000 at DraftKings."
     },
     {
      "market": "NBA title",
-     "price": "+5000",
-     "detail": "Was +4000 on Oct 12"
+     "price": "+6500",
+     "detail": "Was +5000 on Oct 19. BetMGM +8000, DraftKings +9000."
     }
    ],
    "extra": [
-    "Season opener vs Atlanta (FanDuel, Oct 20): Magic -3.5, moneyline -142, Hawks +120, total 235.5. Opened Magic -2.5, total 234.5.",
     "BetMGM (Oct 12): title +8000, East +2500, Southeast +250.",
     "FanDuel NBA Cup winner +2500; Cup East Group A winner +260 (Oct 12).",
     "Sweeney Coach of the Year +1000, Black Sixth Man +2000 (BetRivers, late September)."
@@ -2246,6 +2250,16 @@
   },
   "predictions": [
    {
+    "outlet": "The Big Lead (Nathan Zuniga)",
+    "d": "2026-10-23",
+    "text": "11th of 15 in its East opening-week rankings after the opening loss to Atlanta, calling it concerning for a team with high expectations."
+   },
+   {
+    "outlet": "NBA.com (John Schuhmann)",
+    "d": "2026-10-19",
+    "text": "15th to start the season. Sees a range from the East's top four to 9th-10th; says restoring the defense should be Sweeney's primary task."
+   },
+   {
     "outlet": "CBS Sports (Brad Botkin)",
     "d": "2026-10-15",
     "text": "Leans Over 43.5 wins but says he would stay away from the bet. Better health could mean 48-50 wins; the team could also slip into the 30s."
@@ -2287,6 +2301,10 @@
    "Assistant GM Stephen Mervis left for the Bulls on May 14."
   ],
   "transactions": [
+   {
+    "d": "2026-10-21",
+    "text": "Exercised 2027-28 rookie-scale team options on Tristan da Silva (about $6.1M) and Jase Richardson (about $3.3M)."
+   },
    {
     "d": "2026-10-19",
     "text": "Anthony Black's rookie-scale extension deadline passed with no agreement; he will be a restricted free agent in 2027."
