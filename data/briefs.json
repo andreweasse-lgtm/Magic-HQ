@@ -1,6 +1,53 @@
 {
  "items": [
   {
+   "d": "2026-10-26",
+   "createdAt": "2026-10-26T11:21:54Z",
+   "headline": "Magic wait on Suggs knee diagnosis; off until Wednesday at Toronto",
+   "summary": "There is no diagnosis yet on Jalen Suggs, who was helped off late in Sunday's 111-102 win at New York with a non-contact right knee injury. Postgame reports said an MRI was expected. Orlando (1-2) has two days off before two games at Toronto on Wednesday and Friday, with Paolo Banchero still out. Catch-up: the Magic picked up 2027-28 options on Tristan da Silva and Jase Richardson on Oct 21.",
+   "bullets": [
+    {
+     "tag": "Health",
+     "text": "Suggs: no update as of Monday morning. Sweeney said he was in good spirits and will be evaluated. He had 4 pts, 6 reb, 6 ast and 3 stl in 34 minutes before going down with 2:09 left (Orlando Sentinel, Hoops Rumors)."
+    },
+    {
+     "tag": "Health",
+     "text": "Banchero (low-grade right high ankle sprain) remains out, reported 4-6 weeks. Isaac, Penda and Nelson have missed all three games."
+    },
+    {
+     "tag": "Contract",
+     "text": "Oct 21: Orlando exercised 2027-28 rookie-scale options on da Silva (about $6.1M) and Richardson (about $3.3M). Both are now signed through 2027-28 (Orlando Sentinel, team release)."
+    },
+    {
+     "tag": "Lineup",
+     "text": "Through three games: Wagner 21.0 pts, 8.3 reb, 6.3 ast; Carter 17.0 pts, 8.7 reb; Bane 15.0 pts; da Silva 12.7 pts. Richardson made his first NBA start Sunday."
+    },
+    {
+     "tag": "Standings",
+     "text": "At 1-2, Orlando is tied with Chicago for 10th in the East. Detroit (3-0) is the East's last unbeaten team after a 106-93 win at Philadelphia."
+    },
+    {
+     "tag": "Odds",
+     "text": "FanDuel has the Magic win total at 41.5 (Over -115), down from 43.5 on Oct 19. East +2200, title +6500 (via VegasInsider)."
+    },
+    {
+     "tag": "Next game",
+     "text": "At Toronto Wednesday, 7:30 PM, TV27. The Raptors (2-1) lost 117-94 at Minnesota on Sunday. Line not yet posted."
+    }
+   ],
+   "recap": {
+    "title": "Magic 111, Knicks 102",
+    "text": "Orlando overcame a 12-0 start by New York and a missing Banchero, outscoring the Knicks 40-27 in the fourth. Wagner scored 21 of his 23 in the fourth and Bane hit the three that gave Orlando the lead for good. Black fouled out in his season debut.",
+    "leaders": "Wagner 23 pts, 13 reb, 9 ast; Bane 22 pts; da Silva 19 pts (5 threes); Black 18 pts, 5 ast"
+   },
+   "preview": {
+    "title": "Wednesday at Raptors, 7:30 PM, TV27",
+    "text": "Toronto is 2-1 after a 117-94 loss at Minnesota on Sunday. Suggs awaits a diagnosis and Banchero remains out. The teams meet again Friday in Toronto in an NBA Cup group game.",
+    "line": "Line not yet posted"
+   },
+   "watch": "Suggs' knee diagnosis, then at Toronto Wednesday, 7:30 PM, TV27."
+  },
+  {
    "d": "2026-10-25",
    "createdAt": "2026-10-25T11:17:59Z",
    "headline": "Magic at Knicks tonight, both 0-2; Black questionable",

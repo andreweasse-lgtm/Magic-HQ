@@ -1,6 +1,17 @@
 {
  "items": [
   {
+   "id": "2026-10-27-suggs-bone-bruise-out-at-least-two-weeks",
+   "d": "2026-10-26",
+   "cat": "Injury",
+   "headline": "Suggs has right knee bone bruise, out at least two weeks",
+   "summary": "The Magic announced an MRI showed a bone bruise with no other structural damage. Suggs will be re-evaluated in two weeks.",
+   "source": "Yahoo Sports (ClutchPoints)",
+   "url": "https://sports.yahoo.com/articles/magic-jalen-suggs-avoids-significant-194901807.html",
+   "flag": null,
+   "addedAt": "2026-10-27T09:22:46Z"
+  },
+  {
    "id": "2026-10-25-magic-beat-knicks-111-102-for",
    "d": "2026-10-25",
    "cat": "Game",
