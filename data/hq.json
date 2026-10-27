@@ -46,49 +46,53 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 1-2, tied for 10th in the East. Suggs out at least two weeks (right knee bone bruise); Banchero out 4-6 weeks. Next: at Toronto Wednesday, 7:30 PM, TV27.",
+  "phaseDetail": "Magic 1-2, 10th in the East. Suggs out at least two weeks (right knee bone bruise); Banchero out 4-6 weeks. Next: at Toronto Wednesday, 7:30 PM, TV27.",
   "record": {
    "w": 1,
    "l": 2
   },
   "season": "2026-27",
   "standing": {
-   "conf": 11,
+   "conf": 10,
    "div": 4
   },
   "streak": "W1",
-  "updatedAt": "2026-10-27T09:22:46Z"
+  "updatedAt": "2026-10-27T11:17:10Z"
  },
  "brief": {
   "d": "2026-10-27",
-  "createdAt": "2026-10-27T09:22:46Z",
-  "headline": "Suggs has right knee bone bruise, out at least two weeks",
-  "summary": "The Magic announced Monday that an MRI showed a bone bruise in Jalen Suggs' right knee with no other structural damage. He will be re-evaluated in two weeks. Anthony Black is expected to take over at point guard as Orlando (1-2) visits Toronto on Wednesday, with Paolo Banchero still out.",
+  "createdAt": "2026-10-27T11:17:10Z",
+  "headline": "Suggs out at least two weeks as Magic head to Toronto",
+  "summary": "Jalen Suggs has a bone bruise in his right knee and will be re-evaluated in two weeks, so Anthony Black is expected to run the point. Orlando (1-2, 10th in the East) plays at Toronto on Wednesday, still without Paolo Banchero. The Raptors may be missing Kawhi Leonard, who sat out Sunday with left knee swelling.",
   "bullets": [
    {
     "tag": "Health",
-    "text": "Suggs: right knee bone bruise, no other structural damage on the MRI. Out at least two weeks, with re-evaluation after that (team announcement, via ClutchPoints/Yahoo Sports)."
+    "text": "Suggs: right knee bone bruise, no structural damage on the MRI. Out at least two weeks, then re-evaluated (team announcement Monday, via ESPN)."
    },
    {
     "tag": "Lineup",
-    "text": "Black, who had 18 points in his season debut Sunday, is likely to move into the starting point guard role."
+    "text": "Black, who had 18 points and 5 assists in his season debut Sunday, is likely to move into the starting point guard role."
    },
    {
     "tag": "Health",
-    "text": "Banchero (high ankle sprain) remains out, reported 4-6 weeks."
+    "text": "Banchero (high ankle sprain) remains out, reported 4-6 weeks. Isaac, Penda and Nelson have yet to play this season."
    },
    {
     "tag": "Next game",
-    "text": "At Toronto Wednesday, 7:30 PM, TV27. The Raptors are 2-1. Line not yet confirmed."
+    "text": "At Toronto Wednesday, 7:30 PM, TV27. The Raptors are 2-1. Leonard missed their loss at Minnesota Sunday with left knee swelling and was set for more testing Monday; no result announced yet. Line not yet posted."
+   },
+   {
+    "tag": "Standings",
+    "text": "Monday's results left Orlando alone in 10th in the East, 2 games behind 3-0 Detroit. Charlotte (3-1) leads the Southeast; Atlanta and Washington are 2-2, Miami 0-4."
    }
   ],
   "recap": null,
   "preview": {
    "title": "Wednesday at Raptors, 7:30 PM, TV27",
-   "text": "Toronto is 2-1. Orlando will be without Suggs and Banchero. The teams meet again Friday in Toronto in an NBA Cup group game.",
+   "text": "Toronto is 2-1 and Kawhi Leonard's status is uncertain after left knee swelling kept him out Sunday. Orlando will be without Suggs and Banchero. The teams meet again Friday in Toronto in an NBA Cup group game.",
    "line": "Line not yet posted"
   },
-  "watch": "At Toronto Wednesday, 7:30 PM, TV27; official injury report for Isaac, Penda and Nelson."
+  "watch": "At Toronto Wednesday, 7:30 PM, TV27. Watch Tuesday's injury report for Isaac, Penda and Nelson, and Toronto's update on Leonard."
  },
  "schedule": {
   "cup": {
@@ -1276,7 +1280,7 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-10-26",
+   "asOf": "2026-10-27",
    "rows": [
     {
      "abbr": "DET",
@@ -1299,6 +1303,16 @@
      "strk": "L1"
     },
     {
+     "abbr": "CHA",
+     "w": 3,
+     "l": 1,
+     "gb": 0.5,
+     "home": "2-1",
+     "away": "1-0",
+     "l10": "3-1",
+     "strk": "W2"
+    },
+    {
      "abbr": "TOR",
      "w": 2,
      "l": 1,
@@ -1309,73 +1323,53 @@
      "strk": "L1"
     },
     {
-     "abbr": "ATL",
+     "abbr": "BOS",
      "w": 2,
      "l": 1,
      "gb": 1.0,
-     "home": "0-1",
-     "away": "2-0",
+     "home": "2-0",
+     "away": "0-1",
      "l10": "2-1",
-     "strk": "L1"
+     "strk": "W2"
+    },
+    {
+     "abbr": "CLE",
+     "w": 2,
+     "l": 1,
+     "gb": 1.0,
+     "home": "2-0",
+     "away": "0-1",
+     "l10": "2-1",
+     "strk": "W2"
+    },
+    {
+     "abbr": "ATL",
+     "w": 2,
+     "l": 2,
+     "gb": 1.5,
+     "home": "0-1",
+     "away": "2-1",
+     "l10": "2-2",
+     "strk": "L2"
     },
     {
      "abbr": "WAS",
      "w": 2,
-     "l": 1,
-     "gb": 1.0,
+     "l": 2,
+     "gb": 1.5,
      "home": "1-1",
-     "away": "1-0",
-     "l10": "2-1",
-     "strk": "W1"
-    },
-    {
-     "abbr": "CHA",
-     "w": 2,
-     "l": 1,
-     "gb": 1.0,
-     "home": "1-1",
-     "away": "1-0",
-     "l10": "2-1",
-     "strk": "W1"
+     "away": "1-1",
+     "l10": "2-2",
+     "strk": "L1"
     },
     {
      "abbr": "IND",
      "w": 2,
-     "l": 1,
-     "gb": 1.0,
-     "home": "0-1",
-     "away": "2-0",
-     "l10": "2-1",
-     "strk": "W1"
-    },
-    {
-     "abbr": "BOS",
-     "w": 1,
-     "l": 1,
-     "gb": 1.5,
-     "home": "1-0",
-     "away": "0-1",
-     "l10": "1-1",
-     "strk": "W1"
-    },
-    {
-     "abbr": "CLE",
-     "w": 1,
-     "l": 1,
-     "gb": 1.5,
-     "home": "1-0",
-     "away": "0-1",
-     "l10": "1-1",
-     "strk": "W1"
-    },
-    {
-     "abbr": "CHI",
-     "w": 1,
      "l": 2,
-     "gb": 2.0,
+     "gb": 1.5,
      "home": "0-1",
-     "away": "1-1",
-     "l10": "1-2",
+     "away": "2-1",
+     "l10": "2-2",
      "strk": "L1"
     },
     {
@@ -1386,6 +1380,26 @@
      "home": "0-2",
      "away": "1-0",
      "l10": "1-2",
+     "strk": "W1"
+    },
+    {
+     "abbr": "CHI",
+     "w": 1,
+     "l": 3,
+     "gb": 2.5,
+     "home": "0-1",
+     "away": "1-2",
+     "l10": "1-3",
+     "strk": "L2"
+    },
+    {
+     "abbr": "MIL",
+     "w": 1,
+     "l": 3,
+     "gb": 2.5,
+     "home": "1-1",
+     "away": "0-2",
+     "l10": "1-3",
      "strk": "W1"
     },
     {
@@ -1411,22 +1425,12 @@
     {
      "abbr": "MIA",
      "w": 0,
-     "l": 3,
-     "gb": 3.0,
-     "home": "0-2",
+     "l": 4,
+     "gb": 3.5,
+     "home": "0-3",
      "away": "0-1",
-     "l10": "0-3",
-     "strk": "L3"
-    },
-    {
-     "abbr": "MIL",
-     "w": 0,
-     "l": 3,
-     "gb": 3.0,
-     "home": "0-1",
-     "away": "0-2",
-     "l10": "0-3",
-     "strk": "L3"
+     "l10": "0-4",
+     "strk": "L4"
     }
    ]
   },
@@ -1527,7 +1531,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-10-26T11:21:54Z"
+  "updatedAt": "2026-10-27T11:17:10Z"
  },
  "roster": {
   "players": [
@@ -2151,7 +2155,7 @@
    "arena": "Silver Spurs Arena, Kissimmee",
    "coach": "Ronnie Burrell (hired Sept 18)",
    "name": "Osceola Magic",
-   "note": "Season opens Nov 8, 3 PM vs OKC Blue."
+   "note": "Season opens Nov 8, 3 PM vs OKC Blue. Drafted Kasean Pryor (No. 3 overall) and Emmitt Matthews Jr. (first pick of the second round) in the Oct 24 G League draft."
   },
   "lastSeason": {
    "finish": "8th in the East (via Play-In), 2nd in the Southeast",
