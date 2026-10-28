@@ -46,7 +46,7 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 1-2, 10th in the East. Suggs out at least two weeks (right knee bone bruise); Banchero out 4-6 weeks. Next: at Toronto Wednesday, 7:30 PM, TV27.",
+  "phaseDetail": "Magic 1-2, 10th in the East. Suggs out at least two weeks (right knee bone bruise); Banchero out 4-6 weeks. Next: at Toronto tonight, 7:30 PM, TV27.",
   "record": {
    "w": 1,
    "l": 2
@@ -57,42 +57,38 @@
    "div": 4
   },
   "streak": "W1",
-  "updatedAt": "2026-10-28T01:27:13Z"
+  "updatedAt": "2026-10-28T10:03:05Z"
  },
  "brief": {
-  "d": "2026-10-27",
-  "createdAt": "2026-10-27T11:17:10Z",
-  "headline": "Suggs out at least two weeks as Magic head to Toronto",
-  "summary": "Jalen Suggs has a bone bruise in his right knee and will be re-evaluated in two weeks, so Anthony Black is expected to run the point. Orlando (1-2, 10th in the East) plays at Toronto on Wednesday, still without Paolo Banchero. The Raptors may be missing Kawhi Leonard, who sat out Sunday with left knee swelling.",
+  "d": "2026-10-28",
+  "createdAt": "2026-10-28T10:03:05Z",
+  "headline": "Magic at Toronto tonight without Suggs and Banchero",
+  "summary": "Orlando (1-2, 10th in the East) plays at Toronto tonight at 7:30 PM on TV27. Jalen Suggs (right knee bone bruise) and Paolo Banchero (high ankle sprain) are both out, so Anthony Black is expected to run the point. No new roster or injury news has been confirmed since Tuesday.",
   "bullets": [
    {
-    "tag": "Health",
-    "text": "Suggs: right knee bone bruise, no structural damage on the MRI. Out at least two weeks, then re-evaluated (team announcement Monday, via ESPN)."
-   },
-   {
-    "tag": "Lineup",
-    "text": "Black, who had 18 points and 5 assists in his season debut Sunday, is likely to move into the starting point guard role."
-   },
-   {
-    "tag": "Health",
-    "text": "Banchero (high ankle sprain) remains out, reported 4-6 weeks. Isaac, Penda and Nelson have yet to play this season."
-   },
-   {
     "tag": "Next game",
-    "text": "At Toronto Wednesday, 7:30 PM, TV27. The Raptors are 2-1. Leonard missed their loss at Minnesota Sunday with left knee swelling and was set for more testing Monday; no result announced yet. Line not yet posted."
+    "text": "At Toronto tonight, 7:30 PM, TV27. The Raptors are 2-1. The teams meet again Friday in Toronto in an NBA Cup group game."
    },
    {
-    "tag": "Standings",
-    "text": "Monday's results left Orlando alone in 10th in the East, 2 games behind 3-0 Detroit. Charlotte (3-1) leads the Southeast; Atlanta and Washington are 2-2, Miami 0-4."
+    "tag": "Health",
+    "text": "Suggs is out at least two weeks with a mild right knee bone bruise and will then be re-evaluated. Banchero is reported out 4-6 weeks."
+   },
+   {
+    "tag": "Health",
+    "text": "Kawhi Leonard missed Toronto's Sunday game with left knee swelling. His status for tonight is unconfirmed; check the official injury report."
+   },
+   {
+    "tag": "Odds",
+    "text": "No line confirmed from a named sportsbook yet."
    }
   ],
   "recap": null,
   "preview": {
-   "title": "Wednesday at Raptors, 7:30 PM, TV27",
-   "text": "Toronto is 2-1 and Kawhi Leonard's status is uncertain after left knee swelling kept him out Sunday. Orlando will be without Suggs and Banchero. The teams meet again Friday in Toronto in an NBA Cup group game.",
-   "line": "Line not yet posted"
+   "title": "Tonight at Raptors, 7:30 PM, TV27",
+   "text": "Orlando is without Suggs and Banchero. Toronto's Leonard status is unconfirmed after a knee swelling absence on Sunday.",
+   "line": "Line not confirmed"
   },
-  "watch": "At Toronto Wednesday, 7:30 PM, TV27. Watch Tuesday's injury report for Isaac, Penda and Nelson, and Toronto's update on Leonard."
+  "watch": "At Toronto tonight, 7:30 PM, TV27, then again Friday in Toronto (NBA Cup)."
  },
  "schedule": {
   "cup": {
