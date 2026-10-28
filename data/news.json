@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "2026-10-27-raptors-will-be-without-kawhi-leonard-ag",
+   "d": "2026-10-27",
+   "cat": "Game",
+   "headline": "Raptors will be without Kawhi Leonard against the Magic",
+   "summary": "Leonard has swelling in his left knee; an MRI showed no structural damage and Toronto will re-evaluate him in one week. He missed Sunday's 117-94 loss at Minnesota and is out for Wednesday's game against Orlando.",
+   "source": "The Ticket",
+   "url": "https://www.theticket.com/2026/10/27/raptors-magic-collide-with-kawhi-leonard-paolo-banchero-sidelined/",
+   "flag": null,
+   "addedAt": "2026-10-28T11:20:54Z"
+  },
+  {
+   "id": "2026-10-27-isaac-ruled-out-again-for-toronto-game",
+   "d": "2026-10-27",
+   "cat": "Injury",
+   "headline": "Isaac ruled out again for Toronto game",
+   "summary": "Jonathan Isaac (knee) is out for Wednesday at Toronto and has yet to make his season debut. His next chance is Friday's rematch with the Raptors.",
+   "source": "CBS Sports (RotoWire)",
+   "url": "https://www.cbssports.com/fantasy/basketball/news/magics-jonathan-isaac-another-absence-coming-536350/",
+   "flag": null,
+   "addedAt": "2026-10-28T11:20:54Z"
+  },
+  {
    "id": "2026-10-27-suggs-bone-bruise-out-at-least-two-weeks",
    "d": "2026-10-26",
    "cat": "Injury",

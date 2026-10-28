@@ -46,7 +46,7 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 1-2, 10th in the East. Suggs out at least two weeks (right knee bone bruise); Banchero out 4-6 weeks. Next: at Toronto tonight, 7:30 PM, TV27.",
+  "phaseDetail": "Magic 1-2, 10th in the East. Banchero and Suggs out. Next: at Toronto tonight, 7:30 PM, TV27 (DraftKings: TOR -4.5).",
   "record": {
    "w": 1,
    "l": 2
@@ -57,36 +57,40 @@
    "div": 4
   },
   "streak": "W1",
-  "updatedAt": "2026-10-28T10:03:05Z"
+  "updatedAt": "2026-10-28T11:20:54Z"
  },
  "brief": {
   "d": "2026-10-28",
-  "createdAt": "2026-10-28T10:03:05Z",
-  "headline": "Magic at Toronto tonight without Suggs and Banchero",
-  "summary": "Orlando (1-2, 10th in the East) plays at Toronto tonight at 7:30 PM on TV27. Jalen Suggs (right knee bone bruise) and Paolo Banchero (high ankle sprain) are both out, so Anthony Black is expected to run the point. No new roster or injury news has been confirmed since Tuesday.",
+  "createdAt": "2026-10-28T11:20:54Z",
+  "headline": "Magic at Toronto tonight; Raptors favored by 4.5 without Leonard",
+  "summary": "Orlando (1-2, 10th in the East) plays at Toronto tonight at 7:30 PM on TV27. The Magic are still without Paolo Banchero, Jalen Suggs, Jonathan Isaac, Noah Penda and Izaiyah Nelson, while Toronto is without Kawhi Leonard (left knee swelling). DraftKings has the Raptors as 4.5-point favorites.",
   "bullets": [
    {
     "tag": "Next game",
-    "text": "At Toronto tonight, 7:30 PM, TV27. The Raptors are 2-1. The teams meet again Friday in Toronto in an NBA Cup group game."
+    "text": "At Toronto tonight, 7:30 PM, TV27. The Raptors are 2-1 and lost 117-94 at Minnesota on Sunday. The teams meet again Friday in Toronto in an NBA Cup group game."
    },
    {
     "tag": "Health",
-    "text": "Suggs is out at least two weeks with a mild right knee bone bruise and will then be re-evaluated. Banchero is reported out 4-6 weeks."
+    "text": "Banchero (ankle), Suggs (knee), Isaac (knee), Penda (hamstring) and Nelson (ankle) are all out tonight. Isaac still has not made his season debut."
    },
    {
     "tag": "Health",
-    "text": "Kawhi Leonard missed Toronto's Sunday game with left knee swelling. His status for tonight is unconfirmed; check the official injury report."
+    "text": "Kawhi Leonard is out for Toronto. An MRI showed no structural damage; the Raptors will re-evaluate him in a week, and Covers reports he is expected to miss the next four games, which includes Friday."
    },
    {
     "tag": "Odds",
-    "text": "No line confirmed from a named sportsbook yet."
+    "text": "DraftKings: Toronto -4.5, total 223.5, Orlando +145 on the moneyline."
+   },
+   {
+    "tag": "Standings",
+    "text": "Orlando stays 10th. On Tuesday, Boston beat Brooklyn 125-124 in overtime on a Jayson Tatum buzzer-beater, and New York handed Detroit its first loss, 111-97."
    }
   ],
   "recap": null,
   "preview": {
    "title": "Tonight at Raptors, 7:30 PM, TV27",
-   "text": "Orlando is without Suggs and Banchero. Toronto's Leonard status is unconfirmed after a knee swelling absence on Sunday.",
-   "line": "Line not confirmed"
+   "text": "Both teams are short-handed: Orlando without Banchero and Suggs, Toronto without Leonard. Toronto shot 38.5 percent in its loss at Minnesota on Sunday.",
+   "line": "TOR -4.5, total 223.5, ORL +145 (DraftKings)"
   },
   "watch": "At Toronto tonight, 7:30 PM, TV27, then again Friday in Toronto (NBA Cup)."
  },
@@ -1276,23 +1280,23 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-10-27",
+   "asOf": "2026-10-28",
    "rows": [
     {
      "abbr": "DET",
      "w": 3,
-     "l": 0,
+     "l": 1,
      "gb": 0.0,
      "home": "1-0",
-     "away": "2-0",
-     "l10": "3-0",
-     "strk": "W3"
+     "away": "2-1",
+     "l10": "3-1",
+     "strk": "L1"
     },
     {
      "abbr": "PHI",
      "w": 3,
      "l": 1,
-     "gb": 0.5,
+     "gb": 0.0,
      "home": "2-1",
      "away": "1-0",
      "l10": "3-1",
@@ -1302,37 +1306,37 @@
      "abbr": "CHA",
      "w": 3,
      "l": 1,
-     "gb": 0.5,
+     "gb": 0.0,
      "home": "2-1",
      "away": "1-0",
      "l10": "3-1",
      "strk": "W2"
     },
     {
+     "abbr": "BOS",
+     "w": 3,
+     "l": 1,
+     "gb": 0.0,
+     "home": "3-0",
+     "away": "0-1",
+     "l10": "3-1",
+     "strk": "W3"
+    },
+    {
      "abbr": "TOR",
      "w": 2,
      "l": 1,
-     "gb": 1.0,
+     "gb": 0.5,
      "home": "1-0",
      "away": "1-1",
      "l10": "2-1",
      "strk": "L1"
     },
     {
-     "abbr": "BOS",
-     "w": 2,
-     "l": 1,
-     "gb": 1.0,
-     "home": "2-0",
-     "away": "0-1",
-     "l10": "2-1",
-     "strk": "W2"
-    },
-    {
      "abbr": "CLE",
      "w": 2,
      "l": 1,
-     "gb": 1.0,
+     "gb": 0.5,
      "home": "2-0",
      "away": "0-1",
      "l10": "2-1",
@@ -1342,7 +1346,7 @@
      "abbr": "ATL",
      "w": 2,
      "l": 2,
-     "gb": 1.5,
+     "gb": 1.0,
      "home": "0-1",
      "away": "2-1",
      "l10": "2-2",
@@ -1352,7 +1356,7 @@
      "abbr": "WAS",
      "w": 2,
      "l": 2,
-     "gb": 1.5,
+     "gb": 1.0,
      "home": "1-1",
      "away": "1-1",
      "l10": "2-2",
@@ -1362,7 +1366,7 @@
      "abbr": "IND",
      "w": 2,
      "l": 2,
-     "gb": 1.5,
+     "gb": 1.0,
      "home": "0-1",
      "away": "2-1",
      "l10": "2-2",
@@ -1372,7 +1376,7 @@
      "abbr": "ORL",
      "w": 1,
      "l": 2,
-     "gb": 2.0,
+     "gb": 1.5,
      "home": "0-2",
      "away": "1-0",
      "l10": "1-2",
@@ -1382,7 +1386,7 @@
      "abbr": "CHI",
      "w": 1,
      "l": 3,
-     "gb": 2.5,
+     "gb": 2.0,
      "home": "0-1",
      "away": "1-2",
      "l10": "1-3",
@@ -1392,37 +1396,37 @@
      "abbr": "MIL",
      "w": 1,
      "l": 3,
-     "gb": 2.5,
+     "gb": 2.0,
      "home": "1-1",
      "away": "0-2",
      "l10": "1-3",
      "strk": "W1"
     },
     {
-     "abbr": "BKN",
-     "w": 0,
+     "abbr": "NYK",
+     "w": 1,
      "l": 3,
-     "gb": 3.0,
-     "home": "0-2",
+     "gb": 2.0,
+     "home": "1-2",
      "away": "0-1",
-     "l10": "0-3",
-     "strk": "L3"
+     "l10": "1-3",
+     "strk": "W1"
     },
     {
-     "abbr": "NYK",
+     "abbr": "BKN",
      "w": 0,
-     "l": 3,
+     "l": 4,
      "gb": 3.0,
      "home": "0-2",
-     "away": "0-1",
-     "l10": "0-3",
-     "strk": "L3"
+     "away": "0-2",
+     "l10": "0-4",
+     "strk": "L4"
     },
     {
      "abbr": "MIA",
      "w": 0,
      "l": 4,
-     "gb": 3.5,
+     "gb": 3.0,
      "home": "0-3",
      "away": "0-1",
      "l10": "0-4",
@@ -1527,7 +1531,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-10-27T11:17:10Z"
+  "updatedAt": "2026-10-28T11:20:54Z"
  },
  "roster": {
   "players": [
@@ -1803,7 +1807,7 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Has not played this season, including all four preseason games. Missed the first three games."
+    "statusNote": "Ruled out for Wednesday at Toronto (CBS Sports, Oct 27). Has not played this season, including all four preseason games."
    },
    {
     "age": 31,
@@ -1991,7 +1995,7 @@
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-10-26T11:21:54Z"
+  "updatedAt": "2026-10-28T11:20:54Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
