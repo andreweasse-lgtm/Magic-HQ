@@ -57,11 +57,11 @@
    "div": 4
   },
   "streak": "L1",
-  "updatedAt": "2026-10-29T10:45:00Z"
+  "updatedAt": "2026-10-29T11:18:22Z"
  },
  "brief": {
   "d": "2026-10-29",
-  "createdAt": "2026-10-29T10:45:00Z",
+  "createdAt": "2026-10-29T11:18:22Z",
   "headline": "Magic fall 129-99 at Toronto; rematch Friday",
   "summary": "Orlando (1-3, 11th in the East) lost 129-99 at Toronto on Wednesday without Paolo Banchero and Jalen Suggs, committing 20 turnovers. The Magic stay in Toronto for an NBA Cup group game Friday night. Jonathan Isaac is listed as a game-time decision.",
   "bullets": [
@@ -83,7 +83,7 @@
    },
    {
     "tag": "Next game",
-    "text": "Friday at Toronto, 7:30 PM, TV27, an NBA Cup group game. Kawhi Leonard has been expected to miss the Raptors next few games. No spread found yet."
+    "text": "Friday at Toronto, 7:30 PM, TV27, Orlando's NBA Cup group opener. Early line: Raptors -3.5, total 226.5 (AP preview via Fox Sports; major books had not posted yet). Kawhi Leonard (knee) is out for Toronto again."
    }
   ],
   "recap": {
@@ -91,8 +91,12 @@
    "text": "Toronto pulled away after the first quarter. Orlando shot 29 percent from three and turned the ball over 20 times.",
    "leaders": "da Silva 20 pts; Wagner 15 pts, 5 ast, 4 reb; Bane 13 pts; Richardson 10 pts; Carter 10 reb"
   },
-  "preview": null,
-  "watch": "Friday at Toronto, 7:30 PM, TV27 (NBA Cup), then home against Boston Sunday at 3:30 PM."
+  "preview": {
+   "title": "Friday at Raptors, 7:30 PM, TV27",
+   "text": "Second straight game in Toronto and the first NBA Cup group game (East Group A). Banchero, Suggs, Penda and Nelson are out and Isaac is day-to-day. Toronto (3-1) is without Kawhi Leonard (knee); Nate Bittle (foot) is day-to-day.",
+   "line": "TOR -3.5, total 226.5 (early AP line via Fox Sports; book not named)"
+  },
+  "watch": "Friday at Toronto, 7:30 PM, TV27 (NBA Cup). Watch for Isaac's status and a posted line from the major books. Then home against Boston Sunday at 3:30 PM."
  },
  "schedule": {
   "cup": {
