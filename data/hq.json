@@ -46,7 +46,7 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 1-3, 11th in the East. Banchero and Suggs out. Next: at Toronto Friday, 7:30 PM, TV27 (NBA Cup group game).",
+  "phaseDetail": "Magic 1-3, 11th in the East. Banchero, Suggs and Isaac out. Next: at Toronto Friday, 7:30 PM, TV27 (NBA Cup group game).",
   "record": {
    "w": 1,
    "l": 3
@@ -57,25 +57,17 @@
    "div": 4
   },
   "streak": "L1",
-  "updatedAt": "2026-10-30T02:00:31Z"
+  "updatedAt": "2026-10-30T10:29:38Z"
  },
  "brief": {
-  "d": "2026-10-29",
-  "createdAt": "2026-10-29T11:18:22Z",
-  "headline": "Magic fall 129-99 at Toronto; rematch Friday",
-  "summary": "Orlando (1-3, 11th in the East) lost 129-99 at Toronto on Wednesday without Paolo Banchero and Jalen Suggs, committing 20 turnovers. The Magic stay in Toronto for an NBA Cup group game Friday night. Jonathan Isaac is listed as a game-time decision.",
+  "d": "2026-10-30",
+  "createdAt": "2026-10-30T10:29:38Z",
+  "headline": "Magic at Raptors tonight; Isaac out until at least Nov. 10",
+  "summary": "Orlando (1-3, 11th in the East) plays at Toronto tonight at 7:30 PM in its NBA Cup group opener, a night after a 129-99 loss there. CBS Sports now lists Jonathan Isaac (knee) out until at least Nov. 10, joining Banchero and Suggs on the sideline.",
   "bullets": [
    {
-    "tag": "Game",
-    "text": "Toronto led 32-25 after one quarter and outscored Orlando 97-74 the rest of the way. Orlando had 20 turnovers and made 10 of 35 threes; Toronto made 15 of 35."
-   },
-   {
-    "tag": "Lineup",
-    "text": "Jase Richardson made his second career start next to Bane, Black, Wagner and Carter. Tristan da Silva led the team with 20 points off the bench."
-   },
-   {
     "tag": "Health",
-    "text": "Banchero (low-grade high ankle sprain) is out until at least Nov. 22 and Suggs (knee bone bruise) until at least Nov. 10, per CBS Sports. Isaac (knee) is a game-time decision for Friday."
+    "text": "Banchero (low-grade high ankle sprain) is out until at least Nov. 22, and Suggs (knee bone bruise) and Isaac (knee) until at least Nov. 10, per CBS Sports."
    },
    {
     "tag": "Standings",
@@ -86,17 +78,13 @@
     "text": "Friday at Toronto, 7:30 PM, TV27, Orlando's NBA Cup group opener. Early line: Raptors -3.5, total 226.5 (AP preview via Fox Sports; major books had not posted yet). Kawhi Leonard (knee) is out for Toronto again."
    }
   ],
-  "recap": {
-   "title": "Raptors 129, Magic 99",
-   "text": "Toronto pulled away after the first quarter. Orlando shot 29 percent from three and turned the ball over 20 times.",
-   "leaders": "da Silva 20 pts; Wagner 15 pts, 5 ast, 4 reb; Bane 13 pts; Richardson 10 pts; Carter 10 reb"
-  },
+  "recap": null,
   "preview": {
    "title": "Friday at Raptors, 7:30 PM, TV27",
-   "text": "Second straight game in Toronto and the first NBA Cup group game (East Group A). Banchero, Suggs, Penda and Nelson are out and Isaac is day-to-day. Toronto (3-1) is without Kawhi Leonard (knee); Nate Bittle (foot) is day-to-day.",
+   "text": "Second straight game in Toronto and the first NBA Cup group game (East Group A). Banchero, Suggs, Penda and Nelson are out and Isaac is out. Toronto (3-1) is without Kawhi Leonard (knee); Nate Bittle (foot) is day-to-day.",
    "line": "TOR -3.5, total 226.5 (early AP line via Fox Sports; book not named)"
   },
-  "watch": "Friday at Toronto, 7:30 PM, TV27 (NBA Cup). Watch for Isaac's status and a posted line from the major books. Then home against Boston Sunday at 3:30 PM."
+  "watch": "Friday at Toronto, 7:30 PM, TV27 (NBA Cup). Watch for a posted line from the major books. Then home against Boston Sunday at 3:30 PM."
  },
  "schedule": {
   "cup": {
@@ -1816,8 +1804,8 @@
     "note": "Waived June 27 and re-signed on a minimum deal July 1.",
     "num": "1",
     "pos": "F",
-    "status": "Questionable",
-    "statusNote": "Listed as a game-time decision for Friday at Toronto (CBS Sports, Oct 29). Has not played this season."
+    "status": "Out",
+    "statusNote": "CBS Sports (updated Oct 29) lists him out until at least Nov 10. Has not played this season."
    },
    {
     "age": 31,

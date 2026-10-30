@@ -1,6 +1,45 @@
 {
  "items": [
   {
+   "d": "2026-10-29",
+   "createdAt": "2026-10-30T10:29:38Z",
+   "headline": "Magic fall 129-99 at Toronto; rematch Friday",
+   "summary": "Orlando (1-3, 11th in the East) lost 129-99 at Toronto on Wednesday without Paolo Banchero and Jalen Suggs, committing 20 turnovers. The Magic stay in Toronto for an NBA Cup group game Friday night. CBS Sports now lists Jonathan Isaac (knee) out until at least Nov. 10.",
+   "bullets": [
+    {
+     "tag": "Game",
+     "text": "Toronto led 32-25 after one quarter and outscored Orlando 97-74 the rest of the way. Orlando had 20 turnovers and made 10 of 35 threes; Toronto made 15 of 35."
+    },
+    {
+     "tag": "Lineup",
+     "text": "Jase Richardson made his second career start next to Bane, Black, Wagner and Carter. Tristan da Silva led the team with 20 points off the bench."
+    },
+    {
+     "tag": "Health",
+     "text": "Banchero (low-grade high ankle sprain) is out until at least Nov. 22, and Suggs (knee bone bruise) and Isaac (knee) until at least Nov. 10, per CBS Sports."
+    },
+    {
+     "tag": "Standings",
+     "text": "Orlando drops to 11th in the East at 1-3, 2.5 games behind Detroit and Philadelphia (both 4-1)."
+    },
+    {
+     "tag": "Next game",
+     "text": "Friday at Toronto, 7:30 PM, TV27, Orlando's NBA Cup group opener. Early line: Raptors -3.5, total 226.5 (AP preview via Fox Sports; major books had not posted yet). Kawhi Leonard (knee) is out for Toronto again."
+    }
+   ],
+   "recap": {
+    "title": "Raptors 129, Magic 99",
+    "text": "Toronto pulled away after the first quarter. Orlando shot 29 percent from three and turned the ball over 20 times.",
+    "leaders": "da Silva 20 pts; Wagner 15 pts, 5 ast, 4 reb; Bane 13 pts; Richardson 10 pts; Carter 10 reb"
+   },
+   "preview": {
+    "title": "Friday at Raptors, 7:30 PM, TV27",
+    "text": "Second straight game in Toronto and the first NBA Cup group game (East Group A). Banchero, Suggs, Penda and Nelson are out and Isaac is out. Toronto (3-1) is without Kawhi Leonard (knee); Nate Bittle (foot) is day-to-day.",
+    "line": "TOR -3.5, total 226.5 (early AP line via Fox Sports; book not named)"
+   },
+   "watch": "Friday at Toronto, 7:30 PM, TV27 (NBA Cup). Watch for a posted line from the major books. Then home against Boston Sunday at 3:30 PM."
+  },
+  {
    "d": "2026-10-28",
    "createdAt": "2026-10-28T11:20:54Z",
    "headline": "Magic at Toronto tonight; Raptors favored by 4.5 without Leonard",
