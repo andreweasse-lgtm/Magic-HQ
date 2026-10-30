@@ -1,6 +1,17 @@
 {
  "items": [
   {
+   "id": "2026-10-29-five-magic-players-out-again-for-raptors",
+   "d": "2026-10-29",
+   "cat": "Injury",
+   "headline": "Five Magic players out again for Raptors rematch",
+   "summary": "Banchero, Suggs, Isaac, Penda and Nelson will all miss Friday's NBA Cup group opener at Toronto. Desmond Bane and Jevon Carter said cutting turnovers is the priority after Toronto turned 20 Orlando giveaways into 20 points Wednesday.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/magic-want-limit-turnovers-raptors-194300653.html",
+   "flag": null,
+   "addedAt": "2026-10-30T11:23:22Z"
+  },
+  {
    "id": "2026-10-29-sweeney-wants-better-ball-security-after",
    "d": "2026-10-29",
    "cat": "Coaching",
@@ -32,6 +43,17 @@
    "url": "https://www.cbssports.com/nba/teams/ORL/orlando-magic/injuries/",
    "flag": null,
    "addedAt": "2026-10-29T10:45:00Z"
+  },
+  {
+   "id": "2026-10-28-isaac-calls-knee-recovery-a-slow-process",
+   "d": "2026-10-28",
+   "cat": "Injury",
+   "headline": "Isaac calls knee recovery a slow process, expects to play",
+   "summary": "Jonathan Isaac, out since a left knee sprain March 12, said a bone bruise and a nerve issue have slowed him. He is up to 3-on-3, with 4-on-4 and 5-on-5 next, and said he knows he will play this season. No return date was given.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/magic-jonathan-isaac-calls-injury-190400126.html",
+   "flag": null,
+   "addedAt": "2026-10-30T11:23:22Z"
   },
   {
    "id": "2026-10-27-raptors-will-be-without-kawhi-leonard-ag",
