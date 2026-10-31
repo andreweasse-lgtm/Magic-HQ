@@ -1,6 +1,45 @@
 {
  "items": [
   {
+   "d": "2026-10-30",
+   "createdAt": "2026-10-30T11:23:22Z",
+   "headline": "Short-handed Magic visit Raptors in NBA Cup opener tonight, 7:30 PM",
+   "summary": "Orlando (1-3, 11th in the East) plays at Toronto again tonight at 7:30 PM on TV27, two nights after a 129-99 loss there, in its first NBA Cup group game. Banchero, Suggs, Isaac, Penda and Nelson are all out. DraftKings has Toronto -4.5, up from -3.5 at the open, and Kawhi Leonard (knee) is out again for the Raptors.",
+   "bullets": [
+    {
+     "tag": "Next game",
+     "text": "Tonight at Toronto, 7:30 PM, TV27 and DAZN. It is Orlando's first East Group A game; Detroit plays at Brooklyn in the group's other game tonight. The Magic are 10-2 all-time in Cup group play."
+    },
+    {
+     "tag": "Odds",
+     "text": "DraftKings: Raptors -4.5 (-115), Magic +4.5 (-105); total 222.5; moneyline TOR -175, ORL +145. The line opened at Raptors -3.5 with a 226.5 total."
+    },
+    {
+     "tag": "Health",
+     "text": "Banchero (ankle), Suggs (knee), Isaac (knee), Penda (hamstring) and Nelson (ankle) are out tonight, per the Orlando Sentinel. CBS Sports lists Banchero out until at least Nov. 22 and Suggs until at least Nov. 10."
+    },
+    {
+     "tag": "Health",
+     "text": "Isaac told the Sentinel his knee recovery has been a slow process: he is up to 3-on-3, with 4-on-4 and 5-on-5 next. \"I know I'll play this season,\" he said. No return date."
+    },
+    {
+     "tag": "Game",
+     "text": "Ball security is the focus. Orlando has committed 16 or more turnovers in all four games, and Toronto has forced 20-plus in four straight. Bane: \"We'll be better on Friday.\""
+    },
+    {
+     "tag": "Standings",
+     "text": "Orlando is 11th in the East at 1-3, 2.5 games behind Detroit and Philadelphia (both 4-1). Atlanta beat Cleveland 114-111 on Thursday."
+    }
+   ],
+   "recap": null,
+   "preview": {
+    "title": "Friday at Raptors, 7:30 PM, TV27",
+    "text": "Rematch of Wednesday's 129-99 loss and Orlando's NBA Cup group opener (East Group A). Out for Orlando: Banchero, Suggs, Isaac, Penda and Nelson. Toronto (3-1) is without Kawhi Leonard (left knee swelling), and Nate Bittle (foot) missed Wednesday's game. Toronto turned 20 Orlando turnovers into 20 points Wednesday.",
+    "line": "TOR -4.5, total 222.5; moneyline TOR -175, ORL +145 (DraftKings)"
+   },
+   "watch": "Tonight at Toronto, 7:30 PM, TV27 (NBA Cup). Then home against Boston Sunday at 3:30 PM and Washington Monday at 7:30 PM."
+  },
+  {
    "d": "2026-10-29",
    "createdAt": "2026-10-30T10:29:38Z",
    "headline": "Magic fall 129-99 at Toronto; rematch Friday",
