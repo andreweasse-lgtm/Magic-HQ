@@ -41,49 +41,57 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 2-3 after beating Toronto in the NBA Cup opener. Next: home vs Boston Sunday, 3:30 PM.",
+  "phaseDetail": "Magic 2-3, ninth in the East, after beating Toronto in the NBA Cup opener. Next: home vs Boston Sunday, 3:30 PM.",
   "record": {
    "w": 2,
    "l": 3
   },
   "season": "2026-27",
   "standing": {
-   "conf": 11,
+   "conf": 9,
    "div": 4
   },
   "streak": "W1",
-  "updatedAt": "2026-10-31T09:59:18Z"
+  "updatedAt": "2026-10-31T11:20:55Z"
  },
  "brief": {
   "d": "2026-10-31",
-  "createdAt": "2026-10-31T09:59:18Z",
-  "headline": "Magic beat Raptors 121-114 in NBA Cup opener",
-  "summary": "Orlando bounced back from Wednesday's 129-99 loss with a 121-114 win at Toronto, improving to 2-3. Franz Wagner scored 26 with 11 assists and Anthony Black had 17 points and 10 assists. Boston visits Sunday at 3:30 PM.",
+  "createdAt": "2026-10-31T11:20:55Z",
+  "headline": "Bane scores 28 as Magic top Raptors; Celtics visit Sunday",
+  "summary": "Orlando beat Toronto 121-114 on Friday in its NBA Cup group opener to improve to 2-3, ninth in the East. Desmond Bane scored a season-high 28, Franz Wagner had 26 points and 11 assists, and the Magic made 18 of 34 threes. Boston (4-1, winners of four straight) visits Sunday at 3:30 PM, and Orlando is still missing five players.",
   "bullets": [
    {
     "tag": "Game",
-    "text": "Magic 121, Raptors 114 at Scotiabank Arena. Wagner 26 pts (8-18 FG), 11 ast; Black 17 pts, 10 ast, 6 reb. Scottie Barnes scored 41 for Toronto and fouled out."
+    "text": "Magic 121, Raptors 114. Bane 28 pts (season high); Wagner 26 pts, 11 ast (both season highs); Carter Jr. 20 pts, 7 reb; Black 17 pts, 10 ast, 6 reb; Cain 13 pts on 5-of-5 off the bench. Scottie Barnes scored a career-high 41 for Toronto and fouled out."
+   },
+   {
+    "tag": "Game",
+    "text": "Toronto went ahead 102-100 with 8:38 left. Black's three at 6:56 put Orlando back in front and started a 13-4 run. The Magic went 25 of 29 at the line to Toronto's 11 of 15."
    },
    {
     "tag": "Standings",
-    "text": "Orlando is 2-3 (0-2 home, 2-1 away) with its first NBA Cup group win."
-   },
-   {
-    "tag": "Next game",
-    "text": "Sunday vs Boston, 3:30 PM at home. Then Washington Monday, 7:30 PM. Odds and injury report not yet posted."
+    "text": "Orlando is 2-3 (0-2 home, 2-1 away), ninth in the East, 2.5 games behind Detroit and Philadelphia. 1-0 in NBA Cup East Group A."
    },
    {
     "tag": "Health",
-    "text": "No new injury information confirmed. Banchero, Suggs, Isaac, Penda and Nelson were out as of Friday; statuses unchanged here."
+    "text": "The AP preview lists Banchero (ankle), Suggs (knee), Isaac (knee), Penda (hamstring) and Nelson (ankle) out for Sunday. CBS Sports projects Suggs and Isaac out until at least Nov. 10 and Banchero until at least Nov. 22. Official injury report not yet released."
+   },
+   {
+    "tag": "Next game",
+    "text": "Sunday vs Boston, 3:30 PM, TV27. The Celtics are 4-1 (4-0 home, 0-1 road) and list Devin Carter out with an illness. No line posted yet at major books."
    }
   ],
   "recap": {
    "title": "Magic 121, Raptors 114",
-   "text": "Orlando won the NBA Cup group opener on the road two days after losing there 129-99.",
-   "leaders": "Wagner 26 pts, 11 ast; Black 17 pts, 10 ast, 6 reb"
+   "text": "Orlando won its NBA Cup group opener in Toronto two nights after a 129-99 loss in the same building. The Magic made 18 of 34 threes after going 10 of 35 on Wednesday, and Black's three with 6:56 left started the 13-4 run that decided it.",
+   "leaders": "Bane 28 pts, 6 ast; Wagner 26 pts, 11 ast; Carter Jr. 20 pts, 7 reb; Black 17 pts, 10 ast"
   },
-  "preview": null,
-  "watch": "Sunday vs Boston, 3:30 PM; Monday vs Washington, 7:30 PM."
+  "preview": {
+   "title": "Sunday vs Celtics, 3:30 PM, TV27",
+   "text": "Boston has won four straight but is 0-1 on the road. Orlando is 0-2 at home and expects to be without Banchero, Suggs, Isaac, Penda and Nelson.",
+   "line": "Not posted yet (Covers odds board, Saturday morning)"
+  },
+  "watch": "Sunday vs Boston, 3:30 PM (TV27); Monday vs Washington, 7:30 PM. Official injury report for Sunday due Saturday evening."
  },
  "schedule": {
   "cup": {
@@ -252,7 +260,7 @@
      "them": 114,
      "wl": "W",
      "ot": "",
-     "note": "Wagner 26 pts, 11 ast; Black 17 pts, 10 ast, 6 reb; Barnes 41 for TOR"
+     "note": "Bane 28; Wagner 26 pts, 11 ast; Carter Jr. 20; Black 17 pts, 10 ast; Barnes 41 for TOR"
     },
     "t": "7:30 PM",
     "tag": "Cup",
@@ -1188,7 +1196,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-10-30T11:23:22Z"
+  "updatedAt": "2026-10-31T11:20:55Z"
  },
  "standings": {
   "division": {
@@ -1283,53 +1291,43 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-10-30",
+   "asOf": "2026-10-31",
    "rows": [
     {
      "abbr": "DET",
-     "w": 4,
+     "w": 5,
      "l": 1,
      "gb": 0,
      "home": "2-0",
-     "away": "2-1",
-     "l10": "4-1",
-     "strk": "W1"
+     "away": "3-1",
+     "l10": "5-1",
+     "strk": "W2"
     },
     {
      "abbr": "PHI",
-     "w": 4,
+     "w": 5,
      "l": 1,
      "gb": 0,
-     "home": "2-1",
+     "home": "3-1",
      "away": "2-0",
-     "l10": "4-1",
-     "strk": "W1"
+     "l10": "5-1",
+     "strk": "W2"
     },
     {
      "abbr": "BOS",
-     "w": 3,
+     "w": 4,
      "l": 1,
      "gb": 0.5,
-     "home": "3-0",
+     "home": "4-0",
      "away": "0-1",
-     "l10": "3-1",
-     "strk": "W3"
+     "l10": "4-1",
+     "strk": "W4"
     },
     {
      "abbr": "TOR",
      "w": 3,
-     "l": 1,
-     "gb": 0.5,
-     "home": "2-0",
-     "away": "1-1",
-     "l10": "3-1",
-     "strk": "W1"
-    },
-    {
-     "abbr": "CHA",
-     "w": 3,
      "l": 2,
-     "gb": 1,
+     "gb": 1.5,
      "home": "2-1",
      "away": "1-1",
      "l10": "3-2",
@@ -1339,7 +1337,7 @@
      "abbr": "CLE",
      "w": 3,
      "l": 2,
-     "gb": 1,
+     "gb": 1.5,
      "home": "3-0",
      "away": "0-2",
      "l10": "3-2",
@@ -1349,91 +1347,101 @@
      "abbr": "ATL",
      "w": 3,
      "l": 3,
-     "gb": 1.5,
+     "gb": 2,
      "home": "1-2",
      "away": "2-1",
      "l10": "3-3",
      "strk": "W1"
     },
     {
-     "abbr": "NYK",
-     "w": 2,
-     "l": 3,
-     "gb": 2,
-     "home": "1-2",
-     "away": "1-1",
-     "l10": "2-3",
-     "strk": "W2"
-    },
-    {
      "abbr": "WAS",
-     "w": 2,
+     "w": 3,
      "l": 3,
      "gb": 2,
-     "home": "1-1",
+     "home": "2-1",
      "away": "1-2",
-     "l10": "2-3",
-     "strk": "L2"
+     "l10": "3-3",
+     "strk": "W1"
     },
     {
-     "abbr": "IND",
-     "w": 2,
+     "abbr": "CHA",
+     "w": 3,
      "l": 3,
      "gb": 2,
-     "home": "0-2",
-     "away": "2-1",
-     "l10": "2-3",
+     "home": "2-1",
+     "away": "1-2",
+     "l10": "3-3",
      "strk": "L2"
     },
     {
      "abbr": "ORL",
-     "w": 1,
+     "w": 2,
      "l": 3,
      "gb": 2.5,
      "home": "0-2",
-     "away": "1-1",
-     "l10": "1-3",
-     "strk": "L1"
-    },
-    {
-     "abbr": "CHI",
-     "w": 1,
-     "l": 4,
-     "gb": 3,
-     "home": "0-2",
-     "away": "1-2",
-     "l10": "1-4",
-     "strk": "L3"
+     "away": "2-1",
+     "l10": "2-3",
+     "strk": "W1"
     },
     {
      "abbr": "MIA",
-     "w": 1,
+     "w": 2,
      "l": 4,
      "gb": 3,
-     "home": "0-3",
+     "home": "1-3",
      "away": "1-1",
-     "l10": "1-4",
-     "strk": "W1"
+     "l10": "2-4",
+     "strk": "W2"
+    },
+    {
+     "abbr": "NYK",
+     "w": 2,
+     "l": 4,
+     "gb": 3,
+     "home": "1-2",
+     "away": "1-2",
+     "l10": "2-4",
+     "strk": "L1"
+    },
+    {
+     "abbr": "IND",
+     "w": 2,
+     "l": 4,
+     "gb": 3,
+     "home": "0-2",
+     "away": "2-2",
+     "l10": "2-4",
+     "strk": "L3"
     },
     {
      "abbr": "MIL",
      "w": 1,
      "l": 4,
-     "gb": 3,
+     "gb": 3.5,
      "home": "1-2",
      "away": "0-2",
      "l10": "1-4",
      "strk": "L1"
     },
     {
+     "abbr": "CHI",
+     "w": 1,
+     "l": 5,
+     "gb": 4,
+     "home": "0-2",
+     "away": "1-3",
+     "l10": "1-5",
+     "strk": "L4"
+    },
+    {
      "abbr": "BKN",
      "w": 0,
-     "l": 4,
-     "gb": 3.5,
-     "home": "0-2",
+     "l": 5,
+     "gb": 4.5,
+     "home": "0-3",
      "away": "0-2",
-     "l10": "0-4",
-     "strk": "L4"
+     "l10": "0-5",
+     "strk": "L5"
     }
    ]
   },
@@ -1534,7 +1542,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-10-30T11:23:22Z"
+  "updatedAt": "2026-10-31T11:20:55Z"
  },
  "roster": {
   "players": [
@@ -1564,17 +1572,17 @@
     "num": "5",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Out Friday at Toronto. Returned to Orlando for treatment instead of traveling to Toronto. Out until at least Nov. 22 per CBS Sports."
+    "statusNote": "Missed Friday at Toronto; listed out for Sunday vs Boston in the AP game preview (Oct 31). Returned to Orlando for treatment instead of traveling to Toronto. Out until at least Nov. 22 per CBS Sports."
    },
    {
     "age": 25,
     "contract": "$41.8M. Signed through 2029-30",
     "cur": {
-     "gp": 3,
-     "pts": 21.0,
-     "reb": 8.3,
-     "ast": 6.3,
-     "fg": 0.439
+     "gp": 5,
+     "pts": 20.8,
+     "reb": 6.8,
+     "ast": 7.0,
+     "fg": 0.43
     },
     "exp": "5",
     "ht": "6-10",
@@ -1598,11 +1606,11 @@
     "age": 28,
     "contract": "$39.4M. Signed through 2028-29",
     "cur": {
-     "gp": 3,
-     "pts": 15.0,
-     "reb": 4.3,
-     "ast": 1.3,
-     "fg": 0.333
+     "gp": 5,
+     "pts": 17.2,
+     "reb": 4.0,
+     "ast": 2.8,
+     "fg": 0.338
     },
     "exp": "6",
     "ht": "6-6",
@@ -1648,17 +1656,17 @@
     "num": "4",
     "pos": "G",
     "status": "Out",
-    "statusNote": "Out Friday at Toronto. Returned to Orlando for treatment instead of traveling to Toronto. Out until at least Nov. 10 per CBS Sports."
+    "statusNote": "Missed Friday at Toronto; listed out for Sunday vs Boston in the AP game preview (Oct 31). Returned to Orlando for treatment instead of traveling to Toronto. Out until at least Nov. 10 per CBS Sports."
    },
    {
     "age": 22,
     "contract": "$10.1M. Final rookie-scale year. No extension; restricted free agent in 2027",
     "cur": {
-     "gp": 1,
-     "pts": 18.0,
-     "reb": 3.0,
-     "ast": 5.0,
-     "fg": 0.545
+     "gp": 3,
+     "pts": 14.3,
+     "reb": 3.7,
+     "ast": 5.3,
+     "fg": 0.536
     },
     "exp": "3",
     "ht": "6-7",
@@ -1682,11 +1690,11 @@
     "age": 27,
     "contract": "$18.1M. Through 2028-29 (team option in 2028-29)",
     "cur": {
-     "gp": 3,
-     "pts": 17.0,
-     "reb": 8.7,
-     "ast": 1.0,
-     "fg": 0.76
+     "gp": 5,
+     "pts": 14.8,
+     "reb": 8.6,
+     "ast": 1.4,
+     "fg": 0.65
     },
     "exp": "8",
     "ht": "6-10",
@@ -1710,11 +1718,11 @@
     "age": 35,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 3,
-     "pts": 1.7,
-     "reb": 2.0,
-     "ast": 1.3,
-     "fg": 0.286
+     "gp": 5,
+     "pts": 2.6,
+     "reb": 2.2,
+     "ast": 1.2,
+     "fg": 0.385
     },
     "exp": "15",
     "ht": "6-9",
@@ -1738,11 +1746,11 @@
     "age": 25,
     "contract": "$4.0M. 2027-28 team option ($6.1M) exercised Oct 21; signed through 2027-28",
     "cur": {
-     "gp": 3,
-     "pts": 12.7,
-     "reb": 2.3,
-     "ast": 2.0,
-     "fg": 0.424
+     "gp": 5,
+     "pts": 13.2,
+     "reb": 2.0,
+     "ast": 1.4,
+     "fg": 0.521
     },
     "exp": "2",
     "ht": "6-8",
@@ -1766,11 +1774,11 @@
     "age": 27,
     "contract": "$7.6M. Final year, UFA 2027",
     "cur": {
-     "gp": 2,
-     "pts": 5.0,
-     "reb": 4.5,
+     "gp": 4,
+     "pts": 4.5,
+     "reb": 3.3,
      "ast": 0.5,
-     "fg": 0.4
+     "fg": 0.444
     },
     "exp": "7",
     "ht": "6-11",
@@ -1810,17 +1818,17 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Out Friday at Toronto. Told the Orlando Sentinel (Oct 28) he is up to 3-on-3, with 4-on-4 and 5-on-5 next, and expects to play this season. CBS Sports lists him out until at least Nov. 10. Has not played since March 12."
+    "statusNote": "Missed Friday at Toronto; listed out for Sunday vs Boston in the AP game preview (Oct 31). Told the Orlando Sentinel (Oct 28) he is up to 3-on-3, with 4-on-4 and 5-on-5 next, and expects to play this season. CBS Sports lists him out until at least Nov. 10. Has not played since March 12."
    },
    {
     "age": 31,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 1,
-     "pts": 0.0,
-     "reb": 1.0,
-     "ast": 1.0,
-     "fg": 0.0
+     "gp": 2,
+     "pts": 3.0,
+     "reb": 0.5,
+     "ast": 2.0,
+     "fg": 0.25
     },
     "exp": "8",
     "ht": "6-0",
@@ -1844,11 +1852,11 @@
     "age": 27,
     "contract": "$2.6M. Not fully guaranteed until Jan 10",
     "cur": {
-     "gp": 3,
-     "pts": 1.7,
-     "reb": 2.0,
+     "gp": 5,
+     "pts": 5.4,
+     "reb": 1.4,
      "ast": 0.0,
-     "fg": 0.125
+     "fg": 0.4
     },
     "exp": "4",
     "ht": "6-7",
@@ -1872,11 +1880,11 @@
     "age": 20,
     "contract": "$3.1M rookie scale. 2027-28 team option ($3.3M) exercised Oct 21",
     "cur": {
-     "gp": 3,
-     "pts": 4.7,
-     "reb": 1.3,
-     "ast": 2.0,
-     "fg": 0.333
+     "gp": 5,
+     "pts": 5.6,
+     "reb": 2.2,
+     "ast": 1.8,
+     "fg": 0.393
     },
     "exp": "1",
     "ht": "6-1",
@@ -1916,17 +1924,17 @@
     "num": "93",
     "pos": "G-F",
     "status": "Out",
-    "statusNote": "Out Friday at Toronto. Seen doing shooting drills after shootaround Oct 28 (Orlando Sentinel). Expected to miss significant time; no timetable."
+    "statusNote": "Missed Friday at Toronto; listed out for Sunday vs Boston in the AP game preview (Oct 31). Seen doing shooting drills after shootaround Oct 28 (Orlando Sentinel). Expected to miss significant time; no timetable."
    },
    {
     "age": 26,
     "contract": "Two-way (final year of eligibility)",
     "cur": {
-     "gp": 1,
-     "pts": 7.0,
+     "gp": 2,
+     "pts": 4.5,
      "reb": 2.0,
-     "ast": 1.0,
-     "fg": 1.0
+     "ast": 0.5,
+     "fg": 0.667
     },
     "exp": "3",
     "ht": "6-10",
@@ -1950,11 +1958,11 @@
     "age": 28,
     "contract": "Two-way, year 2",
     "cur": {
-     "gp": 1,
-     "pts": 0.0,
-     "reb": 1.0,
-     "ast": 0.0,
-     "fg": 0.0
+     "gp": 3,
+     "pts": 0.7,
+     "reb": 1.3,
+     "ast": 0.3,
+     "fg": 0.333
     },
     "exp": "1",
     "ht": "6-6",
@@ -1994,11 +2002,11 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Out Friday at Toronto. Rehabbing a left ankle fracture from Summer League (Orlando Sentinel). Has not played this preseason or season."
+    "statusNote": "Missed Friday at Toronto; listed out for Sunday vs Boston in the AP game preview (Oct 31). Rehabbing a left ankle fracture from Summer League (Orlando Sentinel). Has not played this preseason or season."
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-10-30T11:23:22Z"
+  "updatedAt": "2026-10-31T11:20:55Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
