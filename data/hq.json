@@ -52,36 +52,40 @@
    "div": 4
   },
   "streak": "W1",
-  "updatedAt": "2026-11-01T10:50:00Z"
+  "updatedAt": "2026-11-01T11:19:22Z"
  },
  "brief": {
   "d": "2026-11-01",
-  "createdAt": "2026-11-01T10:50:00Z",
-  "headline": "Short-handed Magic host Celtics at 3:30 PM today",
-  "summary": "Orlando (2-3, ninth in the East) hosts Boston (4-1) this afternoon after beating Toronto 121-114 on Friday. Five players are listed out in the AP preview: Banchero, Suggs, Isaac, Penda and Nelson. No new injury updates or betting line were found this morning.",
+  "createdAt": "2026-11-01T11:19:22Z",
+  "headline": "Short-handed Magic host Celtics at 3:30 PM; Boston favored by 6.5",
+  "summary": "Orlando (2-3, ninth in the East) hosts Boston (4-1) this afternoon, still looking for its first home win after Friday's 121-114 victory at Toronto. Banchero, Suggs, Isaac, Penda and Nelson are all out. bet365 has the Celtics favored by 6.5 with a total of 223.5.",
   "bullets": [
    {
     "tag": "Next game",
     "text": "Today vs Boston, 3:30 PM, TV27. The Celtics have won four straight and list Devin Carter out with an illness."
    },
    {
-    "tag": "Health",
-    "text": "Banchero (ankle), Suggs (knee), Isaac (knee), Penda (hamstring) and Nelson (ankle) are listed out. CBS Sports projects Suggs and Isaac out until at least Nov. 10 and Banchero until at least Nov. 22."
+    "tag": "Odds",
+    "text": "Celtics -6.5, total 223.5; moneyline BOS -270, ORL +215 (bet365). Bovada has the Magic at +220."
    },
    {
-    "tag": "Odds",
-    "text": "No line confirmed from a named sportsbook this morning."
+    "tag": "Lineup",
+    "text": "Celtics Wire projects Wagner, Bane, Black, Jase Richardson and Carter Jr. to start again."
+   },
+   {
+    "tag": "Health",
+    "text": "Banchero (ankle), Suggs (knee), Isaac (knee), Penda (hamstring) and Nelson (ankle) are out. CBS Sports projects Suggs and Isaac out until at least Nov. 10 and Banchero until at least Nov. 22."
    },
    {
     "tag": "Standings",
-    "text": "Orlando is 2-3 (0-2 home, 2-1 away) and 1-0 in NBA Cup East Group A."
+    "text": "After Saturday's games Orlando is ninth at 2-3, three games behind first-place Philadelphia (6-1). The Magic are 0-2 at home."
    }
   ],
   "recap": null,
   "preview": {
    "title": "Today vs Celtics, 3:30 PM, TV27",
-   "text": "Boston has won four straight but is 0-1 on the road. Orlando is 0-2 at home and is missing five players.",
-   "line": "Not confirmed yet"
+   "text": "Boston has won four straight but is 0-1 on the road. Orlando is 0-2 at home, missing five players, and plays Washington on Monday on the second night of a back-to-back.",
+   "line": "BOS -6.5, total 223.5 (bet365)"
   },
   "watch": "Today vs Boston, 3:30 PM (TV27); Monday vs Washington, 7:30 PM."
  },
@@ -1283,25 +1287,25 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-10-31",
+   "asOf": "2026-11-01",
    "rows": [
+    {
+     "abbr": "PHI",
+     "w": 6,
+     "l": 1,
+     "gb": 0,
+     "home": "3-1",
+     "away": "3-0",
+     "l10": "6-1",
+     "strk": "W3"
+    },
     {
      "abbr": "DET",
      "w": 5,
      "l": 1,
-     "gb": 0,
+     "gb": 0.5,
      "home": "2-0",
      "away": "3-1",
-     "l10": "5-1",
-     "strk": "W2"
-    },
-    {
-     "abbr": "PHI",
-     "w": 5,
-     "l": 1,
-     "gb": 0,
-     "home": "3-1",
-     "away": "2-0",
      "l10": "5-1",
      "strk": "W2"
     },
@@ -1309,67 +1313,67 @@
      "abbr": "BOS",
      "w": 4,
      "l": 1,
-     "gb": 0.5,
+     "gb": 1,
      "home": "4-0",
      "away": "0-1",
      "l10": "4-1",
      "strk": "W4"
     },
     {
+     "abbr": "CLE",
+     "w": 4,
+     "l": 2,
+     "gb": 1.5,
+     "home": "3-0",
+     "away": "1-2",
+     "l10": "4-2",
+     "strk": "W1"
+    },
+    {
      "abbr": "TOR",
      "w": 3,
      "l": 2,
-     "gb": 1.5,
+     "gb": 2,
      "home": "2-1",
      "away": "1-1",
      "l10": "3-2",
      "strk": "L1"
     },
     {
-     "abbr": "CLE",
+     "abbr": "WAS",
      "w": 3,
-     "l": 2,
-     "gb": 1.5,
-     "home": "3-0",
-     "away": "0-2",
-     "l10": "3-2",
-     "strk": "L1"
+     "l": 3,
+     "gb": 2.5,
+     "home": "2-1",
+     "away": "1-2",
+     "l10": "3-3",
+     "strk": "W1"
     },
     {
      "abbr": "ATL",
      "w": 3,
-     "l": 3,
-     "gb": 2,
+     "l": 4,
+     "gb": 3,
      "home": "1-2",
-     "away": "2-1",
-     "l10": "3-3",
-     "strk": "W1"
-    },
-    {
-     "abbr": "WAS",
-     "w": 3,
-     "l": 3,
-     "gb": 2,
-     "home": "2-1",
-     "away": "1-2",
-     "l10": "3-3",
-     "strk": "W1"
+     "away": "2-2",
+     "l10": "3-4",
+     "strk": "L1"
     },
     {
      "abbr": "CHA",
      "w": 3,
-     "l": 3,
-     "gb": 2,
-     "home": "2-1",
+     "l": 4,
+     "gb": 3,
+     "home": "2-2",
      "away": "1-2",
-     "l10": "3-3",
-     "strk": "L2"
+     "l10": "3-4",
+     "strk": "L3"
     },
     {
      "abbr": "ORL",
      "w": 2,
      "l": 3,
-     "gb": 2.5,
+     "gb": 3,
      "home": "0-2",
      "away": "2-1",
      "l10": "2-3",
@@ -1379,57 +1383,57 @@
      "abbr": "MIA",
      "w": 2,
      "l": 4,
-     "gb": 3,
+     "gb": 3.5,
      "home": "1-3",
      "away": "1-1",
      "l10": "2-4",
      "strk": "W2"
     },
     {
-     "abbr": "NYK",
-     "w": 2,
-     "l": 4,
-     "gb": 3,
-     "home": "1-2",
-     "away": "1-2",
-     "l10": "2-4",
-     "strk": "L1"
-    },
-    {
      "abbr": "IND",
      "w": 2,
      "l": 4,
-     "gb": 3,
+     "gb": 3.5,
      "home": "0-2",
      "away": "2-2",
      "l10": "2-4",
      "strk": "L3"
     },
     {
-     "abbr": "MIL",
-     "w": 1,
+     "abbr": "NYK",
+     "w": 2,
      "l": 4,
      "gb": 3.5,
      "home": "1-2",
-     "away": "0-2",
-     "l10": "1-4",
+     "away": "1-2",
+     "l10": "2-4",
      "strk": "L1"
     },
     {
      "abbr": "CHI",
      "w": 1,
      "l": 5,
-     "gb": 4,
+     "gb": 4.5,
      "home": "0-2",
      "away": "1-3",
      "l10": "1-5",
      "strk": "L4"
     },
     {
+     "abbr": "MIL",
+     "w": 1,
+     "l": 5,
+     "gb": 4.5,
+     "home": "1-3",
+     "away": "0-2",
+     "l10": "1-5",
+     "strk": "L2"
+    },
+    {
      "abbr": "BKN",
      "w": 0,
      "l": 5,
-     "gb": 4.5,
+     "gb": 5,
      "home": "0-3",
      "away": "0-2",
      "l10": "0-5",
@@ -1534,7 +1538,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-10-31T11:20:55Z"
+  "updatedAt": "2026-11-01T11:19:22Z"
  },
  "roster": {
   "players": [
