@@ -41,7 +41,7 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 2-3, ninth in the East, after beating Toronto in the NBA Cup opener. Next: home vs Boston Sunday, 3:30 PM.",
+  "phaseDetail": "Magic 2-3, ninth in the East. Next: home vs Boston today, 3:30 PM.",
   "record": {
    "w": 2,
    "l": 3
@@ -52,46 +52,38 @@
    "div": 4
   },
   "streak": "W1",
-  "updatedAt": "2026-11-01T01:16:37Z"
+  "updatedAt": "2026-11-01T10:50:00Z"
  },
  "brief": {
-  "d": "2026-10-31",
-  "createdAt": "2026-10-31T11:20:55Z",
-  "headline": "Bane scores 28 as Magic top Raptors; Celtics visit Sunday",
-  "summary": "Orlando beat Toronto 121-114 on Friday in its NBA Cup group opener to improve to 2-3, ninth in the East. Desmond Bane scored a season-high 28, Franz Wagner had 26 points and 11 assists, and the Magic made 18 of 34 threes. Boston (4-1, winners of four straight) visits Sunday at 3:30 PM, and Orlando is still missing five players.",
+  "d": "2026-11-01",
+  "createdAt": "2026-11-01T10:50:00Z",
+  "headline": "Short-handed Magic host Celtics at 3:30 PM today",
+  "summary": "Orlando (2-3, ninth in the East) hosts Boston (4-1) this afternoon after beating Toronto 121-114 on Friday. Five players are listed out in the AP preview: Banchero, Suggs, Isaac, Penda and Nelson. No new injury updates or betting line were found this morning.",
   "bullets": [
    {
-    "tag": "Game",
-    "text": "Magic 121, Raptors 114. Bane 28 pts (season high); Wagner 26 pts, 11 ast (both season highs); Carter Jr. 20 pts, 7 reb; Black 17 pts, 10 ast, 6 reb; Cain 13 pts on 5-of-5 off the bench. Scottie Barnes scored a career-high 41 for Toronto and fouled out."
-   },
-   {
-    "tag": "Game",
-    "text": "Toronto went ahead 102-100 with 8:38 left. Black's three at 6:56 put Orlando back in front and started a 13-4 run. The Magic went 25 of 29 at the line to Toronto's 11 of 15."
-   },
-   {
-    "tag": "Standings",
-    "text": "Orlando is 2-3 (0-2 home, 2-1 away), ninth in the East, 2.5 games behind Detroit and Philadelphia. 1-0 in NBA Cup East Group A."
+    "tag": "Next game",
+    "text": "Today vs Boston, 3:30 PM, TV27. The Celtics have won four straight and list Devin Carter out with an illness."
    },
    {
     "tag": "Health",
-    "text": "The AP preview lists Banchero (ankle), Suggs (knee), Isaac (knee), Penda (hamstring) and Nelson (ankle) out for Sunday. CBS Sports projects Suggs and Isaac out until at least Nov. 10 and Banchero until at least Nov. 22. Official injury report not yet released."
+    "text": "Banchero (ankle), Suggs (knee), Isaac (knee), Penda (hamstring) and Nelson (ankle) are listed out. CBS Sports projects Suggs and Isaac out until at least Nov. 10 and Banchero until at least Nov. 22."
    },
    {
-    "tag": "Next game",
-    "text": "Sunday vs Boston, 3:30 PM, TV27. The Celtics are 4-1 (4-0 home, 0-1 road) and list Devin Carter out with an illness. No line posted yet at major books."
+    "tag": "Odds",
+    "text": "No line confirmed from a named sportsbook this morning."
+   },
+   {
+    "tag": "Standings",
+    "text": "Orlando is 2-3 (0-2 home, 2-1 away) and 1-0 in NBA Cup East Group A."
    }
   ],
-  "recap": {
-   "title": "Magic 121, Raptors 114",
-   "text": "Orlando won its NBA Cup group opener in Toronto two nights after a 129-99 loss in the same building. The Magic made 18 of 34 threes after going 10 of 35 on Wednesday, and Black's three with 6:56 left started the 13-4 run that decided it.",
-   "leaders": "Bane 28 pts, 6 ast; Wagner 26 pts, 11 ast; Carter Jr. 20 pts, 7 reb; Black 17 pts, 10 ast"
-  },
+  "recap": null,
   "preview": {
-   "title": "Sunday vs Celtics, 3:30 PM, TV27",
-   "text": "Boston has won four straight but is 0-1 on the road. Orlando is 0-2 at home and expects to be without Banchero, Suggs, Isaac, Penda and Nelson.",
-   "line": "Not posted yet (Covers odds board, Saturday morning)"
+   "title": "Today vs Celtics, 3:30 PM, TV27",
+   "text": "Boston has won four straight but is 0-1 on the road. Orlando is 0-2 at home and is missing five players.",
+   "line": "Not confirmed yet"
   },
-  "watch": "Sunday vs Boston, 3:30 PM (TV27); Monday vs Washington, 7:30 PM. Official injury report for Sunday due Saturday evening."
+  "watch": "Today vs Boston, 3:30 PM (TV27); Monday vs Washington, 7:30 PM."
  },
  "schedule": {
   "cup": {
