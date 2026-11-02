@@ -1,6 +1,37 @@
 {
  "items": [
   {
+   "d": "2026-11-01",
+   "createdAt": "2026-11-02T01:40:00Z",
+   "headline": "Magic fall to Celtics 108-97, drop to 0-3 at home",
+   "summary": "Orlando (2-4) lost 108-97 to Boston on Sunday and is still without a home win. Banchero missed a fourth straight game with a high-ankle sprain. The Magic play Washington Monday night.",
+   "bullets": [
+    {
+     "tag": "Game",
+     "text": "Celtics 108, Magic 97. Tatum scored 32 and Paul George 17 for Boston (5-1)."
+    },
+    {
+     "tag": "Lineup",
+     "text": "Anthony Black and Tristan da Silva each scored 23. Wagner had 14 points and a career-high 12 assists."
+    },
+    {
+     "tag": "Health",
+     "text": "Banchero (high-ankle sprain) missed his fourth straight game. No other status updates confirmed."
+    },
+    {
+     "tag": "Next game",
+     "text": "Monday vs Washington, 7:30 PM, on the second night of a back-to-back."
+    }
+   ],
+   "recap": {
+    "title": "Celtics 108, Magic 97",
+    "text": "Boston keyed on Wagner and pulled away late behind Tatum and George. Orlando is 0-3 at home.",
+    "leaders": "Black 23 pts; da Silva 23 pts; Wagner 14 pts, 12 ast"
+   },
+   "preview": null,
+   "watch": "Monday vs Washington, 7:30 PM."
+  },
+  {
    "d": "2026-10-31",
    "createdAt": "2026-10-31T11:20:55Z",
    "headline": "Bane scores 28 as Magic top Raptors; Celtics visit Sunday",

@@ -1,13 +1,57 @@
 {
  "items": [
   {
+   "id": "2026-11-02-magic-host-wizards-seeking-first-home-wi",
+   "d": "2026-11-02",
+   "cat": "Game",
+   "headline": "Magic host Wizards seeking first home win",
+   "summary": "Orlando (2-4) has lost three straight at home and plays the second night of a back-to-back at 7:30 PM. Washington is 3-3 and sixth in the East. FanDuel has the Magic -1.5 with a total of 224.5.",
+   "source": "FanDuel Research",
+   "url": "https://www.fanduel.com/research/magic-vs-wizards-prediction-nba-odds-spread-best-bets-for-11-2-2026",
+   "flag": null,
+   "addedAt": "2026-11-02T11:32:28Z"
+  },
+  {
+   "id": "2026-11-02-five-magic-players-listed-out-vs-wizards",
+   "d": "2026-11-02",
+   "cat": "Injury",
+   "headline": "Five Magic players listed out vs Wizards",
+   "summary": "The AP preview lists Banchero (ankle), Suggs (knee), Isaac (knee), Penda (hamstring) and Nelson (ankle) as out. Washington lists Alex Sarr (knee) and Anthony Gill (back) as day-to-day.",
+   "source": "Associated Press (via ABC News)",
+   "url": "https://abcnews.com/Sports/wireStory/orlando-hosts-washington-end-home-losing-streak-137762440",
+   "flag": null,
+   "addedAt": "2026-11-02T11:32:28Z"
+  },
+  {
+   "id": "2026-11-01-wagner-shoots-5-of-20-with-career-high-1",
+   "d": "2026-11-01",
+   "cat": "Player",
+   "headline": "Wagner shoots 5 of 20 despite career-high 12 assists",
+   "summary": "Wagner had 14 points and three turnovers against Boston. Sweeney said the Celtics sent multiple defenders at him and that the team needs more efficient ways to involve him.",
+   "source": "Roundtable (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/franz-wagner-struggles-orlando-magics-012340151.html",
+   "flag": null,
+   "addedAt": "2026-11-02T11:32:28Z"
+  },
+  {
+   "id": "2026-11-01-sweeney-we-were-right-there-against-celt",
+   "d": "2026-11-01",
+   "cat": "Coaching",
+   "headline": "Sweeney on Celtics loss: \"We were right there\"",
+   "summary": "Sweeney praised the fight after Orlando rallied from 15 down, but 18 turnovers led to 21 Boston points. Black said it is tough to win when you are giving away possessions.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/beede-breakdown-magic-fall-visiting-230700680.html",
+   "flag": null,
+   "addedAt": "2026-11-02T11:32:28Z"
+  },
+  {
    "id": "2026-11-01-celtics-beat-magic-108-97",
    "d": "2026-11-01",
    "cat": "Game",
    "headline": "Celtics beat Magic 108-97; Orlando falls to 0-3 at home",
    "summary": "Tatum scored 32 for Boston. Black and da Silva had 23 each for Orlando, and Wagner added a career-high 12 assists. Banchero missed his fourth straight game.",
-   "source": "ESPN",
-   "url": "https://www.espn.com/nba/recap/_/gameId/401809510",
+   "source": "Celtics Wire (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/jayson-tatum-paul-george-lead-233320189.html",
    "flag": null,
    "addedAt": "2026-11-02T01:40:00Z"
   },
@@ -56,6 +100,17 @@
    "addedAt": "2026-10-31T09:59:18Z"
   },
   {
+   "id": "2026-10-30-jase-richardson-seeks-aggressive-balance",
+   "d": "2026-10-30",
+   "cat": "Player",
+   "headline": "Jase Richardson seeks aggressive balance as a starter",
+   "summary": "Starting with Suggs and Banchero out, Richardson picked up three early fouls Wednesday at Toronto, then scored all 10 of his points in the third quarter. He said Suggs has been giving him advice from Orlando.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/jase-richardson-trying-aggressive-balance-185900104.html",
+   "flag": null,
+   "addedAt": "2026-11-02T11:32:28Z"
+  },
+  {
    "id": "2026-10-29-five-magic-players-out-again-for-raptors",
    "d": "2026-10-29",
    "cat": "Injury",
@@ -98,6 +153,17 @@
    "url": "https://www.cbssports.com/nba/teams/ORL/orlando-magic/injuries/",
    "flag": null,
    "addedAt": "2026-10-29T10:45:00Z"
+  },
+  {
+   "id": "2026-10-28-power-rankings-espn-usa-today-20th-cbs-1",
+   "d": "2026-10-28",
+   "cat": "Team/Business",
+   "headline": "Power rankings: ESPN and USA TODAY 20th, CBS 19th, NBA.com 16th",
+   "summary": "Orlando slid in most rankings after one week because of the Banchero and Suggs injuries. ESPN dropped the Magic from 16th to 20th.",
+   "source": "ESPN",
+   "url": "https://www.espn.com/nba/story/_/id/50290392/nba-power-rankings-30-teams-rank-one-week-stat-trend",
+   "flag": null,
+   "addedAt": "2026-11-02T11:32:28Z"
   },
   {
    "id": "2026-10-28-isaac-calls-knee-recovery-a-slow-process",
