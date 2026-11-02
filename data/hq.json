@@ -2,7 +2,7 @@
  "meta": {
   "away": "2-1",
   "coach": "Sean Sweeney",
-  "home": "0-2",
+  "home": "0-3",
   "keyDates": [
    {
     "d": "2027-01-10",
@@ -25,15 +25,15 @@
     "label": "Regular season ends"
    }
   ],
-  "l10": "2-3",
+  "l10": "2-4",
   "lastGame": {
-   "d": "2026-10-30",
-   "opp": "TOR",
-   "ha": "A",
-   "us": 121,
-   "them": 114,
-   "wl": "W",
-   "label": "at Raptors (NBA Cup)"
+   "d": "2026-11-01",
+   "opp": "BOS",
+   "ha": "H",
+   "us": 97,
+   "them": 108,
+   "wl": "L",
+   "label": "vs Celtics"
   },
   "lastSeason": {
    "l": 37,
@@ -41,53 +41,49 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 2-3, ninth in the East. Next: home vs Boston today, 3:30 PM.",
+  "phaseDetail": "Magic 2-4. Next: home vs Washington Monday, 7:30 PM.",
   "record": {
    "w": 2,
-   "l": 3
+   "l": 4
   },
   "season": "2026-27",
   "standing": {
    "conf": 9,
    "div": 4
   },
-  "streak": "W1",
-  "updatedAt": "2026-11-01T21:14:35Z"
+  "streak": "L1",
+  "updatedAt": "2026-11-02T01:40:00Z"
  },
  "brief": {
   "d": "2026-11-01",
-  "createdAt": "2026-11-01T11:19:22Z",
-  "headline": "Short-handed Magic host Celtics at 3:30 PM; Boston favored by 6.5",
-  "summary": "Orlando (2-3, ninth in the East) hosts Boston (4-1) this afternoon, still looking for its first home win after Friday's 121-114 victory at Toronto. Banchero, Suggs, Isaac, Penda and Nelson are all out. bet365 has the Celtics favored by 6.5 with a total of 223.5.",
+  "createdAt": "2026-11-02T01:40:00Z",
+  "headline": "Magic fall to Celtics 108-97, drop to 0-3 at home",
+  "summary": "Orlando (2-4) lost 108-97 to Boston on Sunday and is still without a home win. Banchero missed a fourth straight game with a high-ankle sprain. The Magic play Washington Monday night.",
   "bullets": [
    {
-    "tag": "Next game",
-    "text": "Today vs Boston, 3:30 PM, TV27. The Celtics have won four straight and list Devin Carter out with an illness."
-   },
-   {
-    "tag": "Odds",
-    "text": "Celtics -6.5, total 223.5; moneyline BOS -270, ORL +215 (bet365). Bovada has the Magic at +220."
+    "tag": "Game",
+    "text": "Celtics 108, Magic 97. Tatum scored 32 and Paul George 17 for Boston (5-1)."
    },
    {
     "tag": "Lineup",
-    "text": "Celtics Wire projects Wagner, Bane, Black, Jase Richardson and Carter Jr. to start again."
+    "text": "Anthony Black and Tristan da Silva each scored 23. Wagner had 14 points and a career-high 12 assists."
    },
    {
     "tag": "Health",
-    "text": "Banchero (ankle), Suggs (knee), Isaac (knee), Penda (hamstring) and Nelson (ankle) are out. CBS Sports projects Suggs and Isaac out until at least Nov. 10 and Banchero until at least Nov. 22."
+    "text": "Banchero (high-ankle sprain) missed his fourth straight game. No other status updates confirmed."
    },
    {
-    "tag": "Standings",
-    "text": "After Saturday's games Orlando is ninth at 2-3, three games behind first-place Philadelphia (6-1). The Magic are 0-2 at home."
+    "tag": "Next game",
+    "text": "Monday vs Washington, 7:30 PM, on the second night of a back-to-back."
    }
   ],
-  "recap": null,
-  "preview": {
-   "title": "Today vs Celtics, 3:30 PM, TV27",
-   "text": "Boston has won four straight but is 0-1 on the road. Orlando is 0-2 at home, missing five players, and plays Washington on Monday on the second night of a back-to-back.",
-   "line": "BOS -6.5, total 223.5 (bet365)"
+  "recap": {
+   "title": "Celtics 108, Magic 97",
+   "text": "Boston keyed on Wagner and pulled away late behind Tatum and George. Orlando is 0-3 at home.",
+   "leaders": "Black 23 pts; da Silva 23 pts; Wagner 14 pts, 12 ast"
   },
-  "watch": "Today vs Boston, 3:30 PM (TV27); Monday vs Washington, 7:30 PM."
+  "preview": null,
+  "watch": "Monday vs Washington, 7:30 PM."
  },
  "schedule": {
   "cup": {
@@ -269,7 +265,13 @@
     "id": "r20261101",
     "note": "",
     "opp": "BOS",
-    "res": null,
+    "res": {
+     "us": 97,
+     "them": 108,
+     "wl": "L",
+     "ot": "",
+     "note": "Black 23, da Silva 23; Wagner 14 pts, 12 ast; Tatum 32 for BOS"
+    },
     "t": "3:30 PM",
     "tag": "",
     "tv": "TV27",
@@ -1192,7 +1194,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-10-31T11:20:55Z"
+  "updatedAt": "2026-11-02T01:40:00Z"
  },
  "standings": {
   "division": {
