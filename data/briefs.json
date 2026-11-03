@@ -1,6 +1,49 @@
 {
  "items": [
   {
+   "d": "2026-11-02",
+   "createdAt": "2026-11-02T11:32:28Z",
+   "headline": "Magic chase first home win vs Wizards tonight on a back-to-back",
+   "summary": "Orlando (2-4) hosts Washington (3-3) at 7:30 PM, the second night of its first back-to-back, and is still looking for a home win after Sunday's 108-97 loss to Boston. Banchero and Suggs are among five players listed out. FanDuel has the Magic favored by 1.5. Franz Wagner had a career-high 12 assists Sunday but shot 5 of 20 and is down to 39.6% for the season.",
+   "bullets": [
+    {
+     "tag": "Game",
+     "text": "Celtics 108, Magic 97. Orlando trailed 77-74 after three and Boston won the fourth 31-23. The Magic had 18 turnovers that led to 21 Boston points, and Tatum went 15 of 17 at the line on his way to 32."
+    },
+    {
+     "tag": "Lineup",
+     "text": "Black 23 pts, 8 reb. Da Silva 23 pts, 10 reb, five threes off the bench. Wagner 14 pts on 5-of-20 shooting, 6 reb, 12 ast. He is shooting 19.4% from three this season."
+    },
+    {
+     "tag": "Health",
+     "text": "AP lists Banchero (ankle), Suggs (knee), Isaac (knee), Penda (hamstring) and Nelson (ankle) out tonight. No new injuries were reported from Sunday. The official NBA report was not out when this was written."
+    },
+    {
+     "tag": "Odds",
+     "text": "FanDuel: ORL -1.5, total 224.5, ORL -132, WAS +112. AP lists ORL -2.5. Orlando has lost both games it was favored in this season. Futures at FanDuel: win total 41.5, Southeast +270, East +2000, title +6500."
+    },
+    {
+     "tag": "Standings",
+     "text": "Orlando is ninth in the East, 3.5 games behind Philadelphia, and fourth in the Southeast."
+    },
+    {
+     "tag": "Next game",
+     "text": "After tonight the Magic start a four-game West trip Thursday at Phoenix, 9:00 PM."
+    }
+   ],
+   "recap": {
+    "title": "Celtics 108, Magic 97",
+    "text": "Orlando led by nine early, fell behind by 15 in the third, then cut it with a 12-0 run capped by back-to-back da Silva threes. Boston pulled away late and Paul George's third three made it 106-95 with 1:31 left. Sweeney said Boston sent multiple defenders at Wagner and that his team was \"right there\" before fading.",
+    "leaders": "Black 23 pts, 8 reb; da Silva 23 pts, 10 reb; Wagner 14 pts, 12 ast; Carter Jr. 10 reb"
+   },
+   "preview": {
+    "title": "Monday vs Wizards, 7:30 PM, TV27",
+    "text": "Washington is 3-3 and sixth in the East after a 95-79 win over Charlotte. Anthony Davis averages 22.3 points and 9.2 rebounds, Trae Young 20.7 points and 10.2 assists, and rookie AJ Dybantsa 18.0 points. Alex Sarr (knee) and Anthony Gill (back) are day-to-day; Tristan Vukcevic, Justin Champagnie and Jamir Watkins are out. Also on DAZN.",
+    "line": "ORL -1.5, total 224.5, ORL -132 / WAS +112 (FanDuel)"
+   },
+   "watch": "Tonight vs Washington, 7:30 PM, TV27. Then a four-game West trip starts Thursday at Phoenix."
+  },
+  {
    "d": "2026-11-01",
    "createdAt": "2026-11-02T01:40:00Z",
    "headline": "Magic fall to Celtics 108-97, drop to 0-3 at home",

@@ -1,6 +1,50 @@
 {
  "items": [
   {
+   "id": "2026-11-02-wizards-beat-short-handed-magic-103-94-o",
+   "d": "2026-11-02",
+   "cat": "Game",
+   "headline": "Wizards beat short-handed Magic 103-94; Orlando falls to 0-4 at home",
+   "summary": "Davis had 27 points, George 22 and No. 1 pick Dybantsa 21 as Washington outscored Orlando 19-9 in the third. Wagner scored 24 and Bane 20. Sweeney: \"Anthony Davis is a problem. He showed it tonight.\"",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/beede-breakdown-shorthanded-magic-overpowered-025700336.html",
+   "flag": null,
+   "addedAt": "2026-11-03T11:21:12Z"
+  },
+  {
+   "id": "2026-11-02-anthony-black-held-out-of-back-to-back-f",
+   "d": "2026-11-02",
+   "cat": "Injury",
+   "headline": "Anthony Black held out of back-to-back finale",
+   "summary": "Black missed Monday's game as a precaution after playing 33 minutes Sunday, AP reported. The Orlando Sentinel listed it as right ankle injury management. No status has been given yet for Thursday at Phoenix.",
+   "source": "ESPN (AP)",
+   "url": "https://www.espn.com/nba/recap?gameId=401909911",
+   "flag": null,
+   "addedAt": "2026-11-03T11:21:12Z"
+  },
+  {
+   "id": "2026-11-02-cold-shooting-costs-magic-2-of-20-from-t",
+   "d": "2026-11-02",
+   "cat": "Game",
+   "headline": "Cold shooting costs Magic: 2 of 20 from three across the middle quarters",
+   "summary": "Orlando opened 6 of 11 from three, made 2 of its next 20 and finished 11 of 39. The Magic also had 18 turnovers that led to 22 Washington points. Da Silva scored 10 but went 2 of 10 from three.",
+   "source": "Orlando Magic Daily",
+   "url": "https://orlandomagicdaily.com/orlando-magics-cold-shooting-proves-costly-loss-washington-wizards-01m6fd1yw4fz",
+   "flag": null,
+   "addedAt": "2026-11-03T11:21:12Z"
+  },
+  {
+   "id": "2026-11-02-magic-rank-25th-in-turnover-rate-27th-in",
+   "d": "2026-11-02",
+   "cat": "Game",
+   "headline": "Magic rank 25th in turnover rate, 27th in defensive rebound rate",
+   "summary": "Through Sunday, Orlando ranked 25th in turnover rate at 17.3 percent and 27th in defensive rebound rate at 64.0 percent. Da Silva after the Boston loss: \"We gave too many possessions away.\"",
+   "source": "Orlando Magic Daily",
+   "url": "https://orlandomagicdaily.com/orlando-magics-biggest-problem-giving-away-too-many-possessions-01m6ccwpqad1",
+   "flag": null,
+   "addedAt": "2026-11-03T11:21:12Z"
+  },
+  {
    "id": "2026-11-02-magic-host-wizards-seeking-first-home-wi",
    "d": "2026-11-02",
    "cat": "Game",

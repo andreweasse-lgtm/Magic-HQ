@@ -2,7 +2,7 @@
  "meta": {
   "away": "2-1",
   "coach": "Sean Sweeney",
-  "home": "0-3",
+  "home": "0-4",
   "keyDates": [
    {
     "d": "2027-01-10",
@@ -25,15 +25,15 @@
     "label": "Regular season ends"
    }
   ],
-  "l10": "2-4",
+  "l10": "2-5",
   "lastGame": {
-   "d": "2026-11-01",
-   "opp": "BOS",
+   "d": "2026-11-02",
+   "opp": "WAS",
    "ha": "H",
-   "us": 97,
-   "them": 108,
+   "us": 94,
+   "them": 103,
    "wl": "L",
-   "label": "vs Celtics"
+   "label": "vs Wizards"
   },
   "lastSeason": {
    "l": 37,
@@ -41,61 +41,61 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 2-4. Next: home vs Washington tonight, 7:30 PM.",
+  "phaseDetail": "Magic 2-5. Next: at Phoenix Thursday, 9:00 PM.",
   "record": {
    "w": 2,
-   "l": 4
+   "l": 5
   },
   "season": "2026-27",
   "standing": {
-   "conf": 9,
-   "div": 4
+   "conf": 11,
+   "div": 5
   },
-  "streak": "L1",
-  "updatedAt": "2026-11-03T03:29:57Z"
+  "streak": "L2",
+  "updatedAt": "2026-11-03T11:21:12Z"
  },
  "brief": {
-  "d": "2026-11-02",
-  "createdAt": "2026-11-02T11:32:28Z",
-  "headline": "Magic chase first home win vs Wizards tonight on a back-to-back",
-  "summary": "Orlando (2-4) hosts Washington (3-3) at 7:30 PM, the second night of its first back-to-back, and is still looking for a home win after Sunday's 108-97 loss to Boston. Banchero and Suggs are among five players listed out. FanDuel has the Magic favored by 1.5. Franz Wagner had a career-high 12 assists Sunday but shot 5 of 20 and is down to 39.6% for the season.",
+  "d": "2026-11-03",
+  "createdAt": "2026-11-03T11:21:12Z",
+  "headline": "Magic lose to Wizards 103-94, fall to 0-4 at home and 11th in the East",
+  "summary": "Washington won 103-94 on Monday, handing Orlando its fourth straight home loss to open the season. The Magic were without Banchero, Suggs and Anthony Black, who sat the second night of the back-to-back to manage his right ankle. A nine-point third quarter on 4-of-21 shooting decided it, despite 24 points from Wagner and 20 from Bane. At 2-5, Orlando is 11th in the East and opens a West trip Thursday at Phoenix.",
   "bullets": [
    {
     "tag": "Game",
-    "text": "Celtics 108, Magic 97. Orlando trailed 77-74 after three and Boston won the fourth 31-23. The Magic had 18 turnovers that led to 21 Boston points, and Tatum went 15 of 17 at the line on his way to 32."
+    "text": "Wizards 103, Magic 94 at Kia Center. Orlando led 33-28 after one and trailed 60-59 at the half, then was outscored 19-9 in the third while shooting 4 of 21. It finished 11 of 39 from three and had 18 turnovers that led to 22 Washington points."
    },
    {
     "tag": "Lineup",
-    "text": "Black 23 pts, 8 reb. Da Silva 23 pts, 10 reb, five threes off the bench. Wagner 14 pts on 5-of-20 shooting, 6 reb, 12 ast. He is shooting 19.4% from three this season."
+    "text": "Richardson and Cain started with Bane, Wagner and Carter Jr. Wagner 24 pts on 10-of-18 shooting, 6 ast. Bane 20 pts, four threes, four turnovers. Cain 10 on 4 of 5. Da Silva 10 on 4 of 14 (2 of 10 from three). Bitadze and Castleton did not play (coach's decision)."
    },
    {
     "tag": "Health",
-    "text": "AP lists Banchero (ankle), Suggs (knee), Isaac (knee), Penda (hamstring) and Nelson (ankle) out tonight. No new injuries were reported from Sunday. The official NBA report was not out when this was written."
+    "text": "Black sat out as a precaution on the back-to-back after 33 minutes Sunday; the Sentinel listed right ankle injury management. His status for Thursday is not known yet. Banchero missed a fifth straight game and Suggs a fourth. Isaac, Penda and Nelson were also inactive. No new in-game injuries were reported."
    },
    {
-    "tag": "Odds",
-    "text": "FanDuel: ORL -1.5, total 224.5, ORL -132, WAS +112. AP lists ORL -2.5. Orlando has lost both games it was favored in this season. Futures at FanDuel: win total 41.5, Southeast +270, East +2000, title +6500."
+    "tag": "Coaching",
+    "text": "Sweeney: \"Anthony Davis is a problem. He showed it tonight.\" Davis had 27 points and 9 rebounds on 12-of-17 shooting. Bane: \"they made the plays down the stretch and we didn't.\""
    },
    {
     "tag": "Standings",
-    "text": "Orlando is ninth in the East, 3.5 games behind Philadelphia, and fourth in the Southeast."
+    "text": "Orlando is 11th in the East at 2-5, 4.5 games behind Philadelphia (7-1), and tied with Miami for last in the Southeast. Washington (4-3) moved up to fourth in the East."
    },
    {
     "tag": "Next game",
-    "text": "After tonight the Magic start a four-game West trip Thursday at Phoenix, 9:00 PM."
+    "text": "Off today. Practice Wednesday at 10 AM, then the team flies to Phoenix (Magic PR). Thursday at Suns, 9:00 PM, TV27, opens a four-game West trip. No sportsbook line was posted as of this morning."
    }
   ],
   "recap": {
-   "title": "Celtics 108, Magic 97",
-   "text": "Orlando led by nine early, fell behind by 15 in the third, then cut it with a 12-0 run capped by back-to-back da Silva threes. Boston pulled away late and Paul George's third three made it 106-95 with 1:31 left. Sweeney said Boston sent multiple defenders at Wagner and that his team was \"right there\" before fading.",
-   "leaders": "Black 23 pts, 8 reb; da Silva 23 pts, 10 reb; Wagner 14 pts, 12 ast; Carter Jr. 10 reb"
+   "title": "Wizards 103, Magic 94",
+   "text": "Orlando opened 6 of 11 from three and led by nine early in the second quarter before Trae Young scored 10 in a 13-2 Washington run. The Magic were within one at halftime, then managed nine points in the third and made only 2 of 20 threes across the middle quarters. Wagner's layup made it a five-point game with 3:45 left, but George hit a jumper and Dybantsa and Coulibaly had consecutive dunks to make it 99-88. Davis had 27 points, George 22 and No. 1 pick AJ Dybantsa 21. It was Washington's first win in Orlando since Dec. 30, 2022.",
+   "leaders": "Wagner 24 pts, 6 ast; Bane 20 pts; Cain 10; da Silva 10; Carter Jr. 9 reb; Davis 27 pts, 9 reb for WAS"
   },
   "preview": {
-   "title": "Monday vs Wizards, 7:30 PM, TV27",
-   "text": "Washington is 3-3 and sixth in the East after a 95-79 win over Charlotte. Anthony Davis averages 22.3 points and 9.2 rebounds, Trae Young 20.7 points and 10.2 assists, and rookie AJ Dybantsa 18.0 points. Alex Sarr (knee) and Anthony Gill (back) are day-to-day; Tristan Vukcevic, Justin Champagnie and Jamir Watkins are out. Also on DAZN.",
-   "line": "ORL -1.5, total 224.5, ORL -132 / WAS +112 (FanDuel)"
+   "title": "Thursday at Suns, 9:00 PM, TV27",
+   "text": "Phoenix is 1-4 after losing 116-113 at Golden State on Monday, when Devin Booker had 26 points and five assists before fouling out with 58 seconds left. Before that game, Booker was averaging 22.3 points, Dillon Brooks 16.5 and Miles Bridges 16.3. The Suns host Portland on Wednesday, so Thursday is the second night of a back-to-back for them. Mark Williams (left shoulder surgery) is out until around February. For Orlando, Banchero and Suggs remain out and Black's status is not known yet. Also on DAZN.",
+   "line": "No sportsbook line posted yet as of Tuesday morning"
   },
-  "watch": "Tonight vs Washington, 7:30 PM, TV27. Then a four-game West trip starts Thursday at Phoenix."
+  "watch": "Off today. Thursday at Phoenix, 9:00 PM, TV27, with Black's status the main thing to watch."
  },
  "schedule": {
   "cup": {
@@ -295,7 +295,13 @@
     "id": "r20261102",
     "note": "",
     "opp": "WAS",
-    "res": null,
+    "res": {
+     "us": 94,
+     "them": 103,
+     "wl": "L",
+     "ot": "",
+     "note": "Wagner 24, Bane 20; Davis 27 for WAS"
+    },
     "t": "7:30 PM",
     "tag": "",
     "tv": "TV27, DAZN",
@@ -305,12 +311,12 @@
     "d": "2026-11-05",
     "ha": "A",
     "id": "r20261105",
-    "note": "",
+    "note": "Opens four-game West trip",
     "opp": "PHX",
     "res": null,
     "t": "9:00 PM",
     "tag": "",
-    "tv": "TV27",
+    "tv": "TV27, DAZN",
     "type": "reg"
    },
    {
@@ -1206,7 +1212,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-02T11:32:28Z"
+  "updatedAt": "2026-11-03T11:21:12Z"
  },
  "standings": {
   "division": {
@@ -1301,157 +1307,157 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-02",
+   "asOf": "2026-11-03",
    "rows": [
     {
      "abbr": "PHI",
-     "w": 6,
+     "w": 7,
      "l": 1,
      "gb": 0,
-     "home": "3-1",
+     "home": "4-1",
      "away": "3-0",
+     "l10": "7-1",
+     "strk": "W4"
+    },
+    {
+     "abbr": "DET",
+     "w": 6,
+     "l": 1,
+     "gb": 0.5,
+     "home": "2-0",
+     "away": "4-1",
      "l10": "6-1",
      "strk": "W3"
     },
     {
-     "abbr": "DET",
+     "abbr": "BOS",
      "w": 5,
-     "l": 1,
-     "gb": 0.5,
-     "home": "2-0",
-     "away": "3-1",
-     "l10": "5-1",
+     "l": 2,
+     "gb": 1.5,
+     "home": "4-0",
+     "away": "1-2",
+     "l10": "5-2",
+     "strk": "L1"
+    },
+    {
+     "abbr": "WAS",
+     "w": 4,
+     "l": 3,
+     "gb": 2.5,
+     "home": "2-1",
+     "away": "2-2",
+     "l10": "4-3",
      "strk": "W2"
     },
     {
-     "abbr": "BOS",
-     "w": 5,
-     "l": 1,
-     "gb": 0.5,
-     "home": "4-0",
-     "away": "1-1",
-     "l10": "5-1",
-     "strk": "W5"
+     "abbr": "TOR",
+     "w": 4,
+     "l": 3,
+     "gb": 2.5,
+     "home": "2-1",
+     "away": "2-2",
+     "l10": "4-3",
+     "strk": "W1"
     },
     {
      "abbr": "CLE",
      "w": 4,
-     "l": 2,
-     "gb": 1.5,
-     "home": "3-0",
-     "away": "1-2",
-     "l10": "4-2",
-     "strk": "W1"
-    },
-    {
-     "abbr": "TOR",
-     "w": 3,
      "l": 3,
      "gb": 2.5,
-     "home": "2-1",
+     "home": "3-1",
      "away": "1-2",
-     "l10": "3-3",
-     "strk": "L2"
-    },
-    {
-     "abbr": "WAS",
-     "w": 3,
-     "l": 3,
-     "gb": 2.5,
-     "home": "2-1",
-     "away": "1-2",
-     "l10": "3-3",
-     "strk": "W1"
+     "l10": "4-3",
+     "strk": "L1"
     },
     {
      "abbr": "ATL",
-     "w": 3,
+     "w": 4,
      "l": 4,
      "gb": 3,
      "home": "1-2",
-     "away": "2-2",
+     "away": "3-2",
+     "l10": "4-4",
+     "strk": "W1"
+    },
+    {
+     "abbr": "NYK",
+     "w": 3,
+     "l": 4,
+     "gb": 3.5,
+     "home": "2-2",
+     "away": "1-2",
      "l10": "3-4",
-     "strk": "L1"
+     "strk": "W1"
     },
     {
      "abbr": "CHA",
      "w": 3,
-     "l": 4,
-     "gb": 3,
-     "home": "2-2",
+     "l": 5,
+     "gb": 4,
+     "home": "2-3",
      "away": "1-2",
-     "l10": "3-4",
-     "strk": "L3"
-    },
-    {
-     "abbr": "ORL",
-     "w": 2,
-     "l": 4,
-     "gb": 3.5,
-     "home": "0-3",
-     "away": "2-1",
-     "l10": "2-4",
-     "strk": "L1"
+     "l10": "3-5",
+     "strk": "L4"
     },
     {
      "abbr": "MIA",
      "w": 2,
-     "l": 4,
-     "gb": 3.5,
+     "l": 5,
+     "gb": 4.5,
      "home": "1-3",
-     "away": "1-1",
-     "l10": "2-4",
-     "strk": "W2"
+     "away": "1-2",
+     "l10": "2-5",
+     "strk": "L1"
     },
     {
-     "abbr": "NYK",
+     "abbr": "ORL",
      "w": 2,
-     "l": 4,
-     "gb": 3.5,
-     "home": "1-2",
-     "away": "1-2",
-     "l10": "2-4",
-     "strk": "L1"
+     "l": 5,
+     "gb": 4.5,
+     "home": "0-4",
+     "away": "2-1",
+     "l10": "2-5",
+     "strk": "L2"
     },
     {
      "abbr": "IND",
      "w": 2,
-     "l": 5,
-     "gb": 4,
-     "home": "0-3",
+     "l": 6,
+     "gb": 5,
+     "home": "0-4",
      "away": "2-2",
-     "l10": "2-5",
-     "strk": "L4"
+     "l10": "2-6",
+     "strk": "L5"
     },
     {
      "abbr": "CHI",
      "w": 1,
-     "l": 5,
-     "gb": 4.5,
+     "l": 6,
+     "gb": 5.5,
      "home": "0-2",
-     "away": "1-3",
-     "l10": "1-5",
-     "strk": "L4"
+     "away": "1-4",
+     "l10": "1-6",
+     "strk": "L5"
     },
     {
      "abbr": "MIL",
      "w": 1,
-     "l": 5,
-     "gb": 4.5,
+     "l": 6,
+     "gb": 5.5,
      "home": "1-3",
-     "away": "0-2",
-     "l10": "1-5",
-     "strk": "L2"
+     "away": "0-3",
+     "l10": "1-6",
+     "strk": "L3"
     },
     {
      "abbr": "BKN",
      "w": 1,
-     "l": 5,
-     "gb": 4.5,
+     "l": 6,
+     "gb": 5.5,
      "home": "0-3",
-     "away": "1-2",
-     "l10": "1-5",
-     "strk": "W1"
+     "away": "1-3",
+     "l10": "1-6",
+     "strk": "L1"
     }
    ]
   },
@@ -1552,7 +1558,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-02T11:32:28Z"
+  "updatedAt": "2026-11-03T11:21:12Z"
  },
  "roster": {
   "players": [
@@ -1582,17 +1588,17 @@
     "num": "5",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Missed four straight games. Listed out for Monday vs Washington in the AP game preview (Nov 2). Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25. Out until at least Nov. 22 per CBS Sports."
+    "statusNote": "Missed five straight games, including Monday vs Washington. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25. Out until at least Nov. 22 per CBS Sports."
    },
    {
     "age": 25,
     "contract": "$41.8M. Signed through 2029-30",
     "cur": {
-     "gp": 6,
-     "pts": 19.7,
-     "reb": 6.7,
-     "ast": 7.8,
-     "fg": 0.396
+     "gp": 7,
+     "pts": 20.3,
+     "reb": 6.1,
+     "ast": 7.6,
+     "fg": 0.419
     },
     "exp": "5",
     "ht": "6-10",
@@ -1616,11 +1622,11 @@
     "age": 28,
     "contract": "$39.4M. Signed through 2028-29",
     "cur": {
-     "gp": 6,
-     "pts": 17.5,
-     "reb": 3.7,
-     "ast": 2.5,
-     "fg": 0.369
+     "gp": 7,
+     "pts": 17.9,
+     "reb": 3.6,
+     "ast": 2.6,
+     "fg": 0.386
     },
     "exp": "6",
     "ht": "6-6",
@@ -1666,7 +1672,7 @@
     "num": "4",
     "pos": "G",
     "status": "Out",
-    "statusNote": "Missed three straight games. Listed out for Monday vs Washington in the AP game preview (Nov 2). Mild bone bruise; the Magic said Oct 26 he will be re-evaluated in two weeks. Out until at least Nov. 10 per CBS Sports."
+    "statusNote": "Missed four straight games, including Monday vs Washington. Mild bone bruise; the Magic said Oct 26 he will be re-evaluated in two weeks. Out until at least Nov. 10 per CBS Sports."
    },
    {
     "age": 22,
@@ -1680,7 +1686,7 @@
     },
     "exp": "3",
     "ht": "6-7",
-    "injury": "",
+    "injury": "Right ankle (injury management)",
     "kind": "Standard",
     "last": {
      "ast": 3.7,
@@ -1693,18 +1699,18 @@
     "note": "No rookie-scale extension by the Oct 19 deadline; restricted free agent in 2027. Returned from a right ankle sprain Oct 25 with 18 points before fouling out.",
     "num": "0",
     "pos": "G",
-    "status": "Healthy",
-    "statusNote": ""
+    "status": "Day-to-day",
+    "statusNote": "Held out Monday vs Washington on the second night of a back-to-back as a precaution (AP); the Orlando Sentinel listed right ankle injury management. Played 33 minutes Sunday. No status yet for Thursday at Phoenix."
    },
    {
     "age": 27,
     "contract": "$18.1M. Through 2028-29 (team option in 2028-29)",
     "cur": {
-     "gp": 6,
-     "pts": 13.5,
-     "reb": 8.8,
-     "ast": 1.2,
-     "fg": 0.609
+     "gp": 7,
+     "pts": 12.4,
+     "reb": 8.9,
+     "ast": 1.0,
+     "fg": 0.612
     },
     "exp": "8",
     "ht": "6-10",
@@ -1728,11 +1734,11 @@
     "age": 35,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 6,
-     "pts": 2.5,
-     "reb": 2.5,
+     "gp": 7,
+     "pts": 3.1,
+     "reb": 3.0,
      "ast": 1.3,
-     "fg": 0.4
+     "fg": 0.429
     },
     "exp": "15",
     "ht": "6-9",
@@ -1756,11 +1762,11 @@
     "age": 25,
     "contract": "$4.0M. 2027-28 team option ($6.1M) exercised Oct 21; signed through 2027-28",
     "cur": {
-     "gp": 6,
-     "pts": 14.8,
-     "reb": 3.3,
-     "ast": 1.5,
-     "fg": 0.548
+     "gp": 7,
+     "pts": 14.1,
+     "reb": 3.4,
+     "ast": 1.7,
+     "fg": 0.5
     },
     "exp": "2",
     "ht": "6-8",
@@ -1828,17 +1834,17 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Listed out for Monday vs Washington in the AP game preview (Nov 2). Told the Orlando Sentinel (Oct 28) he is up to 3-on-3, with 4-on-4 and 5-on-5 next, and expects to play this season. CBS Sports lists him out until at least Nov. 10. Has not played since March 12."
+    "statusNote": "Inactive Monday vs Washington. Told the Orlando Sentinel (Oct 28) he is up to 3-on-3, with 4-on-4 and 5-on-5 next, and expects to play this season. CBS Sports lists him out until at least Nov. 10. Has not played since March 12."
    },
    {
     "age": 31,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 2,
-     "pts": 3.0,
-     "reb": 0.5,
-     "ast": 2.0,
-     "fg": 0.25
+     "gp": 3,
+     "pts": 3.7,
+     "reb": 0.7,
+     "ast": 2.7,
+     "fg": 0.267
     },
     "exp": "8",
     "ht": "6-0",
@@ -1862,11 +1868,11 @@
     "age": 27,
     "contract": "$2.6M. Not fully guaranteed until Jan 10",
     "cur": {
-     "gp": 6,
-     "pts": 5.3,
-     "reb": 1.3,
-     "ast": 0.2,
-     "fg": 0.4
+     "gp": 7,
+     "pts": 6.0,
+     "reb": 1.6,
+     "ast": 0.3,
+     "fg": 0.467
     },
     "exp": "4",
     "ht": "6-7",
@@ -1880,7 +1886,7 @@
      "reb": 2
     },
     "name": "Jamal Cain",
-    "note": "Fighting for a roster spot in camp.",
+    "note": "Third career start Nov 2 vs Washington: 10 points, 2 of 3 from three, four turnovers. Contract guarantee date is Jan 10.",
     "num": "8",
     "pos": "F",
     "status": "Healthy",
@@ -1890,11 +1896,11 @@
     "age": 20,
     "contract": "$3.1M rookie scale. 2027-28 team option ($3.3M) exercised Oct 21",
     "cur": {
-     "gp": 6,
-     "pts": 5.3,
-     "reb": 2.0,
-     "ast": 2.0,
-     "fg": 0.361
+     "gp": 7,
+     "pts": 5.9,
+     "reb": 1.9,
+     "ast": 2.4,
+     "fg": 0.364
     },
     "exp": "1",
     "ht": "6-1",
@@ -1934,7 +1940,7 @@
     "num": "93",
     "pos": "G-F",
     "status": "Out",
-    "statusNote": "Listed out for Monday vs Washington in the AP game preview (Nov 2). Seen doing shooting drills after shootaround Oct 28 (Orlando Sentinel). Expected to miss significant time. CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Inactive Monday vs Washington. Seen doing shooting drills after shootaround Oct 28 (Orlando Sentinel). Expected to miss significant time. CBS Sports lists him out until at least Nov. 18."
    },
    {
     "age": 26,
@@ -1968,11 +1974,11 @@
     "age": 28,
     "contract": "Two-way, year 2",
     "cur": {
-     "gp": 3,
-     "pts": 0.7,
-     "reb": 1.3,
+     "gp": 4,
+     "pts": 1.3,
+     "reb": 1.5,
      "ast": 0.3,
-     "fg": 0.333
+     "fg": 0.4
     },
     "exp": "1",
     "ht": "6-6",
@@ -2012,11 +2018,11 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Listed out for Monday vs Washington in the AP game preview (Nov 2). Rehabbing a left ankle fracture from Summer League (Orlando Sentinel). Has not played this preseason or season. CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Inactive Monday vs Washington. Rehabbing a left ankle fracture from Summer League (Orlando Sentinel). Has not played this preseason or season. CBS Sports lists him out until at least Nov. 18."
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-02T11:32:28Z"
+  "updatedAt": "2026-11-03T11:21:12Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
