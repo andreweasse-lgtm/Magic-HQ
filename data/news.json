@@ -1,6 +1,50 @@
 {
  "items": [
   {
+   "id": "2026-11-03-suggs-will-not-be-re-evaluated-until-mon",
+   "d": "2026-11-03",
+   "cat": "Injury",
+   "headline": "Suggs will not be re-evaluated until Monday; Black expected back",
+   "summary": "Jalen Suggs, out with a right knee bone bruise, will not be re-evaluated until Monday and was unsure whether he will travel this week. Anthony Black is expected back after sitting out the second night of the back-to-back. \"Obviously, there's a little frustration,\" Suggs said. \"I'd love to be playing, but I (am not) complaining about (anything).\"",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/jalen-suggs-focused-rehab-magic-202700984.html",
+   "flag": null,
+   "addedAt": "2026-11-04T11:17:52Z"
+  },
+  {
+   "id": "2026-11-03-wagner-leads-the-league-in-drives-but-ca",
+   "d": "2026-11-03",
+   "cat": "Player",
+   "headline": "Wagner leads the league in drives but cannot carry Magic alone",
+   "summary": "Franz Wagner is averaging 20.3 points on 41.9% shooting, with a 28.0% usage rate and a league-leading 25.6 drives per game (Second Spectrum). He is shooting 20.0% from three on 5.0 attempts. Bane said Wagner \"is carrying a big burden right now with so many guys out.\"",
+   "source": "Orlando Magic Daily",
+   "url": "https://orlandomagicdaily.com/franz-wagner-cannot-carry-orlando-magic-alone-01m6eh2bxng3",
+   "flag": null,
+   "addedAt": "2026-11-04T11:17:52Z"
+  },
+  {
+   "id": "2026-11-03-three-point-reliance-is-becoming-a-probl",
+   "d": "2026-11-03",
+   "cat": "Game",
+   "headline": "Three-point reliance is becoming a problem for the Magic",
+   "summary": "Orlando took 39 of its 80 shots from three on Monday and made 11. Threes are 46.9% of its attempts, up from 38.6% last year, while paint scoring has fallen to 43.7 points per game (23rd). Sweeney: \"We want to attack the paint.\"",
+   "source": "Orlando Magic Daily",
+   "url": "https://orlandomagicdaily.com/orlando-magics-3-point-reliance-becoming-problem-01m6fhsr31bk",
+   "flag": null,
+   "addedAt": "2026-11-04T11:17:52Z"
+  },
+  {
+   "id": "2026-11-03-wagner-sweeney-stay-upbeat-after-2-5-sta",
+   "d": "2026-11-03",
+   "cat": "Coaching",
+   "headline": "Wagner, Sweeney stay upbeat after 2-5 start",
+   "summary": "After Monday's loss, Wagner said the team has to \"keep playing with confidence, it's not going to be a perfect game.\" Sweeney said, \"I thought the guys did a really good job tonight competing.\" Orlando cut the fourth-quarter deficit to three or four points a couple of times.",
+   "source": "Magic On SI (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/why-magic-arent-panicking-2-203933181.html",
+   "flag": null,
+   "addedAt": "2026-11-04T11:17:52Z"
+  },
+  {
    "id": "2026-11-02-wizards-beat-short-handed-magic-103-94-o",
    "d": "2026-11-02",
    "cat": "Game",

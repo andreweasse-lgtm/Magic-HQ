@@ -5,6 +5,11 @@
   "home": "0-4",
   "keyDates": [
    {
+    "d": "2026-11-09",
+    "detail": "Per the Orlando Sentinel",
+    "label": "Jalen Suggs knee re-evaluation"
+   },
+   {
     "d": "2027-01-10",
     "detail": "",
     "label": "Jamal Cain contract guarantee date"
@@ -52,50 +57,46 @@
    "div": 5
   },
   "streak": "L2",
-  "updatedAt": "2026-11-04T02:24:35Z"
+  "updatedAt": "2026-11-04T11:17:52Z"
  },
  "brief": {
-  "d": "2026-11-03",
-  "createdAt": "2026-11-03T11:21:12Z",
-  "headline": "Magic lose to Wizards 103-94, fall to 0-4 at home and 11th in the East",
-  "summary": "Washington won 103-94 on Monday, handing Orlando its fourth straight home loss to open the season. The Magic were without Banchero, Suggs and Anthony Black, who sat the second night of the back-to-back to manage his right ankle. A nine-point third quarter on 4-of-21 shooting decided it, despite 24 points from Wagner and 20 from Bane. At 2-5, Orlando is 11th in the East and opens a West trip Thursday at Phoenix.",
+  "d": "2026-11-04",
+  "createdAt": "2026-11-04T11:17:52Z",
+  "headline": "Black expected back at Phoenix; Suggs not re-evaluated until Monday",
+  "summary": "A quiet day off, with health the main news. The Orlando Sentinel reports Anthony Black is expected back Thursday at Phoenix after sitting out Monday, while Jalen Suggs will not be re-evaluated until Monday and was unsure whether he will travel this week. The Magic stay 11th in the East at 2-5. They practice at 10 AM today, then fly to Phoenix to open a four-game West trip.",
   "bullets": [
    {
-    "tag": "Game",
-    "text": "Wizards 103, Magic 94 at Kia Center. Orlando led 33-28 after one and trailed 60-59 at the half, then was outscored 19-9 in the third while shooting 4 of 21. It finished 11 of 39 from three and had 18 turnovers that led to 22 Washington points."
-   },
-   {
-    "tag": "Lineup",
-    "text": "Richardson and Cain started with Bane, Wagner and Carter Jr. Wagner 24 pts on 10-of-18 shooting, 6 ast. Bane 20 pts, four threes, four turnovers. Cain 10 on 4 of 5. Da Silva 10 on 4 of 14 (2 of 10 from three). Bitadze and Castleton did not play (coach's decision)."
+    "tag": "Health",
+    "text": "Black is expected back after sitting out the second night of the back-to-back to manage his right ankle sprain (Orlando Sentinel). CBS Sports lists him as a game-time decision. No official injury report for Thursday has been posted yet."
    },
    {
     "tag": "Health",
-    "text": "Black sat out as a precaution on the back-to-back after 33 minutes Sunday; the Sentinel listed right ankle injury management. His status for Thursday is not known yet. Banchero missed a fifth straight game and Suggs a fourth. Isaac, Penda and Nelson were also inactive. No new in-game injuries were reported."
+    "text": "Suggs (right knee bone bruise, suffered Oct. 25 at New York) will not be re-evaluated until Monday, Nov. 9. He had no timeline and was unsure whether he will travel this week. \"Obviously, there's a little frustration,\" he told the Sentinel. \"I'd love to be playing, but I (am not) complaining about (anything).\""
    },
    {
-    "tag": "Coaching",
-    "text": "Sweeney: \"Anthony Davis is a problem. He showed it tonight.\" Davis had 27 points and 9 rebounds on 12-of-17 shooting. Bane: \"they made the plays down the stretch and we didn't.\""
+    "tag": "Health",
+    "text": "Banchero is less than two weeks into a high ankle sprain that typically takes four to six weeks. Penda (hamstring), Isaac (left knee) and Nelson (left ankle) also remain out, with no new timelines."
+   },
+   {
+    "tag": "Game",
+    "text": "Threes are 46.9% of Orlando's shots, up from 38.6% last year, while paint scoring is down to 43.7 points per game (23rd), per Orlando Magic Daily. Sweeney: \"We want to attack the paint.\" Vucevic said the team should \"get more to the paint, play inside-out.\""
    },
    {
     "tag": "Standings",
-    "text": "Orlando is 11th in the East at 2-5, 4.5 games behind Philadelphia (7-1), and tied with Miami for last in the Southeast. Washington (4-3) moved up to fourth in the East."
+    "text": "The East table is unchanged. Orlando is 11th at 2-5, 4.5 games behind Philadelphia (7-1), and tied with Miami for last in the Southeast."
    },
    {
     "tag": "Next game",
-    "text": "Off today. Practice Wednesday at 10 AM, then the team flies to Phoenix (Magic PR). Thursday at Suns, 9:00 PM, TV27, opens a four-game West trip. No sportsbook line was posted as of this morning."
+    "text": "Practice today at 10 AM, then the team flies to Phoenix (Magic PR). Thursday at Suns, 9:00 PM, TV27 and DAZN. No sportsbook line was posted as of this morning."
    }
   ],
-  "recap": {
-   "title": "Wizards 103, Magic 94",
-   "text": "Orlando opened 6 of 11 from three and led by nine early in the second quarter before Trae Young scored 10 in a 13-2 Washington run. The Magic were within one at halftime, then managed nine points in the third and made only 2 of 20 threes across the middle quarters. Wagner's layup made it a five-point game with 3:45 left, but George hit a jumper and Dybantsa and Coulibaly had consecutive dunks to make it 99-88. Davis had 27 points, George 22 and No. 1 pick AJ Dybantsa 21. It was Washington's first win in Orlando since Dec. 30, 2022.",
-   "leaders": "Wagner 24 pts, 6 ast; Bane 20 pts; Cain 10; da Silva 10; Carter Jr. 9 reb; Davis 27 pts, 9 reb for WAS"
-  },
+  "recap": null,
   "preview": {
    "title": "Thursday at Suns, 9:00 PM, TV27",
-   "text": "Phoenix is 1-4 after losing 116-113 at Golden State on Monday, when Devin Booker had 26 points and five assists before fouling out with 58 seconds left. Before that game, Booker was averaging 22.3 points, Dillon Brooks 16.5 and Miles Bridges 16.3. The Suns host Portland on Wednesday, so Thursday is the second night of a back-to-back for them. Mark Williams (left shoulder surgery) is out until around February. For Orlando, Banchero and Suggs remain out and Black's status is not known yet. Also on DAZN.",
-   "line": "No sportsbook line posted yet as of Tuesday morning"
+   "text": "Phoenix is 1-4 after losing 116-113 at Golden State on Monday, when Devin Booker had 26 points and five assists before fouling out with 58 seconds left. The Suns host Portland tonight at 9:00 PM, so Thursday is the second night of a back-to-back for them. CBS Sports lists Rasheer Fleming (ankle) and Jordan Goodwin (calf) as game-time decisions, and Mark Williams (left shoulder surgery) is out until around February. For Orlando, Black is expected back, while Banchero, Suggs, Isaac, Penda and Nelson remain out. Also on DAZN.",
+   "line": "No sportsbook line posted yet as of Wednesday morning"
   },
-  "watch": "Off today. Thursday at Phoenix, 9:00 PM, TV27, with Black's status the main thing to watch."
+  "watch": "Thursday at Phoenix, 9:00 PM, TV27. Watch the first official injury report for Black and whether Suggs travels."
  },
  "schedule": {
   "cup": {
@@ -1212,7 +1213,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-03T11:21:12Z"
+  "updatedAt": "2026-11-04T11:17:52Z"
  },
  "standings": {
   "division": {
@@ -1307,7 +1308,7 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-03",
+   "asOf": "2026-11-04",
    "rows": [
     {
      "abbr": "PHI",
@@ -1558,7 +1559,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-03T11:21:12Z"
+  "updatedAt": "2026-11-04T11:17:52Z"
  },
  "roster": {
   "players": [
@@ -1672,7 +1673,7 @@
     "num": "4",
     "pos": "G",
     "status": "Out",
-    "statusNote": "Missed four straight games, including Monday vs Washington. Mild bone bruise; the Magic said Oct 26 he will be re-evaluated in two weeks. Out until at least Nov. 10 per CBS Sports."
+    "statusNote": "Missed four straight games. Bone bruise suffered Oct 25 at New York. Orlando Sentinel (Nov 3): will not be re-evaluated until Monday, Nov 9, has no timeline, and was unsure whether he will travel this week. CBS Sports lists him out until at least Nov. 10."
    },
    {
     "age": 22,
@@ -1700,7 +1701,7 @@
     "num": "0",
     "pos": "G",
     "status": "Day-to-day",
-    "statusNote": "Held out Monday vs Washington on the second night of a back-to-back as a precaution (AP); the Orlando Sentinel listed right ankle injury management. Played 33 minutes Sunday. No status yet for Thursday at Phoenix."
+    "statusNote": "Sat out Monday vs Washington on the second night of a back-to-back to manage his right ankle sprain. Orlando Sentinel (Nov 3): expected back Thursday at Phoenix. CBS Sports lists him as a game-time decision. No official designation yet."
    },
    {
     "age": 27,
@@ -2022,7 +2023,7 @@
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-03T11:21:12Z"
+  "updatedAt": "2026-11-04T11:17:52Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
