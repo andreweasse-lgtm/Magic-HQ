@@ -1,6 +1,83 @@
 {
  "items": [
   {
+   "id": "2026-11-05-black-off-injury-report-five-magic-playe",
+   "d": "2026-11-05",
+   "cat": "Injury",
+   "headline": "Black off injury report; five Magic players listed out at Phoenix",
+   "summary": "The NBA's 6:00 AM report lists Banchero, Isaac, Nelson, Penda and Suggs as out for Thursday at Phoenix. Anthony Black, who sat out Monday to manage his right ankle, is not listed. Phoenix had not yet submitted its report.",
+   "source": "NBA official injury report",
+   "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-05_06_00AM.pdf",
+   "flag": null,
+   "addedAt": "2026-11-05T11:20:38Z"
+  },
+  {
+   "id": "2026-11-05-suns-bring-four-game-skid-into-thursday",
+   "d": "2026-11-05",
+   "cat": "Game",
+   "headline": "Suns bring four-game skid into Thursday matchup with Magic",
+   "summary": "AP's preview has Orlando at 2-5, 12th in the East, and Phoenix at 1-5, 12th in the West. It lists Mark Williams out for the Suns, with Rasheer Fleming and Jordan Goodwin day to day.",
+   "source": "Associated Press (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/suns-magic-4-game-skid-070235029.html",
+   "flag": null,
+   "addedAt": "2026-11-05T11:20:38Z"
+  },
+  {
+   "id": "2026-11-04-anthony-black-off-the-injury-report-for",
+   "d": "2026-11-04",
+   "cat": "Injury",
+   "headline": "Anthony Black off the injury report for Suns game",
+   "summary": "Black (ankle) is off the injury report for Thursday's game against Phoenix, per Jason Beede of the Orlando Sentinel. He was rested Monday against Washington.",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/player/anthony-black-5910",
+   "flag": null,
+   "addedAt": "2026-11-05T11:20:38Z"
+  },
+  {
+   "id": "2026-11-04-magic-head-west-looking-to-string-wins-t",
+   "d": "2026-11-04",
+   "cat": "Coaching",
+   "headline": "Magic head west looking to string wins together",
+   "summary": "Sweeney: \"Anytime you go on the road, the idea is that you work together, bind together and ultimately become closer and better because of it.\" Nelson did not travel. Orlando ranks 23rd in offensive rating, 25th in defensive rating and second in share of baskets assisted, with 17.3 turnovers per game, tied for fifth-most.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/magic-head-west-searching-string-212900597.html",
+   "flag": null,
+   "addedAt": "2026-11-05T11:20:38Z"
+  },
+  {
+   "id": "2026-11-04-sweeney-wants-magic-to-build-on-fundamen",
+   "d": "2026-11-04",
+   "cat": "Coaching",
+   "headline": "Sweeney wants Magic to build on fundamentals on crucial trip",
+   "summary": "Sweeney: \"The biggest thing for us is building on what we have done well and correcting the mistakes that we have made.\" Carter said the moral victory for him is \"the accountability factor.\" Golden State is the only team with a winning record in Orlando's next five games.",
+   "source": "Orlando Magic Daily",
+   "url": "https://orlandomagicdaily.com/orlando-magic-build-new-principles-begin-crucial-road-trip-01m6kp2t6ktk",
+   "flag": null,
+   "addedAt": "2026-11-05T11:20:38Z"
+  },
+  {
+   "id": "2026-11-04-blazers-beat-suns-132-119-on-the-eve-of",
+   "d": "2026-11-04",
+   "cat": "Game",
+   "headline": "Blazers beat Suns 132-119 on the eve of Magic visit",
+   "summary": "Damian Lillard scored 25 and Donovan Clingan 24 for Portland. Devin Booker had 33 points for Phoenix, which fell to 1-5 and plays Orlando on the second night of a back-to-back.",
+   "source": "ESPN (AP)",
+   "url": "https://www.espn.com/nba/recap/_/gameId/401909932",
+   "flag": null,
+   "addedAt": "2026-11-05T11:20:38Z"
+  },
+  {
+   "id": "2026-11-04-bane-on-0-4-home-start-we-can-t-rush-the",
+   "d": "2026-11-04",
+   "cat": "Game",
+   "headline": "Bane on 0-4 home start: \"We can't rush the process\"",
+   "summary": "Bane said \"there's a lot of ball left\" and the results will come as the team improves. Roundtable Sports has Orlando 2-1 on the road and first in the league in road 3-point shooting at 41.4%.",
+   "source": "Roundtable Sports (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/know-orlando-magic-face-phoenix-170453476.html",
+   "flag": null,
+   "addedAt": "2026-11-05T11:20:38Z"
+  },
+  {
    "id": "2026-11-03-suggs-will-not-be-re-evaluated-until-mon",
    "d": "2026-11-03",
    "cat": "Injury",
@@ -43,6 +120,17 @@
    "url": "https://sports.yahoo.com/articles/why-magic-arent-panicking-2-203933181.html",
    "flag": null,
    "addedAt": "2026-11-04T11:17:52Z"
+  },
+  {
+   "id": "2026-11-02-isaac-assigned-to-osceola-and-recalled-t",
+   "d": "2026-11-02",
+   "cat": "G League",
+   "headline": "Isaac assigned to Osceola and recalled the same day",
+   "summary": "Jonathan Isaac (knee) was assigned to the Osceola Magic and recalled on Sunday, presumably to practice with the affiliate. He remains without a defined timeline for his season debut.",
+   "source": "RotoWire (via CBS Sports)",
+   "url": "https://www.cbssports.com/fantasy/basketball/news/magics-jonathan-isaac-recalled-from-g-league-537165/",
+   "flag": null,
+   "addedAt": "2026-11-05T11:20:38Z"
   },
   {
    "id": "2026-11-02-wizards-beat-short-handed-magic-103-94-o",

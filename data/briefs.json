@@ -1,6 +1,45 @@
 {
  "items": [
   {
+   "d": "2026-11-04",
+   "createdAt": "2026-11-04T11:17:52Z",
+   "headline": "Black expected back at Phoenix; Suggs not re-evaluated until Monday",
+   "summary": "A quiet day off, with health the main news. The Orlando Sentinel reports Anthony Black is expected back Thursday at Phoenix after sitting out Monday, while Jalen Suggs will not be re-evaluated until Monday and was unsure whether he will travel this week. The Magic stay 11th in the East at 2-5. They practice at 10 AM today, then fly to Phoenix to open a four-game West trip.",
+   "bullets": [
+    {
+     "tag": "Health",
+     "text": "Black is expected back after sitting out the second night of the back-to-back to manage his right ankle sprain (Orlando Sentinel). CBS Sports lists him as a game-time decision. No official injury report for Thursday has been posted yet."
+    },
+    {
+     "tag": "Health",
+     "text": "Suggs (right knee bone bruise, suffered Oct. 25 at New York) will not be re-evaluated until Monday, Nov. 9. He had no timeline and was unsure whether he will travel this week. \"Obviously, there's a little frustration,\" he told the Sentinel. \"I'd love to be playing, but I (am not) complaining about (anything).\""
+    },
+    {
+     "tag": "Health",
+     "text": "Banchero is less than two weeks into a high ankle sprain that typically takes four to six weeks. Penda (hamstring), Isaac (left knee) and Nelson (left ankle) also remain out, with no new timelines."
+    },
+    {
+     "tag": "Game",
+     "text": "Threes are 46.9% of Orlando's shots, up from 38.6% last year, while paint scoring is down to 43.7 points per game (23rd), per Orlando Magic Daily. Sweeney: \"We want to attack the paint.\" Vucevic said the team should \"get more to the paint, play inside-out.\""
+    },
+    {
+     "tag": "Standings",
+     "text": "The East table is unchanged. Orlando is 11th at 2-5, 4.5 games behind Philadelphia (7-1), and tied with Miami for last in the Southeast."
+    },
+    {
+     "tag": "Next game",
+     "text": "Practice today at 10 AM, then the team flies to Phoenix (Magic PR). Thursday at Suns, 9:00 PM, TV27 and DAZN. No sportsbook line was posted as of this morning."
+    }
+   ],
+   "recap": null,
+   "preview": {
+    "title": "Thursday at Suns, 9:00 PM, TV27",
+    "text": "Phoenix is 1-4 after losing 116-113 at Golden State on Monday, when Devin Booker had 26 points and five assists before fouling out with 58 seconds left. The Suns host Portland tonight at 9:00 PM, so Thursday is the second night of a back-to-back for them. CBS Sports lists Rasheer Fleming (ankle) and Jordan Goodwin (calf) as game-time decisions, and Mark Williams (left shoulder surgery) is out until around February. For Orlando, Black is expected back, while Banchero, Suggs, Isaac, Penda and Nelson remain out. Also on DAZN.",
+    "line": "No sportsbook line posted yet as of Wednesday morning"
+   },
+   "watch": "Thursday at Phoenix, 9:00 PM, TV27. Watch the first official injury report for Black and whether Suggs travels."
+  },
+  {
    "d": "2026-11-03",
    "createdAt": "2026-11-03T11:21:12Z",
    "headline": "Magic lose to Wizards 103-94, fall to 0-4 at home and 11th in the East",
