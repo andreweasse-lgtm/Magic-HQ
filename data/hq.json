@@ -1,6 +1,6 @@
 {
  "meta": {
-  "away": "2-1",
+  "away": "2-2",
   "coach": "Sean Sweeney",
   "home": "0-4",
   "keyDates": [
@@ -30,15 +30,15 @@
     "label": "Regular season ends"
    }
   ],
-  "l10": "2-5",
+  "l10": "2-6",
   "lastGame": {
-   "d": "2026-11-02",
-   "opp": "WAS",
-   "ha": "H",
-   "us": 94,
-   "them": 103,
+   "d": "2026-11-05",
+   "opp": "PHX",
+   "ha": "A",
+   "us": 104,
+   "them": 117,
    "wl": "L",
-   "label": "vs Wizards"
+   "label": "at Suns"
   },
   "lastSeason": {
    "l": 37,
@@ -46,61 +46,65 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 2-5, 12th in the East. Next: at Phoenix tonight, 9:00 PM.",
+  "phaseDetail": "Magic 2-6, 12th in the East. Next: at Golden State Saturday, 8:30 PM.",
   "record": {
    "w": 2,
-   "l": 5
+   "l": 6
   },
   "season": "2026-27",
   "standing": {
    "conf": 12,
    "div": 5
   },
-  "streak": "L2",
-  "updatedAt": "2026-11-06T02:31:58Z"
+  "streak": "L3",
+  "updatedAt": "2026-11-06T11:21:24Z"
  },
  "brief": {
-  "d": "2026-11-05",
-  "createdAt": "2026-11-05T11:20:38Z",
-  "headline": "Black cleared for tonight at Phoenix as Magic open four-game West trip",
-  "summary": "Anthony Black is off the injury report and is expected back tonight as Orlando opens a four-game West trip at Phoenix, 9:00 PM on TV27 and DAZN. Banchero, Suggs, Isaac, Penda and Nelson are all listed out. The Magic (2-5) slipped to 12th in the East after Wednesday's results. Phoenix (1-5) has lost four straight and played last night, a 132-119 home loss to Portland.",
+  "d": "2026-11-06",
+  "createdAt": "2026-11-06T11:21:24Z",
+  "headline": "Magic commit 25 turnovers in 117-104 loss at Phoenix, fall to 2-6",
+  "summary": "Orlando lost its third straight and the opener of its West trip, 117-104 at Phoenix, with a season-high 25 turnovers that became 36 Suns points. Wendell Carter Jr. had 27 points and 13 rebounds and Franz Wagner had a career-high 15 assists, but the Suns led by as many as 30. The Magic are 12th in the East, 5.5 games behind Philadelphia. Golden State (6-3, six straight wins) is next on Saturday at 8:30 PM.",
   "bullets": [
    {
-    "tag": "Health",
-    "text": "Black (right ankle) is off the injury report for tonight, per Jason Beede of the Orlando Sentinel, and is not listed on the NBA's 6:00 AM report. He sat out Monday to manage the ankle."
+    "tag": "Game",
+    "text": "The 25 turnovers were a season high and the third time in eight games Orlando has reached 20 (Orlando Sentinel). Sweeney said they came several ways, including four illegal screens, and that on some decisions \"we were a little bit careless with the basketball\" (orlandomagic.com)."
+   },
+   {
+    "tag": "Game",
+    "text": "Orlando missed 11 of 24 free throws, nine of them in the first half, and shot 13 of 38 from three while Phoenix went 17 of 34. A plus-15 rebounding edge and 15 offensive rebounds did not make up for it (Magic On SI)."
+   },
+   {
+    "tag": "Lineup",
+    "text": "Anthony Black returned from his ankle issue and started with Bane, Richardson, Wagner and Carter Jr. He had 10 points, 7 rebounds, 6 assists and 5 turnovers in 31 minutes. Vucevic played 4 minutes and Jevon Carter 3 (ESPN box score)."
    },
    {
     "tag": "Health",
-    "text": "The NBA report lists five Magic players out: Banchero (right high ankle sprain), Suggs (right knee bone bruise), Isaac (left knee injury management), Penda (partially torn right hamstring) and Nelson (left ankle recovery). Nelson did not travel, per the Sentinel. Suggs is still due to be re-evaluated Monday."
-   },
-   {
-    "tag": "G League",
-    "text": "Isaac was assigned to Osceola on Sunday and recalled the same day, presumably to practice with the affiliate, per RotoWire. He has no defined timeline for his season debut."
-   },
-   {
-    "tag": "Coaching",
-    "text": "Sweeney on the trip: \"Anytime you go on the road, the idea is that you work together, bind together and ultimately become closer and better because of it.\" Carter: \"It's early. There's no reason to overreact on anything.\" Orlando ranks 23rd in offensive rating and 25th in defensive rating (Sentinel, per NBA.com)."
+    "text": "No new injuries were reported. Banchero missed his sixth straight game and Suggs his fifth; Isaac, Penda and Nelson also remained out. Suggs is still due to be re-evaluated Monday. Saturday's official injury report is not out yet."
    },
    {
     "tag": "Standings",
-    "text": "Orlando is 12th at 2-5, 5 games behind Philadelphia (8-1), which won 112-106 at Detroit. Miami and Indiana both won Wednesday and moved ahead of the Magic, who are last in the Southeast."
+    "text": "Orlando is 12th at 2-6 (0-4 home, 2-2 road) and last in the Southeast, 5.5 games behind Philadelphia (8-1)."
    },
    {
     "tag": "Odds",
-    "text": "FanDuel Research at 1:06 AM: Suns -2.5, total 224.5, Suns -132, Magic +112. Other early listings had Phoenix between -1.5 and -2.5 and the total at 223.5 to 224.5. Phoenix has not covered in any of its six games (Cappers Picks)."
+    "text": "FanDuel had no spread or total up for Saturday as of this morning. Pickswise lists early moneylines of Warriors -230, Magic +180 (Fliff) and Warriors -223, Magic +193 (Polymarket)."
    },
    {
     "tag": "Next game",
-    "text": "Tonight at Suns, 9:00 PM, TV27 and DAZN, then Golden State Saturday, Sacramento Tuesday and Utah Wednesday."
+    "text": "Practice today in Phoenix at 1:00 PM, then the team flies to San Francisco (Magic PR, times subject to change). Saturday at Warriors, 8:30 PM, TV27 and DAZN, then Sacramento Tuesday and Utah Wednesday."
    }
   ],
-  "recap": null,
-  "preview": {
-   "title": "Thursday at Suns, 9:00 PM, TV27",
-   "text": "Phoenix is 1-5 on a four-game skid and is on the second night of a back-to-back after losing 132-119 at home to Portland. Devin Booker had 33 points, 13 of 13 at the line, took a shot to the head from Robert Williams in the third quarter and returned in the fourth, then fouled out with 2:51 left, his second straight foul-out. AP lists Mark Williams out (shoulder) and Rasheer Fleming (ankle) and Jordan Goodwin (calf) day to day; Phoenix had not filed its official report as of 6:00 AM. Roundtable Sports projects Black, Bane, Richardson, Wagner and Carter Jr. as Orlando's starters and had the Magic first in the league in road 3-point shooting at 41.4%. Also on DAZN.",
-   "line": "PHX -2.5, total 224.5, PHX -132 / ORL +112 (FanDuel Research, 1:06 AM ET)"
+  "recap": {
+   "title": "Suns 117, Magic 104",
+   "text": "Phoenix scored 33 in the first quarter and led 63-51 at the half, with Orlando committing 12 turnovers and missing 9 of 20 free throws before the break. Back-to-back threes from Booker and Brooks made it 78-60 in the third, when the Magic turned it over 10 more times, and it was 96-73 after three. Gillespie's three with 9:20 left pushed the lead to 30 before Orlando cut the final margin to 13. Playing the second night of a back-to-back, the Suns snapped a four-game skid.",
+   "leaders": "Carter Jr. 27 pts, 13 reb (10 of 12 FG); da Silva 18 pts; Wagner 15 pts, 15 ast, 8 reb; Bane 15 pts; Booker 30 pts, 8 ast for PHX"
   },
-  "watch": "Tonight at Phoenix, 9:00 PM, TV27. Watch Black's return and the turnovers (17.3 per game, tied for fifth-most). Suggs is due to be re-evaluated Monday."
+  "preview": {
+   "title": "Saturday at Warriors, 8:30 PM, TV27",
+   "text": "Golden State is 6-3, 4-1 at home, and has won six straight, including 120-100 over Miami on Thursday, when Stephen Curry scored 29 and Yaxel Lendeborg had 17 points, 8 rebounds and 6 assists. The team's own preview had the Warriors first in the league in offensive rating (121.5) and made threes (18.0 per game) over the first five wins of the streak. Jimmy Butler III (right ACL) and Moses Moody (left patellar tendon) are out, and Kristaps Porzingis is away from the team and considering retirement (ESPN). ESPN lists Gui Santos (left knee) as a game-time decision. Also on DAZN.",
+   "line": "No spread or total posted yet. Moneyline GSW -230 / ORL +180 (Fliff, via Pickswise)"
+  },
+  "watch": "Saturday at Golden State, 8:30 PM, TV27. Watch the turnovers and Curry. Suggs is due to be re-evaluated Monday."
  },
  "schedule": {
   "cup": {
@@ -318,7 +322,13 @@
     "id": "r20261105",
     "note": "Opens four-game West trip",
     "opp": "PHX",
-    "res": null,
+    "res": {
+     "us": 104,
+     "them": 117,
+     "wl": "L",
+     "ot": "",
+     "note": "Carter Jr. 27 pts, 13 reb; Wagner 15 pts, 15 ast; Booker 30 for PHX"
+    },
     "t": "9:00 PM",
     "tag": "",
     "tv": "TV27, DAZN",
@@ -333,7 +343,7 @@
     "res": null,
     "t": "8:30 PM",
     "tag": "",
-    "tv": "TV27",
+    "tv": "TV27, DAZN",
     "type": "reg"
    },
    {
@@ -1217,7 +1227,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-05T11:20:38Z"
+  "updatedAt": "2026-11-06T11:21:24Z"
  },
  "standings": {
   "division": {
@@ -1312,7 +1322,7 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-05",
+   "asOf": "2026-11-06",
    "rows": [
     {
      "abbr": "PHI",
@@ -1395,16 +1405,6 @@
      "strk": "L1"
     },
     {
-     "abbr": "MIA",
-     "w": 3,
-     "l": 5,
-     "gb": 4.5,
-     "home": "1-3",
-     "away": "2-2",
-     "l10": "3-5",
-     "strk": "W1"
-    },
-    {
      "abbr": "CHA",
      "w": 3,
      "l": 6,
@@ -1413,6 +1413,16 @@
      "away": "1-3",
      "l10": "3-6",
      "strk": "L5"
+    },
+    {
+     "abbr": "MIA",
+     "w": 3,
+     "l": 6,
+     "gb": 5,
+     "home": "1-3",
+     "away": "2-3",
+     "l10": "3-6",
+     "strk": "L1"
     },
     {
      "abbr": "IND",
@@ -1427,12 +1437,12 @@
     {
      "abbr": "ORL",
      "w": 2,
-     "l": 5,
-     "gb": 5,
+     "l": 6,
+     "gb": 5.5,
      "home": "0-4",
-     "away": "2-1",
-     "l10": "2-5",
-     "strk": "L2"
+     "away": "2-2",
+     "l10": "2-6",
+     "strk": "L3"
     },
     {
      "abbr": "BKN",
@@ -1563,7 +1573,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-05T11:20:38Z"
+  "updatedAt": "2026-11-06T11:21:24Z"
  },
  "roster": {
   "players": [
@@ -1593,17 +1603,17 @@
     "num": "5",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Ruled out for Thursday at Phoenix (NBA injury report) after missing five straight games. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25. Out until at least Nov. 22 per CBS Sports."
+    "statusNote": "Missed Thursday at Phoenix, his sixth straight game. Official status for Saturday at Golden State not filed yet; ESPN lists an estimated return of Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
    },
    {
     "age": 25,
     "contract": "$41.8M. Signed through 2029-30",
     "cur": {
-     "gp": 7,
-     "pts": 20.3,
-     "reb": 6.1,
-     "ast": 7.6,
-     "fg": 0.419
+     "gp": 8,
+     "pts": 19.6,
+     "reb": 6.4,
+     "ast": 8.5,
+     "fg": 0.431
     },
     "exp": "5",
     "ht": "6-10",
@@ -1617,7 +1627,7 @@
      "reb": 5.2
     },
     "name": "Franz Wagner",
-    "note": "Missed 48 games last season with a high ankle sprain, then strained his right calf in the playoffs. Left the preseason finale with right shoulder soreness but practiced fully Oct 20 and is off the injury report.",
+    "note": "Missed 48 games last season with a high ankle sprain, then strained his right calf in the playoffs. Left the preseason finale with right shoulder soreness but practiced fully Oct 20 and is off the injury report. Career-high 15 assists Nov 5 at Phoenix, with 6 turnovers.",
     "num": "22",
     "pos": "F",
     "status": "Healthy",
@@ -1627,11 +1637,11 @@
     "age": 28,
     "contract": "$39.4M. Signed through 2028-29",
     "cur": {
-     "gp": 7,
-     "pts": 17.9,
-     "reb": 3.6,
-     "ast": 2.6,
-     "fg": 0.386
+     "gp": 8,
+     "pts": 17.5,
+     "reb": 3.9,
+     "ast": 2.3,
+     "fg": 0.389
     },
     "exp": "6",
     "ht": "6-6",
@@ -1677,17 +1687,17 @@
     "num": "4",
     "pos": "G",
     "status": "Out",
-    "statusNote": "Ruled out for Thursday at Phoenix (NBA injury report) after missing four straight games. Bone bruise suffered Oct 25 at New York. Orlando Sentinel (Nov 3): will not be re-evaluated until Monday, Nov 9, and has no timeline. CBS Sports lists him out until at least Nov. 10."
+    "statusNote": "Missed Thursday at Phoenix, his fifth straight game. Bone bruise suffered Oct 25 at New York. Orlando Sentinel (Nov 3): will not be re-evaluated until Monday, Nov 9, and has no timeline; he was unsure whether he would travel on the West trip. ESPN lists an estimated return of Nov. 10."
    },
    {
     "age": 22,
     "contract": "$10.1M. Final rookie-scale year. No extension; restricted free agent in 2027",
     "cur": {
-     "gp": 4,
-     "pts": 16.5,
-     "reb": 4.8,
-     "ast": 4.8,
-     "fg": 0.525
+     "gp": 5,
+     "pts": 15.2,
+     "reb": 5.2,
+     "ast": 5.0,
+     "fg": 0.5
     },
     "exp": "3",
     "ht": "6-7",
@@ -1701,7 +1711,7 @@
      "reb": 3.8
     },
     "name": "Anthony Black",
-    "note": "No rookie-scale extension by the Oct 19 deadline; restricted free agent in 2027. Sat out Nov 2 vs Washington to manage a right ankle sprain; off the injury report for Nov 5 at Phoenix.",
+    "note": "No rookie-scale extension by the Oct 19 deadline; restricted free agent in 2027. Sat out Nov 2 vs Washington to manage a right ankle sprain and returned to start Nov 5 at Phoenix.",
     "num": "0",
     "pos": "G",
     "status": "Healthy",
@@ -1711,11 +1721,11 @@
     "age": 27,
     "contract": "$18.1M. Through 2028-29 (team option in 2028-29)",
     "cur": {
-     "gp": 7,
-     "pts": 12.4,
-     "reb": 8.9,
-     "ast": 1.0,
-     "fg": 0.612
+     "gp": 8,
+     "pts": 14.3,
+     "reb": 9.4,
+     "ast": 1.1,
+     "fg": 0.656
     },
     "exp": "8",
     "ht": "6-10",
@@ -1729,7 +1739,7 @@
      "reb": 7.4
     },
     "name": "Wendell Carter Jr.",
-    "note": "Competing with Vucevic for the starting center spot.",
+    "note": "Competing with Vucevic for the starting center spot. Had 27 points and 13 rebounds on 10-of-12 shooting Nov 5 at Phoenix.",
     "num": "34",
     "pos": "C-F",
     "status": "Healthy",
@@ -1739,11 +1749,11 @@
     "age": 35,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 7,
-     "pts": 3.1,
-     "reb": 3.0,
-     "ast": 1.3,
-     "fg": 0.429
+     "gp": 8,
+     "pts": 2.8,
+     "reb": 2.6,
+     "ast": 1.1,
+     "fg": 0.409
     },
     "exp": "15",
     "ht": "6-9",
@@ -1767,11 +1777,11 @@
     "age": 25,
     "contract": "$4.0M. 2027-28 team option ($6.1M) exercised Oct 21; signed through 2027-28",
     "cur": {
-     "gp": 7,
-     "pts": 14.1,
-     "reb": 3.4,
-     "ast": 1.7,
-     "fg": 0.5
+     "gp": 8,
+     "pts": 14.6,
+     "reb": 3.3,
+     "ast": 1.6,
+     "fg": 0.484
     },
     "exp": "2",
     "ht": "6-8",
@@ -1795,11 +1805,11 @@
     "age": 27,
     "contract": "$7.6M. Final year, UFA 2027",
     "cur": {
-     "gp": 5,
-     "pts": 3.6,
-     "reb": 2.8,
-     "ast": 0.4,
-     "fg": 0.4
+     "gp": 6,
+     "pts": 3.7,
+     "reb": 3.2,
+     "ast": 0.3,
+     "fg": 0.5
     },
     "exp": "7",
     "ht": "6-11",
@@ -1839,16 +1849,16 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Ruled out for Thursday at Phoenix (NBA injury report). Assigned to Osceola and recalled Nov 1, presumably for practice; no defined timeline for his debut (RotoWire). Told the Orlando Sentinel (Oct 28) he is up to 3-on-3, with 4-on-4 and 5-on-5 next, and expects to play this season. Has not played since March 12."
+    "statusNote": "Missed Thursday at Phoenix. Assigned to Osceola and recalled Nov 1, presumably for practice; no defined timeline for his debut (RotoWire). Told the Orlando Sentinel (Oct 28) he is up to 3-on-3, with 4-on-4 and 5-on-5 next, and expects to play this season. Has not played since March 12."
    },
    {
     "age": 31,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 3,
-     "pts": 3.7,
-     "reb": 0.7,
-     "ast": 2.7,
+     "gp": 4,
+     "pts": 2.8,
+     "reb": 0.5,
+     "ast": 2.0,
      "fg": 0.267
     },
     "exp": "8",
@@ -1873,11 +1883,11 @@
     "age": 27,
     "contract": "$2.6M. Not fully guaranteed until Jan 10",
     "cur": {
-     "gp": 7,
-     "pts": 6.0,
-     "reb": 1.6,
+     "gp": 8,
+     "pts": 5.9,
+     "reb": 2.0,
      "ast": 0.3,
-     "fg": 0.467
+     "fg": 0.41
     },
     "exp": "4",
     "ht": "6-7",
@@ -1901,11 +1911,11 @@
     "age": 20,
     "contract": "$3.1M rookie scale. 2027-28 team option ($3.3M) exercised Oct 21",
     "cur": {
-     "gp": 7,
-     "pts": 5.9,
+     "gp": 8,
+     "pts": 6.4,
      "reb": 1.9,
-     "ast": 2.4,
-     "fg": 0.364
+     "ast": 2.5,
+     "fg": 0.377
     },
     "exp": "1",
     "ht": "6-1",
@@ -1945,16 +1955,16 @@
     "num": "93",
     "pos": "G-F",
     "status": "Out",
-    "statusNote": "Ruled out for Thursday at Phoenix (NBA injury report). Seen doing shooting drills after shootaround Oct 28 (Orlando Sentinel). Expected to miss significant time. CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Missed Thursday at Phoenix. Seen doing shooting drills after shootaround Oct 28 (Orlando Sentinel). Expected to miss significant time. CBS Sports lists him out until at least Nov. 18."
    },
    {
     "age": 26,
     "contract": "Two-way (final year of eligibility)",
     "cur": {
-     "gp": 2,
-     "pts": 4.5,
-     "reb": 2.0,
-     "ast": 0.5,
+     "gp": 3,
+     "pts": 3.0,
+     "reb": 1.3,
+     "ast": 0.7,
      "fg": 0.667
     },
     "exp": "3",
@@ -1979,10 +1989,10 @@
     "age": 28,
     "contract": "Two-way, year 2",
     "cur": {
-     "gp": 4,
-     "pts": 1.3,
-     "reb": 1.5,
-     "ast": 0.3,
+     "gp": 5,
+     "pts": 1.0,
+     "reb": 1.2,
+     "ast": 0.2,
      "fg": 0.4
     },
     "exp": "1",
@@ -2023,11 +2033,11 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Ruled out for Thursday at Phoenix and did not travel on the West trip (Orlando Sentinel, Nov 4). Rehabbing a left ankle fracture from Summer League. Has not played this preseason or season. CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Missed Thursday at Phoenix and did not travel on the West trip (Orlando Sentinel, Nov 4). Rehabbing a left ankle fracture from Summer League. Has not played this preseason or season. CBS Sports lists him out until at least Nov. 18."
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-05T11:20:38Z"
+  "updatedAt": "2026-11-06T11:21:24Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",

@@ -1,6 +1,83 @@
 {
  "items": [
   {
+   "id": "2026-11-06-warriors-win-sixth-straight-ahead-of-sat",
+   "d": "2026-11-06",
+   "cat": "Game",
+   "headline": "Warriors win sixth straight ahead of Saturday's game with Magic",
+   "summary": "Golden State beat Miami 120-100 on Thursday behind 29 points from Stephen Curry and 17 points, eight rebounds and six assists from Yaxel Lendeborg. The Warriors are 6-3 and host Orlando at 8:30 PM Saturday.",
+   "source": "ESPN",
+   "url": "https://www.espn.com/nba/game/_/gameId/401909942/magic-warriors",
+   "flag": null,
+   "addedAt": "2026-11-06T11:21:24Z"
+  },
+  {
+   "id": "2026-11-06-sweeney-turnovers-came-in-a-lot-of-diffe",
+   "d": "2026-11-06",
+   "cat": "Coaching",
+   "headline": "Sweeney: turnovers \"came in a lot of different ways\"",
+   "summary": "Sweeney pointed to four illegal screens and some careless decisions after Orlando's 25 turnovers at Phoenix. The official team recap says a 22-5 Suns run in the third quarter did the Magic in, and also cited 54 percent free throw shooting.",
+   "source": "Orlando Magic (Josh Cohen)",
+   "url": "https://www.nba.com/magic/news/turnovers-again-a-main-cause-of-defeat-for-the-orlando-magic-20261105",
+   "flag": null,
+   "addedAt": "2026-11-06T11:21:24Z"
+  },
+  {
+   "id": "2026-11-06-magic-squander-chances-and-unravel-in-ph",
+   "d": "2026-11-06",
+   "cat": "Game",
+   "headline": "Magic squander chances and unravel in Phoenix",
+   "summary": "Orlando Magic Daily counts nine first-quarter turnovers and 10 more in the third, plus 13-of-24 free throw shooting. Bane drew a technical foul and Wagner a flagrant foul as the game got away.",
+   "source": "Orlando Magic Daily",
+   "url": "https://orlandomagicdaily.com/orlando-magic-squander-chances-unravel-frustrating-loss-phoenix-suns-01m6q9rvftmy",
+   "flag": null,
+   "addedAt": "2026-11-06T11:21:24Z"
+  },
+  {
+   "id": "2026-11-05-booker-scores-30-as-suns-beat-magic-117-",
+   "d": "2026-11-05",
+   "cat": "Game",
+   "headline": "Booker scores 30 as Suns beat Magic 117-104",
+   "summary": "Devin Booker had 30 and Dillon Brooks 24 as Phoenix snapped a four-game skid and led by as many as 30. Carter Jr. had 27 points and 13 rebounds, da Silva 18 off the bench and Wagner 15 points and 15 assists. Orlando has lost three straight.",
+   "source": "ESPN (AP)",
+   "url": "https://www.espn.com/nba/recap/_/gameId/401909936",
+   "flag": null,
+   "addedAt": "2026-11-06T11:21:24Z"
+  },
+  {
+   "id": "2026-11-05-season-high-25-turnovers-cost-magic-36-p",
+   "d": "2026-11-05",
+   "cat": "Game",
+   "headline": "Season-high 25 turnovers cost Magic 36 points at Phoenix",
+   "summary": "Jason Beede notes every Orlando starter had multiple turnovers through three quarters and the Magic missed nine of their 20 first-half free throws. It was the third time in eight games Orlando has reached 20 turnovers.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/beede-breakdown-magic-drop-third-043300663.html",
+   "flag": null,
+   "addedAt": "2026-11-06T11:21:24Z"
+  },
+  {
+   "id": "2026-11-05-plus-15-rebounding-edge-wasted-as-suns-g",
+   "d": "2026-11-05",
+   "cat": "Game",
+   "headline": "Plus-15 rebounding edge wasted as Suns gash Magic",
+   "summary": "Magic On SI notes Orlando had 15 offensive rebounds and won the second-chance battle by nine, but had already turned it over 18 times with 6:36 left in the third quarter.",
+   "source": "Magic On SI",
+   "url": "https://www.si.com/nba/magic/onsi/how-orlando-magic-got-gashed-struggling-suns-booker-01m6qa09dh0x",
+   "flag": null,
+   "addedAt": "2026-11-06T11:21:24Z"
+  },
+  {
+   "id": "2026-11-05-wagner-sets-career-high-with-15-assists-",
+   "d": "2026-11-05",
+   "cat": "Player",
+   "headline": "Wagner sets career high with 15 assists; Carter Jr. scores 27",
+   "summary": "Wagner added 15 points, eight rebounds and four steals but had six turnovers. Carter Jr. went 10 of 12 from the field with 13 rebounds. Black had 10 points, seven rebounds and six assists in his return.",
+   "source": "ESPN box score",
+   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909936",
+   "flag": null,
+   "addedAt": "2026-11-06T11:21:24Z"
+  },
+  {
    "id": "2026-11-05-black-off-injury-report-five-magic-playe",
    "d": "2026-11-05",
    "cat": "Injury",

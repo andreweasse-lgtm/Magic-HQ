@@ -1,6 +1,49 @@
 {
  "items": [
   {
+   "d": "2026-11-05",
+   "createdAt": "2026-11-05T11:20:38Z",
+   "headline": "Black cleared for tonight at Phoenix as Magic open four-game West trip",
+   "summary": "Anthony Black is off the injury report and is expected back tonight as Orlando opens a four-game West trip at Phoenix, 9:00 PM on TV27 and DAZN. Banchero, Suggs, Isaac, Penda and Nelson are all listed out. The Magic (2-5) slipped to 12th in the East after Wednesday's results. Phoenix (1-5) has lost four straight and played last night, a 132-119 home loss to Portland.",
+   "bullets": [
+    {
+     "tag": "Health",
+     "text": "Black (right ankle) is off the injury report for tonight, per Jason Beede of the Orlando Sentinel, and is not listed on the NBA's 6:00 AM report. He sat out Monday to manage the ankle."
+    },
+    {
+     "tag": "Health",
+     "text": "The NBA report lists five Magic players out: Banchero (right high ankle sprain), Suggs (right knee bone bruise), Isaac (left knee injury management), Penda (partially torn right hamstring) and Nelson (left ankle recovery). Nelson did not travel, per the Sentinel. Suggs is still due to be re-evaluated Monday."
+    },
+    {
+     "tag": "G League",
+     "text": "Isaac was assigned to Osceola on Sunday and recalled the same day, presumably to practice with the affiliate, per RotoWire. He has no defined timeline for his season debut."
+    },
+    {
+     "tag": "Coaching",
+     "text": "Sweeney on the trip: \"Anytime you go on the road, the idea is that you work together, bind together and ultimately become closer and better because of it.\" Carter: \"It's early. There's no reason to overreact on anything.\" Orlando ranks 23rd in offensive rating and 25th in defensive rating (Sentinel, per NBA.com)."
+    },
+    {
+     "tag": "Standings",
+     "text": "Orlando is 12th at 2-5, 5 games behind Philadelphia (8-1), which won 112-106 at Detroit. Miami and Indiana both won Wednesday and moved ahead of the Magic, who are last in the Southeast."
+    },
+    {
+     "tag": "Odds",
+     "text": "FanDuel Research at 1:06 AM: Suns -2.5, total 224.5, Suns -132, Magic +112. Other early listings had Phoenix between -1.5 and -2.5 and the total at 223.5 to 224.5. Phoenix has not covered in any of its six games (Cappers Picks)."
+    },
+    {
+     "tag": "Next game",
+     "text": "Tonight at Suns, 9:00 PM, TV27 and DAZN, then Golden State Saturday, Sacramento Tuesday and Utah Wednesday."
+    }
+   ],
+   "recap": null,
+   "preview": {
+    "title": "Thursday at Suns, 9:00 PM, TV27",
+    "text": "Phoenix is 1-5 on a four-game skid and is on the second night of a back-to-back after losing 132-119 at home to Portland. Devin Booker had 33 points, 13 of 13 at the line, took a shot to the head from Robert Williams in the third quarter and returned in the fourth, then fouled out with 2:51 left, his second straight foul-out. AP lists Mark Williams out (shoulder) and Rasheer Fleming (ankle) and Jordan Goodwin (calf) day to day; Phoenix had not filed its official report as of 6:00 AM. Roundtable Sports projects Black, Bane, Richardson, Wagner and Carter Jr. as Orlando's starters and had the Magic first in the league in road 3-point shooting at 41.4%. Also on DAZN.",
+    "line": "PHX -2.5, total 224.5, PHX -132 / ORL +112 (FanDuel Research, 1:06 AM ET)"
+   },
+   "watch": "Tonight at Phoenix, 9:00 PM, TV27. Watch Black's return and the turnovers (17.3 per game, tied for fifth-most). Suggs is due to be re-evaluated Monday."
+  },
+  {
    "d": "2026-11-04",
    "createdAt": "2026-11-04T11:17:52Z",
    "headline": "Black expected back at Phoenix; Suggs not re-evaluated until Monday",
