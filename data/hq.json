@@ -57,42 +57,46 @@
    "div": 5
   },
   "streak": "L3",
-  "updatedAt": "2026-11-07T10:43:46Z"
+  "updatedAt": "2026-11-07T11:13:43Z"
  },
  "brief": {
   "d": "2026-11-07",
-  "createdAt": "2026-11-07T10:43:46Z",
+  "createdAt": "2026-11-07T11:13:43Z",
   "headline": "Magic seek first win of West trip at Golden State tonight",
-  "summary": "Orlando (2-6, three straight losses) plays at the 6-3 Warriors tonight at 8:30 PM ET. Paolo Banchero (right high ankle sprain) and Jalen Suggs (knee) remain out, with Jonathan Isaac also out. Golden State is a 6.5-point favorite per Predictem. Nothing else new has been reported since yesterday.",
+  "summary": "Orlando (2-6, three straight losses) plays at the 6-3 Warriors tonight at 8:30 PM ET on TV27 and DAZN. The official injury report lists Paolo Banchero, Jalen Suggs, Jonathan Isaac, Noah Penda and Izaiyah Nelson out. Golden State is a 6.5-point favorite at DraftKings, and Draymond Green is questionable with a sore right elbow.",
   "bullets": [
    {
     "tag": "Next game",
-    "text": "Tonight at Golden State, 8:30 PM ET, TV27 and DAZN. The Warriors are 6-3 on a six-game win streak and 4-1 at home. Sacramento is Tuesday and Utah Wednesday."
+    "text": "Tonight at Golden State, 8:30 PM ET, TV27 and DAZN. The Warriors are 6-3 with six straight wins and are 4-1 at home. Sacramento is Tuesday and Utah Wednesday."
    },
    {
     "tag": "Health",
-    "text": "Predictem lists Banchero (ankle), Suggs (knee) and Isaac as out. The official game-day report had not been posted when checked. Suggs is still due for re-evaluation Monday."
+    "text": "Official NBA injury report: Banchero (right high ankle sprain), Suggs (right knee bone bruise), Isaac (left knee injury management), Penda (partially torn right hamstring) and Nelson (left ankle recovery) are out. Suggs is due for re-evaluation Monday."
    },
    {
     "tag": "Odds",
-    "text": "Predictem shows Warriors -6.5, total 221.5, Warriors moneyline about -258. The article did not name the sportsbook."
+    "text": "DraftKings: Warriors -6.5, total 221.5, moneyline Magic +212, Warriors -258."
    },
    {
     "tag": "Game",
-    "text": "Turnovers are the key matchup: Orlando had a season-high 25 at Phoenix and Golden State forces many. Orlando ranks 25th in defensive rating (116.3) per Sportsmole."
+    "text": "Turnovers are the key matchup. Orlando had a season-high 25 at Phoenix and came in third-worst in the league at 18.3 per game; Golden State forces 18.0 per game, fifth-most (Orlando Sentinel)."
    },
    {
     "tag": "Health",
-    "text": "For Golden State, Butler (ACL), Moody and Porzingis (illness) are out; Draymond Green (right elbow), Gary Payton II and Gui Santos are questionable per Predictem."
+    "text": "For Golden State, Draymond Green (right elbow), Gary Payton II (right calf) and Gui Santos (left knee tendinitis) are questionable. Jimmy Butler III, Moses Moody and Kristaps Porzingis (not with team) are out."
+   },
+   {
+    "tag": "Standings",
+    "text": "Orlando is 12th in the East, 5 games behind Philadelphia (8-2), which lost 119-95 at Cleveland on Friday. Charlotte (3-7) lost again and sits one spot ahead."
    }
   ],
   "recap": null,
   "preview": {
    "title": "Tonight at Warriors, 8:30 PM, TV27",
-   "text": "Golden State is 6-3, 4-1 at home, and has won six straight, including 120-100 over Miami on Thursday, when Stephen Curry scored 29 and Yaxel Lendeborg had 17 points, 8 rebounds and 6 assists. The team's own preview had the Warriors first in the league in offensive rating (121.5) and made threes (18.0 per game) over the first five wins of the streak. Jimmy Butler III (right ACL) and Moses Moody (left patellar tendon) are out, and Kristaps Porzingis is away from the team and considering retirement (ESPN). ESPN lists Gui Santos (left knee) as a game-time decision. Also on DAZN.",
-   "line": "GSW -6.5, total 221.5, GSW ML about -258 (Predictem, book not named)"
+   "text": "Golden State is 6-3, 4-1 at home, and has won six straight, including 120-100 over Miami on Thursday, when Stephen Curry scored 29 and Yaxel Lendeborg had 17 points, 8 rebounds and 6 assists. The Warriors lead the league in made threes. Jimmy Butler III (right ACL) and Moses Moody (left patellar tendon) are out, and Kristaps Porzingis is out and not with the team. Draymond Green, Gary Payton II and Gui Santos are questionable. Roundtable projects Orlando to start Anthony Black, Desmond Bane, Jase Richardson, Franz Wagner and Wendell Carter Jr. Also on DAZN.",
+   "line": "GSW -6.5, total 221.5, ORL +212 / GSW -258 (DraftKings)"
   },
-  "watch": "Tonight at Golden State, 8:30 PM. Watch turnovers and Curry. Suggs is due to be re-evaluated Monday."
+  "watch": "Tonight at Golden State, 8:30 PM. Watch turnovers, Curry, and whether Draymond Green plays. Suggs is due to be re-evaluated Monday."
  },
  "schedule": {
   "cup": {
@@ -1310,73 +1314,73 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-06",
+   "asOf": "2026-11-07",
    "rows": [
     {
      "abbr": "PHI",
      "w": 8,
-     "l": 1,
+     "l": 2,
      "gb": 0,
      "home": "4-1",
-     "away": "4-0",
-     "l10": "8-1",
-     "strk": "W5"
+     "away": "4-1",
+     "l10": "8-2",
+     "strk": "L1"
+    },
+    {
+     "abbr": "BOS",
+     "w": 7,
+     "l": 2,
+     "gb": 0.5,
+     "home": "5-0",
+     "away": "2-2",
+     "l10": "7-2",
+     "strk": "W2"
     },
     {
      "abbr": "DET",
      "w": 6,
      "l": 2,
-     "gb": 1.5,
+     "gb": 1,
      "home": "2-1",
      "away": "4-1",
      "l10": "6-2",
      "strk": "L1"
     },
     {
-     "abbr": "BOS",
-     "w": 6,
-     "l": 2,
-     "gb": 1.5,
-     "home": "5-0",
-     "away": "1-2",
-     "l10": "6-2",
-     "strk": "W1"
-    },
-    {
      "abbr": "ATL",
-     "w": 5,
+     "w": 6,
      "l": 4,
-     "gb": 3,
-     "home": "1-2",
+     "gb": 2,
+     "home": "2-2",
      "away": "4-2",
-     "l10": "5-4",
-     "strk": "W2"
+     "l10": "6-4",
+     "strk": "W3"
     },
     {
      "abbr": "TOR",
-     "w": 4,
+     "w": 5,
      "l": 4,
-     "gb": 3.5,
+     "gb": 2.5,
      "home": "2-1",
-     "away": "2-3",
-     "l10": "4-4",
-     "strk": "L1"
+     "away": "3-3",
+     "l10": "5-4",
+     "strk": "W1"
     },
     {
      "abbr": "CLE",
-     "w": 4,
+     "w": 5,
      "l": 4,
-     "gb": 3.5,
-     "home": "3-1",
+     "gb": 2.5,
+     "home": "4-1",
      "away": "1-3",
-     "l10": "4-4",
-     "strk": "L2"
+     "l10": "5-4",
+     "strk": "W1"
     },
     {
      "abbr": "NYK",
      "w": 4,
      "l": 4,
-     "gb": 3.5,
+     "gb": 3,
      "home": "3-2",
      "away": "1-2",
      "l10": "4-4",
@@ -1385,28 +1389,18 @@
     {
      "abbr": "WAS",
      "w": 4,
-     "l": 4,
+     "l": 5,
      "gb": 3.5,
      "home": "2-2",
-     "away": "2-2",
-     "l10": "4-4",
-     "strk": "L1"
-    },
-    {
-     "abbr": "CHA",
-     "w": 3,
-     "l": 6,
-     "gb": 5,
-     "home": "2-3",
-     "away": "1-3",
-     "l10": "3-6",
-     "strk": "L5"
+     "away": "2-3",
+     "l10": "4-5",
+     "strk": "L2"
     },
     {
      "abbr": "MIA",
      "w": 3,
      "l": 6,
-     "gb": 5,
+     "gb": 4.5,
      "home": "1-3",
      "away": "2-3",
      "l10": "3-6",
@@ -1416,17 +1410,27 @@
      "abbr": "IND",
      "w": 3,
      "l": 6,
-     "gb": 5,
+     "gb": 4.5,
      "home": "0-4",
      "away": "3-2",
      "l10": "3-6",
      "strk": "W1"
     },
     {
+     "abbr": "CHA",
+     "w": 3,
+     "l": 7,
+     "gb": 5,
+     "home": "2-4",
+     "away": "1-3",
+     "l10": "3-7",
+     "strk": "L6"
+    },
+    {
      "abbr": "ORL",
      "w": 2,
      "l": 6,
-     "gb": 5.5,
+     "gb": 5,
      "home": "0-4",
      "away": "2-2",
      "l10": "2-6",
@@ -1436,7 +1440,7 @@
      "abbr": "BKN",
      "w": 2,
      "l": 6,
-     "gb": 5.5,
+     "gb": 5,
      "home": "1-3",
      "away": "1-3",
      "l10": "2-6",
@@ -1446,7 +1450,7 @@
      "abbr": "CHI",
      "w": 1,
      "l": 7,
-     "gb": 6.5,
+     "gb": 6,
      "home": "0-2",
      "away": "1-5",
      "l10": "1-7",
@@ -1455,12 +1459,12 @@
     {
      "abbr": "MIL",
      "w": 1,
-     "l": 7,
+     "l": 8,
      "gb": 6.5,
-     "home": "1-3",
+     "home": "1-4",
      "away": "0-4",
-     "l10": "1-7",
-     "strk": "L4"
+     "l10": "1-8",
+     "strk": "L5"
     }
    ]
   },
@@ -1561,7 +1565,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-06T11:21:24Z"
+  "updatedAt": "2026-11-07T11:13:43Z"
  },
  "roster": {
   "players": [
@@ -1591,7 +1595,7 @@
     "num": "5",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Missed Thursday at Phoenix, his sixth straight game. Official status for Saturday at Golden State not filed yet; ESPN lists an estimated return of Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
+    "statusNote": "Listed out for Saturday at Golden State on the official NBA injury report; it would be his seventh straight missed game. ESPN lists an estimated return of Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
    },
    {
     "age": 25,
@@ -1675,7 +1679,7 @@
     "num": "4",
     "pos": "G",
     "status": "Out",
-    "statusNote": "Missed Thursday at Phoenix, his fifth straight game. Bone bruise suffered Oct 25 at New York. Orlando Sentinel (Nov 3): will not be re-evaluated until Monday, Nov 9, and has no timeline; he was unsure whether he would travel on the West trip. ESPN lists an estimated return of Nov. 10."
+    "statusNote": "Listed out for Saturday at Golden State on the official NBA injury report; it would be his sixth straight missed game. Bone bruise suffered Oct 25 at New York. Orlando Sentinel (Nov 3): will not be re-evaluated until Monday, Nov 9, and has no timeline. ESPN lists an estimated return of Nov. 10."
    },
    {
     "age": 22,
@@ -1837,7 +1841,7 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Missed Thursday at Phoenix. Assigned to Osceola and recalled Nov 1, presumably for practice; no defined timeline for his debut (RotoWire). Told the Orlando Sentinel (Oct 28) he is up to 3-on-3, with 4-on-4 and 5-on-5 next, and expects to play this season. Has not played since March 12."
+    "statusNote": "Listed out for Saturday at Golden State (official injury report, left knee injury management). Assigned to Osceola and recalled Nov 1, presumably for practice; no defined timeline for his debut (RotoWire). Told the Orlando Sentinel (Oct 28) he is up to 3-on-3, with 4-on-4 and 5-on-5 next, and expects to play this season. Has not played since March 12."
    },
    {
     "age": 31,
@@ -1943,7 +1947,7 @@
     "num": "93",
     "pos": "G-F",
     "status": "Out",
-    "statusNote": "Missed Thursday at Phoenix. Seen doing shooting drills after shootaround Oct 28 (Orlando Sentinel). Expected to miss significant time. CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Listed out for Saturday at Golden State (official injury report). Seen doing shooting drills after shootaround Oct 28 (Orlando Sentinel). Expected to miss significant time. CBS Sports lists him out until at least Nov. 18."
    },
    {
     "age": 26,
@@ -2021,11 +2025,11 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Missed Thursday at Phoenix and did not travel on the West trip (Orlando Sentinel, Nov 4). Rehabbing a left ankle fracture from Summer League. Has not played this preseason or season. CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Listed out for Saturday at Golden State (official injury report). Did not travel on the West trip (Orlando Sentinel, Nov 4). Rehabbing a left ankle fracture from Summer League. Has not played this preseason or season. CBS Sports lists him out until at least Nov. 18."
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-06T11:21:24Z"
+  "updatedAt": "2026-11-07T11:13:43Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",

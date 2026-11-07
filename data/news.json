@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "2026-11-07-five-magic-players-out-at-golden-state-d",
+   "d": "2026-11-07",
+   "cat": "Injury",
+   "headline": "Five Magic players out at Golden State; Draymond Green questionable",
+   "summary": "The official NBA injury report lists Paolo Banchero, Jalen Suggs, Jonathan Isaac, Noah Penda and Izaiyah Nelson out for Saturday. For Golden State, Draymond Green (right elbow), Gary Payton II (right calf) and Gui Santos (left knee) are questionable, and Kristaps Porzingis is out, not with the team.",
+   "source": "NBA official injury report",
+   "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_01_00AM.pdf",
+   "flag": null,
+   "addedAt": "2026-11-07T11:13:43Z"
+  },
+  {
+   "id": "2026-11-06-carter-jr-magic-were-not-connected-in-ph",
+   "d": "2026-11-06",
+   "cat": "Game",
+   "headline": "Carter Jr.: Magic were not connected in Phoenix loss",
+   "summary": "Wendell Carter Jr. said \"when you're not connected, it's very glaring\" after Orlando committed 25 turnovers at Phoenix. The Orlando Sentinel notes Golden State forces 18.0 turnovers per game, fifth-most in the NBA, while Orlando forces 14.4.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/magic-weren-t-same-page-190500855.html",
+   "flag": null,
+   "addedAt": "2026-11-07T11:13:43Z"
+  },
+  {
    "id": "2026-11-06-warriors-win-sixth-straight-ahead-of-sat",
    "d": "2026-11-06",
    "cat": "Game",
