@@ -46,7 +46,7 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 2-6, 12th in the East. Next: at Golden State Saturday, 8:30 PM.",
+  "phaseDetail": "Magic 2-6, 12th in the East. Next: tonight at Golden State, 8:30 PM.",
   "record": {
    "w": 2,
    "l": 6
@@ -57,54 +57,42 @@
    "div": 5
   },
   "streak": "L3",
-  "updatedAt": "2026-11-07T01:59:56Z"
+  "updatedAt": "2026-11-07T10:43:46Z"
  },
  "brief": {
-  "d": "2026-11-06",
-  "createdAt": "2026-11-06T11:21:24Z",
-  "headline": "Magic commit 25 turnovers in 117-104 loss at Phoenix, fall to 2-6",
-  "summary": "Orlando lost its third straight and the opener of its West trip, 117-104 at Phoenix, with a season-high 25 turnovers that became 36 Suns points. Wendell Carter Jr. had 27 points and 13 rebounds and Franz Wagner had a career-high 15 assists, but the Suns led by as many as 30. The Magic are 12th in the East, 5.5 games behind Philadelphia. Golden State (6-3, six straight wins) is next on Saturday at 8:30 PM.",
+  "d": "2026-11-07",
+  "createdAt": "2026-11-07T10:43:46Z",
+  "headline": "Magic seek first win of West trip at Golden State tonight",
+  "summary": "Orlando (2-6, three straight losses) plays at the 6-3 Warriors tonight at 8:30 PM ET. Paolo Banchero (right high ankle sprain) and Jalen Suggs (knee) remain out, with Jonathan Isaac also out. Golden State is a 6.5-point favorite per Predictem. Nothing else new has been reported since yesterday.",
   "bullets": [
    {
-    "tag": "Game",
-    "text": "The 25 turnovers were a season high and the third time in eight games Orlando has reached 20 (Orlando Sentinel). Sweeney said they came several ways, including four illegal screens, and that on some decisions \"we were a little bit careless with the basketball\" (orlandomagic.com)."
-   },
-   {
-    "tag": "Game",
-    "text": "Orlando missed 11 of 24 free throws, nine of them in the first half, and shot 13 of 38 from three while Phoenix went 17 of 34. A plus-15 rebounding edge and 15 offensive rebounds did not make up for it (Magic On SI)."
-   },
-   {
-    "tag": "Lineup",
-    "text": "Anthony Black returned from his ankle issue and started with Bane, Richardson, Wagner and Carter Jr. He had 10 points, 7 rebounds, 6 assists and 5 turnovers in 31 minutes. Vucevic played 4 minutes and Jevon Carter 3 (ESPN box score)."
+    "tag": "Next game",
+    "text": "Tonight at Golden State, 8:30 PM ET, TV27 and DAZN. The Warriors are 6-3 on a six-game win streak and 4-1 at home. Sacramento is Tuesday and Utah Wednesday."
    },
    {
     "tag": "Health",
-    "text": "No new injuries were reported. Banchero missed his sixth straight game and Suggs his fifth; Isaac, Penda and Nelson also remained out. Suggs is still due to be re-evaluated Monday. Saturday's official injury report is not out yet."
-   },
-   {
-    "tag": "Standings",
-    "text": "Orlando is 12th at 2-6 (0-4 home, 2-2 road) and last in the Southeast, 5.5 games behind Philadelphia (8-1)."
+    "text": "Predictem lists Banchero (ankle), Suggs (knee) and Isaac as out. The official game-day report had not been posted when checked. Suggs is still due for re-evaluation Monday."
    },
    {
     "tag": "Odds",
-    "text": "FanDuel had no spread or total up for Saturday as of this morning. Pickswise lists early moneylines of Warriors -230, Magic +180 (Fliff) and Warriors -223, Magic +193 (Polymarket)."
+    "text": "Predictem shows Warriors -6.5, total 221.5, Warriors moneyline about -258. The article did not name the sportsbook."
    },
    {
-    "tag": "Next game",
-    "text": "Practice today in Phoenix at 1:00 PM, then the team flies to San Francisco (Magic PR, times subject to change). Saturday at Warriors, 8:30 PM, TV27 and DAZN, then Sacramento Tuesday and Utah Wednesday."
+    "tag": "Game",
+    "text": "Turnovers are the key matchup: Orlando had a season-high 25 at Phoenix and Golden State forces many. Orlando ranks 25th in defensive rating (116.3) per Sportsmole."
+   },
+   {
+    "tag": "Health",
+    "text": "For Golden State, Butler (ACL), Moody and Porzingis (illness) are out; Draymond Green (right elbow), Gary Payton II and Gui Santos are questionable per Predictem."
    }
   ],
-  "recap": {
-   "title": "Suns 117, Magic 104",
-   "text": "Phoenix scored 33 in the first quarter and led 63-51 at the half, with Orlando committing 12 turnovers and missing 9 of 20 free throws before the break. Back-to-back threes from Booker and Brooks made it 78-60 in the third, when the Magic turned it over 10 more times, and it was 96-73 after three. Gillespie's three with 9:20 left pushed the lead to 30 before Orlando cut the final margin to 13. Playing the second night of a back-to-back, the Suns snapped a four-game skid.",
-   "leaders": "Carter Jr. 27 pts, 13 reb (10 of 12 FG); da Silva 18 pts; Wagner 15 pts, 15 ast, 8 reb; Bane 15 pts; Booker 30 pts, 8 ast for PHX"
-  },
+  "recap": null,
   "preview": {
-   "title": "Saturday at Warriors, 8:30 PM, TV27",
+   "title": "Tonight at Warriors, 8:30 PM, TV27",
    "text": "Golden State is 6-3, 4-1 at home, and has won six straight, including 120-100 over Miami on Thursday, when Stephen Curry scored 29 and Yaxel Lendeborg had 17 points, 8 rebounds and 6 assists. The team's own preview had the Warriors first in the league in offensive rating (121.5) and made threes (18.0 per game) over the first five wins of the streak. Jimmy Butler III (right ACL) and Moses Moody (left patellar tendon) are out, and Kristaps Porzingis is away from the team and considering retirement (ESPN). ESPN lists Gui Santos (left knee) as a game-time decision. Also on DAZN.",
-   "line": "No spread or total posted yet. Moneyline GSW -230 / ORL +180 (Fliff, via Pickswise)"
+   "line": "GSW -6.5, total 221.5, GSW ML about -258 (Predictem, book not named)"
   },
-  "watch": "Saturday at Golden State, 8:30 PM, TV27. Watch the turnovers and Curry. Suggs is due to be re-evaluated Monday."
+  "watch": "Tonight at Golden State, 8:30 PM. Watch turnovers and Curry. Suggs is due to be re-evaluated Monday."
  },
  "schedule": {
   "cup": {
