@@ -1,6 +1,45 @@
 {
  "items": [
   {
+   "d": "2026-11-07",
+   "createdAt": "2026-11-07T11:13:43Z",
+   "headline": "Magic seek first win of West trip at Golden State tonight",
+   "summary": "Orlando (2-6, three straight losses) plays at the 6-3 Warriors tonight at 8:30 PM ET on TV27 and DAZN. The official injury report lists Paolo Banchero, Jalen Suggs, Jonathan Isaac, Noah Penda and Izaiyah Nelson out. Golden State is a 6.5-point favorite at DraftKings, and Draymond Green is questionable with a sore right elbow.",
+   "bullets": [
+    {
+     "tag": "Next game",
+     "text": "Tonight at Golden State, 8:30 PM ET, TV27 and DAZN. The Warriors are 6-3 with six straight wins and are 4-1 at home. Sacramento is Tuesday and Utah Wednesday."
+    },
+    {
+     "tag": "Health",
+     "text": "Official NBA injury report: Banchero (right high ankle sprain), Suggs (right knee bone bruise), Isaac (left knee injury management), Penda (partially torn right hamstring) and Nelson (left ankle recovery) are out. Suggs is due for re-evaluation Monday."
+    },
+    {
+     "tag": "Odds",
+     "text": "DraftKings: Warriors -6.5, total 221.5, moneyline Magic +212, Warriors -258."
+    },
+    {
+     "tag": "Game",
+     "text": "Turnovers are the key matchup. Orlando had a season-high 25 at Phoenix and came in third-worst in the league at 18.3 per game; Golden State forces 18.0 per game, fifth-most (Orlando Sentinel)."
+    },
+    {
+     "tag": "Health",
+     "text": "For Golden State, Draymond Green (right elbow), Gary Payton II (right calf) and Gui Santos (left knee tendinitis) are questionable. Jimmy Butler III, Moses Moody and Kristaps Porzingis (not with team) are out."
+    },
+    {
+     "tag": "Standings",
+     "text": "Orlando is 12th in the East, 5 games behind Philadelphia (8-2), which lost 119-95 at Cleveland on Friday. Charlotte (3-7) lost again and sits one spot ahead."
+    }
+   ],
+   "recap": null,
+   "preview": {
+    "title": "Tonight at Warriors, 8:30 PM, TV27",
+    "text": "Golden State is 6-3, 4-1 at home, and has won six straight, including 120-100 over Miami on Thursday, when Stephen Curry scored 29 and Yaxel Lendeborg had 17 points, 8 rebounds and 6 assists. The Warriors lead the league in made threes. Jimmy Butler III (right ACL) and Moses Moody (left patellar tendon) are out, and Kristaps Porzingis is out and not with the team. Draymond Green, Gary Payton II and Gui Santos are questionable. Roundtable projects Orlando to start Anthony Black, Desmond Bane, Jase Richardson, Franz Wagner and Wendell Carter Jr. Also on DAZN.",
+    "line": "GSW -6.5, total 221.5, ORL +212 / GSW -258 (DraftKings)"
+   },
+   "watch": "Tonight at Golden State, 8:30 PM. Watch turnovers, Curry, and whether Draymond Green plays. Suggs is due to be re-evaluated Monday."
+  },
+  {
    "d": "2026-11-06",
    "createdAt": "2026-11-06T11:21:24Z",
    "headline": "Magic commit 25 turnovers in 117-104 loss at Phoenix, fall to 2-6",

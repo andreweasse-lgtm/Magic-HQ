@@ -1,6 +1,6 @@
 {
  "meta": {
-  "away": "2-2",
+  "away": "2-3",
   "coach": "Sean Sweeney",
   "home": "0-4",
   "keyDates": [
@@ -30,15 +30,15 @@
     "label": "Regular season ends"
    }
   ],
-  "l10": "2-6",
+  "l10": "2-7",
   "lastGame": {
-   "d": "2026-11-05",
-   "opp": "PHX",
+   "d": "2026-11-07",
+   "opp": "GSW",
    "ha": "A",
-   "us": 104,
-   "them": 117,
+   "us": 119,
+   "them": 126,
    "wl": "L",
-   "label": "at Suns"
+   "label": "at Warriors (OT)"
   },
   "lastSeason": {
    "l": 37,
@@ -46,57 +46,49 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 2-6, 12th in the East. Next: tonight at Golden State, 8:30 PM.",
+  "phaseDetail": "Magic 2-7. Next: Tuesday at Sacramento, 10:00 PM.",
   "record": {
    "w": 2,
-   "l": 6
+   "l": 7
   },
   "season": "2026-27",
   "standing": {
    "conf": 12,
    "div": 5
   },
-  "streak": "L3",
-  "updatedAt": "2026-11-08T01:29:12Z"
+  "streak": "L4",
+  "updatedAt": "2026-11-08T10:48:57Z"
  },
  "brief": {
-  "d": "2026-11-07",
-  "createdAt": "2026-11-07T11:13:43Z",
-  "headline": "Magic seek first win of West trip at Golden State tonight",
-  "summary": "Orlando (2-6, three straight losses) plays at the 6-3 Warriors tonight at 8:30 PM ET on TV27 and DAZN. The official injury report lists Paolo Banchero, Jalen Suggs, Jonathan Isaac, Noah Penda and Izaiyah Nelson out. Golden State is a 6.5-point favorite at DraftKings, and Draymond Green is questionable with a sore right elbow.",
+  "d": "2026-11-08",
+  "createdAt": "2026-11-08T10:48:57Z",
+  "headline": "Magic fall to Warriors in OT, lose fourth straight",
+  "summary": "Orlando lost 126-119 in overtime at Golden State on Saturday night, dropping to 2-7 after rallying from a 16-point deficit. Stephen Curry scored 41. Banchero and Suggs remain out and Bane was ruled out before the game with an illness. Next up is Tuesday at Sacramento.",
   "bullets": [
    {
-    "tag": "Next game",
-    "text": "Tonight at Golden State, 8:30 PM ET, TV27 and DAZN. The Warriors are 6-3 with six straight wins and are 4-1 at home. Sacramento is Tuesday and Utah Wednesday."
-   },
-   {
-    "tag": "Health",
-    "text": "Official NBA injury report: Banchero (right high ankle sprain), Suggs (right knee bone bruise), Isaac (left knee injury management), Penda (partially torn right hamstring) and Nelson (left ankle recovery) are out. Suggs is due for re-evaluation Monday."
-   },
-   {
-    "tag": "Odds",
-    "text": "DraftKings: Warriors -6.5, total 221.5, moneyline Magic +212, Warriors -258."
-   },
-   {
     "tag": "Game",
-    "text": "Turnovers are the key matchup. Orlando had a season-high 25 at Phoenix and came in third-worst in the league at 18.3 per game; Golden State forces 18.0 per game, fifth-most (Orlando Sentinel)."
+    "text": "Warriors 126, Magic 119 in OT. Orlando erased a 16-point deficit and led by six in the fourth, but Curry had 41 points and 12 in the last 2:21 of regulation. A late put-back sent the game to overtime (one recap lists 124-119; most say 126-119)."
    },
    {
     "tag": "Health",
-    "text": "For Golden State, Draymond Green (right elbow), Gary Payton II (right calf) and Gui Santos (left knee tendinitis) are questionable. Jimmy Butler III, Moses Moody and Kristaps Porzingis (not with team) are out."
+    "text": "Banchero (right high ankle sprain) and Suggs (right knee bone bruise) were out. Yahoo Sports reports Desmond Bane was ruled out before the game with an illness; his status for Tuesday is not yet known."
    },
    {
-    "tag": "Standings",
-    "text": "Orlando is 12th in the East, 5 games behind Philadelphia (8-2), which lost 119-95 at Cleveland on Friday. Charlotte (3-7) lost again and sits one spot ahead."
+    "tag": "Health",
+    "text": "Suggs is due for knee re-evaluation Monday, per the Orlando Sentinel."
+   },
+   {
+    "tag": "Next game",
+    "text": "Tuesday at Sacramento, 10:00 PM ET, TV27. Utah is Wednesday."
    }
   ],
-  "recap": null,
-  "preview": {
-   "title": "Tonight at Warriors, 8:30 PM, TV27",
-   "text": "Golden State is 6-3, 4-1 at home, and has won six straight, including 120-100 over Miami on Thursday, when Stephen Curry scored 29 and Yaxel Lendeborg had 17 points, 8 rebounds and 6 assists. The Warriors lead the league in made threes. Jimmy Butler III (right ACL) and Moses Moody (left patellar tendon) are out, and Kristaps Porzingis is out and not with the team. Draymond Green, Gary Payton II and Gui Santos are questionable. Roundtable projects Orlando to start Anthony Black, Desmond Bane, Jase Richardson, Franz Wagner and Wendell Carter Jr. Also on DAZN.",
-   "line": "GSW -6.5, total 221.5, ORL +212 / GSW -258 (DraftKings)"
+  "recap": {
+   "title": "Warriors 126, Magic 119 (OT)",
+   "text": "Orlando trailed by 16 in the first half and led by six in the fourth, outscoring Golden State 37-20 in the third quarter. Curry hit key shots late and Golden State won its seventh straight.",
+   "leaders": "Curry 41 pts (GSW); Magic individual stats not confirmed"
   },
-  "watch": "Tonight at Golden State, 8:30 PM. Watch turnovers, Curry, and whether Draymond Green plays. Suggs is due to be re-evaluated Monday."
+  "preview": null,
+  "watch": "Monday: Suggs knee re-evaluation and Bane illness update. Tuesday at Sacramento."
  },
  "schedule": {
   "cup": {
@@ -332,7 +324,13 @@
     "id": "r20261107",
     "note": "",
     "opp": "GSW",
-    "res": null,
+    "res": {
+     "us": 119,
+     "them": 126,
+     "wl": "L",
+     "ot": "OT",
+     "note": "Curry 41 for GSW; Magic rallied from 16 down"
+    },
     "t": "8:30 PM",
     "tag": "",
     "tv": "TV27, DAZN",
@@ -1219,7 +1217,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-06T11:21:24Z"
+  "updatedAt": "2026-11-08T10:48:57Z"
  },
  "standings": {
   "division": {
@@ -1637,7 +1635,7 @@
     },
     "exp": "6",
     "ht": "6-6",
-    "injury": "",
+    "injury": "Illness",
     "kind": "Standard",
     "last": {
      "ast": 4.1,
@@ -1650,8 +1648,8 @@
     "note": "Played all 82 games last season. Sweeney flew to Texas to visit him this summer.",
     "num": "3",
     "pos": "G",
-    "status": "Healthy",
-    "statusNote": ""
+    "status": "Questionable",
+    "statusNote": "Ruled out vs Golden State with illness (Yahoo Sports); Tuesday status unconfirmed"
    },
    {
     "age": 25,
@@ -2029,7 +2027,7 @@
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-07T11:13:43Z"
+  "updatedAt": "2026-11-08T10:48:57Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
