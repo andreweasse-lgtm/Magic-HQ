@@ -46,7 +46,7 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 2-7. Next: Tuesday at Sacramento, 10:00 PM.",
+  "phaseDetail": "Magic 2-7, 12th in the East. Next: Tuesday at Sacramento, 10:00 PM.",
   "record": {
    "w": 2,
    "l": 7
@@ -57,38 +57,46 @@
    "div": 5
   },
   "streak": "L4",
-  "updatedAt": "2026-11-08T10:48:57Z"
+  "updatedAt": "2026-11-08T11:16:31Z"
  },
  "brief": {
   "d": "2026-11-08",
-  "createdAt": "2026-11-08T10:48:57Z",
-  "headline": "Magic fall to Warriors in OT, lose fourth straight",
-  "summary": "Orlando lost 126-119 in overtime at Golden State on Saturday night, dropping to 2-7 after rallying from a 16-point deficit. Stephen Curry scored 41. Banchero and Suggs remain out and Bane was ruled out before the game with an illness. Next up is Tuesday at Sacramento.",
+  "createdAt": "2026-11-08T11:16:31Z",
+  "headline": "Wagner scores 30, but Curry and Warriors beat Magic in OT",
+  "summary": "Orlando lost 126-119 in overtime at Golden State on Saturday night, its fourth straight loss, and fell to 2-7. Franz Wagner had 30 points and 11 assists as the Magic rallied from 16 down, but Stephen Curry scored 41. Desmond Bane missed his first game as a member of the Magic with an illness. Next is Tuesday at 1-8 Sacramento.",
   "bullets": [
    {
     "tag": "Game",
-    "text": "Warriors 126, Magic 119 in OT. Orlando erased a 16-point deficit and led by six in the fourth, but Curry had 41 points and 12 in the last 2:21 of regulation. A late put-back sent the game to overtime (one recap lists 124-119; most say 126-119)."
+    "text": "Warriors 126, Magic 119 (OT). Orlando trailed 57-41 at the half, won the third quarter 37-20 and led by six in the fourth. Jamal Cain's put-back of a Wendell Carter Jr. miss forced overtime at 110-110, and Golden State won the extra period 16-9 for its seventh straight win."
+   },
+   {
+    "tag": "Game",
+    "text": "Wagner 30 pts (11-22), 6 reb, 11 ast. Carter Jr. 19 pts, 11 reb; da Silva 19; Black 18 pts, 8 reb, 6 ast, 4 stl, 3 blk; Cain 18 pts, 12 reb off the bench. Jase Richardson went 1 of 13."
    },
    {
     "tag": "Health",
-    "text": "Banchero (right high ankle sprain) and Suggs (right knee bone bruise) were out. Yahoo Sports reports Desmond Bane was ruled out before the game with an illness; his status for Tuesday is not yet known."
+    "text": "Bane (illness) missed his first game since arriving in Orlando, ending a 90-game streak (Magic On SI). His status for Tuesday has not been announced. Banchero (ankle) and Suggs (knee) remain out; Suggs is due to be re-evaluated Monday."
    },
    {
-    "tag": "Health",
-    "text": "Suggs is due for knee re-evaluation Monday, per the Orlando Sentinel."
+    "tag": "Standings",
+    "text": "Orlando is 12th in the East at 2-7, 5.5 games behind first-place Philadelphia, and still winless at home (0-4)."
    },
    {
     "tag": "Next game",
-    "text": "Tuesday at Sacramento, 10:00 PM ET, TV27. Utah is Wednesday."
+    "text": "Tuesday at Sacramento, 10:00 PM ET, TV27. The Kings are 1-8 and host Miami on Sunday. Utah is Wednesday."
    }
   ],
   "recap": {
    "title": "Warriors 126, Magic 119 (OT)",
-   "text": "Orlando trailed by 16 in the first half and led by six in the fourth, outscoring Golden State 37-20 in the third quarter. Curry hit key shots late and Golden State won its seventh straight.",
-   "leaders": "Curry 41 pts (GSW); Magic individual stats not confirmed"
+   "text": "Orlando trailed by 16 in the first half, outscored Golden State 37-20 in the third quarter and led by six in the fourth. Curry scored 12 in the last 2:21 of regulation, Cain's put-back forced overtime, and Curry's three-point play with 1:38 left in OT put Golden State ahead for good. Carter Jr. missed three key free throws down the stretch.",
+   "leaders": "Wagner 30 pts, 11 ast; Carter Jr. 19 pts, 11 reb; da Silva 19; Black 18 pts, 6 ast, 4 stl; Cain 18 pts, 12 reb. Curry 41 (GSW)"
   },
-  "preview": null,
-  "watch": "Monday: Suggs knee re-evaluation and Bane illness update. Tuesday at Sacramento."
+  "preview": {
+   "title": "Tuesday at Kings, 10:00 PM, TV27",
+   "text": "Third stop on the four-game West trip. Sacramento is 1-8 and lost 124-109 to San Antonio on Friday before hosting Miami on Sunday. CBS Sports listed Keegan Murray (ankle) as a game-time decision on Nov 7.",
+   "line": "Not yet posted"
+  },
+  "watch": "Monday: Suggs knee re-evaluation and any Bane update. Tuesday at Sacramento, 10:00 PM."
  },
  "schedule": {
   "cup": {
@@ -329,7 +337,7 @@
      "them": 126,
      "wl": "L",
      "ot": "OT",
-     "note": "Curry 41 for GSW; Magic rallied from 16 down"
+     "note": "Wagner 30 pts, 11 ast; Carter Jr. 19 pts, 11 reb; Curry 41 for GSW"
     },
     "t": "8:30 PM",
     "tag": "",
@@ -1217,7 +1225,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-08T10:48:57Z"
+  "updatedAt": "2026-11-08T11:16:31Z"
  },
  "standings": {
   "division": {
@@ -1312,7 +1320,7 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-07",
+   "asOf": "2026-11-08",
    "rows": [
     {
      "abbr": "PHI",
@@ -1346,12 +1354,22 @@
     },
     {
      "abbr": "ATL",
-     "w": 6,
+     "w": 7,
      "l": 4,
-     "gb": 2,
-     "home": "2-2",
+     "gb": 1.5,
+     "home": "3-2",
      "away": "4-2",
      "l10": "6-4",
+     "strk": "W4"
+    },
+    {
+     "abbr": "NYK",
+     "w": 5,
+     "l": 4,
+     "gb": 2.5,
+     "home": "3-2",
+     "away": "2-2",
+     "l10": "5-4",
      "strk": "W3"
     },
     {
@@ -1367,32 +1385,22 @@
     {
      "abbr": "CLE",
      "w": 5,
-     "l": 4,
-     "gb": 2.5,
-     "home": "4-1",
-     "away": "1-3",
-     "l10": "5-4",
-     "strk": "W1"
-    },
-    {
-     "abbr": "NYK",
-     "w": 4,
-     "l": 4,
+     "l": 5,
      "gb": 3,
-     "home": "3-2",
-     "away": "1-2",
-     "l10": "4-4",
-     "strk": "W2"
+     "home": "4-2",
+     "away": "1-3",
+     "l10": "5-5",
+     "strk": "L1"
     },
     {
      "abbr": "WAS",
      "w": 4,
-     "l": 5,
-     "gb": 3.5,
+     "l": 6,
+     "gb": 4,
      "home": "2-2",
-     "away": "2-3",
-     "l10": "4-5",
-     "strk": "L2"
+     "away": "2-4",
+     "l10": "4-6",
+     "strk": "L3"
     },
     {
      "abbr": "MIA",
@@ -1405,16 +1413,6 @@
      "strk": "L1"
     },
     {
-     "abbr": "IND",
-     "w": 3,
-     "l": 6,
-     "gb": 4.5,
-     "home": "0-4",
-     "away": "3-2",
-     "l10": "3-6",
-     "strk": "W1"
-    },
-    {
      "abbr": "CHA",
      "w": 3,
      "l": 7,
@@ -1425,24 +1423,34 @@
      "strk": "L6"
     },
     {
-     "abbr": "ORL",
-     "w": 2,
-     "l": 6,
+     "abbr": "IND",
+     "w": 3,
+     "l": 7,
      "gb": 5,
      "home": "0-4",
-     "away": "2-2",
-     "l10": "2-6",
-     "strk": "L3"
+     "away": "3-2",
+     "l10": "3-7",
+     "strk": "L1"
+    },
+    {
+     "abbr": "ORL",
+     "w": 2,
+     "l": 7,
+     "gb": 5.5,
+     "home": "0-4",
+     "away": "2-3",
+     "l10": "2-7",
+     "strk": "L4"
     },
     {
      "abbr": "BKN",
      "w": 2,
-     "l": 6,
-     "gb": 5,
+     "l": 7,
+     "gb": 5.5,
      "home": "1-3",
-     "away": "1-3",
-     "l10": "2-6",
-     "strk": "W1"
+     "away": "1-4",
+     "l10": "2-7",
+     "strk": "L1"
     },
     {
      "abbr": "CHI",
@@ -1563,7 +1571,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-07T11:13:43Z"
+  "updatedAt": "2026-11-08T11:16:31Z"
  },
  "roster": {
   "players": [
@@ -1593,17 +1601,17 @@
     "num": "5",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Listed out for Saturday at Golden State on the official NBA injury report; it would be his seventh straight missed game. ESPN lists an estimated return of Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
+    "statusNote": "Missed his seventh straight game Saturday at Golden State. ESPN lists an estimated return of Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
    },
    {
     "age": 25,
     "contract": "$41.8M. Signed through 2029-30",
     "cur": {
-     "gp": 8,
-     "pts": 19.6,
-     "reb": 6.4,
-     "ast": 8.5,
-     "fg": 0.431
+     "gp": 9,
+     "pts": 20.8,
+     "reb": 6.3,
+     "ast": 8.8,
+     "fg": 0.44
     },
     "exp": "5",
     "ht": "6-10",
@@ -1648,8 +1656,8 @@
     "note": "Played all 82 games last season. Sweeney flew to Texas to visit him this summer.",
     "num": "3",
     "pos": "G",
-    "status": "Questionable",
-    "statusNote": "Ruled out vs Golden State with illness (Yahoo Sports); Tuesday status unconfirmed"
+    "status": "Day-to-day",
+    "statusNote": "Missed Saturday at Golden State with an illness, his first missed game since joining Orlando (ended a 90-game streak, per Magic On SI). No status announced yet for Tuesday at Sacramento."
    },
    {
     "age": 25,
@@ -1677,17 +1685,17 @@
     "num": "4",
     "pos": "G",
     "status": "Out",
-    "statusNote": "Listed out for Saturday at Golden State on the official NBA injury report; it would be his sixth straight missed game. Bone bruise suffered Oct 25 at New York. Orlando Sentinel (Nov 3): will not be re-evaluated until Monday, Nov 9, and has no timeline. ESPN lists an estimated return of Nov. 10."
+    "statusNote": "Missed his sixth straight game Saturday at Golden State. Bone bruise suffered Oct 25 at New York. Orlando Sentinel (Nov 3): will not be re-evaluated until Monday, Nov 9, and has no timeline. ESPN lists an estimated return of Nov. 10."
    },
    {
     "age": 22,
     "contract": "$10.1M. Final rookie-scale year. No extension; restricted free agent in 2027",
     "cur": {
-     "gp": 5,
-     "pts": 15.2,
-     "reb": 5.2,
-     "ast": 5.0,
-     "fg": 0.5
+     "gp": 6,
+     "pts": 15.7,
+     "reb": 5.7,
+     "ast": 5.2,
+     "fg": 0.463
     },
     "exp": "3",
     "ht": "6-7",
@@ -1711,11 +1719,11 @@
     "age": 27,
     "contract": "$18.1M. Through 2028-29 (team option in 2028-29)",
     "cur": {
-     "gp": 8,
-     "pts": 14.3,
-     "reb": 9.4,
-     "ast": 1.1,
-     "fg": 0.656
+     "gp": 9,
+     "pts": 14.8,
+     "reb": 9.6,
+     "ast": 1.0,
+     "fg": 0.63
     },
     "exp": "8",
     "ht": "6-10",
@@ -1739,11 +1747,11 @@
     "age": 35,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 8,
-     "pts": 2.8,
-     "reb": 2.6,
-     "ast": 1.1,
-     "fg": 0.409
+     "gp": 9,
+     "pts": 2.4,
+     "reb": 2.4,
+     "ast": 1.2,
+     "fg": 0.375
     },
     "exp": "15",
     "ht": "6-9",
@@ -1767,11 +1775,11 @@
     "age": 25,
     "contract": "$4.0M. 2027-28 team option ($6.1M) exercised Oct 21; signed through 2027-28",
     "cur": {
-     "gp": 8,
-     "pts": 14.6,
-     "reb": 3.3,
-     "ast": 1.6,
-     "fg": 0.484
+     "gp": 9,
+     "pts": 15.1,
+     "reb": 3.7,
+     "ast": 1.7,
+     "fg": 0.455
     },
     "exp": "2",
     "ht": "6-8",
@@ -1795,11 +1803,11 @@
     "age": 27,
     "contract": "$7.6M. Final year, UFA 2027",
     "cur": {
-     "gp": 6,
+     "gp": 7,
      "pts": 3.7,
-     "reb": 3.2,
-     "ast": 0.3,
-     "fg": 0.5
+     "reb": 3.4,
+     "ast": 0.6,
+     "fg": 0.533
     },
     "exp": "7",
     "ht": "6-11",
@@ -1839,17 +1847,17 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Listed out for Saturday at Golden State (official injury report, left knee injury management). Assigned to Osceola and recalled Nov 1, presumably for practice; no defined timeline for his debut (RotoWire). Told the Orlando Sentinel (Oct 28) he is up to 3-on-3, with 4-on-4 and 5-on-5 next, and expects to play this season. Has not played since March 12."
+    "statusNote": "Out Saturday at Golden State (official injury report, left knee injury management). Assigned to Osceola and recalled Nov 1, presumably for practice; no defined timeline for his debut (RotoWire). Told the Orlando Sentinel (Oct 28) he is up to 3-on-3, with 4-on-4 and 5-on-5 next, and expects to play this season. Has not played since March 12."
    },
    {
     "age": 31,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 4,
-     "pts": 2.8,
-     "reb": 0.5,
-     "ast": 2.0,
-     "fg": 0.267
+     "gp": 5,
+     "pts": 4.0,
+     "reb": 0.6,
+     "ast": 1.6,
+     "fg": 0.318
     },
     "exp": "8",
     "ht": "6-0",
@@ -1873,11 +1881,11 @@
     "age": 27,
     "contract": "$2.6M. Not fully guaranteed until Jan 10",
     "cur": {
-     "gp": 8,
-     "pts": 5.9,
-     "reb": 2.0,
+     "gp": 9,
+     "pts": 7.2,
+     "reb": 3.1,
      "ast": 0.3,
-     "fg": 0.41
+     "fg": 0.415
     },
     "exp": "4",
     "ht": "6-7",
@@ -1901,11 +1909,11 @@
     "age": 20,
     "contract": "$3.1M rookie scale. 2027-28 team option ($3.3M) exercised Oct 21",
     "cur": {
-     "gp": 8,
-     "pts": 6.4,
-     "reb": 1.9,
-     "ast": 2.5,
-     "fg": 0.377
+     "gp": 9,
+     "pts": 5.9,
+     "reb": 2.1,
+     "ast": 2.7,
+     "fg": 0.318
     },
     "exp": "1",
     "ht": "6-1",
@@ -1945,7 +1953,7 @@
     "num": "93",
     "pos": "G-F",
     "status": "Out",
-    "statusNote": "Listed out for Saturday at Golden State (official injury report). Seen doing shooting drills after shootaround Oct 28 (Orlando Sentinel). Expected to miss significant time. CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Out Saturday at Golden State (official injury report). Seen doing shooting drills after shootaround Oct 28 (Orlando Sentinel). Expected to miss significant time. CBS Sports lists him out until at least Nov. 18."
    },
    {
     "age": 26,
@@ -1979,10 +1987,10 @@
     "age": 28,
     "contract": "Two-way, year 2",
     "cur": {
-     "gp": 5,
-     "pts": 1.0,
-     "reb": 1.2,
-     "ast": 0.2,
+     "gp": 6,
+     "pts": 0.8,
+     "reb": 1.3,
+     "ast": 0.3,
      "fg": 0.4
     },
     "exp": "1",
@@ -2023,11 +2031,11 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Listed out for Saturday at Golden State (official injury report). Did not travel on the West trip (Orlando Sentinel, Nov 4). Rehabbing a left ankle fracture from Summer League. Has not played this preseason or season. CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Out Saturday at Golden State (official injury report). Did not travel on the West trip (Orlando Sentinel, Nov 4). Rehabbing a left ankle fracture from Summer League. Has not played this preseason or season. CBS Sports lists him out until at least Nov. 18."
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-08T10:48:57Z"
+  "updatedAt": "2026-11-08T11:16:31Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",

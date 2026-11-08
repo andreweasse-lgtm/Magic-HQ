@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "2026-11-08-wagner-scores-30-with-11-assists-in-ot-l",
+   "d": "2026-11-08",
+   "cat": "Player",
+   "headline": "Wagner scores 30 with 11 assists in OT loss at Golden State",
+   "summary": "Franz Wagner shot 11 of 22 with 6 rebounds. Wendell Carter Jr. added 19 points and 11 rebounds, Tristan da Silva 19, Anthony Black 18 with 4 steals and 3 blocks, and Jamal Cain 18 points and 12 rebounds off the bench.",
+   "source": "ESPN",
+   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909942",
+   "flag": null,
+   "addedAt": "2026-11-08T11:16:31Z"
+  },
+  {
+   "id": "2026-11-08-bane-misses-first-game-as-a-magic-with-i",
+   "d": "2026-11-08",
+   "cat": "Injury",
+   "headline": "Bane misses first game as a Magic with illness",
+   "summary": "Desmond Bane sat out Saturday at Golden State with an illness, ending his 90-game streak since arriving in Orlando. Magic On SI also notes Jamal Cain's put-back forced overtime after Wendell Carter Jr. missed three key free throws late.",
+   "source": "Magic On SI",
+   "url": "https://www.si.com/nba/magic/onsi/how-stephen-curry-warriors-outlasted-orlando-magic-overtime-01m6wgcvkgsz",
+   "flag": null,
+   "addedAt": "2026-11-08T11:16:31Z"
+  },
+  {
    "id": "2026-11-08-warriors-beat-magic-126-119-in-overtime",
    "d": "2026-11-08",
    "cat": "Game",
