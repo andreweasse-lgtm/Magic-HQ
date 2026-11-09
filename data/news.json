@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "2026-11-08-suggs-due-for-knee-re-evaluation-monday",
+   "d": "2026-11-08",
+   "cat": "Injury",
+   "headline": "Suggs due for knee re-evaluation Monday; Black left OT with a cramp",
+   "summary": "Jalen Suggs ends his two-week re-evaluation window Monday, though the Sentinel says that does not necessarily mean he plays on this trip. Desmond Bane missed Saturday with an undisclosed illness, and Anthony Black exited with 2:47 left in overtime with a cramp. Sweeney said the team \"got those turnovers way down\" at Golden State.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/no-magic-margin-error-loss-214900681.html",
+   "flag": null,
+   "addedAt": "2026-11-09T11:22:08Z"
+  },
+  {
+   "id": "2026-11-08-kings-fall-to-1-9-with-home-loss-to-heat",
+   "d": "2026-11-08",
+   "cat": "Game",
+   "headline": "Kings fall to 1-9 with home loss to Heat before hosting Magic",
+   "summary": "Miami beat Sacramento 114-108 on Sunday behind Giannis Antetokounmpo's 29 points and 14 rebounds. Darius Acuff Jr. scored 32 for the Kings, and Domantas Sabonis was a late scratch with left knee soreness. Orlando plays at Sacramento on Tuesday.",
+   "source": "Miami Herald (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/heat-makes-lineup-change-holds-044338014.html",
+   "flag": null,
+   "addedAt": "2026-11-09T11:22:08Z"
+  },
+  {
    "id": "2026-11-08-wagner-scores-30-with-11-assists-in-ot-l",
    "d": "2026-11-08",
    "cat": "Player",
@@ -43,6 +65,17 @@
    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_01_00AM.pdf",
    "flag": null,
    "addedAt": "2026-11-07T11:13:43Z"
+  },
+  {
+   "id": "2026-11-06-bleacher-report-drops-magic-to-23rd-in-p",
+   "d": "2026-11-06",
+   "cat": "Team/Business",
+   "headline": "Bleacher Report drops Magic to 23rd in power rankings",
+   "summary": "Andy Bailey moved Orlando down from 22nd to 23rd, saying it is \"probably past time to worry\" about the Magic beyond Banchero's injury. He wrote that the Banchero-Wagner pairing \"has never totally worked.\"",
+   "source": "Bleacher Report",
+   "url": "https://bleacherreport.com/articles/25529484-nba-power-rankings-lebron-james-76ers-victor-wembanyamas-spurs-rising",
+   "flag": null,
+   "addedAt": "2026-11-09T11:22:08Z"
   },
   {
    "id": "2026-11-06-carter-jr-magic-were-not-connected-in-ph",

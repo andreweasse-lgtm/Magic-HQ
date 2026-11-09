@@ -1,6 +1,45 @@
 {
  "items": [
   {
+   "d": "2026-11-08",
+   "createdAt": "2026-11-08T11:16:31Z",
+   "headline": "Wagner scores 30, but Curry and Warriors beat Magic in OT",
+   "summary": "Orlando lost 126-119 in overtime at Golden State on Saturday night, its fourth straight loss, and fell to 2-7. Franz Wagner had 30 points and 11 assists as the Magic rallied from 16 down, but Stephen Curry scored 41. Desmond Bane missed his first game as a member of the Magic with an illness. Next is Tuesday at 1-8 Sacramento.",
+   "bullets": [
+    {
+     "tag": "Game",
+     "text": "Warriors 126, Magic 119 (OT). Orlando trailed 57-41 at the half, won the third quarter 37-20 and led by six in the fourth. Jamal Cain's put-back of a Wendell Carter Jr. miss forced overtime at 110-110, and Golden State won the extra period 16-9 for its seventh straight win."
+    },
+    {
+     "tag": "Game",
+     "text": "Wagner 30 pts (11-22), 6 reb, 11 ast. Carter Jr. 19 pts, 11 reb; da Silva 19; Black 18 pts, 8 reb, 6 ast, 4 stl, 3 blk; Cain 18 pts, 12 reb off the bench. Jase Richardson went 1 of 13."
+    },
+    {
+     "tag": "Health",
+     "text": "Bane (illness) missed his first game since arriving in Orlando, ending a 90-game streak (Magic On SI). His status for Tuesday has not been announced. Banchero (ankle) and Suggs (knee) remain out; Suggs is due to be re-evaluated Monday."
+    },
+    {
+     "tag": "Standings",
+     "text": "Orlando is 12th in the East at 2-7, 5.5 games behind first-place Philadelphia, and still winless at home (0-4)."
+    },
+    {
+     "tag": "Next game",
+     "text": "Tuesday at Sacramento, 10:00 PM ET, TV27. The Kings are 1-8 and host Miami on Sunday. Utah is Wednesday."
+    }
+   ],
+   "recap": {
+    "title": "Warriors 126, Magic 119 (OT)",
+    "text": "Orlando trailed by 16 in the first half, outscored Golden State 37-20 in the third quarter and led by six in the fourth. Curry scored 12 in the last 2:21 of regulation, Cain's put-back forced overtime, and Curry's three-point play with 1:38 left in OT put Golden State ahead for good. Carter Jr. missed three key free throws down the stretch.",
+    "leaders": "Wagner 30 pts, 11 ast; Carter Jr. 19 pts, 11 reb; da Silva 19; Black 18 pts, 6 ast, 4 stl; Cain 18 pts, 12 reb. Curry 41 (GSW)"
+   },
+   "preview": {
+    "title": "Tuesday at Kings, 10:00 PM, TV27",
+    "text": "Third stop on the four-game West trip. Sacramento is 1-8 and lost 124-109 to San Antonio on Friday before hosting Miami on Sunday. CBS Sports listed Keegan Murray (ankle) as a game-time decision on Nov 7.",
+    "line": "Not yet posted"
+   },
+   "watch": "Monday: Suggs knee re-evaluation and any Bane update. Tuesday at Sacramento, 10:00 PM."
+  },
+  {
    "d": "2026-11-07",
    "createdAt": "2026-11-07T11:13:43Z",
    "headline": "Magic seek first win of West trip at Golden State tonight",
