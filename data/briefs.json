@@ -1,6 +1,45 @@
 {
  "items": [
   {
+   "d": "2026-11-09",
+   "createdAt": "2026-11-09T11:22:08Z",
+   "headline": "Suggs knee re-evaluation day as Magic prepare for 1-9 Kings",
+   "summary": "No game Sunday or Monday. Jalen Suggs reaches the end of his two-week knee re-evaluation window today, though the Orlando Sentinel says that does not necessarily mean he will play on this trip. Desmond Bane's illness still has no timeline. Orlando (2-7, 12th in the East) visits Sacramento on Tuesday after the Kings fell to 1-9 on Sunday.",
+   "bullets": [
+    {
+     "tag": "Health",
+     "text": "Suggs (mild right knee bone bruise, Oct 25 at New York) is due to be re-evaluated today after missing six straight games. The Sentinel says the team should get more clarity on his return, but he may not play on this trip."
+    },
+    {
+     "tag": "Health",
+     "text": "Bane missed Saturday with an undisclosed illness and has no update for Tuesday. Anthony Black left Saturday's game with a cramp with 2:47 left in overtime and did not return, per Sweeney. Banchero (ankle), Penda (hamstring), Isaac (knee) and Nelson (ankle) were all out Saturday."
+    },
+    {
+     "tag": "Coaching",
+     "text": "Sweeney on the Golden State loss: \"A point of emphasis for us was taking care of it and we got those turnovers way down,\" two days after a season-high 25 turnovers at Phoenix (Orlando Sentinel)."
+    },
+    {
+     "tag": "Standings",
+     "text": "Orlando is 12th in the East at 2-7, now 6 games behind Philadelphia (9-2) after the 76ers and Celtics won Sunday. Brooklyn (2-8), Chicago (1-8) and Milwaukee (1-9) sit below."
+    },
+    {
+     "tag": "Next game",
+     "text": "Sacramento lost 114-108 at home to Miami on Sunday and is 1-9. Domantas Sabonis was a late scratch with left knee soreness, and Darius Acuff Jr. scored 32 with 10 assists (Miami Herald). No betting line is posted yet."
+    },
+    {
+     "tag": "Standings",
+     "text": "Bleacher Report's Nov 6 power rankings dropped Orlando to 23rd from 22nd, saying it is \"probably past time to worry\" about the Magic beyond the Banchero injury."
+    }
+   ],
+   "recap": null,
+   "preview": {
+    "title": "Tuesday at Kings, 10:00 PM, TV27",
+    "text": "Third stop on the four-game West trip, followed by Wednesday at Utah. Sacramento (1-9) has lost two straight; Sabonis (left knee soreness) was scratched Sunday and Keegan Murray (ankle) was a game-time decision on CBS Sports' Nov 7 injury list. Utah (1-9) has lost eight in a row.",
+    "line": "Not yet posted"
+   },
+   "watch": "Today: Suggs re-evaluation result and any Bane update. Tuesday at Sacramento, 10:00 PM; Wednesday at Utah, 9:00 PM."
+  },
+  {
    "d": "2026-11-08",
    "createdAt": "2026-11-08T11:16:31Z",
    "headline": "Wagner scores 30, but Curry and Warriors beat Magic in OT",

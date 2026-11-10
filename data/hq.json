@@ -5,11 +5,6 @@
   "home": "0-4",
   "keyDates": [
    {
-    "d": "2026-11-09",
-    "detail": "Per the Orlando Sentinel",
-    "label": "Jalen Suggs knee re-evaluation"
-   },
-   {
     "d": "2027-01-10",
     "detail": "",
     "label": "Jamal Cain contract guarantee date"
@@ -46,7 +41,7 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 2-7, 12th in the East. Next: Tuesday at Sacramento, 10:00 PM.",
+  "phaseDetail": "Magic 2-7, 12th in the East. Next: tonight at Sacramento, 10:00 PM.",
   "record": {
    "w": 2,
    "l": 7
@@ -57,46 +52,46 @@
    "div": 5
   },
   "streak": "L4",
-  "updatedAt": "2026-11-10T04:15:00Z"
+  "updatedAt": "2026-11-10T11:18:05Z"
  },
  "brief": {
-  "d": "2026-11-09",
-  "createdAt": "2026-11-09T11:22:08Z",
-  "headline": "Suggs knee re-evaluation day as Magic prepare for 1-9 Kings",
-  "summary": "No game Sunday or Monday. Jalen Suggs reaches the end of his two-week knee re-evaluation window today, though the Orlando Sentinel says that does not necessarily mean he will play on this trip. Desmond Bane's illness still has no timeline. Orlando (2-7, 12th in the East) visits Sacramento on Tuesday after the Kings fell to 1-9 on Sunday.",
+  "d": "2026-11-10",
+  "createdAt": "2026-11-10T11:18:05Z",
+  "headline": "Bane cleared for Kings tonight; Suggs progressing but out again",
+  "summary": "Orlando (2-7) tries to end a four-game skid tonight at Sacramento (1-9), 10:00 PM on TV27 and DAZN. Desmond Bane practiced Monday after his illness and is off the injury report, and Anthony Black is fine after cramping late Saturday. Jalen Suggs is \"progressing positively\" after his knee re-evaluation but will miss a seventh straight game, with no timeline. DraftKings has Orlando -5.5.",
   "bullets": [
    {
     "tag": "Health",
-    "text": "Suggs (mild right knee bone bruise, Oct 25 at New York) is due to be re-evaluated today after missing six straight games. The Sentinel says the team should get more clarity on his return, but he may not play on this trip."
+    "text": "Suggs (right knee bone bruise) was re-evaluated Monday. The team told the Orlando Sentinel he is \"progressing positively\" and continues return-to-play protocols, including court work. No timeline; his return depends on how he responds to more court activity."
    },
    {
     "tag": "Health",
-    "text": "Bane missed Saturday with an undisclosed illness and has no update for Tuesday. Anthony Black left Saturday's game with a cramp with 2:47 left in overtime and did not return, per Sweeney. Banchero (ankle), Penda (hamstring), Isaac (knee) and Nelson (ankle) were all out Saturday."
+    "text": "Bane returned to practice Monday in San Francisco: \"I'm feeling better, trying to get my energy back.\" Sweeney said Black, who left Saturday's overtime with cramping, is also doing well. Neither is on the injury report."
    },
    {
-    "tag": "Coaching",
-    "text": "Sweeney on the Golden State loss: \"A point of emphasis for us was taking care of it and we got those turnovers way down,\" two days after a season-high 25 turnovers at Phoenix (Orlando Sentinel)."
-   },
-   {
-    "tag": "Standings",
-    "text": "Orlando is 12th in the East at 2-7, now 6 games behind Philadelphia (9-2) after the 76ers and Celtics won Sunday. Brooklyn (2-8), Chicago (1-8) and Milwaukee (1-9) sit below."
+    "tag": "Lineup",
+    "text": "Official injury report (1:00 AM): Banchero (right high ankle sprain), Isaac (left knee injury management), Nelson (left ankle recovery), Penda (partially torn right hamstring) and Suggs are all out."
    },
    {
     "tag": "Next game",
-    "text": "Sacramento lost 114-108 at home to Miami on Sunday and is 1-9. Domantas Sabonis was a late scratch with left knee soreness, and Darius Acuff Jr. scored 32 with 10 assists (Miami Herald). No betting line is posted yet."
+    "text": "Sacramento has lost three straight and is 0-5 at home. Domantas Sabonis (left knee soreness) and Keegan Murray (right wrist soreness) are questionable; Maxime Raynaud and Ben Simmons are out. Rookie Darius Acuff Jr. leads all rookies at 25.9 points per game."
+   },
+   {
+    "tag": "Odds",
+    "text": "DraftKings: ORL -5.5 (-116), total 221.5, moneyline -237. FanDuel has Orlando -6.5 (Covers odds comparison)."
    },
    {
     "tag": "Standings",
-    "text": "Bleacher Report's Nov 6 power rankings dropped Orlando to 23rd from 22nd, saying it is \"probably past time to worry\" about the Magic beyond the Banchero injury."
+    "text": "Orlando stays 12th in the East, one game behind Charlotte and Washington (both 4-7) for the last Play-In spots after Monday's games. Philadelphia (9-2) leads."
    }
   ],
   "recap": null,
   "preview": {
    "title": "Tuesday at Kings, 10:00 PM, TV27",
-   "text": "Third stop on the four-game West trip, followed by Wednesday at Utah. Sacramento (1-9) has lost two straight; Sabonis (left knee soreness) was scratched Sunday and Keegan Murray (ankle) was a game-time decision on CBS Sports' Nov 7 injury list. Utah (1-9) has lost eight in a row.",
-   "line": "Not yet posted"
+   "text": "Third stop on the four-game West trip, with Wednesday at Utah next. Bane is back after missing Saturday. Sacramento (1-9) entered Monday with the league's second-worst defensive rating (120.1, per the Orlando Sentinel) and allows 37.9% from three, while Orlando had 24 offensive rebounds at Golden State.",
+   "line": "ORL -5.5, total 221.5 (DraftKings)"
   },
-  "watch": "Today: Suggs re-evaluation result and any Bane update. Tuesday at Sacramento, 10:00 PM; Wednesday at Utah, 9:00 PM."
+  "watch": "Tonight at Sacramento, 10:00 PM (TV27, DAZN). Wednesday at Utah, 9:00 PM. Friday home vs Milwaukee in the NBA Cup."
  },
  "schedule": {
   "cup": {
@@ -348,7 +343,7 @@
     "d": "2026-11-10",
     "ha": "A",
     "id": "r20261110",
-    "note": "",
+    "note": "Bane back; Suggs, Banchero out",
     "opp": "SAC",
     "res": null,
     "t": "10:00 PM",
@@ -1225,7 +1220,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-09T11:22:08Z"
+  "updatedAt": "2026-11-10T11:18:05Z"
  },
  "standings": {
   "division": {
@@ -1320,7 +1315,7 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-09",
+   "asOf": "2026-11-10",
    "rows": [
     {
      "abbr": "PHI",
@@ -1344,23 +1339,23 @@
     },
     {
      "abbr": "DET",
-     "w": 6,
+     "w": 7,
      "l": 3,
-     "gb": 2,
-     "home": "2-2",
+     "gb": 1.5,
+     "home": "3-2",
      "away": "4-1",
-     "l10": "6-3",
-     "strk": "L2"
+     "l10": "7-3",
+     "strk": "W1"
     },
     {
      "abbr": "ATL",
      "w": 7,
-     "l": 4,
-     "gb": 2,
-     "home": "3-2",
+     "l": 5,
+     "gb": 2.5,
+     "home": "3-3",
      "away": "4-2",
-     "l10": "6-4",
-     "strk": "W4"
+     "l10": "5-5",
+     "strk": "L1"
     },
     {
      "abbr": "NYK",
@@ -1375,22 +1370,22 @@
     {
      "abbr": "TOR",
      "w": 5,
-     "l": 4,
-     "gb": 3,
-     "home": "2-1",
+     "l": 5,
+     "gb": 3.5,
+     "home": "2-2",
      "away": "3-3",
-     "l10": "5-4",
-     "strk": "W1"
+     "l10": "5-5",
+     "strk": "L1"
     },
     {
      "abbr": "CLE",
      "w": 5,
-     "l": 5,
-     "gb": 3.5,
+     "l": 6,
+     "gb": 4,
      "home": "4-2",
-     "away": "1-3",
+     "away": "1-4",
      "l10": "5-5",
-     "strk": "L1"
+     "strk": "L2"
     },
     {
      "abbr": "MIA",
@@ -1403,34 +1398,34 @@
      "strk": "W1"
     },
     {
-     "abbr": "WAS",
-     "w": 4,
-     "l": 6,
-     "gb": 4.5,
-     "home": "2-2",
-     "away": "2-4",
-     "l10": "4-6",
-     "strk": "L3"
-    },
-    {
      "abbr": "CHA",
-     "w": 3,
+     "w": 4,
      "l": 7,
-     "gb": 5.5,
-     "home": "2-4",
+     "gb": 5,
+     "home": "3-4",
      "away": "1-3",
      "l10": "3-7",
-     "strk": "L6"
+     "strk": "W1"
+    },
+    {
+     "abbr": "WAS",
+     "w": 4,
+     "l": 7,
+     "gb": 5,
+     "home": "2-2",
+     "away": "2-5",
+     "l10": "3-7",
+     "strk": "L4"
     },
     {
      "abbr": "IND",
      "w": 3,
-     "l": 7,
-     "gb": 5.5,
+     "l": 8,
+     "gb": 6,
      "home": "0-4",
-     "away": "3-2",
-     "l10": "3-7",
-     "strk": "L1"
+     "away": "3-3",
+     "l10": "2-8",
+     "strk": "L2"
     },
     {
      "abbr": "ORL",
@@ -1571,7 +1566,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-09T11:22:08Z"
+  "updatedAt": "2026-11-10T11:18:05Z"
  },
  "roster": {
   "players": [
@@ -1601,7 +1596,7 @@
     "num": "5",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Missed his seventh straight game Saturday at Golden State. ESPN lists an estimated return of Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
+    "statusNote": "Out Tuesday at Sacramento (official injury report), which will be his eighth straight missed game. ESPN lists an estimated return of Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
    },
    {
     "age": 25,
@@ -1643,7 +1638,7 @@
     },
     "exp": "6",
     "ht": "6-6",
-    "injury": "Illness",
+    "injury": "",
     "kind": "Standard",
     "last": {
      "ast": 4.1,
@@ -1656,8 +1651,8 @@
     "note": "Played all 82 games last season. Sweeney flew to Texas to visit him this summer.",
     "num": "3",
     "pos": "G",
-    "status": "Day-to-day",
-    "statusNote": "Missed Saturday at Golden State with an undisclosed illness, his first missed game since joining Orlando (ended a 90-game streak, per Magic On SI). No timeline or status yet for Tuesday at Sacramento (Orlando Sentinel, Nov 8)."
+    "status": "Healthy",
+    "statusNote": ""
    },
    {
     "age": 25,
@@ -1685,7 +1680,7 @@
     "num": "4",
     "pos": "G",
     "status": "Out",
-    "statusNote": "Missed his sixth straight game Saturday at Golden State. Mild bone bruise suffered Oct 25 at New York. Due to be re-evaluated Monday, Nov 9; the Orlando Sentinel (Nov 8) says that does not necessarily mean he will play on this trip. ESPN lists an estimated return of Nov. 10."
+    "statusNote": "Out Tuesday at Sacramento (official injury report), his seventh straight missed game. Mild bone bruise suffered Oct 25 at New York. Re-evaluated Nov 9: the team says he is \"progressing positively\" and continues return-to-play protocols, including court work. No timeline; return depends on how he responds to increased court activity (Orlando Sentinel)."
    },
    {
     "age": 22,
@@ -1847,7 +1842,7 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Out Saturday at Golden State (official injury report, left knee injury management). Assigned to Osceola and recalled Nov 1, presumably for practice; no defined timeline for his debut (RotoWire). Told the Orlando Sentinel (Oct 28) he is up to 3-on-3, with 4-on-4 and 5-on-5 next, and expects to play this season. Has not played since March 12."
+    "statusNote": "Out Tuesday at Sacramento (official injury report, left knee injury management). Assigned to Osceola and recalled Nov 1, presumably for practice; no defined timeline for his debut (RotoWire). Told the Orlando Sentinel (Oct 28) he is up to 3-on-3, with 4-on-4 and 5-on-5 next, and expects to play this season. Has not played since March 12."
    },
    {
     "age": 31,
@@ -1953,7 +1948,7 @@
     "num": "93",
     "pos": "G-F",
     "status": "Out",
-    "statusNote": "Out Saturday at Golden State (official injury report). Seen doing shooting drills after shootaround Oct 28 (Orlando Sentinel). Expected to miss significant time. CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Out Tuesday at Sacramento (official injury report). Seen doing shooting drills after shootaround Oct 28 (Orlando Sentinel). Expected to miss significant time. CBS Sports lists him out until at least Nov. 18."
    },
    {
     "age": 26,
@@ -2031,11 +2026,11 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Out Saturday at Golden State (official injury report). Did not travel on the West trip (Orlando Sentinel, Nov 4). Rehabbing a left ankle fracture from Summer League. Has not played this preseason or season. CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Out Tuesday at Sacramento (official injury report). Did not travel on the West trip (Orlando Sentinel, Nov 4). Rehabbing a left ankle fracture from Summer League. Has not played this preseason or season. CBS Sports lists him out until at least Nov. 18."
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-09T11:22:08Z"
+  "updatedAt": "2026-11-10T11:18:05Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",

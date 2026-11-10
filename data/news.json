@@ -1,6 +1,50 @@
 {
  "items": [
   {
+   "id": "2026-11-10-magic-open-as-5-5-point-favorites-at-sac",
+   "d": "2026-11-10",
+   "cat": "Game",
+   "headline": "Magic open as 5.5-point favorites at Sacramento",
+   "summary": "DraftKings lists Orlando -5.5 (-116) with a total of 221.5 and a -237 moneyline for Tuesday's game at Sacramento. FanDuel has the Magic -6.5. Orlando is 3-6 against the spread this season; the Kings are 4-6.",
+   "source": "Covers",
+   "url": "https://www.covers.com/sport/basketball/nba/matchup/388701/odds",
+   "flag": null,
+   "addedAt": "2026-11-10T11:18:05Z"
+  },
+  {
+   "id": "2026-11-10-five-magic-out-at-sacramento-sabonis-and",
+   "d": "2026-11-10",
+   "cat": "Injury",
+   "headline": "Five Magic out at Sacramento; Sabonis and Murray questionable",
+   "summary": "The 1:00 AM official injury report lists Banchero, Isaac, Nelson, Penda and Suggs out for Orlando. Bane and Black are not listed. For Sacramento, Domantas Sabonis (left knee soreness) and Keegan Murray (right wrist soreness) are questionable, and Maxime Raynaud and Ben Simmons are out.",
+   "source": "NBA official injury report",
+   "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_01_00AM.pdf",
+   "flag": null,
+   "addedAt": "2026-11-10T11:18:05Z"
+  },
+  {
+   "id": "2026-11-09-bane-back-at-practice-off-injury-report",
+   "d": "2026-11-09",
+   "cat": "Injury",
+   "headline": "Bane back at practice, off injury report for Kings game",
+   "summary": "Desmond Bane practiced Monday in San Francisco after missing Saturday with an illness and said he is \"feeling better, trying to get my energy back.\" Sweeney said Anthony Black, who left Saturday's overtime with cramping, is also doing well. Neither is on the injury report for Tuesday.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/jalen-suggs-makes-progress-magic-223900357.html",
+   "flag": null,
+   "addedAt": "2026-11-10T11:18:05Z"
+  },
+  {
+   "id": "2026-11-09-suggs-progressing-positively-but-will-mi",
+   "d": "2026-11-09",
+   "cat": "Injury",
+   "headline": "Suggs \"progressing positively\" but will miss seventh straight game",
+   "summary": "After his two-week re-evaluation, the Magic said Jalen Suggs is progressing positively and continues return-to-play protocols, including court work. There is no timeline; his return depends on how his right knee responds to increased court activity. He is ruled out Tuesday at Sacramento.",
+   "source": "Hoops Rumors (citing the Orlando Sentinel)",
+   "url": "https://www.hoopsrumors.com/2026/11/injury-notes-suggs-k-george-landale-rockets-lakers.html",
+   "flag": null,
+   "addedAt": "2026-11-10T11:18:05Z"
+  },
+  {
    "id": "2026-11-08-suggs-due-for-knee-re-evaluation-monday",
    "d": "2026-11-08",
    "cat": "Injury",
@@ -1319,17 +1363,6 @@
    "flag": null,
    "addedAt": "2026-09-23T00:47:00Z",
    "id": "2026-08-12-magic-games-move-to-free-over-the-air-tv"
-  },
-  {
-   "d": "2026-08-11",
-   "cat": "Injury",
-   "headline": "Franz Wagner skips Germany's summer to get healthy",
-   "summary": "He passed on the Supercup and World Cup qualifiers. In July he said the plan was to not play at all and focus on getting fully healthy.",
-   "source": "Eurohoops",
-   "url": "https://www.eurohoops.net/en/fibawc/1997987/dennis-schroder-tristan-da-silva-isaiah-hartenstein-germany-call-ups-world-cup-qualifiers-fiba/",
-   "flag": null,
-   "addedAt": "2026-09-23T00:47:00Z",
-   "id": "2026-08-11-franz-wagner-skips-germany-s-summer-to-g"
   }
  ]
 }
