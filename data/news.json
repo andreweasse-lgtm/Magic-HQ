@@ -1,6 +1,61 @@
 {
  "items": [
   {
+   "id": "2026-11-11-magic-about-4-5-point-favorites-at-utah",
+   "d": "2026-11-11",
+   "cat": "Game",
+   "headline": "Magic about 4.5-point favorites at Utah",
+   "summary": "DraftKings has Orlando at -179 on the moneyline (Pickswise odds comparison). Pick Dawgz lists Orlando -4.5 with a total of 217.5. Tipoff is 9:00 PM ET at Delta Center.",
+   "source": "Pickswise",
+   "url": "https://www.pickswise.com/nba/games/utah-jazz-orlando-magic-nba-2026-11-11-2100/",
+   "flag": null,
+   "addedAt": "2026-11-11T11:26:08Z"
+  },
+  {
+   "id": "2026-11-11-jazz-host-magic-on-nine-game-skid-both-o",
+   "d": "2026-11-11",
+   "cat": "Game",
+   "headline": "Jazz host Magic on nine-game skid, both on a back-to-back",
+   "summary": "Utah (1-10) lost 115-109 at home to Miami on Tuesday, with Darryn Peterson scoring 25 and Ace Bailey 23. Jaren Jackson Jr. (torn MCL) and Jusuf Nurkic (foot) are out, and Lauri Markkanen (wrist) and Keyonte George (ankle) are day-to-day.",
+   "source": "Utah Jazz (NBA.com)",
+   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-end-back-to-back-against-orlando-magic",
+   "flag": null,
+   "addedAt": "2026-11-11T11:26:08Z"
+  },
+  {
+   "id": "2026-11-11-cain-starts-as-magic-use-sixth-lineup-mo",
+   "d": "2026-11-11",
+   "cat": "Player",
+   "headline": "Cain starts as Magic use sixth lineup; Morales sets career highs",
+   "summary": "Sean Sweeney started Black, Bane, Jamal Cain, Wagner and Wendell Carter Jr. at Sacramento and moved Jase Richardson back to the bench after seven starts. Two-way guard Alex Morales had career highs of 7 points and 7 rebounds in 29 minutes. Sweeney said the team improved its defensive rebounding and ball security.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/beede-breakdown-magic-snap-4-053900093.html",
+   "flag": null,
+   "addedAt": "2026-11-11T11:26:08Z"
+  },
+  {
+   "id": "2026-11-10-da-silva-out-at-sacramento-with-left-cal",
+   "d": "2026-11-10",
+   "cat": "Injury",
+   "headline": "Da Silva out at Sacramento with left calf strain",
+   "summary": "Tristan da Silva was a late addition to Tuesday's injury report with a strained left calf and was downgraded to out. He had started Saturday at Golden State in place of Desmond Bane. His status for Wednesday at Utah has not been announced.",
+   "source": "NBC Sports (Rotoworld)",
+   "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-10/tristan-da-silva-calf-downgraded-to-out-tuesday",
+   "flag": null,
+   "addedAt": "2026-11-11T11:26:08Z"
+  },
+  {
+   "id": "2026-11-10-magic-beat-kings-107-100-to-snap-four-ga",
+   "d": "2026-11-10",
+   "cat": "Game",
+   "headline": "Magic beat Kings 107-100 to snap four-game skid",
+   "summary": "Franz Wagner scored a season-high 33 points and Anthony Black added 26 with four steals as Orlando won at Sacramento. The Magic led the rest of the way after an 18-5 second-quarter run and scored 33 points off 21 Kings turnovers. Zach LaVine scored 31 and rookie Darius Acuff Jr. 29 for Sacramento (1-10).",
+   "source": "AP (via CBS Sacramento)",
+   "url": "https://www.cbsnews.com/sacramento/news/magic-beat-kings-107-101/",
+   "flag": null,
+   "addedAt": "2026-11-11T11:26:08Z"
+  },
+  {
    "id": "2026-11-10-magic-open-as-5-5-point-favorites-at-sac",
    "d": "2026-11-10",
    "cat": "Game",
@@ -1352,17 +1407,6 @@
    "flag": null,
    "addedAt": "2026-09-23T00:47:00Z",
    "id": "2026-08-13-banchero-on-his-partnership-with-franz-w"
-  },
-  {
-   "d": "2026-08-12",
-   "cat": "Team/Business",
-   "headline": "Magic games move to free over-the-air TV",
-   "summary": "Cox Media Group deal: WRDQ TV 27 (now MagicTV 27) carries all local games and WFTV 9 select games. Replaces FanDuel Sports Network Florida, which shut down.",
-   "source": "WFTV",
-   "url": "https://www.wftv.com/news/local/orlando-magic-select-wftv-channel-9-tv-27-new-broadcast-home/5VCEXXYFD5AHDJDMJMOBNO23EM/",
-   "flag": null,
-   "addedAt": "2026-09-23T00:47:00Z",
-   "id": "2026-08-12-magic-games-move-to-free-over-the-air-tv"
   }
  ]
 }

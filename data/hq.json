@@ -1,6 +1,6 @@
 {
  "meta": {
-  "away": "2-3",
+  "away": "3-3",
   "coach": "Sean Sweeney",
   "home": "0-4",
   "keyDates": [
@@ -25,15 +25,15 @@
     "label": "Regular season ends"
    }
   ],
-  "l10": "2-7",
+  "l10": "3-7",
   "lastGame": {
-   "d": "2026-11-07",
-   "opp": "GSW",
+   "d": "2026-11-10",
+   "opp": "SAC",
    "ha": "A",
-   "us": 119,
-   "them": 126,
-   "wl": "L",
-   "label": "at Warriors (OT)"
+   "us": 107,
+   "them": 100,
+   "wl": "W",
+   "label": "at Kings"
   },
   "lastSeason": {
    "l": 37,
@@ -41,57 +41,61 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 2-7, 12th in the East. Next: tonight at Sacramento, 10:00 PM.",
+  "phaseDetail": "Magic 3-7, 11th in the East. Next: tonight at Utah, 9:00 PM.",
   "record": {
-   "w": 2,
+   "w": 3,
    "l": 7
   },
   "season": "2026-27",
   "standing": {
-   "conf": 12,
+   "conf": 11,
    "div": 5
   },
-  "streak": "L4",
-  "updatedAt": "2026-11-11T01:58:25Z"
+  "streak": "W1",
+  "updatedAt": "2026-11-11T11:26:08Z"
  },
  "brief": {
-  "d": "2026-11-10",
-  "createdAt": "2026-11-10T11:18:05Z",
-  "headline": "Bane cleared for Kings tonight; Suggs progressing but out again",
-  "summary": "Orlando (2-7) tries to end a four-game skid tonight at Sacramento (1-9), 10:00 PM on TV27 and DAZN. Desmond Bane practiced Monday after his illness and is off the injury report, and Anthony Black is fine after cramping late Saturday. Jalen Suggs is \"progressing positively\" after his knee re-evaluation but will miss a seventh straight game, with no timeline. DraftKings has Orlando -5.5.",
+  "d": "2026-11-11",
+  "createdAt": "2026-11-11T11:26:08Z",
+  "headline": "Wagner scores 33 as Magic snap skid at Sacramento; Utah tonight",
+  "summary": "Orlando beat Sacramento 107-100 on Tuesday to end a four-game losing streak and move to 3-7. Franz Wagner scored a season-high 33 and Anthony Black added 26 with four steals, and the Magic turned 21 Kings turnovers into 33 points. Tristan da Silva sat with a left calf strain. The West trip ends tonight at Utah (1-10), with both teams on the second night of a back-to-back.",
   "bullets": [
    {
-    "tag": "Health",
-    "text": "Suggs (right knee bone bruise) was re-evaluated Monday. The team told the Orlando Sentinel he is \"progressing positively\" and continues return-to-play protocols, including court work. No timeline; his return depends on how he responds to more court activity."
-   },
-   {
-    "tag": "Health",
-    "text": "Bane returned to practice Monday in San Francisco: \"I'm feeling better, trying to get my energy back.\" Sweeney said Black, who left Saturday's overtime with cramping, is also doing well. Neither is on the injury report."
+    "tag": "Game",
+    "text": "Wagner: 33 points (11-23 FG, 10-10 FT), 7 rebounds, 7 assists, his second straight 30-point game. Black: 26 points, 7 rebounds, 5 assists, 4 steals. Bane: 15 points but 5-19 shooting (4-13 from three). Carter Jr.: 8 points, 11 rebounds, 3 blocks. Orlando won the paint 58-28 and the boards 48-34 and led the rest of the way after an 18-5 second-quarter run."
    },
    {
     "tag": "Lineup",
-    "text": "Official injury report (1:00 AM): Banchero (right high ankle sprain), Isaac (left knee injury management), Nelson (left ankle recovery), Penda (partially torn right hamstring) and Suggs are all out."
+    "text": "Sweeney started Black, Bane, Jamal Cain, Wagner and Carter Jr., the sixth different starting lineup this season, and moved Jase Richardson back to the bench after seven straight starts. Two-way guard Alex Morales played 29 minutes with career highs of 7 points and 7 rebounds."
    },
    {
-    "tag": "Next game",
-    "text": "Sacramento has lost three straight and is 0-5 at home. Domantas Sabonis (left knee soreness) and Keegan Murray (right wrist soreness) are questionable; Maxime Raynaud and Ben Simmons are out. Rookie Darius Acuff Jr. leads all rookies at 25.9 points per game."
-   },
-   {
-    "tag": "Odds",
-    "text": "DraftKings: ORL -5.5 (-116), total 221.5, moneyline -237. FanDuel has Orlando -6.5 (Covers odds comparison)."
+    "tag": "Health",
+    "text": "Da Silva was a late addition to Tuesday's injury report with a left calf strain and was downgraded to out. His status for Utah has not been announced. Banchero (eighth straight game), Suggs, Isaac, Penda and Nelson also sat."
    },
    {
     "tag": "Standings",
-    "text": "Orlando stays 12th in the East, one game behind Charlotte and Washington (both 4-7) for the last Play-In spots after Monday's games. Philadelphia (9-2) leads."
+    "text": "Orlando moves up to 11th in the East, half a game behind Charlotte and Washington (both 4-7). Boston (9-2) took over first by beating Philadelphia 123-101."
+   },
+   {
+    "tag": "Next game",
+    "text": "Utah has lost nine straight after a 115-109 home loss to Miami on Tuesday. Jaren Jackson Jr. (torn MCL) and Jusuf Nurkic (foot) are out; Lauri Markkanen (wrist) and Keyonte George (ankle) are day-to-day. Rookie Darryn Peterson scored 25 against the Heat."
+   },
+   {
+    "tag": "Odds",
+    "text": "DraftKings has Orlando -179 on the moneyline (Pickswise odds comparison); Pick Dawgz lists ORL -4.5, total 217.5. Orlando covered the closing -5.5 at Sacramento, and the game stayed under the 221.5 total (DraftKings)."
    }
   ],
-  "recap": null,
-  "preview": {
-   "title": "Tuesday at Kings, 10:00 PM, TV27",
-   "text": "Third stop on the four-game West trip, with Wednesday at Utah next. Bane is back after missing Saturday. Sacramento (1-9) entered Monday with the league's second-worst defensive rating (120.1, per the Orlando Sentinel) and allows 37.9% from three, while Orlando had 24 offensive rebounds at Golden State.",
-   "line": "ORL -5.5, total 221.5 (DraftKings)"
+  "recap": {
+   "title": "Magic 107, Kings 100",
+   "text": "Orlando snapped a four-game skid at Golden 1 Center. Wagner's three capped an 18-5 run for a 52-43 lead late in the second quarter, and the Magic never trailed again. Sacramento cut a 10-point deficit to five with 44.7 seconds left before Wagner's free throws and a Carter Jr. dunk closed it out. Zach LaVine scored 31 and Darius Acuff Jr. 29 for the Kings (1-10); Domantas Sabonis went scoreless.",
+   "leaders": "Wagner 33 pts, 7 reb, 7 ast; Black 26 pts, 7 reb, 4 stl; Carter Jr. 11 reb, 3 blk"
   },
-  "watch": "Tonight at Sacramento, 10:00 PM (TV27, DAZN). Wednesday at Utah, 9:00 PM. Friday home vs Milwaukee in the NBA Cup."
+  "preview": {
+   "title": "Wednesday at Jazz, 9:00 PM, TV27",
+   "text": "Last stop on the four-game West trip and the second night of a back-to-back for both teams. Utah (1-10) has lost nine straight, is 1-5 at home and is without Jaren Jackson Jr. and Jusuf Nurkic. Watch the afternoon injury report for da Silva, Markkanen and George. The Magic won both meetings last season.",
+   "line": "ORL -4.5, total 217.5 (Pick Dawgz); ORL -179 moneyline (DraftKings)"
+  },
+  "watch": "Tonight at Utah, 9:00 PM (TV27, DAZN). Friday home vs Milwaukee in the NBA Cup, 7:00 PM."
  },
  "schedule": {
   "cup": {
@@ -343,9 +347,15 @@
     "d": "2026-11-10",
     "ha": "A",
     "id": "r20261110",
-    "note": "Bane back; Suggs, Banchero out",
+    "note": "Snapped four-game skid; da Silva out (calf)",
     "opp": "SAC",
-    "res": null,
+    "res": {
+     "us": 107,
+     "them": 100,
+     "wl": "W",
+     "ot": "",
+     "note": "Wagner 33 pts, 7 reb, 7 ast; Black 26 pts, 4 stl"
+    },
     "t": "10:00 PM",
     "tag": "",
     "tv": "TV27, DAZN",
@@ -355,12 +365,12 @@
     "d": "2026-11-11",
     "ha": "A",
     "id": "r20261111",
-    "note": "",
+    "note": "Ends West trip; second night of back-to-back",
     "opp": "UTA",
     "res": null,
     "t": "9:00 PM",
     "tag": "",
-    "tv": "TV27",
+    "tv": "TV27, DAZN",
     "type": "reg"
    },
    {
@@ -1220,7 +1230,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-10T11:18:05Z"
+  "updatedAt": "2026-11-11T11:26:08Z"
  },
  "standings": {
   "division": {
@@ -1315,27 +1325,27 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-10",
+   "asOf": "2026-11-11",
    "rows": [
     {
-     "abbr": "PHI",
+     "abbr": "BOS",
      "w": 9,
      "l": 2,
      "gb": 0,
-     "home": "4-1",
-     "away": "5-1",
-     "l10": "8-2",
-     "strk": "W1"
+     "home": "5-0",
+     "away": "4-2",
+     "l10": "9-1",
+     "strk": "W4"
     },
     {
-     "abbr": "BOS",
-     "w": 8,
-     "l": 2,
+     "abbr": "PHI",
+     "w": 9,
+     "l": 3,
      "gb": 0.5,
-     "home": "5-0",
-     "away": "3-2",
-     "l10": "8-2",
-     "strk": "W3"
+     "home": "4-2",
+     "away": "5-1",
+     "l10": "7-3",
+     "strk": "L1"
     },
     {
      "abbr": "DET",
@@ -1348,6 +1358,16 @@
      "strk": "W1"
     },
     {
+     "abbr": "NYK",
+     "w": 6,
+     "l": 4,
+     "gb": 2.5,
+     "home": "4-2",
+     "away": "2-2",
+     "l10": "6-4",
+     "strk": "W4"
+    },
+    {
      "abbr": "ATL",
      "w": 7,
      "l": 5,
@@ -1356,16 +1376,6 @@
      "away": "4-2",
      "l10": "5-5",
      "strk": "L1"
-    },
-    {
-     "abbr": "NYK",
-     "w": 5,
-     "l": 4,
-     "gb": 3,
-     "home": "3-2",
-     "away": "2-2",
-     "l10": "5-4",
-     "strk": "W3"
     },
     {
      "abbr": "TOR",
@@ -1389,13 +1399,13 @@
     },
     {
      "abbr": "MIA",
-     "w": 4,
+     "w": 5,
      "l": 6,
-     "gb": 4.5,
+     "gb": 4,
      "home": "1-3",
-     "away": "3-3",
-     "l10": "4-6",
-     "strk": "W1"
+     "away": "4-3",
+     "l10": "5-5",
+     "strk": "W2"
     },
     {
      "abbr": "CHA",
@@ -1418,6 +1428,16 @@
      "strk": "L4"
     },
     {
+     "abbr": "ORL",
+     "w": 3,
+     "l": 7,
+     "gb": 5.5,
+     "home": "0-4",
+     "away": "3-3",
+     "l10": "3-7",
+     "strk": "W1"
+    },
+    {
      "abbr": "IND",
      "w": 3,
      "l": 8,
@@ -1426,16 +1446,6 @@
      "away": "3-3",
      "l10": "2-8",
      "strk": "L2"
-    },
-    {
-     "abbr": "ORL",
-     "w": 2,
-     "l": 7,
-     "gb": 6,
-     "home": "0-4",
-     "away": "2-3",
-     "l10": "2-7",
-     "strk": "L4"
     },
     {
      "abbr": "BKN",
@@ -1460,12 +1470,12 @@
     {
      "abbr": "MIL",
      "w": 1,
-     "l": 9,
-     "gb": 7.5,
+     "l": 10,
+     "gb": 8,
      "home": "1-5",
-     "away": "0-4",
+     "away": "0-5",
      "l10": "1-9",
-     "strk": "L6"
+     "strk": "L7"
     }
    ]
   },
@@ -1566,7 +1576,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-10T11:18:05Z"
+  "updatedAt": "2026-11-11T11:26:08Z"
  },
  "roster": {
   "players": [
@@ -1596,17 +1606,17 @@
     "num": "5",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Out Tuesday at Sacramento (official injury report), which will be his eighth straight missed game. ESPN lists an estimated return of Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
+    "statusNote": "Missed his eighth straight game Tuesday at Sacramento. ESPN lists an estimated return of Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
    },
    {
     "age": 25,
     "contract": "$41.8M. Signed through 2029-30",
     "cur": {
-     "gp": 9,
-     "pts": 20.8,
-     "reb": 6.3,
-     "ast": 8.8,
-     "fg": 0.44
+     "gp": 10,
+     "pts": 22.0,
+     "reb": 6.4,
+     "ast": 8.6,
+     "fg": 0.445
     },
     "exp": "5",
     "ht": "6-10",
@@ -1630,11 +1640,11 @@
     "age": 28,
     "contract": "$39.4M. Signed through 2028-29",
     "cur": {
-     "gp": 8,
-     "pts": 17.5,
-     "reb": 3.9,
-     "ast": 2.3,
-     "fg": 0.389
+     "gp": 9,
+     "pts": 17.2,
+     "reb": 4.1,
+     "ast": 2.4,
+     "fg": 0.371
     },
     "exp": "6",
     "ht": "6-6",
@@ -1680,17 +1690,17 @@
     "num": "4",
     "pos": "G",
     "status": "Out",
-    "statusNote": "Out Tuesday at Sacramento (official injury report), his seventh straight missed game. Mild bone bruise suffered Oct 25 at New York. Re-evaluated Nov 9: the team says he is \"progressing positively\" and continues return-to-play protocols, including court work. No timeline; return depends on how he responds to increased court activity (Orlando Sentinel)."
+    "statusNote": "Missed his seventh straight game Tuesday at Sacramento. Mild bone bruise suffered Oct 25 at New York. Re-evaluated Nov 9: the team says he is \"progressing positively\" and continues return-to-play protocols, including court work. No timeline; return depends on how he responds to increased court activity (Orlando Sentinel)."
    },
    {
     "age": 22,
     "contract": "$10.1M. Final rookie-scale year. No extension; restricted free agent in 2027",
     "cur": {
-     "gp": 6,
-     "pts": 15.7,
-     "reb": 5.7,
-     "ast": 5.2,
-     "fg": 0.463
+     "gp": 7,
+     "pts": 17.1,
+     "reb": 5.9,
+     "ast": 5.1,
+     "fg": 0.488
     },
     "exp": "3",
     "ht": "6-7",
@@ -1714,11 +1724,11 @@
     "age": 27,
     "contract": "$18.1M. Through 2028-29 (team option in 2028-29)",
     "cur": {
-     "gp": 9,
-     "pts": 14.8,
-     "reb": 9.6,
+     "gp": 10,
+     "pts": 14.1,
+     "reb": 9.7,
      "ast": 1.0,
-     "fg": 0.63
+     "fg": 0.61
     },
     "exp": "8",
     "ht": "6-10",
@@ -1742,11 +1752,11 @@
     "age": 35,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 9,
-     "pts": 2.4,
-     "reb": 2.4,
+     "gp": 10,
+     "pts": 2.7,
+     "reb": 2.6,
      "ast": 1.2,
-     "fg": 0.375
+     "fg": 0.379
     },
     "exp": "15",
     "ht": "6-9",
@@ -1778,7 +1788,7 @@
     },
     "exp": "2",
     "ht": "6-8",
-    "injury": "",
+    "injury": "Left calf strain",
     "kind": "Standard",
     "last": {
      "ast": 1.6,
@@ -1791,18 +1801,18 @@
     "note": "Played World Cup qualifiers for Germany in August.",
     "num": "23",
     "pos": "F",
-    "status": "Healthy",
-    "statusNote": ""
+    "status": "Day-to-day",
+    "statusNote": "Late addition to the Nov 10 injury report as questionable, then downgraded to out at Sacramento (NBC Sports/Rotoworld; Orlando Sentinel). Had started Nov 7 at Golden State with Bane out. Status for Wednesday at Utah not yet announced."
    },
    {
     "age": 27,
     "contract": "$7.6M. Final year, UFA 2027",
     "cur": {
-     "gp": 7,
-     "pts": 3.7,
-     "reb": 3.4,
+     "gp": 8,
+     "pts": 3.5,
+     "reb": 3.2,
      "ast": 0.6,
-     "fg": 0.533
+     "fg": 0.562
     },
     "exp": "7",
     "ht": "6-11",
@@ -1842,17 +1852,17 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Out Tuesday at Sacramento (official injury report, left knee injury management). Assigned to Osceola and recalled Nov 1, presumably for practice; no defined timeline for his debut (RotoWire). Told the Orlando Sentinel (Oct 28) he is up to 3-on-3, with 4-on-4 and 5-on-5 next, and expects to play this season. Has not played since March 12."
+    "statusNote": "Missed Tuesday at Sacramento (left knee injury management). Assigned to Osceola and recalled Nov 1, presumably for practice; no defined timeline for his debut (RotoWire). Told the Orlando Sentinel (Oct 28) he is up to 3-on-3, with 4-on-4 and 5-on-5 next, and expects to play this season. Has not played since March 12."
    },
    {
     "age": 31,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 5,
-     "pts": 4.0,
-     "reb": 0.6,
-     "ast": 1.6,
-     "fg": 0.318
+     "gp": 6,
+     "pts": 3.3,
+     "reb": 0.5,
+     "ast": 1.3,
+     "fg": 0.304
     },
     "exp": "8",
     "ht": "6-0",
@@ -1876,11 +1886,11 @@
     "age": 27,
     "contract": "$2.6M. Not fully guaranteed until Jan 10",
     "cur": {
-     "gp": 9,
-     "pts": 7.2,
+     "gp": 10,
+     "pts": 7.0,
      "reb": 3.1,
-     "ast": 0.3,
-     "fg": 0.415
+     "ast": 0.4,
+     "fg": 0.414
     },
     "exp": "4",
     "ht": "6-7",
@@ -1904,11 +1914,11 @@
     "age": 20,
     "contract": "$3.1M rookie scale. 2027-28 team option ($3.3M) exercised Oct 21",
     "cur": {
-     "gp": 9,
+     "gp": 10,
      "pts": 5.9,
-     "reb": 2.1,
-     "ast": 2.7,
-     "fg": 0.318
+     "reb": 2.0,
+     "ast": 2.5,
+     "fg": 0.329
     },
     "exp": "1",
     "ht": "6-1",
@@ -1948,7 +1958,7 @@
     "num": "93",
     "pos": "G-F",
     "status": "Out",
-    "statusNote": "Out Tuesday at Sacramento (official injury report). Seen doing shooting drills after shootaround Oct 28 (Orlando Sentinel). Expected to miss significant time. CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Missed Tuesday at Sacramento. Seen doing shooting drills after shootaround Oct 28 (Orlando Sentinel). Expected to miss significant time. CBS Sports lists him out until at least Nov. 18."
    },
    {
     "age": 26,
@@ -1982,11 +1992,11 @@
     "age": 28,
     "contract": "Two-way, year 2",
     "cur": {
-     "gp": 6,
-     "pts": 0.8,
-     "reb": 1.3,
+     "gp": 7,
+     "pts": 1.7,
+     "reb": 2.1,
      "ast": 0.3,
-     "fg": 0.4
+     "fg": 0.455
     },
     "exp": "1",
     "ht": "6-6",
@@ -2026,11 +2036,11 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Out Tuesday at Sacramento (official injury report). Did not travel on the West trip (Orlando Sentinel, Nov 4). Rehabbing a left ankle fracture from Summer League. Has not played this preseason or season. CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Missed Tuesday at Sacramento. Did not travel on the West trip (Orlando Sentinel, Nov 4). Rehabbing a left ankle fracture from Summer League. Has not played this preseason or season. CBS Sports lists him out until at least Nov. 18."
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-10T11:18:05Z"
+  "updatedAt": "2026-11-11T11:26:08Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",

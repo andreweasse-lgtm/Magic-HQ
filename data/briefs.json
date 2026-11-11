@@ -1,6 +1,45 @@
 {
  "items": [
   {
+   "d": "2026-11-10",
+   "createdAt": "2026-11-10T11:18:05Z",
+   "headline": "Bane cleared for Kings tonight; Suggs progressing but out again",
+   "summary": "Orlando (2-7) tries to end a four-game skid tonight at Sacramento (1-9), 10:00 PM on TV27 and DAZN. Desmond Bane practiced Monday after his illness and is off the injury report, and Anthony Black is fine after cramping late Saturday. Jalen Suggs is \"progressing positively\" after his knee re-evaluation but will miss a seventh straight game, with no timeline. DraftKings has Orlando -5.5.",
+   "bullets": [
+    {
+     "tag": "Health",
+     "text": "Suggs (right knee bone bruise) was re-evaluated Monday. The team told the Orlando Sentinel he is \"progressing positively\" and continues return-to-play protocols, including court work. No timeline; his return depends on how he responds to more court activity."
+    },
+    {
+     "tag": "Health",
+     "text": "Bane returned to practice Monday in San Francisco: \"I'm feeling better, trying to get my energy back.\" Sweeney said Black, who left Saturday's overtime with cramping, is also doing well. Neither is on the injury report."
+    },
+    {
+     "tag": "Lineup",
+     "text": "Official injury report (1:00 AM): Banchero (right high ankle sprain), Isaac (left knee injury management), Nelson (left ankle recovery), Penda (partially torn right hamstring) and Suggs are all out."
+    },
+    {
+     "tag": "Next game",
+     "text": "Sacramento has lost three straight and is 0-5 at home. Domantas Sabonis (left knee soreness) and Keegan Murray (right wrist soreness) are questionable; Maxime Raynaud and Ben Simmons are out. Rookie Darius Acuff Jr. leads all rookies at 25.9 points per game."
+    },
+    {
+     "tag": "Odds",
+     "text": "DraftKings: ORL -5.5 (-116), total 221.5, moneyline -237. FanDuel has Orlando -6.5 (Covers odds comparison)."
+    },
+    {
+     "tag": "Standings",
+     "text": "Orlando stays 12th in the East, one game behind Charlotte and Washington (both 4-7) for the last Play-In spots after Monday's games. Philadelphia (9-2) leads."
+    }
+   ],
+   "recap": null,
+   "preview": {
+    "title": "Tuesday at Kings, 10:00 PM, TV27",
+    "text": "Third stop on the four-game West trip, with Wednesday at Utah next. Bane is back after missing Saturday. Sacramento (1-9) entered Monday with the league's second-worst defensive rating (120.1, per the Orlando Sentinel) and allows 37.9% from three, while Orlando had 24 offensive rebounds at Golden State.",
+    "line": "ORL -5.5, total 221.5 (DraftKings)"
+   },
+   "watch": "Tonight at Sacramento, 10:00 PM (TV27, DAZN). Wednesday at Utah, 9:00 PM. Friday home vs Milwaukee in the NBA Cup."
+  },
+  {
    "d": "2026-11-09",
    "createdAt": "2026-11-09T11:22:08Z",
    "headline": "Suggs knee re-evaluation day as Magic prepare for 1-9 Kings",
