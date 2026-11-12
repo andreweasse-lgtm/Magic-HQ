@@ -1,6 +1,49 @@
 {
  "items": [
   {
+   "d": "2026-11-11",
+   "createdAt": "2026-11-11T11:26:08Z",
+   "headline": "Wagner scores 33 as Magic snap skid at Sacramento; Utah tonight",
+   "summary": "Orlando beat Sacramento 107-100 on Tuesday to end a four-game losing streak and move to 3-7. Franz Wagner scored a season-high 33 and Anthony Black added 26 with four steals, and the Magic turned 21 Kings turnovers into 33 points. Tristan da Silva sat with a left calf strain. The West trip ends tonight at Utah (1-10), with both teams on the second night of a back-to-back.",
+   "bullets": [
+    {
+     "tag": "Game",
+     "text": "Wagner: 33 points (11-23 FG, 10-10 FT), 7 rebounds, 7 assists, his second straight 30-point game. Black: 26 points, 7 rebounds, 5 assists, 4 steals. Bane: 15 points but 5-19 shooting (4-13 from three). Carter Jr.: 8 points, 11 rebounds, 3 blocks. Orlando won the paint 58-28 and the boards 48-34 and led the rest of the way after an 18-5 second-quarter run."
+    },
+    {
+     "tag": "Lineup",
+     "text": "Sweeney started Black, Bane, Jamal Cain, Wagner and Carter Jr., the sixth different starting lineup this season, and moved Jase Richardson back to the bench after seven straight starts. Two-way guard Alex Morales played 29 minutes with career highs of 7 points and 7 rebounds."
+    },
+    {
+     "tag": "Health",
+     "text": "Da Silva was a late addition to Tuesday's injury report with a left calf strain and was downgraded to out. His status for Utah has not been announced. Banchero (eighth straight game), Suggs, Isaac, Penda and Nelson also sat."
+    },
+    {
+     "tag": "Standings",
+     "text": "Orlando moves up to 11th in the East, half a game behind Charlotte and Washington (both 4-7). Boston (9-2) took over first by beating Philadelphia 123-101."
+    },
+    {
+     "tag": "Next game",
+     "text": "Utah has lost nine straight after a 115-109 home loss to Miami on Tuesday. Jaren Jackson Jr. (torn MCL) and Jusuf Nurkic (foot) are out; Lauri Markkanen (wrist) and Keyonte George (ankle) are day-to-day. Rookie Darryn Peterson scored 25 against the Heat."
+    },
+    {
+     "tag": "Odds",
+     "text": "DraftKings has Orlando -179 on the moneyline (Pickswise odds comparison); Pick Dawgz lists ORL -4.5, total 217.5. Orlando covered the closing -5.5 at Sacramento, and the game stayed under the 221.5 total (DraftKings)."
+    }
+   ],
+   "recap": {
+    "title": "Magic 107, Kings 100",
+    "text": "Orlando snapped a four-game skid at Golden 1 Center. Wagner's three capped an 18-5 run for a 52-43 lead late in the second quarter, and the Magic never trailed again. Sacramento cut a 10-point deficit to five with 44.7 seconds left before Wagner's free throws and a Carter Jr. dunk closed it out. Zach LaVine scored 31 and Darius Acuff Jr. 29 for the Kings (1-10); Domantas Sabonis went scoreless.",
+    "leaders": "Wagner 33 pts, 7 reb, 7 ast; Black 26 pts, 7 reb, 4 stl; Carter Jr. 11 reb, 3 blk"
+   },
+   "preview": {
+    "title": "Wednesday at Jazz, 9:00 PM, TV27",
+    "text": "Last stop on the four-game West trip and the second night of a back-to-back for both teams. Utah (1-10) has lost nine straight, is 1-5 at home and is without Jaren Jackson Jr. and Jusuf Nurkic. Watch the afternoon injury report for da Silva, Markkanen and George. The Magic won both meetings last season.",
+    "line": "ORL -4.5, total 217.5 (Pick Dawgz); ORL -179 moneyline (DraftKings)"
+   },
+   "watch": "Tonight at Utah, 9:00 PM (TV27, DAZN). Friday home vs Milwaukee in the NBA Cup, 7:00 PM."
+  },
+  {
    "d": "2026-11-10",
    "createdAt": "2026-11-10T11:18:05Z",
    "headline": "Bane cleared for Kings tonight; Suggs progressing but out again",

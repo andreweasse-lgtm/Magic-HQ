@@ -1,6 +1,39 @@
 {
  "items": [
   {
+   "id": "2026-11-12-magic-host-struggling-bucks-in-nba-cup-g",
+   "d": "2026-11-12",
+   "cat": "Game",
+   "headline": "Magic host struggling Bucks in NBA Cup group game Friday",
+   "summary": "Orlando (4-7) hosts Milwaukee (1-11) at 7:00 PM in its second East Group A game. The Bucks have lost eight straight. Cain and da Silva are listed day-to-day; Banchero, Suggs, Isaac, Nelson and Penda are out. Milwaukee lists Myles Turner day-to-day (rest).",
+   "source": "AP via Yahoo Sports",
+   "url": "https://sports.yahoo.com/articles/magic-bucks-meet-friday-nba-070345648.html",
+   "flag": null,
+   "addedAt": "2026-11-12T11:30:00Z"
+  },
+  {
+   "id": "2026-11-11-cain-and-da-silva-sit-at-utah-morales-ma",
+   "d": "2026-11-11",
+   "cat": "Injury",
+   "headline": "Cain and da Silva sit at Utah; Morales makes first start",
+   "summary": "Jamal Cain was downgraded to out with a left shoulder contusion and Tristan da Silva missed a second straight game with a left calf strain. Two-way guard Alex Morales made his first career start, Orlando's seventh different starting lineup in 11 games.",
+   "source": "NBC Sports (Rotoworld)",
+   "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-11/jamal-cain-shoulder-downgraded-to-out-wednesday",
+   "flag": null,
+   "addedAt": "2026-11-12T11:30:00Z"
+  },
+  {
+   "id": "2026-11-11-wagner-ties-career-high-with-38-as-magic",
+   "d": "2026-11-11",
+   "cat": "Game",
+   "headline": "Wagner ties career high with 38 as Magic beat Jazz 123-108",
+   "summary": "Franz Wagner scored 38, his third straight 30-point game, as Orlando won consecutive games for the first time this season and finished its West trip 2-2. Desmond Bane hit seven 3-pointers for 25 points and Anthony Black had 22 points and 8 assists. Orlando closed on a 25-10 run from a 98-98 tie.",
+   "source": "AP via Yahoo Sports",
+   "url": "https://sports.yahoo.com/articles/franz-wagner-scores-38-helps-044559081.html",
+   "flag": null,
+   "addedAt": "2026-11-12T11:30:00Z"
+  },
+  {
    "id": "2026-11-11-magic-about-4-5-point-favorites-at-utah",
    "d": "2026-11-11",
    "cat": "Game",
@@ -1385,28 +1418,6 @@
    "flag": null,
    "addedAt": "2026-09-23T00:47:00Z",
    "id": "2026-08-17-john-beilein-joins-as-senior-coaching-co"
-  },
-  {
-   "d": "2026-08-13",
-   "cat": "Schedule",
-   "headline": "2026-27 schedule released",
-   "summary": "Opener Oct 21 vs Atlanta. 8 national TV games, 14 back-to-backs, finale Apr 11 at Miami. NBA Cup group: Toronto, Milwaukee, Brooklyn, Detroit.",
-   "source": "WDBO",
-   "url": "https://www.wdbo.com/news/local/magic-open-season-kia-center-vs-hawks-tv27/B6TOVG3KDVDQHAIKYBR3LGP2HY/",
-   "flag": null,
-   "addedAt": "2026-09-23T00:47:00Z",
-   "id": "2026-08-13-2026-27-schedule-released"
-  },
-  {
-   "d": "2026-08-13",
-   "cat": "Player",
-   "headline": "Banchero on his partnership with Franz Wagner",
-   "summary": "The two worked out together in Los Angeles this summer. Banchero compared the duo to Tatum and Brown.",
-   "source": "Roundtable",
-   "url": "https://sports.yahoo.com/articles/paolo-banchero-details-special-plan-023953473.html",
-   "flag": null,
-   "addedAt": "2026-09-23T00:47:00Z",
-   "id": "2026-08-13-banchero-on-his-partnership-with-franz-w"
   }
  ]
 }
