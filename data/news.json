@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "2026-11-13-magic-9-5-point-favorites-over-bucks-fri",
+   "d": "2026-11-13",
+   "cat": "Game",
+   "headline": "Magic 9.5-point favorites over Bucks Friday",
+   "summary": "DraftKings lists Orlando -9.5 with a total of 223.5 and a -378 moneyline for the NBA Cup game at Kia Center. Milwaukee has lost eight straight and is 0-5 on the road.",
+   "source": "ScoresAndOdds",
+   "url": "https://www.scoresandodds.com/nba/bucks-vs-magic",
+   "flag": null,
+   "addedAt": "2026-11-13T11:17:36Z"
+  },
+  {
+   "id": "2026-11-12-suggs-upgraded-to-questionable-for-bucks",
+   "d": "2026-11-12",
+   "cat": "Injury",
+   "headline": "Suggs upgraded to questionable for Bucks game",
+   "summary": "Jalen Suggs, out eight games with a right knee bone bruise suffered Oct 25, is questionable for Friday against Milwaukee and still has to clear shootaround and warmups. Jamal Cain (shoulder) and Tristan da Silva (calf) are also questionable. Orlando is chasing its first home win of the season.",
+   "source": "Orlando Sentinel via Yahoo Sports",
+   "url": "https://sports.yahoo.com/articles/magic-return-kia-center-host-213500013.html",
+   "flag": null,
+   "addedAt": "2026-11-13T11:17:36Z"
+  },
+  {
    "id": "2026-11-12-magic-host-struggling-bucks-in-nba-cup-g",
    "d": "2026-11-12",
    "cat": "Game",
@@ -131,6 +153,17 @@
    "url": "https://www.hoopsrumors.com/2026/11/injury-notes-suggs-k-george-landale-rockets-lakers.html",
    "flag": null,
    "addedAt": "2026-11-10T11:18:05Z"
+  },
+  {
+   "id": "2026-11-08-osceola-opens-with-97-89-win-over-okc-bl",
+   "d": "2026-11-08",
+   "cat": "G League",
+   "headline": "Osceola opens with 97-89 win over OKC Blue",
+   "summary": "The Osceola Magic opened the G League season with a home win, forcing 33 turnovers and setting a franchise record with 23 steals. JD Davison scored 26 and Malaki Branham 23, both waived by Orlando after camp.",
+   "source": "Orlando Magic Daily",
+   "url": "https://orlandomagicdaily.com/osceola-magic-make-defensive-identity-clear-season-opening-win-01m6yj7enyth",
+   "flag": null,
+   "addedAt": "2026-11-13T11:17:36Z"
   },
   {
    "id": "2026-11-08-suggs-due-for-knee-re-evaluation-monday",

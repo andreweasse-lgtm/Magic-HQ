@@ -1,6 +1,49 @@
 {
  "items": [
   {
+   "d": "2026-11-12",
+   "createdAt": "2026-11-12T11:30:00Z",
+   "headline": "Wagner ties career-high 38 as Magic win at Utah; Bucks visit Friday",
+   "summary": "Orlando beat Utah 123-108 on Wednesday to finish the West trip 2-2 and win consecutive games for the first time this season. Franz Wagner tied his career high with 38 points, his third straight 30-point game, and Desmond Bane made seven 3-pointers. Jamal Cain (shoulder) and Tristan da Silva (calf) sat and are listed day-to-day. The Magic (4-7) move up to 10th in the East and host Milwaukee (1-11) in the NBA Cup on Friday.",
+   "bullets": [
+    {
+     "tag": "Game",
+     "text": "Wagner: 38 points on 13-23 shooting, 9-10 FT, 8 rebounds, with 19 in the first half. Bane: 25 points, 7-11 from three. Black: 22 points, 7 rebounds, 8 assists. Jevon Carter added 11 off the bench. Orlando won the fourth quarter 38-21 and had a 40-28 edge in the paint and 14-3 in fast-break points."
+    },
+    {
+     "tag": "Lineup",
+     "text": "Two-way guard Alex Morales made his first career start in place of Cain (5 points, 4 rebounds, 3 assists in 17 minutes). It was Orlando's seventh different starting lineup in 11 games, with only 10 players available."
+    },
+    {
+     "tag": "Health",
+     "text": "Cain was downgraded to out with a left shoulder contusion, and da Silva missed a second straight game with a left calf strain. The AP lists both day-to-day for Friday. Banchero (ninth straight game), Suggs (eighth), Isaac, Penda and Nelson remain out."
+    },
+    {
+     "tag": "Standings",
+     "text": "Orlando moves up to 10th in the East, the last Play-In spot, tied with Charlotte at 4-7 and 5.5 games behind Boston (10-2). The Magic are 4-3 on the road and still winless at home (0-4)."
+    },
+    {
+     "tag": "Next game",
+     "text": "Milwaukee has lost eight straight, most recently 123-112 at home to the Lakers on Wednesday (Tyler Herro 27, Jaime Jaquez Jr. 25). Myles Turner is listed day-to-day (rest). It is Orlando's second NBA Cup group game after beating Toronto 121-114 in the opener."
+    },
+    {
+     "tag": "Odds",
+     "text": "Orlando won by 15 as about a 4-point favorite, and the 231 combined points cleared the total (DraftKings opened ORL -4.5, total 214.5, per ESPN). Lines for Friday were not posted as of Thursday morning."
+    }
+   ],
+   "recap": {
+    "title": "Magic 123, Jazz 108",
+    "text": "Orlando won at Delta Center to finish its West trip 2-2. Utah led 34-29 after one quarter, Wagner scored 13 in the second for a 66-59 halftime lead, and the Jazz led 87-85 after three. Black and Bane opened the fourth with back-to-back 3-pointers, and from a 98-98 tie the Magic closed on a 25-10 run. Darryn Peterson scored 22 and Brice Sensabaugh 19 for Utah (1-11), which has lost 10 straight.",
+    "leaders": "Wagner 38 pts, 8 reb; Bane 25 pts, 7 threes; Black 22 pts, 7 reb, 8 ast"
+   },
+   "preview": {
+    "title": "Friday vs Bucks, 7:00 PM, TV27",
+    "text": "NBA Cup East Group A game at Kia Center. Milwaukee (1-11, 15th in the East) has lost eight straight and is 0-5 on the road. Orlando is still looking for its first home win (0-4). Watch Friday's injury report for Cain and da Silva.",
+    "line": "Not posted yet as of Thursday morning"
+   },
+   "watch": "Friday vs Milwaukee in the NBA Cup, 7:00 PM (TV27). Then Monday at Boston, 7:00 PM (Peacock)."
+  },
+  {
    "d": "2026-11-11",
    "createdAt": "2026-11-11T11:26:08Z",
    "headline": "Wagner scores 33 as Magic snap skid at Sacramento; Utah tonight",
