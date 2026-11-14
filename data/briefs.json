@@ -1,6 +1,41 @@
 {
  "items": [
   {
+   "d": "2026-11-13",
+   "createdAt": "2026-11-14T02:40:00Z",
+   "headline": "Wagner posts 35 and 12 assists as Magic beat Bucks 104-94",
+   "summary": "Orlando won its third straight and its first home game of the season, 104-94 over Milwaukee in the NBA Cup, improving to 5-7. Franz Wagner led the way with 35 points, 9 rebounds and 12 assists in the final box score available. Next up is Monday at Boston.",
+   "bullets": [
+    {
+     "tag": "Game",
+     "text": "Orlando led 84-72 after three quarters and held off a late Bucks push to win 104-94 (CBS Sports). The Magic are now 5-7 and 1-4 at Kia Center; Milwaukee fell to 1-11."
+    },
+    {
+     "tag": "Game",
+     "text": "Wagner had 35 points, 9 rebounds and 12 assists. Tyler Herro led Milwaukee with 18 and Myles Turner had 11 rebounds."
+    },
+    {
+     "tag": "Health",
+     "text": "I could not confirm from the box score whether Suggs, Cain or da Silva played; check the next injury report before Monday."
+    },
+    {
+     "tag": "Standings",
+     "text": "The Magic are 2-0 in NBA Cup East Group A play, with games at Brooklyn (Nov 20) and vs Detroit (Nov 24) left."
+    },
+    {
+     "tag": "Next game",
+     "text": "Monday at Boston, 7:00 PM (Peacock). Odds not yet confirmed."
+    }
+   ],
+   "recap": {
+    "title": "Magic 104, Bucks 94",
+    "text": "Orlando built a 12-point lead through three quarters and closed out Milwaukee for its first home win of the season.",
+    "leaders": "Wagner 35 pts, 9 reb, 12 ast; Herro 18 pts for Milwaukee"
+   },
+   "preview": null,
+   "watch": "Monday at Boston, 7:00 PM (Peacock)."
+  },
+  {
    "d": "2026-11-12",
    "createdAt": "2026-11-12T11:30:00Z",
    "headline": "Wagner ties career-high 38 as Magic win at Utah; Bucks visit Friday",
