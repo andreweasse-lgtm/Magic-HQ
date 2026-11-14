@@ -30,8 +30,8 @@
    "d": "2026-11-13",
    "opp": "MIL",
    "ha": "H",
-   "us": 104,
-   "them": 94,
+   "us": 107,
+   "them": 99,
    "wl": "W",
    "label": "vs Bucks"
   },
@@ -52,26 +52,42 @@
    "div": 3
   },
   "streak": "W3",
-  "updatedAt": "2026-11-14T11:00:00Z"
+  "updatedAt": "2026-11-14T11:20:03Z"
  },
  "brief": {
   "d": "2026-11-14",
-  "createdAt": "2026-11-14T11:00:00Z",
-  "headline": "Quiet day: Magic off until Monday at Boston",
-  "summary": "No new Magic game or confirmed roster move since Friday's 104-94 win over Milwaukee. Orlando is 5-7 and has won three straight. Next up is Monday at Boston, 7:00 PM on Peacock.",
+  "createdAt": "2026-11-14T11:20:03Z",
+  "headline": "Suggs back as Magic win three straight; next up Monday at Boston",
+  "summary": "Orlando beat Milwaukee 107-99 on Friday for its third straight win and first home win, moving to 5-7 and ninth in the East. Franz Wagner had 35 points, 9 rebounds and 12 assists, his fourth straight 30-point game, and Jalen Suggs returned off the bench after missing eight games. The Magic are off until Monday at Boston, 7:00 PM on Peacock.",
   "bullets": [
    {
-    "tag": "Next game",
-    "text": "Monday at Boston, 7:00 PM (Peacock). Odds and the injury report are not yet posted."
+    "tag": "Game",
+    "text": "Correction: Friday's final was 107-99, not 104-94 as first posted here; 104-94 was the score after Wagner's steal and layup in the final minute. Bane added 21 (6-10 from three) before fouling out, Bitadze had a season-high 12 on 5-5 shooting, and Carter Jr. and da Silva scored 12 each. Orlando won the paint 44-26 and held an opponent under 100 for the first time this season."
    },
    {
     "tag": "Health",
-    "text": "Statuses for Suggs, Cain and da Silva after Friday are unconfirmed; check Sunday's injury report."
+    "text": "Suggs played 21 minutes off the bench in his first game since Oct 25: 3 points on 1-8 shooting, 3 assists. Sweeney started Black and said Suggs's \"impact was felt immediately.\" Da Silva (calf) started and Cain (shoulder) played 4 minutes. Banchero, Isaac, Penda and Nelson sat."
+   },
+   {
+    "tag": "Rumor",
+    "text": "The Athletic's Sam Amick reports rival executives wonder whether Anthony Black could become available given Orlando's finances, but team and league sources told him the Magic are more likely to break up their veteran core than part with Black."
+   },
+   {
+    "tag": "Standings",
+    "text": "Orlando is ninth in the East, tied with Toronto at 5-7 and 5 games behind Boston (10-2). The Magic are 2-0 in NBA Cup East Group A, with Nov 20 at Brooklyn next."
+   },
+   {
+    "tag": "Odds",
+    "text": "Orlando won by 8 as a 9.5-point DraftKings favorite, and the 206 combined points stayed well under the 223.5 total. Lines for Monday are not posted yet."
    }
   ],
   "recap": null,
-  "preview": null,
-  "watch": "Monday at Boston, 7:00 PM (Peacock)."
+  "preview": {
+   "title": "Monday at Celtics, 7:00 PM, Peacock",
+   "text": "Second meeting this season; Boston won 108-97 in Orlando on Nov 1 behind Jayson Tatum's 32. The Celtics (10-2) have won five straight, most recently 98-93 at Toronto on Wednesday, and host Dallas on Sunday, so Monday is the second night of a back-to-back for them. CBS Sports lists Paul George as a game-time decision with an illness (last updated Wednesday). The game also airs on NBCSN.",
+   "line": "Not posted yet"
+  },
+  "watch": "Monday at Boston, 7:00 PM (Peacock, NBCSN). Check Sunday's injury report for Suggs's minutes and any Banchero update."
  },
  "schedule": {
   "cup": {
@@ -359,14 +375,14 @@
     "d": "2026-11-13",
     "ha": "H",
     "id": "r20261113",
-    "note": "NBA Cup East Group A",
+    "note": "NBA Cup East Group A; Suggs returned off the bench",
     "opp": "MIL",
     "res": {
-     "us": 104,
-     "them": 94,
+     "us": 107,
+     "them": 99,
      "wl": "W",
      "ot": "",
-     "note": "Wagner 35 pts, 9 reb, 12 ast; Herro 18 for MIL; first home win"
+     "note": "Wagner 35 pts, 9 reb, 12 ast; Bane 21; Jaquez Jr. 22 for MIL; first home win"
     },
     "t": "7:00 PM",
     "tag": "Cup",
@@ -382,7 +398,7 @@
     "res": null,
     "t": "7:00 PM",
     "tag": "",
-    "tv": "Peacock",
+    "tv": "Peacock, NBCSN",
     "type": "reg"
    },
    {
@@ -1218,7 +1234,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-13T11:17:36Z"
+  "updatedAt": "2026-11-14T11:20:03Z"
  },
  "standings": {
   "division": {
@@ -1313,7 +1329,7 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-13",
+   "asOf": "2026-11-14",
    "rows": [
     {
      "abbr": "BOS",
@@ -1348,42 +1364,42 @@
     {
      "abbr": "ATL",
      "w": 7,
-     "l": 5,
-     "gb": 3.0,
+     "l": 6,
+     "gb": 3.5,
      "home": "3-3",
-     "away": "4-2",
+     "away": "4-3",
      "l10": "5-5",
-     "strk": "L1"
+     "strk": "L2"
+    },
+    {
+     "abbr": "MIA",
+     "w": 6,
+     "l": 6,
+     "gb": 4.0,
+     "home": "2-3",
+     "away": "4-3",
+     "l10": "6-4",
+     "strk": "W3"
     },
     {
      "abbr": "NYK",
      "w": 6,
-     "l": 5,
-     "gb": 3.5,
+     "l": 6,
+     "gb": 4.0,
      "home": "4-3",
-     "away": "2-2",
+     "away": "2-3",
      "l10": "6-4",
-     "strk": "L1"
+     "strk": "L2"
     },
     {
      "abbr": "CLE",
      "w": 6,
-     "l": 6,
-     "gb": 4.0,
-     "home": "4-2",
-     "away": "2-4",
-     "l10": "5-5",
-     "strk": "W1"
-    },
-    {
-     "abbr": "MIA",
-     "w": 5,
-     "l": 6,
+     "l": 7,
      "gb": 4.5,
-     "home": "1-3",
-     "away": "4-3",
-     "l10": "5-5",
-     "strk": "W2"
+     "home": "4-2",
+     "away": "2-5",
+     "l10": "4-6",
+     "strk": "L1"
     },
     {
      "abbr": "TOR",
@@ -1397,12 +1413,22 @@
     },
     {
      "abbr": "ORL",
-     "w": 4,
+     "w": 5,
      "l": 7,
-     "gb": 5.5,
-     "home": "0-4",
+     "gb": 5.0,
+     "home": "1-4",
      "away": "4-3",
-     "l10": "4-6",
+     "l10": "5-5",
+     "strk": "W3"
+    },
+    {
+     "abbr": "IND",
+     "w": 5,
+     "l": 8,
+     "gb": 5.5,
+     "home": "2-4",
+     "away": "3-3",
+     "l10": "3-7",
      "strk": "W2"
     },
     {
@@ -1414,16 +1440,6 @@
      "away": "1-4",
      "l10": "3-7",
      "strk": "L1"
-    },
-    {
-     "abbr": "IND",
-     "w": 4,
-     "l": 8,
-     "gb": 6.0,
-     "home": "1-4",
-     "away": "3-3",
-     "l10": "3-7",
-     "strk": "W1"
     },
     {
      "abbr": "WAS",
@@ -1447,23 +1463,23 @@
     },
     {
      "abbr": "CHI",
-     "w": 1,
+     "w": 2,
      "l": 9,
-     "gb": 8.0,
-     "home": "0-4",
+     "gb": 7.5,
+     "home": "1-4",
      "away": "1-5",
-     "l10": "1-9",
-     "strk": "L8"
+     "l10": "2-8",
+     "strk": "W1"
     },
     {
      "abbr": "MIL",
      "w": 1,
-     "l": 11,
-     "gb": 9.0,
+     "l": 12,
+     "gb": 9.5,
      "home": "1-6",
-     "away": "0-5",
+     "away": "0-6",
      "l10": "1-9",
-     "strk": "L8"
+     "strk": "L9"
     }
    ]
   },
@@ -1564,7 +1580,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-13T11:17:36Z"
+  "updatedAt": "2026-11-14T11:20:03Z"
  },
  "roster": {
   "players": [
@@ -1594,17 +1610,17 @@
     "num": "5",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Out Friday vs Milwaukee, which would be his 10th straight missed game. ESPN lists an estimated return of Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
+    "statusNote": "Missed Friday vs Milwaukee, his 10th straight game. ESPN and CBS Sports list an estimated return of Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
    },
    {
     "age": 25,
     "contract": "$41.8M. Signed through 2029-30",
     "cur": {
-     "gp": 11,
-     "pts": 23.5,
-     "reb": 6.5,
-     "ast": 7.9,
-     "fg": 0.459
+     "gp": 12,
+     "pts": 24.4,
+     "reb": 6.8,
+     "ast": 8.3,
+     "fg": 0.471
     },
     "exp": "5",
     "ht": "6-10",
@@ -1628,11 +1644,11 @@
     "age": 28,
     "contract": "$39.4M. Signed through 2028-29",
     "cur": {
-     "gp": 10,
-     "pts": 18.0,
-     "reb": 4.0,
-     "ast": 2.4,
-     "fg": 0.392
+     "gp": 11,
+     "pts": 18.3,
+     "reb": 4.1,
+     "ast": 2.5,
+     "fg": 0.404
     },
     "exp": "6",
     "ht": "6-6",
@@ -1656,15 +1672,15 @@
     "age": 25,
     "contract": "$32.4M. Signed through 2029-30",
     "cur": {
-     "gp": 3,
-     "pts": 8.0,
-     "reb": 5.0,
-     "ast": 5.7,
-     "fg": 0.357
+     "gp": 4,
+     "pts": 6.8,
+     "reb": 4.3,
+     "ast": 5.0,
+     "fg": 0.306
     },
     "exp": "5",
     "ht": "6-5",
-    "injury": "Right knee bone bruise",
+    "injury": "",
     "kind": "Standard",
     "last": {
      "ast": 5.5,
@@ -1677,18 +1693,18 @@
     "note": "Led the team in assists and steals. Starting point guard job is a camp storyline.",
     "num": "4",
     "pos": "G",
-    "status": "Questionable",
-    "statusNote": "Upgraded to questionable for Friday vs Milwaukee after missing eight straight games; must clear shootaround and warmups to play (RotoWire). Mild bone bruise suffered Oct 25 at New York. The team said Nov 9 he was \"progressing positively\" in return-to-play protocols (Orlando Sentinel)."
+    "status": "Healthy",
+    "statusNote": ""
    },
    {
     "age": 22,
     "contract": "$10.1M. Final rookie-scale year. No extension; restricted free agent in 2027",
     "cur": {
-     "gp": 8,
-     "pts": 17.8,
-     "reb": 6.0,
-     "ast": 5.5,
-     "fg": 0.48
+     "gp": 9,
+     "pts": 16.3,
+     "reb": 5.6,
+     "ast": 5.4,
+     "fg": 0.449
     },
     "exp": "3",
     "ht": "6-7",
@@ -1712,11 +1728,11 @@
     "age": 27,
     "contract": "$18.1M. Through 2028-29 (team option in 2028-29)",
     "cur": {
-     "gp": 11,
-     "pts": 13.6,
-     "reb": 9.5,
-     "ast": 1.2,
-     "fg": 0.609
+     "gp": 12,
+     "pts": 13.5,
+     "reb": 9.3,
+     "ast": 1.1,
+     "fg": 0.604
     },
     "exp": "8",
     "ht": "6-10",
@@ -1740,11 +1756,11 @@
     "age": 35,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 11,
+     "gp": 12,
      "pts": 2.7,
      "reb": 2.8,
-     "ast": 1.2,
-     "fg": 0.375
+     "ast": 1.1,
+     "fg": 0.361
     },
     "exp": "15",
     "ht": "6-9",
@@ -1768,15 +1784,15 @@
     "age": 25,
     "contract": "$4.0M. 2027-28 team option ($6.1M) exercised Oct 21; signed through 2027-28",
     "cur": {
-     "gp": 9,
-     "pts": 15.1,
-     "reb": 3.7,
+     "gp": 10,
+     "pts": 14.8,
+     "reb": 3.9,
      "ast": 1.7,
-     "fg": 0.455
+     "fg": 0.447
     },
     "exp": "2",
     "ht": "6-8",
-    "injury": "Left calf strain",
+    "injury": "",
     "kind": "Standard",
     "last": {
      "ast": 1.6,
@@ -1789,18 +1805,18 @@
     "note": "Played World Cup qualifiers for Germany in August.",
     "num": "23",
     "pos": "F",
-    "status": "Questionable",
-    "statusNote": "Questionable for Friday vs Milwaukee on the official injury report. Has missed the last two games (at Sacramento, at Utah). No timeline announced."
+    "status": "Healthy",
+    "statusNote": ""
    },
    {
     "age": 27,
     "contract": "$7.6M. Final year, UFA 2027",
     "cur": {
-     "gp": 9,
-     "pts": 3.6,
+     "gp": 10,
+     "pts": 4.4,
      "reb": 3.7,
      "ast": 0.6,
-     "fg": 0.556
+     "fg": 0.652
     },
     "exp": "7",
     "ht": "6-11",
@@ -1840,17 +1856,17 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Out Friday vs Milwaukee (left knee injury management). Assigned to Osceola and recalled Nov 1, presumably for practice; no defined timeline for his debut (RotoWire). Told the Orlando Sentinel (Oct 28) he is up to 3-on-3, with 4-on-4 and 5-on-5 next, and expects to play this season. Has not played since March 12."
+    "statusNote": "Did not play Friday vs Milwaukee (left knee injury management). Assigned to Osceola and recalled Nov 1, presumably for practice; no defined timeline for his debut (RotoWire). Told the Orlando Sentinel (Oct 28) he is up to 3-on-3, with 4-on-4 and 5-on-5 next, and expects to play this season. Has not played since March 12."
    },
    {
     "age": 31,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 7,
-     "pts": 4.4,
-     "reb": 0.9,
-     "ast": 1.7,
-     "fg": 0.314
+     "gp": 8,
+     "pts": 4.5,
+     "reb": 1.0,
+     "ast": 1.8,
+     "fg": 0.325
     },
     "exp": "8",
     "ht": "6-0",
@@ -1874,15 +1890,15 @@
     "age": 27,
     "contract": "$2.6M. Not fully guaranteed until Jan 10",
     "cur": {
-     "gp": 10,
-     "pts": 7.0,
-     "reb": 3.1,
-     "ast": 0.4,
-     "fg": 0.414
+     "gp": 11,
+     "pts": 6.4,
+     "reb": 3.2,
+     "ast": 0.5,
+     "fg": 0.407
     },
     "exp": "4",
     "ht": "6-7",
-    "injury": "Left shoulder contusion",
+    "injury": "",
     "kind": "Standard",
     "last": {
      "ast": 0.7,
@@ -1895,8 +1911,8 @@
     "note": "Started Nov 10 at Sacramento (sixth starting lineup of the season). Contract guarantee date is Jan 10.",
     "num": "8",
     "pos": "F",
-    "status": "Questionable",
-    "statusNote": "Questionable for Friday vs Milwaukee on the official injury report. Missed Wednesday at Utah after being downgraded to out."
+    "status": "Healthy",
+    "statusNote": ""
    },
    {
     "age": 20,
@@ -1946,7 +1962,7 @@
     "num": "93",
     "pos": "G-F",
     "status": "Out",
-    "statusNote": "Out Friday vs Milwaukee. Seen doing shooting drills after shootaround Oct 28 (Orlando Sentinel). Expected to miss significant time. CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Missed Friday vs Milwaukee. Seen doing shooting drills after shootaround Oct 28 (Orlando Sentinel). Expected to miss significant time. CBS Sports lists him out until at least Nov. 18."
    },
    {
     "age": 26,
@@ -2024,11 +2040,11 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Out Friday vs Milwaukee (left ankle injury recovery). Rehabbing a left ankle fracture from Summer League and has not played this preseason or season. Osceola said he will join the G League team at some point. CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Missed Friday vs Milwaukee (left ankle injury recovery). Rehabbing a left ankle fracture from Summer League and has not played this preseason or season. Osceola said he will join the G League team at some point. CBS Sports lists him out until at least Nov. 18."
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-13T11:17:36Z"
+  "updatedAt": "2026-11-14T11:20:03Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",

@@ -1,13 +1,35 @@
 {
  "items": [
   {
-   "id": "2026-11-13-magic-beat-bucks-104-94",
+   "id": "2026-11-13-amick-rivals-eye-black-but-magic-likely-to",
+   "d": "2026-11-13",
+   "cat": "Trade/Rumor",
+   "headline": "Amick: rivals eye Black, but Magic more likely to move veterans",
+   "summary": "The Athletic's Sam Amick reports Orlando's slow start and tight finances have rival executives wondering whether Anthony Black, headed for restricted free agency, could become available. Team and league sources told him the Magic are \"more likely to break up its veteran core than part with Black.\"",
+   "source": "The Athletic",
+   "url": "https://www.nytimes.com/athletic/7778064/2026/11/13/nba-trade-buzz-kyrie-irving-anthony-davis/",
+   "flag": "rumor",
+   "addedAt": "2026-11-14T11:20:03Z"
+  },
+  {
+   "id": "2026-11-13-suggs-returns-off-the-bench-after-missi",
+   "d": "2026-11-13",
+   "cat": "Injury",
+   "headline": "Suggs returns off the bench after missing eight games",
+   "summary": "Jalen Suggs played about 21 minutes in short stints against Milwaukee in his first game since bruising his right knee Oct 25, finishing with 3 points on 1-of-8 shooting and 3 assists. Sweeney started Anthony Black and said Suggs's \"impact was felt immediately.\" Tristan da Silva (calf) also returned and started.",
+   "source": "Orlando Sentinel via Yahoo Sports",
+   "url": "https://sports.yahoo.com/articles/beede-breakdown-magic-down-bucks-023600464.html",
+   "flag": null,
+   "addedAt": "2026-11-14T11:20:03Z"
+  },
+  {
+   "id": "2026-11-13-magic-beat-bucks-107-99-for-first-home-win",
    "d": "2026-11-13",
    "cat": "Game",
-   "headline": "Magic beat Bucks 104-94 for first home win",
-   "summary": "Franz Wagner scored 35 with 12 assists as Orlando won its third straight and improved to 5-7. Tyler Herro led Milwaukee with 18.",
-   "source": "CBS Sports",
-   "url": "https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261113_MIL@ORL/",
+   "headline": "Magic beat Bucks 107-99 for first home win",
+   "summary": "Franz Wagner had 35 points, 12 assists and 9 rebounds, one rebound shy of a triple-double, as Orlando won its third straight and improved to 5-7 and 2-0 in NBA Cup group play. Desmond Bane scored 21, and Milwaukee lost its ninth straight to fall to 1-12.",
+   "source": "AP via ABC News",
+   "url": "https://abcnews.com/Sports/wireStory/wagner-falls-rebound-shy-triple-double-magics-107-138132370",
    "flag": null,
    "addedAt": "2026-11-14T02:40:00Z"
   },
