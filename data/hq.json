@@ -2,7 +2,7 @@
  "meta": {
   "away": "4-3",
   "coach": "Sean Sweeney",
-  "home": "0-4",
+  "home": "1-4",
   "keyDates": [
    {
     "d": "2027-01-10",
@@ -25,15 +25,15 @@
     "label": "Regular season ends"
    }
   ],
-  "l10": "4-6",
+  "l10": "5-5",
   "lastGame": {
-   "d": "2026-11-11",
-   "opp": "UTA",
-   "ha": "A",
-   "us": 123,
-   "them": 108,
+   "d": "2026-11-13",
+   "opp": "MIL",
+   "ha": "H",
+   "us": 104,
+   "them": 94,
    "wl": "W",
-   "label": "at Jazz"
+   "label": "vs Bucks"
   },
   "lastSeason": {
    "l": 37,
@@ -41,9 +41,9 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 4-7, 9th in the East. Tonight vs Milwaukee (NBA Cup), 7:00 PM.",
+  "phaseDetail": "Magic 5-7, winners of three straight. Next: Monday at Boston, 7:00 PM.",
   "record": {
-   "w": 4,
+   "w": 5,
    "l": 7
   },
   "season": "2026-27",
@@ -51,47 +51,43 @@
    "conf": 9,
    "div": 3
   },
-  "streak": "W2",
-  "updatedAt": "2026-11-13T18:34:38Z"
+  "streak": "W3",
+  "updatedAt": "2026-11-14T02:40:00Z"
  },
  "brief": {
   "d": "2026-11-13",
-  "createdAt": "2026-11-13T11:17:36Z",
-  "headline": "Suggs upgraded to questionable as Magic host Bucks in NBA Cup tonight",
-  "summary": "Jalen Suggs, out the last eight games with a right knee bone bruise, was upgraded to questionable for tonight's NBA Cup game against Milwaukee and still has to clear shootaround and warmups. Jamal Cain (shoulder) and Tristan da Silva (calf) are also questionable. Orlando (4-7) moved up to 9th in the East after Charlotte lost Thursday, and goes for its first home win of the season against the 1-11 Bucks.",
+  "createdAt": "2026-11-14T02:40:00Z",
+  "headline": "Wagner posts 35 and 12 assists as Magic beat Bucks 104-94",
+  "summary": "Orlando won its third straight and its first home game of the season, 104-94 over Milwaukee in the NBA Cup, improving to 5-7. Franz Wagner led the way with 35 points, 9 rebounds and 12 assists in the final box score available. Next up is Monday at Boston.",
   "bullets": [
    {
-    "tag": "Health",
-    "text": "Suggs was upgraded to questionable Thursday. He has not played since hurting his right knee Oct 25 at New York, and the team said Monday he was \"progressing positively\" with increased court work. He needs to get through shootaround and warmups before being cleared (Orlando Sentinel, RotoWire)."
-   },
-   {
-    "tag": "Health",
-    "text": "Cain (left shoulder contusion) and da Silva (left calf strain) are questionable on the official injury report after both sat Wednesday at Utah. Banchero, Isaac, Penda and Nelson are out."
-   },
-   {
-    "tag": "Next game",
-    "text": "Milwaukee (1-11, 15th in the East) has lost eight straight by an average of 19.1 points under first-year coach Taylor Jenkins and is 0-5 on the road. Tyler Herro scored 27 in Wednesday's 123-112 home loss to the Lakers. The Bucks had no players on the overnight NBA injury report."
-   },
-   {
-    "tag": "Odds",
-    "text": "DraftKings has Orlando -9.5, total 223.5, moneyline -378. The line opened at ORL -9.5 (Covers). Orlando is 5-6 against the spread this season, Milwaukee 4-8."
-   },
-   {
-    "tag": "Standings",
-    "text": "Charlotte lost at Phoenix on Thursday, so Orlando moves up to 9th in the East, a half-game behind 8th-place Toronto (5-7) and a half-game ahead of Charlotte and Indiana (both 4-8). Boston (10-2) leads the East."
+    "tag": "Game",
+    "text": "Orlando led 84-72 after three quarters and held off a late Bucks push to win 104-94 (CBS Sports). The Magic are now 5-7 and 1-4 at Kia Center; Milwaukee fell to 1-11."
    },
    {
     "tag": "Game",
-    "text": "Franz Wagner has scored 30 or more in three straight games and ranks fourth in the league in fourth-quarter scoring at 7.8 points per game (Orlando Sentinel). Orlando is 0-4 at Kia Center this season."
+    "text": "Wagner had 35 points, 9 rebounds and 12 assists. Tyler Herro led Milwaukee with 18 and Myles Turner had 11 rebounds."
+   },
+   {
+    "tag": "Health",
+    "text": "I could not confirm from the box score whether Suggs, Cain or da Silva played; check the next injury report before Monday."
+   },
+   {
+    "tag": "Standings",
+    "text": "The Magic are 2-0 in NBA Cup East Group A play, with games at Brooklyn (Nov 20) and vs Detroit (Nov 24) left."
+   },
+   {
+    "tag": "Next game",
+    "text": "Monday at Boston, 7:00 PM (Peacock). Odds not yet confirmed."
    }
   ],
-  "recap": null,
-  "preview": {
-   "title": "Friday vs Bucks, 7:00 PM, TV27",
-   "text": "NBA Cup East Group A game at Kia Center, also streaming on DAZN. Orlando is 1-0 in group play after beating Toronto Oct 30, with games at Brooklyn (Nov 20) and vs Detroit (Nov 24) still to come. Watch the pregame updates on Suggs, Cain and da Silva; two-way guard Alex Morales started in Cain's spot at Utah.",
-   "line": "ORL -9.5, total 223.5, ML -378 (DraftKings)"
+  "recap": {
+   "title": "Magic 104, Bucks 94",
+   "text": "Orlando built a 12-point lead through three quarters and closed out Milwaukee for its first home win of the season.",
+   "leaders": "Wagner 35 pts, 9 reb, 12 ast; Herro 18 pts for Milwaukee"
   },
-  "watch": "Tonight vs Milwaukee in the NBA Cup, 7:00 PM (TV27, DAZN). Then Monday at Boston, 7:00 PM (Peacock)."
+  "preview": null,
+  "watch": "Monday at Boston, 7:00 PM (Peacock)."
  },
  "schedule": {
   "cup": {
@@ -381,7 +377,13 @@
     "id": "r20261113",
     "note": "NBA Cup East Group A",
     "opp": "MIL",
-    "res": null,
+    "res": {
+     "us": 104,
+     "them": 94,
+     "wl": "W",
+     "ot": "",
+     "note": "Wagner 35 pts, 9 reb, 12 ast; Herro 18 for MIL; first home win"
+    },
     "t": "7:00 PM",
     "tag": "Cup",
     "tv": "TV27, DAZN",
