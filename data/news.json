@@ -1,6 +1,39 @@
 {
  "items": [
   {
+   "id": "2026-11-14-wagner-joins-magic-greats-with-fourth-st",
+   "d": "2026-11-14",
+   "cat": "Player",
+   "headline": "Wagner joins Magic greats with fourth straight 30-point game",
+   "summary": "Franz Wagner is the fifth player in Magic history with 30 or more points in four straight games, joining Tracy McGrady, Shaquille O'Neal, Paolo Banchero and Dwight Howard. Desmond Bane, who has made six or more threes in back-to-back games, said he wants Wagner named East Player of the Week. The Magic practice Sunday before Monday's game at Boston.",
+   "source": "Orlando Sentinel via Yahoo Sports",
+   "url": "https://sports.yahoo.com/articles/franz-wagner-historic-heater-magic-205400631.html",
+   "flag": null,
+   "addedAt": "2026-11-15T11:13:38Z"
+  },
+  {
+   "id": "2026-11-14-penda-making-progress-but-still-has-no-t",
+   "d": "2026-11-14",
+   "cat": "Injury",
+   "headline": "Penda making progress but still has no timetable",
+   "summary": "Noah Penda (partially torn right hamstring) is making progress but remains without a timetable to return, per the Orlando Sentinel's Jason Beede.",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/noah-penda-injury-remains-without-timetable-539071",
+   "flag": null,
+   "addedAt": "2026-11-15T11:13:38Z"
+  },
+  {
+   "id": "2026-11-14-celtics-paul-george-cleared-ahead-of-mag",
+   "d": "2026-11-14",
+   "cat": "Game",
+   "headline": "Celtics' Paul George cleared ahead of Magic visit",
+   "summary": "Paul George (illness) is off Boston's injury report for Sunday's home game against Dallas after missing one game. The Celtics play the Magic Monday on no rest.",
+   "source": "NBC Sports (Rotoworld)",
+   "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-14/paul-george-illness-off-injury-report-vs-dallas",
+   "flag": null,
+   "addedAt": "2026-11-15T11:13:38Z"
+  },
+  {
    "id": "2026-11-13-amick-rivals-eye-black-but-magic-likely-to",
    "d": "2026-11-13",
    "cat": "Trade/Rumor",

@@ -52,42 +52,38 @@
    "div": 3
   },
   "streak": "W3",
-  "updatedAt": "2026-11-15T01:58:30Z"
+  "updatedAt": "2026-11-15T11:13:38Z"
  },
  "brief": {
-  "d": "2026-11-14",
-  "createdAt": "2026-11-14T11:20:03Z",
-  "headline": "Suggs back as Magic win three straight; next up Monday at Boston",
-  "summary": "Orlando beat Milwaukee 107-99 on Friday for its third straight win and first home win, moving to 5-7 and ninth in the East. Franz Wagner had 35 points, 9 rebounds and 12 assists, his fourth straight 30-point game, and Jalen Suggs returned off the bench after missing eight games. The Magic are off until Monday at Boston, 7:00 PM on Peacock.",
+  "d": "2026-11-15",
+  "createdAt": "2026-11-15T11:13:38Z",
+  "headline": "Magic practice Sunday before Monday visit to East-leading Boston",
+  "summary": "No game for Orlando on Saturday. The Magic (5-7, ninth in the East) practice Sunday, then travel to Boston for Monday at 7:00 PM on Peacock. Franz Wagner's four straight 30-point games put him alongside McGrady, O'Neal, Banchero and Howard in team history. Boston hosts Dallas on Sunday night, so the Celtics will be on no rest Monday.",
   "bullets": [
    {
     "tag": "Game",
-    "text": "Correction: Friday's final was 107-99, not 104-94 as first posted here; 104-94 was the score after Wagner's steal and layup in the final minute. Bane added 21 (6-10 from three) before fouling out, Bitadze had a season-high 12 on 5-5 shooting, and Carter Jr. and da Silva scored 12 each. Orlando won the paint 44-26 and held an opponent under 100 for the first time this season."
+    "text": "Wagner is the fifth player in Magic history with 30 or more points in four straight games, joining Tracy McGrady, Shaquille O'Neal, Paolo Banchero and Dwight Howard. He has 10 or more assists in five of 12 games this season. Bane, who has hit six or more threes in back-to-back games, said he wants Wagner named East Player of the Week (Orlando Sentinel)."
    },
    {
     "tag": "Health",
-    "text": "Suggs played 21 minutes off the bench in his first game since Oct 25: 3 points on 1-8 shooting, 3 assists. Sweeney started Black and said Suggs's \"impact was felt immediately.\" Da Silva (calf) started and Cain (shoulder) played 4 minutes. Banchero, Isaac, Penda and Nelson sat."
-   },
-   {
-    "tag": "Rumor",
-    "text": "The Athletic's Sam Amick reports rival executives wonder whether Anthony Black could become available given Orlando's finances, but team and league sources told him the Magic are more likely to break up their veteran core than part with Black."
+    "text": "Penda (partially torn right hamstring) is making progress but still has no timetable (Orlando Sentinel). Banchero (right high ankle sprain), Isaac (left knee) and Nelson (left ankle) remain out. Suggs, da Silva and Cain all played Friday."
    },
    {
     "tag": "Standings",
-    "text": "Orlando is ninth in the East, tied with Toronto at 5-7 and 5 games behind Boston (10-2). The Magic are 2-0 in NBA Cup East Group A, with Nov 20 at Brooklyn next."
+    "text": "Saturday: Miami beat Detroit 137-117 for its fourth straight win, Cleveland beat Dallas 127-117 with all five starters out, Chicago won at Minnesota and Brooklyn lost at Memphis. Orlando is still ninth, tied with Toronto at 5-7 and one game behind Cleveland (7-7) and New York (6-6) for sixth."
    },
    {
-    "tag": "Odds",
-    "text": "Orlando won by 8 as a 9.5-point DraftKings favorite, and the 206 combined points stayed well under the 223.5 total. Lines for Monday are not posted yet."
+    "tag": "Next game",
+    "text": "Boston (10-2) has won five straight and is 5-0 at home. Paul George (illness) is off the injury report for Sunday vs Dallas after missing one game (Rotoworld). Monday's line is not posted yet."
    }
   ],
   "recap": null,
   "preview": {
    "title": "Monday at Celtics, 7:00 PM, Peacock",
-   "text": "Second meeting this season; Boston won 108-97 in Orlando on Nov 1 behind Jayson Tatum's 32. The Celtics (10-2) have won five straight, most recently 98-93 at Toronto on Wednesday, and host Dallas on Sunday, so Monday is the second night of a back-to-back for them. CBS Sports lists Paul George as a game-time decision with an illness (last updated Wednesday). The game also airs on NBCSN.",
+   "text": "Second meeting this season; Boston won 108-97 in Orlando on Nov 1 behind Jayson Tatum's 32. The Celtics (10-2) have won five straight and are unbeaten at TD Garden (5-0). They host Dallas on Sunday night, so Monday is the second night of a back-to-back for them. Paul George is off the injury report after missing one game with an illness. The game also airs on NBCSN.",
    "line": "Not posted yet"
   },
-  "watch": "Monday at Boston, 7:00 PM (Peacock, NBCSN). Check Sunday's injury report for Suggs's minutes and any Banchero update."
+  "watch": "Monday at Boston, 7:00 PM (Peacock, NBCSN). Look for Sunday's injury report on Banchero and Penda, and the line once Boston finishes with Dallas."
  },
  "schedule": {
   "cup": {
@@ -1234,7 +1230,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-14T11:20:03Z"
+  "updatedAt": "2026-11-15T11:13:38Z"
  },
  "standings": {
   "division": {
@@ -1329,7 +1325,7 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-14",
+   "asOf": "2026-11-15",
    "rows": [
     {
      "abbr": "BOS",
@@ -1354,12 +1350,22 @@
     {
      "abbr": "DET",
      "w": 8,
-     "l": 3,
-     "gb": 1.5,
+     "l": 4,
+     "gb": 2.0,
      "home": "3-2",
-     "away": "5-1",
+     "away": "5-2",
+     "l10": "6-4",
+     "strk": "L1"
+    },
+    {
+     "abbr": "MIA",
+     "w": 7,
+     "l": 6,
+     "gb": 3.5,
+     "home": "3-3",
+     "away": "4-3",
      "l10": "7-3",
-     "strk": "W2"
+     "strk": "W4"
     },
     {
      "abbr": "ATL",
@@ -1372,14 +1378,14 @@
      "strk": "L2"
     },
     {
-     "abbr": "MIA",
-     "w": 6,
-     "l": 6,
+     "abbr": "CLE",
+     "w": 7,
+     "l": 7,
      "gb": 4.0,
-     "home": "2-3",
-     "away": "4-3",
-     "l10": "6-4",
-     "strk": "W3"
+     "home": "5-2",
+     "away": "2-5",
+     "l10": "4-6",
+     "strk": "W1"
     },
     {
      "abbr": "NYK",
@@ -1390,16 +1396,6 @@
      "away": "2-3",
      "l10": "6-4",
      "strk": "L2"
-    },
-    {
-     "abbr": "CLE",
-     "w": 6,
-     "l": 7,
-     "gb": 4.5,
-     "home": "4-2",
-     "away": "2-5",
-     "l10": "4-6",
-     "strk": "L1"
     },
     {
      "abbr": "TOR",
@@ -1454,22 +1450,22 @@
     {
      "abbr": "BKN",
      "w": 3,
-     "l": 8,
-     "gb": 6.5,
+     "l": 9,
+     "gb": 7.0,
      "home": "1-3",
-     "away": "2-5",
+     "away": "2-6",
      "l10": "3-7",
-     "strk": "W1"
+     "strk": "L1"
     },
     {
      "abbr": "CHI",
-     "w": 2,
+     "w": 3,
      "l": 9,
-     "gb": 7.5,
+     "gb": 7.0,
      "home": "1-4",
-     "away": "1-5",
+     "away": "2-5",
      "l10": "2-8",
-     "strk": "W1"
+     "strk": "W2"
     },
     {
      "abbr": "MIL",
@@ -1580,7 +1576,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-14T11:20:03Z"
+  "updatedAt": "2026-11-15T11:13:38Z"
  },
  "roster": {
   "players": [
@@ -1610,7 +1606,7 @@
     "num": "5",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Missed Friday vs Milwaukee, his 10th straight game. ESPN and CBS Sports list an estimated return of Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
+    "statusNote": "Missed Friday vs Milwaukee, his 10th straight game, and remains out (Orlando Sentinel, Nov 14). ESPN and CBS Sports list an estimated return of Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
    },
    {
     "age": 25,
@@ -1962,7 +1958,7 @@
     "num": "93",
     "pos": "G-F",
     "status": "Out",
-    "statusNote": "Missed Friday vs Milwaukee. Seen doing shooting drills after shootaround Oct 28 (Orlando Sentinel). Expected to miss significant time. CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Missed Friday vs Milwaukee. Team says he is making progress but there is still no timetable for his return (Orlando Sentinel, Nov 14). CBS Sports lists him out until at least Nov. 18."
    },
    {
     "age": 26,
@@ -2044,7 +2040,7 @@
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-14T11:20:03Z"
+  "updatedAt": "2026-11-15T11:13:38Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
