@@ -1,6 +1,61 @@
 {
  "items": [
   {
+   "id": "2026-11-16-celtics-9-5-point-favorites-over-magic-t",
+   "d": "2026-11-16",
+   "cat": "Game",
+   "headline": "Celtics 9.5-point favorites over Magic tonight",
+   "summary": "FanDuel lists Boston -9.5 with a total of 210.5 for Monday at TD Garden. The moneyline is Celtics -400, Magic +315.",
+   "source": "FanDuel Research",
+   "url": "https://www.fanduel.com/research/nba-predictions-odds-11-16-2026",
+   "flag": null,
+   "addedAt": "2026-11-16T11:17:48Z"
+  },
+  {
+   "id": "2026-11-15-banchero-penda-isaac-and-nelson-ruled-ou",
+   "d": "2026-11-15",
+   "cat": "Injury",
+   "headline": "Banchero, Penda, Isaac and Nelson ruled out at Boston",
+   "summary": "All four are listed out on the official NBA injury report for Monday at Boston. It will be the 11th straight game Banchero has missed with his right high ankle sprain.",
+   "source": "NBA official injury report",
+   "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_09_00PM.pdf",
+   "flag": null,
+   "addedAt": "2026-11-16T11:17:48Z"
+  },
+  {
+   "id": "2026-11-15-celtics-rout-mavericks-131-94-for-sixth",
+   "d": "2026-11-15",
+   "cat": "Game",
+   "headline": "Celtics rout Mavericks 131-94 for sixth straight win",
+   "summary": "Jayson Tatum scored 32 in 30 minutes as Boston opened with a 42-9 first quarter. The Celtics host Orlando on Monday on the second night of a back-to-back.",
+   "source": "CBS Boston",
+   "url": "https://www.cbsnews.com/boston/news/boston-celtics-dallas-mavericks/",
+   "flag": null,
+   "addedAt": "2026-11-16T11:17:48Z"
+  },
+  {
+   "id": "2026-11-15-magic-rebounding-turnaround-faces-boston",
+   "d": "2026-11-15",
+   "cat": "Game",
+   "headline": "Magic rebounding turnaround faces Boston test",
+   "summary": "Orlando has allowed 6.8 offensive rebounds per game over its last six games, down from 13.7 in the first six, and its turnovers are down to 13.8 per game over the last four. Sweeney flagged Boston's 3-point shooting and offensive rebounding; the Celtics had 14 offensive boards in their Nov 1 win in Orlando.",
+   "source": "Orlando Sentinel via Yahoo Sports",
+   "url": "https://sports.yahoo.com/articles/riding-three-game-win-streak-212200491.html",
+   "flag": null,
+   "addedAt": "2026-11-16T11:17:48Z"
+  },
+  {
+   "id": "2026-11-15-sweeney-wagner-playing-at-an-all-star-al",
+   "d": "2026-11-15",
+   "cat": "Player",
+   "headline": "Sweeney: Wagner playing at an \"All-Star, All-NBA level\"",
+   "summary": "Wagner is averaging 24.4 points through 12 games, the best stretch of his career, while running Sweeney's more structured offense with Banchero out.",
+   "source": "Magic On SI via Yahoo Sports",
+   "url": "https://sports.yahoo.com/articles/franz-wagner-pushing-magic-back-204443308.html",
+   "flag": null,
+   "addedAt": "2026-11-16T11:17:48Z"
+  },
+  {
    "id": "2026-11-14-wagner-joins-magic-greats-with-fourth-st",
    "d": "2026-11-14",
    "cat": "Player",
@@ -1506,17 +1561,6 @@
    "flag": null,
    "addedAt": "2026-09-23T00:47:00Z",
    "id": "2026-08-21-bane-says-sweeney-flew-to-texas-to-visit"
-  },
-  {
-   "d": "2026-08-17",
-   "cat": "Coaching",
-   "headline": "John Beilein joins as senior coaching consultant",
-   "summary": "The former Michigan coach will assist Sweeney. The two worked together in Detroit.",
-   "source": "RealGM",
-   "url": "https://basketball.realgm.com/wiretap/287029/John-Beilein-Joins-Magic-Staff-As-Senior-Coaching-Consultant",
-   "flag": null,
-   "addedAt": "2026-09-23T00:47:00Z",
-   "id": "2026-08-17-john-beilein-joins-as-senior-coaching-co"
   }
  ]
 }

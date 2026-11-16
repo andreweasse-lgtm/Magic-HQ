@@ -41,49 +41,57 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 5-7, winners of three straight. Next: Monday at Boston, 7:00 PM.",
+  "phaseDetail": "Magic 5-7, eighth in the East, winners of three straight. Tonight at Boston, 7:00 PM.",
   "record": {
    "w": 5,
    "l": 7
   },
   "season": "2026-27",
   "standing": {
-   "conf": 9,
+   "conf": 8,
    "div": 3
   },
   "streak": "W3",
-  "updatedAt": "2026-11-16T02:13:43Z"
+  "updatedAt": "2026-11-16T11:17:48Z"
  },
  "brief": {
-  "d": "2026-11-15",
-  "createdAt": "2026-11-15T11:13:38Z",
-  "headline": "Magic practice Sunday before Monday visit to East-leading Boston",
-  "summary": "No game for Orlando on Saturday. The Magic (5-7, ninth in the East) practice Sunday, then travel to Boston for Monday at 7:00 PM on Peacock. Franz Wagner's four straight 30-point games put him alongside McGrady, O'Neal, Banchero and Howard in team history. Boston hosts Dallas on Sunday night, so the Celtics will be on no rest Monday.",
+  "d": "2026-11-16",
+  "createdAt": "2026-11-16T11:17:48Z",
+  "headline": "Magic take three-game win streak to 11-2 Boston tonight",
+  "summary": "Orlando (5-7) moved up to eighth in the East on Sunday without playing, after Toronto lost to New York. Tonight the Magic visit Boston at 7:00 PM on Peacock. The Celtics routed Dallas 131-94 on Sunday for their sixth straight win and are on the second night of a back-to-back. Banchero, Penda, Isaac and Nelson are all out, and FanDuel has Boston by 9.5.",
   "bullets": [
    {
-    "tag": "Game",
-    "text": "Wagner is the fifth player in Magic history with 30 or more points in four straight games, joining Tracy McGrady, Shaquille O'Neal, Paolo Banchero and Dwight Howard. He has 10 or more assists in five of 12 games this season. Bane, who has hit six or more threes in back-to-back games, said he wants Wagner named East Player of the Week (Orlando Sentinel)."
-   },
-   {
     "tag": "Health",
-    "text": "Penda (partially torn right hamstring) is making progress but still has no timetable (Orlando Sentinel). Banchero (right high ankle sprain), Isaac (left knee) and Nelson (left ankle) remain out. Suggs, da Silva and Cain all played Friday."
+    "text": "Official injury report: Banchero (right high ankle sprain), Penda (partially torn right hamstring), Isaac (left knee) and Nelson (left ankle) are out tonight. It will be the 11th straight game Banchero has missed. Penda said Saturday he is running but not yet doing full-speed sprints (Orlando Magic Daily). Boston had not filed its report as of Sunday night."
    },
    {
     "tag": "Standings",
-    "text": "Saturday: Miami beat Detroit 137-117 for its fourth straight win, Cleveland beat Dallas 127-117 with all five starters out, Chicago won at Minnesota and Brooklyn lost at Memphis. Orlando is still ninth, tied with Toronto at 5-7 and one game behind Cleveland (7-7) and New York (6-6) for sixth."
+    "text": "Sunday: New York won 112-108 in overtime at Toronto and Atlanta won at Milwaukee. Orlando moved up to eighth, half a game ahead of Toronto (5-8), one game behind Cleveland (7-7) and 1.5 behind Miami and New York (both 7-6)."
    },
    {
     "tag": "Next game",
-    "text": "Boston (10-2) has won five straight and is 5-0 at home. Paul George (illness) is off the injury report for Sunday vs Dallas after missing one game (Rotoworld). Monday's line is not posted yet."
+    "text": "Boston (11-2) beat Dallas 131-94 on Sunday after a 42-9 first quarter; Jayson Tatum scored 32 in 30 minutes. The Celtics are 6-0 at home and have won 11 of 12."
+   },
+   {
+    "tag": "Game",
+    "text": "Orlando has allowed 6.8 offensive rebounds per game over its last six games, down from 13.7 in the first six. Boston had 14 offensive boards and 21 points off 18 Magic turnovers in its 108-97 win in Orlando on Nov 1, when Wagner shot 5 of 20 (Orlando Sentinel)."
+   },
+   {
+    "tag": "Odds",
+    "text": "FanDuel futures, Monday: win total 40.5 (down from 41.5 on Nov 1), make playoffs -120, Southeast +280, East +2700, title +8000."
+   },
+   {
+    "tag": "Game",
+    "text": "Wagner goes for a fifth straight 30-point game. He averaged 35.3 points in three wins last week; Sweeney says he is playing \"at an All-Star, All-NBA level\" (Magic On SI)."
    }
   ],
   "recap": null,
   "preview": {
-   "title": "Monday at Celtics, 7:00 PM, Peacock",
-   "text": "Second meeting this season; Boston won 108-97 in Orlando on Nov 1 behind Jayson Tatum's 32. The Celtics (10-2) have won five straight and are unbeaten at TD Garden (5-0). They host Dallas on Sunday night, so Monday is the second night of a back-to-back for them. Paul George is off the injury report after missing one game with an illness. The game also airs on NBCSN.",
-   "line": "Not posted yet"
+   "title": "Tonight at Celtics, 7:00 PM, Peacock",
+   "text": "Second meeting this season; Boston won 108-97 in Orlando on Nov 1 behind Tatum's 32. The Celtics (11-2) have won six straight, are 6-0 at home and play on no rest after Sunday's 131-94 rout of Dallas. Before Sunday they ranked second in defensive rating and sixth in offensive rating (NBA.com, via the Orlando Sentinel). Orlando is without Banchero, Penda, Isaac and Nelson. The game also airs on NBCSN.",
+   "line": "BOS -9.5, total 210.5; Celtics -400, Magic +315 (FanDuel)"
   },
-  "watch": "Monday at Boston, 7:00 PM (Peacock, NBCSN). Look for Sunday's injury report on Banchero and Penda, and the line once Boston finishes with Dallas."
+  "watch": "Tonight at Boston, 7:00 PM (Peacock, NBCSN). Next: Wednesday vs Philadelphia (11-3) at Kia Center, 7:00 PM on TV27."
  },
  "schedule": {
   "cup": {
@@ -389,7 +397,7 @@
     "d": "2026-11-16",
     "ha": "A",
     "id": "r20261116",
-    "note": "",
+    "note": "Boston on the second night of a back-to-back",
     "opp": "BOS",
     "res": null,
     "t": "7:00 PM",
@@ -1230,7 +1238,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-15T11:13:38Z"
+  "updatedAt": "2026-11-16T11:17:48Z"
  },
  "standings": {
   "division": {
@@ -1325,133 +1333,133 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-15",
+   "asOf": "2026-11-16",
    "rows": [
     {
      "abbr": "BOS",
-     "w": 10,
+     "w": 11,
      "l": 2,
      "gb": 0,
-     "home": "5-0",
+     "home": "6-0",
      "away": "5-2",
      "l10": "9-1",
-     "strk": "W5"
+     "strk": "W6"
     },
     {
      "abbr": "PHI",
-     "w": 10,
+     "w": 11,
      "l": 3,
      "gb": 0.5,
-     "home": "5-2",
+     "home": "6-2",
      "away": "5-1",
-     "l10": "7-3",
-     "strk": "W1"
+     "l10": "8-2",
+     "strk": "W2"
     },
     {
      "abbr": "DET",
      "w": 8,
      "l": 4,
-     "gb": 2.0,
+     "gb": 2.5,
      "home": "3-2",
      "away": "5-2",
      "l10": "6-4",
      "strk": "L1"
     },
     {
+     "abbr": "ATL",
+     "w": 8,
+     "l": 6,
+     "gb": 3.5,
+     "home": "3-3",
+     "away": "5-3",
+     "l10": "6-4",
+     "strk": "W1"
+    },
+    {
      "abbr": "MIA",
      "w": 7,
      "l": 6,
-     "gb": 3.5,
+     "gb": 4.0,
      "home": "3-3",
      "away": "4-3",
      "l10": "7-3",
      "strk": "W4"
     },
     {
-     "abbr": "ATL",
+     "abbr": "NYK",
      "w": 7,
      "l": 6,
-     "gb": 3.5,
-     "home": "3-3",
-     "away": "4-3",
-     "l10": "5-5",
-     "strk": "L2"
+     "gb": 4.0,
+     "home": "4-3",
+     "away": "3-3",
+     "l10": "7-3",
+     "strk": "W1"
     },
     {
      "abbr": "CLE",
      "w": 7,
      "l": 7,
-     "gb": 4.0,
+     "gb": 4.5,
      "home": "5-2",
      "away": "2-5",
      "l10": "4-6",
      "strk": "W1"
     },
     {
-     "abbr": "NYK",
-     "w": 6,
-     "l": 6,
-     "gb": 4.0,
-     "home": "4-3",
-     "away": "2-3",
-     "l10": "6-4",
-     "strk": "L2"
-    },
-    {
-     "abbr": "TOR",
-     "w": 5,
-     "l": 7,
-     "gb": 5.0,
-     "home": "2-3",
-     "away": "3-4",
-     "l10": "3-7",
-     "strk": "L3"
-    },
-    {
      "abbr": "ORL",
      "w": 5,
      "l": 7,
-     "gb": 5.0,
+     "gb": 5.5,
      "home": "1-4",
      "away": "4-3",
      "l10": "5-5",
      "strk": "W3"
     },
     {
-     "abbr": "IND",
+     "abbr": "TOR",
      "w": 5,
      "l": 8,
-     "gb": 5.5,
+     "gb": 6.0,
      "home": "2-4",
-     "away": "3-3",
+     "away": "3-4",
      "l10": "3-7",
-     "strk": "W2"
+     "strk": "L4"
     },
     {
-     "abbr": "CHA",
-     "w": 4,
-     "l": 8,
-     "gb": 6.0,
-     "home": "3-4",
-     "away": "1-4",
+     "abbr": "IND",
+     "w": 5,
+     "l": 9,
+     "gb": 6.5,
+     "home": "2-4",
+     "away": "3-4",
      "l10": "3-7",
      "strk": "L1"
     },
     {
-     "abbr": "WAS",
+     "abbr": "CHA",
      "w": 4,
      "l": 9,
-     "gb": 6.5,
-     "home": "2-3",
+     "gb": 7.0,
+     "home": "3-4",
+     "away": "1-5",
+     "l10": "2-8",
+     "strk": "L2"
+    },
+    {
+     "abbr": "WAS",
+     "w": 4,
+     "l": 10,
+     "gb": 7.5,
+     "home": "2-4",
      "away": "2-6",
      "l10": "2-8",
-     "strk": "L6"
+     "strk": "L7"
     },
     {
      "abbr": "BKN",
      "w": 3,
      "l": 9,
-     "gb": 7.0,
+     "gb": 7.5,
      "home": "1-3",
      "away": "2-6",
      "l10": "3-7",
@@ -1461,7 +1469,7 @@
      "abbr": "CHI",
      "w": 3,
      "l": 9,
-     "gb": 7.0,
+     "gb": 7.5,
      "home": "1-4",
      "away": "2-5",
      "l10": "2-8",
@@ -1470,12 +1478,12 @@
     {
      "abbr": "MIL",
      "w": 1,
-     "l": 12,
-     "gb": 9.5,
-     "home": "1-6",
+     "l": 13,
+     "gb": 10.5,
+     "home": "1-7",
      "away": "0-6",
-     "l10": "1-9",
-     "strk": "L9"
+     "l10": "0-10",
+     "strk": "L10"
     }
    ]
   },
@@ -1576,7 +1584,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-15T11:13:38Z"
+  "updatedAt": "2026-11-16T11:17:48Z"
  },
  "roster": {
   "players": [
@@ -1606,7 +1614,7 @@
     "num": "5",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Missed Friday vs Milwaukee, his 10th straight game, and remains out (Orlando Sentinel, Nov 14). ESPN and CBS Sports list an estimated return of Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
+    "statusNote": "Ruled out for Monday at Boston, which will be his 11th straight missed game (NBA injury report, Nov 15). ESPN lists an estimated return of Nov. 22; CBS Sports lists him out until at least Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
    },
    {
     "age": 25,
@@ -1852,7 +1860,7 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Did not play Friday vs Milwaukee (left knee injury management). Assigned to Osceola and recalled Nov 1, presumably for practice; no defined timeline for his debut (RotoWire). Told the Orlando Sentinel (Oct 28) he is up to 3-on-3, with 4-on-4 and 5-on-5 next, and expects to play this season. Has not played since March 12."
+    "statusNote": "Ruled out for Monday at Boston (left knee injury management). RotoWire calls him week-to-week until Orlando gives a clear return update (Nov 15). Assigned to Osceola and recalled Nov 1, presumably for practice. Told the Orlando Sentinel (Oct 28) he expects to play this season. Has not played since March 12."
    },
    {
     "age": 31,
@@ -1958,7 +1966,7 @@
     "num": "93",
     "pos": "G-F",
     "status": "Out",
-    "statusNote": "Missed Friday vs Milwaukee. Team says he is making progress but there is still no timetable for his return (Orlando Sentinel, Nov 14). CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Ruled out for Monday at Boston. Said Nov 14 he is running but not yet doing full-speed sprints; Sweeney said he is \"progressing well and ramping up\" and \"still on track.\" No timetable (Orlando Magic Daily). CBS Sports lists him out until at least Nov. 22."
    },
    {
     "age": 26,
@@ -2036,11 +2044,11 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Missed Friday vs Milwaukee (left ankle injury recovery). Rehabbing a left ankle fracture from Summer League and has not played this preseason or season. Osceola said he will join the G League team at some point. CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Ruled out for Monday at Boston (left ankle injury recovery). Rehabbing a left ankle fracture from Summer League and has not played this preseason or season. Osceola said he will join the G League team at some point. CBS Sports lists him out until at least Nov. 18."
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-15T11:13:38Z"
+  "updatedAt": "2026-11-16T11:17:48Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
@@ -2161,37 +2169,37 @@
    }
   ],
   "futures": {
-   "asOf": "2026-11-01",
-   "book": "FanDuel (via VegasInsider)",
+   "asOf": "2026-11-16",
+   "book": "FanDuel Sportsbook",
    "rows": [
     {
      "market": "Win total",
-     "price": "41.5",
-     "detail": "Over -105 (Under price not listed). Line unchanged from Oct 26, when the Over was -115."
+     "price": "40.5",
+     "detail": "Over -110, Under -115. Down from 41.5 on Nov 1."
     },
     {
      "market": "Make playoffs",
-     "price": "-155",
-     "detail": "Oct 19 FanDuel price, not re-confirmed this week. Miss +125. VegasInsider's team page puts the broader market near -145, with no book or date."
+     "price": "-120",
+     "detail": "Miss -110. Was -155 on Oct 19. Make the Play-In -135."
     },
     {
      "market": "Southeast Division",
-     "price": "+270",
-     "detail": "Was +250 on Oct 19. Bet365 and BetMGM +300, Caesars +310, DraftKings +320."
+     "price": "+280",
+     "detail": "Was +270 on Nov 1."
     },
     {
      "market": "Eastern Conference",
-     "price": "+2000",
-     "detail": "Was +2200 on Oct 26. Bet365, BetMGM and Hard Rock +2500, DraftKings +2800, Caesars +3000."
+     "price": "+2700",
+     "detail": "Was +2000 on Nov 1."
     },
     {
      "market": "NBA title",
-     "price": "+6500",
-     "detail": "Unchanged from Oct 26. Bet365 +6000, Hard Rock +7500, BetMGM and DraftKings +8000, Caesars +10000."
+     "price": "+8000",
+     "detail": "Was +6500 on Nov 1."
     }
    ],
    "extra": [
-    "Nov 8: Caesars lists Orlando +7500 to win the title (VegasInsider futures page). Other FanDuel prices above not re-confirmed this week.",
+    "FanDuel seed prices (Nov 16): 6th +900, 7th +650, 8th +600; top-six finish +240.",
     "FanDuel NBA Cup winner +2500; Cup East Group A winner +260 (Oct 12).",
     "Sweeney Coach of the Year +1000, Black Sixth Man +2000 (BetRivers, late September)."
    ]
@@ -2282,6 +2290,26 @@
    "total": "$217.9M"
   },
   "predictions": [
+   {
+    "outlet": "OKC Thunder Wire (via Yahoo Sports)",
+    "d": "2026-11-16",
+    "text": "19th, up from 25th. Calls the Magic \"Jekyll-and-Hyde\" but says they are \"rolling right now\" and that Wagner has \"settled them down.\""
+   },
+   {
+    "outlet": "Bleacher Report (Andy Bailey)",
+    "d": "2026-11-13",
+    "text": "22nd, up from 23rd (net rating -4.8). Says Wagner \"is starting to look more capable of carrying an offense like an alpha,\" while noting the wins came against two of the league's weakest teams."
+   },
+   {
+    "outlet": "CBS Sports",
+    "d": "2026-11-11",
+    "text": "23rd. Says Orlando ranks bottom-eight in offense and defense and \"it feels more and more like this team is about to get broken up in some capacity.\""
+   },
+   {
+    "outlet": "NBA.com (John Schuhmann)",
+    "d": "2026-11-09",
+    "text": "23rd, down from 18th. Net rating -8.5 (24th), offense 24th, defense 25th, during a four-game losing streak."
+   },
    {
     "outlet": "Bleacher Report (Andy Bailey)",
     "d": "2026-11-06",
