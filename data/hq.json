@@ -1,6 +1,6 @@
 {
  "meta": {
-  "away": "4-3",
+  "away": "5-3",
   "coach": "Sean Sweeney",
   "home": "1-4",
   "keyDates": [
@@ -27,13 +27,13 @@
   ],
   "l10": "5-5",
   "lastGame": {
-   "d": "2026-11-13",
-   "opp": "MIL",
-   "ha": "H",
-   "us": 107,
-   "them": 99,
+   "d": "2026-11-16",
+   "opp": "BOS",
+   "ha": "A",
+   "us": 115,
+   "them": 105,
    "wl": "W",
-   "label": "vs Bucks"
+   "label": "at Celtics"
   },
   "lastSeason": {
    "l": 37,
@@ -41,9 +41,9 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 5-7, eighth in the East, winners of three straight. Tonight at Boston, 7:00 PM.",
+  "phaseDetail": "Magic 6-7, winners of four straight. Next: Wednesday vs Philadelphia, 7:00 PM.",
   "record": {
-   "w": 5,
+   "w": 6,
    "l": 7
   },
   "season": "2026-27",
@@ -51,47 +51,39 @@
    "conf": 8,
    "div": 3
   },
-  "streak": "W3",
-  "updatedAt": "2026-11-16T21:10:00Z"
+  "streak": "W4",
+  "updatedAt": "2026-11-17T04:35:17Z"
  },
  "brief": {
   "d": "2026-11-16",
-  "createdAt": "2026-11-16T11:17:48Z",
-  "headline": "Magic take three-game win streak to 11-2 Boston tonight",
-  "summary": "Orlando (5-7) moved up to eighth in the East on Sunday without playing, after Toronto lost to New York. Tonight the Magic visit Boston at 7:00 PM on Peacock. The Celtics routed Dallas 131-94 on Sunday for their sixth straight win and are on the second night of a back-to-back. Banchero, Penda, Isaac and Nelson are all out, and FanDuel has Boston by 9.5.",
+  "createdAt": "2026-11-17T04:35:17Z",
+  "headline": "Magic rally past Celtics 115-105 for fourth straight win",
+  "summary": "Orlando (6-7) outscored Boston 40-28 in the fourth quarter to win at TD Garden without Banchero, Penda, Isaac and Nelson. Desmond Bane led with 24 points and 8 rebounds. The Magic next host Philadelphia on Wednesday at 7:00 PM.",
   "bullets": [
    {
-    "tag": "Health",
-    "text": "Official injury report: Banchero (right high ankle sprain), Penda (partially torn right hamstring), Isaac (left knee) and Nelson (left ankle) are out tonight. It will be the 11th straight game Banchero has missed. Penda said Saturday he is running but not yet doing full-speed sprints (Orlando Magic Daily). Boston had not filed its report as of Sunday night."
+    "tag": "Game",
+    "text": "Magic 115, Celtics 105. Orlando trailed after three quarters and closed with a 40-point fourth (ESPN). Bane scored 24 with 8 rebounds and Wagner had 9 assists."
    },
    {
     "tag": "Standings",
-    "text": "Sunday: New York won 112-108 in overtime at Toronto and Atlanta won at Milwaukee. Orlando moved up to eighth, half a game ahead of Toronto (5-8), one game behind Cleveland (7-7) and 1.5 behind Miami and New York (both 7-6)."
+    "text": "Orlando is 6-7 and third in the Southeast, 1.5 games behind Miami and Atlanta (both 8-6) (ESPN). Full East table not refreshed yet."
+   },
+   {
+    "tag": "Health",
+    "text": "Banchero, Penda, Isaac and Nelson were listed out before the game; no new injury news confirmed."
    },
    {
     "tag": "Next game",
-    "text": "Boston (11-2) beat Dallas 131-94 on Sunday after a 42-9 first quarter; Jayson Tatum scored 32 in 30 minutes. The Celtics are 6-0 at home and have won 11 of 12."
-   },
-   {
-    "tag": "Game",
-    "text": "Orlando has allowed 6.8 offensive rebounds per game over its last six games, down from 13.7 in the first six. Boston had 14 offensive boards and 21 points off 18 Magic turnovers in its 108-97 win in Orlando on Nov 1, when Wagner shot 5 of 20 (Orlando Sentinel)."
-   },
-   {
-    "tag": "Odds",
-    "text": "FanDuel futures, Monday: win total 40.5 (down from 41.5 on Nov 1), make playoffs -120, Southeast +280, East +2700, title +8000."
-   },
-   {
-    "tag": "Game",
-    "text": "Wagner goes for a fifth straight 30-point game. He averaged 35.3 points in three wins last week; Sweeney says he is playing \"at an All-Star, All-NBA level\" (Magic On SI)."
+    "text": "Wednesday vs Philadelphia, 7:00 PM, TV27. Then Friday at Brooklyn, 7:30 PM."
    }
   ],
-  "recap": null,
-  "preview": {
-   "title": "Tonight at Celtics, 7:00 PM, Peacock",
-   "text": "Second meeting this season; Boston won 108-97 in Orlando on Nov 1 behind Tatum's 32. The Celtics (11-2) have won six straight, are 6-0 at home and play on no rest after Sunday's 131-94 rout of Dallas. Before Sunday they ranked second in defensive rating and sixth in offensive rating (NBA.com, via the Orlando Sentinel). Orlando is without Banchero, Penda, Isaac and Nelson. The game also airs on NBCSN.",
-   "line": "BOS -9.5, total 210.5; Celtics -400, Magic +315 (FanDuel)"
+  "recap": {
+   "title": "Magic 115, Celtics 105",
+   "text": "Orlando won its fourth straight with a 40-point fourth quarter at Boston.",
+   "leaders": "Bane 24 pts, 8 reb; Wagner 9 ast"
   },
-  "watch": "Tonight at Boston, 7:00 PM (Peacock, NBCSN). Next: Wednesday vs Philadelphia (11-3) at Kia Center, 7:00 PM on TV27."
+  "preview": null,
+  "watch": "Wednesday vs Philadelphia, 7:00 PM (TV27). Then at Brooklyn Friday, 7:30 PM."
  },
  "schedule": {
   "cup": {
@@ -399,7 +391,13 @@
     "id": "r20261116",
     "note": "Boston on the second night of a back-to-back",
     "opp": "BOS",
-    "res": null,
+    "res": {
+     "us": 115,
+     "them": 105,
+     "wl": "W",
+     "ot": "",
+     "note": "Bane 24 pts, 8 reb; rallied in the fourth quarter"
+    },
     "t": "7:00 PM",
     "tag": "",
     "tv": "Peacock, NBCSN",
@@ -1238,7 +1236,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-16T11:17:48Z"
+  "updatedAt": "2026-11-17T04:35:17Z"
  },
  "standings": {
   "division": {
