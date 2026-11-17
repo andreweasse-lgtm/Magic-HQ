@@ -1,6 +1,37 @@
 {
  "items": [
   {
+   "d": "2026-11-16",
+   "createdAt": "2026-11-17T04:35:17Z",
+   "headline": "Magic rally past Celtics 115-105 for fourth straight win",
+   "summary": "Orlando (6-7) outscored Boston 40-28 in the fourth quarter to win at TD Garden without Banchero, Penda, Isaac and Nelson. Desmond Bane led with 24 points and 8 rebounds. The Magic next host Philadelphia on Wednesday at 7:00 PM.",
+   "bullets": [
+    {
+     "tag": "Game",
+     "text": "Magic 115, Celtics 105. Orlando trailed after three quarters and closed with a 40-point fourth (ESPN). Bane scored 24 with 8 rebounds and Wagner had 9 assists."
+    },
+    {
+     "tag": "Standings",
+     "text": "Orlando is 6-7 and third in the Southeast, 1.5 games behind Miami and Atlanta (both 8-6) (ESPN). Full East table not refreshed yet."
+    },
+    {
+     "tag": "Health",
+     "text": "Banchero, Penda, Isaac and Nelson were listed out before the game; no new injury news confirmed."
+    },
+    {
+     "tag": "Next game",
+     "text": "Wednesday vs Philadelphia, 7:00 PM, TV27. Then Friday at Brooklyn, 7:30 PM."
+    }
+   ],
+   "recap": {
+    "title": "Magic 115, Celtics 105",
+    "text": "Orlando won its fourth straight with a 40-point fourth quarter at Boston.",
+    "leaders": "Bane 24 pts, 8 reb; Wagner 9 ast"
+   },
+   "preview": null,
+   "watch": "Wednesday vs Philadelphia, 7:00 PM (TV27). Then at Brooklyn Friday, 7:30 PM."
+  },
+  {
    "d": "2026-11-15",
    "createdAt": "2026-11-15T11:13:38Z",
    "headline": "Magic practice Sunday before Monday visit to East-leading Boston",

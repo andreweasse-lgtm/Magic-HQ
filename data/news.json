@@ -1,6 +1,61 @@
 {
  "items": [
   {
+   "id": "2026-11-17-magic-host-east-leading-76ers-on-four-ga",
+   "d": "2026-11-17",
+   "cat": "Game",
+   "headline": "Magic host East-leading 76ers on four-game win streak",
+   "summary": "Orlando (6-7) hosts Philadelphia (12-3) on Wednesday at 7:00 PM. The AP preview lists Banchero, Isaac, Nelson and Penda out for Orlando, and LeBron James (back), Adem Bona, Dominick Barlow and Ariel Hukporti out for the 76ers.",
+   "source": "AP (via ABC News)",
+   "url": "https://abcnews.com/Sports/wireStory/magic-play-76ers-4-game-win-streak-138201497",
+   "flag": null,
+   "addedAt": "2026-11-17T11:18:17Z"
+  },
+  {
+   "id": "2026-11-17-bane-ties-rashard-lewis-record-with-8-st",
+   "d": "2026-11-17",
+   "cat": "Player",
+   "headline": "Bane ties Rashard Lewis record with 8 straight games of 3+ threes",
+   "summary": "Desmond Bane made three threes at Boston, his eighth straight game with at least three, tying Rashard Lewis for the longest such streak in Magic history. He has scored 20 or more in three straight games.",
+   "source": "ClutchPoints (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/magic-desmond-bane-ties-franchise-061751977.html",
+   "flag": null,
+   "addedAt": "2026-11-17T11:18:17Z"
+  },
+  {
+   "id": "2026-11-16-magic-rally-past-celtics-115-105-for-fou",
+   "d": "2026-11-16",
+   "cat": "Game",
+   "headline": "Magic rally past Celtics 115-105 for fourth straight win",
+   "summary": "Orlando outscored Boston 40-28 in the fourth quarter to end the Celtics' six-game win streak and 6-0 home start. Bane scored 24 (15 in the fourth), Wagner had 21 points and 9 assists, and Black added 20. It was Orlando's first win in Boston since Dec. 18, 2022.",
+   "source": "NBA.com (John Denton)",
+   "url": "https://www.nba.com/magic/news/orlando-magic-get-hot-late-play-physical-brand-of-basketball-throughout-in-road-win-over-boston-celtics-20261116",
+   "flag": null,
+   "addedAt": "2026-11-17T11:18:17Z"
+  },
+  {
+   "id": "2026-11-16-suggs-back-in-starting-lineup-da-silva-m",
+   "d": "2026-11-16",
+   "cat": "Player",
+   "headline": "Suggs back in starting lineup; da Silva moves to bench",
+   "summary": "Jalen Suggs started at Boston in his second game back from a right knee bone bruise and had 12 points, 4 assists and 2 blocks. Rotoworld expects his minutes to stay limited for a while. Tristan da Silva went to the bench.",
+   "source": "NBC Sports (Rotoworld)",
+   "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-16/jalen-suggs-tallies-12-7-4-line-as-starter",
+   "flag": null,
+   "addedAt": "2026-11-17T11:18:17Z"
+  },
+  {
+   "id": "2026-11-16-sweeney-wagner-dominating-the-game-on-bo",
+   "d": "2026-11-16",
+   "cat": "Player",
+   "headline": "Sweeney: Wagner \"dominating the game on both ends\"",
+   "summary": "Franz Wagner was among the nominees for East Player of the Week, which went to Miami's Giannis Antetokounmpo. Sean Sweeney said Wagner has been \"dominating the game on both ends\" and showing leadership. The Sentinel also notes the Bitadze-Vucevic pairing has a +13.1 net rating in limited minutes.",
+   "source": "Hoops Rumors (via Orlando Sentinel)",
+   "url": "https://www.hoopsrumors.com/2026/11/southeast-notes-mitchell-giannis-wizards-magic.html",
+   "flag": null,
+   "addedAt": "2026-11-17T11:18:17Z"
+  },
+  {
    "id": "2026-11-16-celtics-9-5-point-favorites-over-magic-t",
    "d": "2026-11-16",
    "cat": "Game",

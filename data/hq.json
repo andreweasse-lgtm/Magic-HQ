@@ -41,7 +41,7 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 6-7, winners of four straight. Next: Wednesday vs Philadelphia, 7:00 PM.",
+  "phaseDetail": "Magic 6-7, 8th in the East, winners of four straight. Next: Wednesday vs Philadelphia, 7:00 PM.",
   "record": {
    "w": 6,
    "l": 7
@@ -52,38 +52,50 @@
    "div": 3
   },
   "streak": "W4",
-  "updatedAt": "2026-11-17T04:35:17Z"
+  "updatedAt": "2026-11-17T11:18:17Z"
  },
  "brief": {
-  "d": "2026-11-16",
-  "createdAt": "2026-11-17T04:35:17Z",
-  "headline": "Magic rally past Celtics 115-105 for fourth straight win",
-  "summary": "Orlando (6-7) outscored Boston 40-28 in the fourth quarter to win at TD Garden without Banchero, Penda, Isaac and Nelson. Desmond Bane led with 24 points and 8 rebounds. The Magic next host Philadelphia on Wednesday at 7:00 PM.",
+  "d": "2026-11-17",
+  "createdAt": "2026-11-17T11:18:17Z",
+  "headline": "Magic win 115-105 at Boston; East-leading 76ers visit Wednesday",
+  "summary": "Orlando (6-7) has won four straight after a 40-point fourth quarter beat Boston on Monday and ended the Celtics' 6-0 home start. Desmond Bane scored 24 and tied a Rashard Lewis franchise record. No game today; the Magic host 12-3 Philadelphia on Wednesday at 7:00 PM.",
   "bullets": [
    {
     "tag": "Game",
-    "text": "Magic 115, Celtics 105. Orlando trailed after three quarters and closed with a 40-point fourth (ESPN). Bane scored 24 with 8 rebounds and Wagner had 9 assists."
+    "text": "Magic 115, Celtics 105. Bane had 24 points (15 in the fourth) and 8 rebounds, Wagner 21 points and 9 assists, Black 20 points and 7 assists. First win in Boston since Dec. 18, 2022 (NBA.com)."
    },
    {
-    "tag": "Standings",
-    "text": "Orlando is 6-7 and third in the Southeast, 1.5 games behind Miami and Atlanta (both 8-6) (ESPN). Full East table not refreshed yet."
+    "tag": "Lineup",
+    "text": "Suggs started for the first time since his knee injury and had 12 points, 4 assists and 2 blocks. Da Silva moved to the bench and scored 13. Vucevic and Jase Richardson did not play (coach's decision)."
+   },
+   {
+    "tag": "Game",
+    "text": "Bane has made three or more threes in eight straight games, tying Rashard Lewis for the longest such streak in team history (ClutchPoints)."
    },
    {
     "tag": "Health",
-    "text": "Banchero, Penda, Isaac and Nelson were listed out before the game; no new injury news confirmed."
+    "text": "Banchero (high ankle sprain), Isaac (knee), Penda (hamstring) and Nelson (ankle) all sat Monday. No new timelines; the injury report for Wednesday is due Tuesday afternoon."
+   },
+   {
+    "tag": "Standings",
+    "text": "Orlando is 8th in the East, 5 games behind first-place Philadelphia and 1.5 behind Miami and Atlanta in the Southeast (Fox Sports)."
    },
    {
     "tag": "Next game",
-    "text": "Wednesday vs Philadelphia, 7:00 PM, TV27. Then Friday at Brooklyn, 7:30 PM."
+    "text": "Philadelphia (12-3) has won three straight; Embiid scored 37 and Jaylen Brown 31 in Monday's win at Brooklyn. AP lists LeBron James (back) out for the 76ers."
    }
   ],
   "recap": {
    "title": "Magic 115, Celtics 105",
-   "text": "Orlando won its fourth straight with a 40-point fourth quarter at Boston.",
-   "leaders": "Bane 24 pts, 8 reb; Wagner 9 ast"
+   "text": "Orlando trailed 77-75 after three quarters, then outscored Boston 40-28 in the fourth for its fourth straight win and the Celtics' first home loss.",
+   "leaders": "Bane 24 pts, 8 reb; Wagner 21 pts, 9 ast; Black 20 pts, 7 ast"
   },
-  "preview": null,
-  "watch": "Wednesday vs Philadelphia, 7:00 PM (TV27). Then at Brooklyn Friday, 7:30 PM."
+  "preview": {
+   "title": "Wednesday vs 76ers, 7:00 PM, TV27",
+   "text": "Philadelphia leads the East at 12-3. Orlando is 1-4 at home. Banchero, Isaac, Penda and Nelson were out Monday; Wednesday's report comes out Tuesday afternoon.",
+   "line": "No line posted yet (checked Tuesday morning)"
+  },
+  "watch": "Wednesday vs Philadelphia, 7:00 PM (TV27). Then at Brooklyn Friday, 7:30 PM (NBA Cup)."
  },
  "schedule": {
   "cup": {
@@ -389,14 +401,14 @@
     "d": "2026-11-16",
     "ha": "A",
     "id": "r20261116",
-    "note": "Boston on the second night of a back-to-back",
+    "note": "Boston on the second night of a back-to-back; Suggs back in the starting lineup",
     "opp": "BOS",
     "res": {
      "us": 115,
      "them": 105,
      "wl": "W",
      "ot": "",
-     "note": "Bane 24 pts, 8 reb; rallied in the fourth quarter"
+     "note": "Bane 24 pts, 8 reb; Wagner 21 pts, 9 ast; Black 20; won the fourth 40-28 and ended Boston's 6-0 home start"
     },
     "t": "7:00 PM",
     "tag": "",
@@ -1236,7 +1248,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-17T04:35:17Z"
+  "updatedAt": "2026-11-17T11:18:17Z"
  },
  "standings": {
   "division": {
@@ -1331,27 +1343,27 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-16",
+   "asOf": "2026-11-17",
    "rows": [
+    {
+     "abbr": "PHI",
+     "w": 12,
+     "l": 3,
+     "gb": 0,
+     "home": "6-2",
+     "away": "6-1",
+     "l10": "8-2",
+     "strk": "W3"
+    },
     {
      "abbr": "BOS",
      "w": 11,
-     "l": 2,
-     "gb": 0,
-     "home": "6-0",
-     "away": "5-2",
-     "l10": "9-1",
-     "strk": "W6"
-    },
-    {
-     "abbr": "PHI",
-     "w": 11,
      "l": 3,
      "gb": 0.5,
-     "home": "6-2",
-     "away": "5-1",
+     "home": "6-1",
+     "away": "5-2",
      "l10": "8-2",
-     "strk": "W2"
+     "strk": "L1"
     },
     {
      "abbr": "DET",
@@ -1364,6 +1376,16 @@
      "strk": "L1"
     },
     {
+     "abbr": "MIA",
+     "w": 8,
+     "l": 6,
+     "gb": 3.5,
+     "home": "4-3",
+     "away": "4-3",
+     "l10": "8-2",
+     "strk": "W5"
+    },
+    {
      "abbr": "ATL",
      "w": 8,
      "l": 6,
@@ -1372,16 +1394,6 @@
      "away": "5-3",
      "l10": "6-4",
      "strk": "W1"
-    },
-    {
-     "abbr": "MIA",
-     "w": 7,
-     "l": 6,
-     "gb": 4.0,
-     "home": "3-3",
-     "away": "4-3",
-     "l10": "7-3",
-     "strk": "W4"
     },
     {
      "abbr": "NYK",
@@ -1395,23 +1407,23 @@
     },
     {
      "abbr": "CLE",
-     "w": 7,
+     "w": 8,
      "l": 7,
-     "gb": 4.5,
-     "home": "5-2",
+     "gb": 4.0,
+     "home": "6-2",
      "away": "2-5",
-     "l10": "4-6",
-     "strk": "W1"
+     "l10": "5-5",
+     "strk": "W2"
     },
     {
      "abbr": "ORL",
-     "w": 5,
+     "w": 6,
      "l": 7,
-     "gb": 5.5,
+     "gb": 5.0,
      "home": "1-4",
-     "away": "4-3",
+     "away": "5-3",
      "l10": "5-5",
-     "strk": "W3"
+     "strk": "W4"
     },
     {
      "abbr": "TOR",
@@ -1446,32 +1458,32 @@
     {
      "abbr": "WAS",
      "w": 4,
-     "l": 10,
-     "gb": 7.5,
-     "home": "2-4",
+     "l": 11,
+     "gb": 8.0,
+     "home": "2-5",
      "away": "2-6",
      "l10": "2-8",
-     "strk": "L7"
+     "strk": "L8"
     },
     {
      "abbr": "BKN",
      "w": 3,
-     "l": 9,
-     "gb": 7.5,
-     "home": "1-3",
+     "l": 10,
+     "gb": 8.0,
+     "home": "1-4",
      "away": "2-6",
      "l10": "3-7",
-     "strk": "L1"
+     "strk": "L2"
     },
     {
      "abbr": "CHI",
      "w": 3,
-     "l": 9,
-     "gb": 7.5,
+     "l": 10,
+     "gb": 8.0,
      "home": "1-4",
-     "away": "2-5",
+     "away": "2-6",
      "l10": "2-8",
-     "strk": "W2"
+     "strk": "L1"
     },
     {
      "abbr": "MIL",
@@ -1582,7 +1594,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-16T11:17:48Z"
+  "updatedAt": "2026-11-17T11:18:17Z"
  },
  "roster": {
   "players": [
@@ -1612,17 +1624,17 @@
     "num": "5",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Ruled out for Monday at Boston, which will be his 11th straight missed game (NBA injury report, Nov 15). ESPN lists an estimated return of Nov. 22; CBS Sports lists him out until at least Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
+    "statusNote": "Missed Monday at Boston, his 11th straight game; that day's report also listed an illness (NBA.com). ESPN lists an estimated return of Nov. 22; CBS Sports lists him out until at least Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
    },
    {
     "age": 25,
     "contract": "$41.8M. Signed through 2029-30",
     "cur": {
-     "gp": 12,
-     "pts": 24.4,
+     "gp": 13,
+     "pts": 24.2,
      "reb": 6.8,
      "ast": 8.3,
-     "fg": 0.471
+     "fg": 0.464
     },
     "exp": "5",
     "ht": "6-10",
@@ -1646,11 +1658,11 @@
     "age": 28,
     "contract": "$39.4M. Signed through 2028-29",
     "cur": {
-     "gp": 11,
-     "pts": 18.3,
-     "reb": 4.1,
-     "ast": 2.5,
-     "fg": 0.404
+     "gp": 12,
+     "pts": 18.8,
+     "reb": 4.4,
+     "ast": 2.7,
+     "fg": 0.42
     },
     "exp": "6",
     "ht": "6-6",
@@ -1664,7 +1676,7 @@
      "reb": 4.1
     },
     "name": "Desmond Bane",
-    "note": "Played all 82 games last season. Missed Nov 7 at Golden State with an illness, his first missed game with Orlando. Made 7 of 11 threes for 25 points Nov 11 at Utah.",
+    "note": "Played all 82 games last season. Missed Nov 7 at Golden State with an illness, his first missed game with Orlando. Made 7 of 11 threes for 25 points Nov 11 at Utah. Tied Rashard Lewis's team record with his eighth straight game of three or more threes Nov 16 at Boston.",
     "num": "3",
     "pos": "G",
     "status": "Healthy",
@@ -1674,11 +1686,11 @@
     "age": 25,
     "contract": "$32.4M. Signed through 2029-30",
     "cur": {
-     "gp": 4,
-     "pts": 6.8,
-     "reb": 4.3,
-     "ast": 5.0,
-     "fg": 0.306
+     "gp": 5,
+     "pts": 7.8,
+     "reb": 4.6,
+     "ast": 4.8,
+     "fg": 0.364
     },
     "exp": "5",
     "ht": "6-5",
@@ -1692,7 +1704,7 @@
      "reb": 3.9
     },
     "name": "Jalen Suggs",
-    "note": "Led the team in assists and steals. Starting point guard job is a camp storyline.",
+    "note": "Led the team in assists and steals last season. Missed eight games with a right knee bone bruise (Oct 25), returned off the bench Nov 13 and was back in the starting lineup Nov 16 at Boston. Minutes are being managed.",
     "num": "4",
     "pos": "G",
     "status": "Healthy",
@@ -1702,11 +1714,11 @@
     "age": 22,
     "contract": "$10.1M. Final rookie-scale year. No extension; restricted free agent in 2027",
     "cur": {
-     "gp": 9,
-     "pts": 16.3,
-     "reb": 5.6,
-     "ast": 5.4,
-     "fg": 0.449
+     "gp": 10,
+     "pts": 16.7,
+     "reb": 5.2,
+     "ast": 5.6,
+     "fg": 0.458
     },
     "exp": "3",
     "ht": "6-7",
@@ -1730,11 +1742,11 @@
     "age": 27,
     "contract": "$18.1M. Through 2028-29 (team option in 2028-29)",
     "cur": {
-     "gp": 12,
-     "pts": 13.5,
-     "reb": 9.3,
+     "gp": 13,
+     "pts": 13.2,
+     "reb": 8.8,
      "ast": 1.1,
-     "fg": 0.604
+     "fg": 0.575
     },
     "exp": "8",
     "ht": "6-10",
@@ -1786,11 +1798,11 @@
     "age": 25,
     "contract": "$4.0M. 2027-28 team option ($6.1M) exercised Oct 21; signed through 2027-28",
     "cur": {
-     "gp": 10,
-     "pts": 14.8,
-     "reb": 3.9,
-     "ast": 1.7,
-     "fg": 0.447
+     "gp": 11,
+     "pts": 14.6,
+     "reb": 4.1,
+     "ast": 1.8,
+     "fg": 0.457
     },
     "exp": "2",
     "ht": "6-8",
@@ -1804,7 +1816,7 @@
      "reb": 3.7
     },
     "name": "Tristan da Silva",
-    "note": "Played World Cup qualifiers for Germany in August.",
+    "note": "Played World Cup qualifiers for Germany in August. Moved to the bench Nov 16 when Suggs rejoined the starting lineup.",
     "num": "23",
     "pos": "F",
     "status": "Healthy",
@@ -1814,11 +1826,11 @@
     "age": 27,
     "contract": "$7.6M. Final year, UFA 2027",
     "cur": {
-     "gp": 10,
-     "pts": 4.4,
-     "reb": 3.7,
+     "gp": 11,
+     "pts": 4.9,
+     "reb": 3.9,
      "ast": 0.6,
-     "fg": 0.652
+     "fg": 0.69
     },
     "exp": "7",
     "ht": "6-11",
@@ -1858,17 +1870,17 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Ruled out for Monday at Boston (left knee injury management). RotoWire calls him week-to-week until Orlando gives a clear return update (Nov 15). Assigned to Osceola and recalled Nov 1, presumably for practice. Told the Orlando Sentinel (Oct 28) he expects to play this season. Has not played since March 12."
+    "statusNote": "Out Monday at Boston (left knee injury management). RotoWire calls him week-to-week until Orlando gives a clear return update (Nov 15). Assigned to Osceola and recalled Nov 1, presumably for practice. Told the Orlando Sentinel (Oct 28) he expects to play this season. Has not played since March 12."
    },
    {
     "age": 31,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 8,
-     "pts": 4.5,
-     "reb": 1.0,
-     "ast": 1.8,
-     "fg": 0.325
+     "gp": 9,
+     "pts": 4.3,
+     "reb": 1.1,
+     "ast": 1.7,
+     "fg": 0.318
     },
     "exp": "8",
     "ht": "6-0",
@@ -1892,11 +1904,11 @@
     "age": 27,
     "contract": "$2.6M. Not fully guaranteed until Jan 10",
     "cur": {
-     "gp": 11,
-     "pts": 6.4,
-     "reb": 3.2,
-     "ast": 0.5,
-     "fg": 0.407
+     "gp": 12,
+     "pts": 6.0,
+     "reb": 3.3,
+     "ast": 0.4,
+     "fg": 0.4
     },
     "exp": "4",
     "ht": "6-7",
@@ -1964,7 +1976,7 @@
     "num": "93",
     "pos": "G-F",
     "status": "Out",
-    "statusNote": "Ruled out for Monday at Boston. Said Nov 14 he is running but not yet doing full-speed sprints; Sweeney said he is \"progressing well and ramping up\" and \"still on track.\" No timetable (Orlando Magic Daily). CBS Sports lists him out until at least Nov. 22."
+    "statusNote": "Out Monday at Boston. Said Nov 14 he is running but not yet doing full-speed sprints; Sweeney said he is \"progressing well and ramping up\" and \"still on track.\" No timetable (Orlando Magic Daily). CBS Sports lists him out until at least Nov. 22."
    },
    {
     "age": 26,
@@ -2042,11 +2054,11 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Ruled out for Monday at Boston (left ankle injury recovery). Rehabbing a left ankle fracture from Summer League and has not played this preseason or season. Osceola said he will join the G League team at some point. CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Out Monday at Boston (left ankle injury recovery). Rehabbing a left ankle fracture from Summer League and has not played this preseason or season. Osceola said he will join the G League team at some point. CBS Sports lists him out until at least Nov. 18."
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-16T11:17:48Z"
+  "updatedAt": "2026-11-17T11:18:17Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
