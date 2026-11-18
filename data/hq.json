@@ -41,7 +41,7 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 6-7, 8th in the East, winners of four straight. Next: Wednesday vs Philadelphia, 7:00 PM.",
+  "phaseDetail": "Magic 6-7, 8th in the East, winners of four straight. Tonight vs Philadelphia, 7:00 PM.",
   "record": {
    "w": 6,
    "l": 7
@@ -52,50 +52,46 @@
    "div": 3
   },
   "streak": "W4",
-  "updatedAt": "2026-11-18T03:44:22Z"
+  "updatedAt": "2026-11-18T11:18:27Z"
  },
  "brief": {
-  "d": "2026-11-17",
-  "createdAt": "2026-11-17T11:18:17Z",
-  "headline": "Magic win 115-105 at Boston; East-leading 76ers visit Wednesday",
-  "summary": "Orlando (6-7) has won four straight after a 40-point fourth quarter beat Boston on Monday and ended the Celtics' 6-0 home start. Desmond Bane scored 24 and tied a Rashard Lewis franchise record. No game today; the Magic host 12-3 Philadelphia on Wednesday at 7:00 PM.",
+  "d": "2026-11-18",
+  "createdAt": "2026-11-18T11:18:27Z",
+  "headline": "Magic go for five straight tonight vs East-leading 76ers",
+  "summary": "Orlando (6-7) hosts Philadelphia (12-3) at 7:00 PM on TV27 and DAZN, chasing a fifth straight win and only its second home win. The 76ers will be without Jaylen Brown (hamstring), but LeBron James and Joel Embiid are off the injury report. Banchero, Isaac, Penda and Nelson are out again for Orlando, and Philadelphia is a 1.5-point favorite.",
   "bullets": [
    {
-    "tag": "Game",
-    "text": "Magic 115, Celtics 105. Bane had 24 points (15 in the fourth) and 8 rebounds, Wagner 21 points and 9 assists, Black 20 points and 7 assists. First win in Boston since Dec. 18, 2022 (NBA.com)."
-   },
-   {
-    "tag": "Lineup",
-    "text": "Suggs started for the first time since his knee injury and had 12 points, 4 assists and 2 blocks. Da Silva moved to the bench and scored 13. Vucevic and Jase Richardson did not play (coach's decision)."
-   },
-   {
-    "tag": "Game",
-    "text": "Bane has made three or more threes in eight straight games, tying Rashard Lewis for the longest such streak in team history (ClutchPoints)."
+    "tag": "Next game",
+    "text": "Tip at 7:00 PM at Kia Center on MagicTV 27, streaming on DAZN. Philadelphia is 6-1 on the road and has won three straight; Orlando is 1-4 at home (Orlando Sentinel)."
    },
    {
     "tag": "Health",
-    "text": "Banchero (high ankle sprain), Isaac (knee), Penda (hamstring) and Nelson (ankle) all sat Monday. No new timelines; the injury report for Wednesday is due Tuesday afternoon."
-   },
-   {
-    "tag": "Standings",
-    "text": "Orlando is 8th in the East, 5 games behind first-place Philadelphia and 1.5 behind Miami and Atlanta in the Southeast (Fox Sports)."
+    "text": "Banchero (high ankle sprain) misses his 12th straight game. Isaac (knee), Penda (hamstring) and Nelson (ankle) are also out. RotoWire now calls Nelson week-to-week with no firm timetable."
    },
    {
     "tag": "Next game",
-    "text": "Philadelphia (12-3) has won three straight; Embiid scored 37 and Jaylen Brown 31 in Monday's win at Brooklyn. AP lists LeBron James (back) out for the 76ers."
+    "text": "76ers: Jaylen Brown is out with a left hamstring strain, along with Barlow (back), Bona (neck) and Hukporti (Achilles). LeBron James (back) is off the report after sitting Monday, and Embiid is expected to play (NBC Sports Philadelphia, Rotoworld)."
+   },
+   {
+    "tag": "Odds",
+    "text": "PHI -1.5 at BetRivers, total 222.5 at bet365, 76ers -124 on the moneyline at FanDuel (Covers, Wednesday morning)."
+   },
+   {
+    "tag": "Game",
+    "text": "Bane has made three or more threes in eight straight games, tied with Rashard Lewis for the team record. One more tonight sets a new mark."
+   },
+   {
+    "tag": "Standings",
+    "text": "Orlando holds 8th in the East, 5 games behind Philadelphia. Detroit (9-4) and New York (8-6) won Tuesday; Toronto (5-9) and Charlotte (4-10) lost."
    }
   ],
-  "recap": {
-   "title": "Magic 115, Celtics 105",
-   "text": "Orlando trailed 77-75 after three quarters, then outscored Boston 40-28 in the fourth for its fourth straight win and the Celtics' first home loss.",
-   "leaders": "Bane 24 pts, 8 reb; Wagner 21 pts, 9 ast; Black 20 pts, 7 ast"
-  },
+  "recap": null,
   "preview": {
    "title": "Wednesday vs 76ers, 7:00 PM, TV27",
-   "text": "Philadelphia leads the East at 12-3. Orlando is 1-4 at home. Banchero, Isaac, Penda and Nelson were out Monday; Wednesday's report comes out Tuesday afternoon.",
-   "line": "No line posted yet (checked Tuesday morning)"
+   "text": "Orlando goes for a fifth straight win against the East leaders. Philadelphia is missing Jaylen Brown but has LeBron James, Joel Embiid and Tyrese Maxey (26.5 ppg). The Magic are without Banchero, Isaac, Penda and Nelson. The teams meet twice more in December.",
+   "line": "PHI -1.5 (BetRivers), total 222.5 (bet365), PHI -124 ML (FanDuel), via Covers"
   },
-  "watch": "Wednesday vs Philadelphia, 7:00 PM (TV27). Then at Brooklyn Friday, 7:30 PM (NBA Cup)."
+  "watch": "Tonight vs Philadelphia, 7:00 PM (TV27, DAZN). Then at Brooklyn Friday, 7:30 PM (NBA Cup)."
  },
  "schedule": {
   "cup": {
@@ -419,12 +415,12 @@
     "d": "2026-11-18",
     "ha": "H",
     "id": "r20261118",
-    "note": "",
+    "note": "Jaylen Brown out for PHI; LeBron James and Embiid expected to play",
     "opp": "PHI",
     "res": null,
     "t": "7:00 PM",
     "tag": "",
-    "tv": "TV27",
+    "tv": "TV27, DAZN",
     "type": "reg"
    },
    {
@@ -1248,7 +1244,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-17T11:18:17Z"
+  "updatedAt": "2026-11-18T11:18:27Z"
  },
  "standings": {
   "division": {
@@ -1343,7 +1339,7 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-17",
+   "asOf": "2026-11-18",
    "rows": [
     {
      "abbr": "PHI",
@@ -1367,13 +1363,13 @@
     },
     {
      "abbr": "DET",
-     "w": 8,
+     "w": 9,
      "l": 4,
-     "gb": 2.5,
+     "gb": 2.0,
      "home": "3-2",
-     "away": "5-2",
+     "away": "6-2",
      "l10": "6-4",
-     "strk": "L1"
+     "strk": "W1"
     },
     {
      "abbr": "MIA",
@@ -1397,13 +1393,13 @@
     },
     {
      "abbr": "NYK",
-     "w": 7,
+     "w": 8,
      "l": 6,
-     "gb": 4.0,
+     "gb": 3.5,
      "home": "4-3",
-     "away": "3-3",
+     "away": "4-3",
      "l10": "7-3",
-     "strk": "W1"
+     "strk": "W2"
     },
     {
      "abbr": "CLE",
@@ -1428,19 +1424,19 @@
     {
      "abbr": "TOR",
      "w": 5,
-     "l": 8,
-     "gb": 6.0,
-     "home": "2-4",
+     "l": 9,
+     "gb": 6.5,
+     "home": "2-5",
      "away": "3-4",
-     "l10": "3-7",
-     "strk": "L4"
+     "l10": "2-8",
+     "strk": "L5"
     },
     {
      "abbr": "IND",
      "w": 5,
      "l": 9,
      "gb": 6.5,
-     "home": "2-4",
+     "home": "2-5",
      "away": "3-4",
      "l10": "3-7",
      "strk": "L1"
@@ -1448,12 +1444,12 @@
     {
      "abbr": "CHA",
      "w": 4,
-     "l": 9,
-     "gb": 7.0,
+     "l": 10,
+     "gb": 7.5,
      "home": "3-4",
-     "away": "1-5",
-     "l10": "2-8",
-     "strk": "L2"
+     "away": "1-6",
+     "l10": "1-9",
+     "strk": "L3"
     },
     {
      "abbr": "WAS",
@@ -1594,7 +1590,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-17T11:18:17Z"
+  "updatedAt": "2026-11-18T11:18:27Z"
  },
  "roster": {
   "players": [
@@ -1624,7 +1620,7 @@
     "num": "5",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Missed Monday at Boston, his 11th straight game; that day's report also listed an illness (NBA.com). ESPN lists an estimated return of Nov. 22; CBS Sports lists him out until at least Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
+    "statusNote": "Ruled out Wednesday vs Philadelphia, his 12th straight missed game (Metro Philadelphia, Nov 17). ESPN lists an estimated return of Nov. 22; CBS Sports lists him out until at least Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
    },
    {
     "age": 25,
@@ -1870,7 +1866,7 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Out Monday at Boston (left knee injury management). RotoWire calls him week-to-week until Orlando gives a clear return update (Nov 15). Assigned to Osceola and recalled Nov 1, presumably for practice. Told the Orlando Sentinel (Oct 28) he expects to play this season. Has not played since March 12."
+    "statusNote": "Out Wednesday vs Philadelphia (left knee injury management). RotoWire calls him week-to-week until Orlando gives a clear return update. Assigned to Osceola and recalled Nov 1, presumably for practice. Told the Orlando Sentinel (Oct 28) he expects to play this season. Has not played since March 12."
    },
    {
     "age": 31,
@@ -1976,7 +1972,7 @@
     "num": "93",
     "pos": "G-F",
     "status": "Out",
-    "statusNote": "Out Monday at Boston. Said Nov 14 he is running but not yet doing full-speed sprints; Sweeney said he is \"progressing well and ramping up\" and \"still on track.\" No timetable (Orlando Magic Daily). CBS Sports lists him out until at least Nov. 22."
+    "statusNote": "Out Wednesday vs Philadelphia. Said Nov 14 he is running but not yet doing full-speed sprints; Sweeney said he is \"progressing well and ramping up\" and \"still on track.\" No timetable. CBS Sports lists him out until at least Nov. 22."
    },
    {
     "age": 26,
@@ -2054,11 +2050,11 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Out Monday at Boston (left ankle injury recovery). Rehabbing a left ankle fracture from Summer League and has not played this preseason or season. Osceola said he will join the G League team at some point. CBS Sports lists him out until at least Nov. 18."
+    "statusNote": "Ruled out Wednesday vs Philadelphia. RotoWire (Nov 17) says he has no firm timetable and can be considered week-to-week. Had surgery this offseason on the left ankle he fractured in Summer League and has not made his NBA debut. Osceola said he will join the G League team at some point."
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-17T11:18:17Z"
+  "updatedAt": "2026-11-18T11:18:27Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
