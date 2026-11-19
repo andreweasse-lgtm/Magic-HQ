@@ -1,6 +1,61 @@
 {
  "items": [
   {
+   "id": "2026-11-18-randle-calls-nets-30-point-loss-to-bulls",
+   "d": "2026-11-18",
+   "cat": "Game",
+   "headline": "Randle calls Nets' 30-point loss to Bulls \"embarrassing\"",
+   "summary": "Brooklyn fell to 3-11 with a 137-107 home loss to Chicago on Wednesday, two nights before hosting Orlando in the NBA Cup. Egor Demin led the Nets with 22 points; Randle said it was \"one of the worst games I've ever been a part of.\"",
+   "source": "ClutchPoints (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/nets-star-julius-randle-gets-045123191.html",
+   "flag": null,
+   "addedAt": "2026-11-19T11:20:22Z"
+  },
+  {
+   "id": "2026-11-18-magic-miss-8-free-throws-as-sixers-end-w",
+   "d": "2026-11-18",
+   "cat": "Game",
+   "headline": "Magic miss 8 free throws as Sixers end win streak",
+   "summary": "Orlando went 9 of 17 at the line, and Philadelphia took its first lead since early in the first quarter on a Jabari Walker three with about six minutes left. Da Silva scored 12 on 5-of-7 shooting, and the bench outscored the Sixers' bench 26-23.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/beede-breakdown-magic-see-4-024200539.html",
+   "flag": null,
+   "addedAt": "2026-11-19T11:20:22Z"
+  },
+  {
+   "id": "2026-11-18-bane-breaks-team-record-suggs-says-magic",
+   "d": "2026-11-18",
+   "cat": "Player",
+   "headline": "Bane breaks team record; Suggs says Magic must finish games",
+   "summary": "Bane made five threes, his ninth straight game with at least three, passing Rashard Lewis for the franchise record. \"We have to be better and go finish games,\" Suggs said after the 121-116 loss.",
+   "source": "NBA.com",
+   "url": "https://www.nba.com/magic/news/orlando-magic-unable-to-hold-off-philadelphia-76ers-20261118",
+   "flag": null,
+   "addedAt": "2026-11-19T11:20:22Z"
+  },
+  {
+   "id": "2026-11-18-nelson-doing-minimal-on-court-work-no-ti",
+   "d": "2026-11-18",
+   "cat": "Injury",
+   "headline": "Nelson doing \"minimal\" on-court work, no timeline",
+   "summary": "Sweeney said two-way rookie Izaiyah Nelson, four months removed from a fractured left ankle, is \"progressing, doing some on-court stuff here, a little bit at a time.\" He gave no timeline.",
+   "source": "Jason Beede, Orlando Sentinel (X)",
+   "url": "https://x.com/therealBeede/status/2123103012952621235",
+   "flag": null,
+   "addedAt": "2026-11-19T11:20:22Z"
+  },
+  {
+   "id": "2026-11-18-no-timeline-for-banchero-sweeney-says",
+   "d": "2026-11-18",
+   "cat": "Injury",
+   "headline": "No timeline for Banchero, Sweeney says",
+   "summary": "Four weeks after his right high ankle sprain, Banchero missed his 12th straight game. \"No timeline right now, but (he is) doing good. Good spirits,\" Sweeney said after Wednesday's shootaround.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/no-timeline-set-magic-paolo-204500820.html",
+   "flag": null,
+   "addedAt": "2026-11-19T11:20:22Z"
+  },
+  {
    "id": "2026-11-18-76ers-rally-past-magic-121-116",
    "d": "2026-11-18",
    "cat": "Game",

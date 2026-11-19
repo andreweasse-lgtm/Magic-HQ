@@ -41,7 +41,7 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 6-8, four-game win streak ended by Philadelphia. Next: at Brooklyn Friday, 7:30 PM (NBA Cup).",
+  "phaseDetail": "Magic 6-8, 8th in the East. Next: at Brooklyn Friday, 7:30 PM (NBA Cup), then at Washington Sunday.",
   "record": {
    "w": 6,
    "l": 8
@@ -52,38 +52,50 @@
    "div": 3
   },
   "streak": "L1",
-  "updatedAt": "2026-11-19T03:45:00Z"
+  "updatedAt": "2026-11-19T11:20:22Z"
  },
  "brief": {
-  "d": "2026-11-18",
-  "createdAt": "2026-11-19T03:45:00Z",
-  "headline": "Magic blow 17-point lead, lose 121-116 to 76ers",
-  "summary": "Orlando (6-8) led by as many as 17 and 97-92 after three quarters, but Philadelphia outscored them down the stretch and won 121-116, ending the Magic's four-game win streak. Wagner had 27 points, 11 assists and 8 rebounds. The Magic visit Brooklyn Friday in the NBA Cup.",
+  "d": "2026-11-19",
+  "createdAt": "2026-11-19T11:20:22Z",
+  "headline": "Magic visit 3-11 Nets in NBA Cup Friday after blown lead vs 76ers",
+  "summary": "Orlando (6-8) led by 17 on Wednesday but lost 121-116 to East-leading Philadelphia, going 9 of 17 at the line and losing the fourth quarter 29-19. Sean Sweeney said there is still no timeline for Paolo Banchero. No game today; the Magic open a two-game road trip Friday at Brooklyn in the NBA Cup.",
   "bullets": [
    {
     "tag": "Game",
-    "text": "VJ Edgecombe hit a 28-foot three with 1:36 left, and LeBron James sealed it at the line. Embiid had 26 points for Philadelphia, which won without Maxey, Brown and Wade (Yahoo Sports, VAVEL)."
+    "text": "Philadelphia closed on a 10-1 run. Edgecombe's three off a James no-look pass put Philadelphia up 114-112 with 1:36 left, and Anfernee Simons hit a corner three with 14 seconds left (AP, NBA.com)."
    },
    {
     "tag": "Lineup",
-    "text": "Wagner led Orlando with 27 points, 11 assists and 8 rebounds; Suggs added 18 points, 8 rebounds and 4 assists."
+    "text": "Wagner had 27 points (12 of 22), 11 assists and 8 rebounds, his sixth straight 20-point game. Suggs scored 18 on 5-of-6 threes; Black, Bane and Carter Jr. had 15 each and da Silva 12 off the bench."
+   },
+   {
+    "tag": "Game",
+    "text": "Bane made five threes, his ninth straight game with three or more, breaking Rashard Lewis's team record. Orlando shot 19 of 37 from three (NBA.com)."
+   },
+   {
+    "tag": "Health",
+    "text": "Sweeney on Banchero (high ankle sprain, 12 straight games missed): \"No timeline right now, but (he is) doing good.\" He said Nelson (ankle) is doing \"just minimal\" on-court work (Orlando Sentinel)."
    },
    {
     "tag": "Standings",
-    "text": "Orlando is 6-8 and 1-5 at home; Philadelphia improved to 13-3."
+    "text": "Orlando is 8th in the East, 6 games behind Philadelphia (13-3) and 3 behind Miami and Atlanta in the Southeast."
    },
    {
     "tag": "Next game",
-    "text": "At Brooklyn Friday, Nov. 20, 7:30 PM on TV27 (NBA Cup)."
+    "text": "At Brooklyn Friday, 7:30 PM on TV27 and DAZN. The Nets are 3-11 and lost 137-107 at home to Chicago on Wednesday. Orlando is 2-0 in Cup group play."
    }
   ],
   "recap": {
    "title": "76ers 121, Magic 116",
-   "text": "Orlando won the first quarter 40-27 and led by 17, but Philadelphia rallied and took the lead for good on Edgecombe's three with 1:36 left.",
-   "leaders": "Wagner 27 pts, 11 ast, 8 reb; Suggs 18 pts, 8 reb"
+   "text": "Orlando won the first quarter 40-27 and led by 17, but Philadelphia, without Maxey, Brown and Wade, won the last three quarters 94-76. The Sixers made 23 of 26 free throws; the Magic made 9 of 17.",
+   "leaders": "Wagner 27 pts, 11 ast, 8 reb; Suggs 18 pts, 8 reb; Embiid 26, Edgecombe 24, James 22 for PHI"
   },
-  "preview": null,
-  "watch": "Friday at Brooklyn, 7:30 PM (TV27, NBA Cup)."
+  "preview": {
+   "title": "Friday at Nets, 7:30 PM, TV27",
+   "text": "NBA Cup East Group A game. Brooklyn has lost three straight, and Julius Randle called Wednesday's 30-point home loss to Chicago \"embarrassing.\" Orlando is 2-0 in group play. The official injury report is due Thursday afternoon.",
+   "line": "Sportsbook lines not posted as of Thursday morning"
+  },
+  "watch": "Friday at Brooklyn, 7:30 PM (TV27, DAZN, NBA Cup), then Sunday at Washington."
  },
  "schedule": {
   "cup": {
@@ -414,7 +426,7 @@
      "them": 121,
      "wl": "L",
      "ot": "",
-     "note": "Wagner 27 pts, 11 ast, 8 reb; Suggs 18; Embiid 26, Edgecombe 24 for PHI; Magic led by 17"
+     "note": "Wagner 27 pts, 11 ast, 8 reb; Suggs 18; Embiid 26, Edgecombe 24 for PHI; Magic led by 17; Bane's ninth straight game with 3+ threes set a team record"
     },
     "t": "7:00 PM",
     "tag": "",
@@ -425,12 +437,12 @@
     "d": "2026-11-20",
     "ha": "A",
     "id": "r20261120",
-    "note": "",
+    "note": "NBA Cup East Group A; Orlando 2-0 in group play",
     "opp": "BKN",
     "res": null,
     "t": "7:30 PM",
     "tag": "Cup",
-    "tv": "TV27",
+    "tv": "TV27, DAZN",
     "type": "reg"
    },
    {
@@ -1242,7 +1254,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-18T11:18:27Z"
+  "updatedAt": "2026-11-19T11:20:22Z"
  },
  "standings": {
   "division": {
@@ -1337,63 +1349,63 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-18",
+   "asOf": "2026-11-19",
    "rows": [
     {
      "abbr": "PHI",
-     "w": 12,
+     "w": 13,
      "l": 3,
      "gb": 0,
      "home": "6-2",
-     "away": "6-1",
+     "away": "7-1",
      "l10": "8-2",
-     "strk": "W3"
+     "strk": "W4"
     },
     {
      "abbr": "BOS",
      "w": 11,
-     "l": 3,
-     "gb": 0.5,
+     "l": 4,
+     "gb": 1.5,
      "home": "6-1",
-     "away": "5-2",
-     "l10": "8-2",
-     "strk": "L1"
+     "away": "5-3",
+     "l10": "7-3",
+     "strk": "L2"
     },
     {
      "abbr": "DET",
-     "w": 9,
+     "w": 10,
      "l": 4,
      "gb": 2.0,
      "home": "3-2",
-     "away": "6-2",
-     "l10": "6-4",
-     "strk": "W1"
+     "away": "7-2",
+     "l10": "7-3",
+     "strk": "W2"
     },
     {
      "abbr": "MIA",
-     "w": 8,
+     "w": 9,
      "l": 6,
      "gb": 3.5,
-     "home": "4-3",
+     "home": "5-3",
      "away": "4-3",
      "l10": "8-2",
-     "strk": "W5"
+     "strk": "W6"
     },
     {
      "abbr": "ATL",
-     "w": 8,
+     "w": 9,
      "l": 6,
      "gb": 3.5,
      "home": "3-3",
-     "away": "5-3",
-     "l10": "6-4",
-     "strk": "W1"
+     "away": "6-3",
+     "l10": "7-3",
+     "strk": "W2"
     },
     {
      "abbr": "NYK",
      "w": 8,
      "l": 6,
-     "gb": 3.5,
+     "gb": 4.0,
      "home": "4-3",
      "away": "4-3",
      "l10": "7-3",
@@ -1402,92 +1414,92 @@
     {
      "abbr": "CLE",
      "w": 8,
-     "l": 7,
-     "gb": 4.0,
-     "home": "6-2",
+     "l": 8,
+     "gb": 5.0,
+     "home": "6-3",
      "away": "2-5",
-     "l10": "5-5",
-     "strk": "W2"
+     "l10": "4-6",
+     "strk": "L1"
     },
     {
      "abbr": "ORL",
      "w": 6,
-     "l": 7,
-     "gb": 5.0,
-     "home": "1-4",
+     "l": 8,
+     "gb": 6.0,
+     "home": "1-5",
      "away": "5-3",
      "l10": "5-5",
-     "strk": "W4"
+     "strk": "L1"
     },
     {
      "abbr": "TOR",
      "w": 5,
-     "l": 9,
-     "gb": 6.5,
-     "home": "2-5",
+     "l": 10,
+     "gb": 7.5,
+     "home": "2-6",
      "away": "3-4",
      "l10": "2-8",
-     "strk": "L5"
+     "strk": "L6"
     },
     {
      "abbr": "IND",
      "w": 5,
-     "l": 9,
-     "gb": 6.5,
+     "l": 10,
+     "gb": 7.5,
      "home": "2-5",
      "away": "3-4",
      "l10": "3-7",
-     "strk": "L1"
+     "strk": "L2"
+    },
+    {
+     "abbr": "WAS",
+     "w": 5,
+     "l": 11,
+     "gb": 8.0,
+     "home": "2-5",
+     "away": "3-6",
+     "l10": "2-8",
+     "strk": "W1"
     },
     {
      "abbr": "CHA",
      "w": 4,
      "l": 10,
-     "gb": 7.5,
+     "gb": 8.0,
      "home": "3-4",
      "away": "1-6",
      "l10": "1-9",
      "strk": "L3"
     },
     {
-     "abbr": "WAS",
+     "abbr": "CHI",
      "w": 4,
-     "l": 11,
+     "l": 10,
      "gb": 8.0,
-     "home": "2-5",
-     "away": "2-6",
-     "l10": "2-8",
-     "strk": "L8"
+     "home": "1-4",
+     "away": "3-6",
+     "l10": "3-7",
+     "strk": "W1"
     },
     {
      "abbr": "BKN",
      "w": 3,
-     "l": 10,
-     "gb": 8.0,
-     "home": "1-4",
+     "l": 11,
+     "gb": 9.0,
+     "home": "1-5",
      "away": "2-6",
      "l10": "3-7",
-     "strk": "L2"
-    },
-    {
-     "abbr": "CHI",
-     "w": 3,
-     "l": 10,
-     "gb": 8.0,
-     "home": "1-4",
-     "away": "2-6",
-     "l10": "2-8",
-     "strk": "L1"
+     "strk": "L3"
     },
     {
      "abbr": "MIL",
      "w": 1,
-     "l": 13,
-     "gb": 10.5,
+     "l": 14,
+     "gb": 11.5,
      "home": "1-7",
-     "away": "0-6",
+     "away": "0-7",
      "l10": "0-10",
-     "strk": "L10"
+     "strk": "L11"
     }
    ]
   },
@@ -1588,7 +1600,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-18T11:18:27Z"
+  "updatedAt": "2026-11-19T11:20:22Z"
  },
  "roster": {
   "players": [
@@ -1618,17 +1630,17 @@
     "num": "5",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Ruled out Wednesday vs Philadelphia, his 12th straight missed game (Metro Philadelphia, Nov 17). ESPN lists an estimated return of Nov. 22; CBS Sports lists him out until at least Nov. 22. Magic said about 4-6 weeks on Oct 24; Banchero said \"at least a month\" on Oct 25."
+    "statusNote": "Missed his 12th straight game Wednesday vs Philadelphia. Sweeney said Nov 18: \"No timeline right now, but (he is) doing good. Good spirits.\" He was not on the court during the media portion of shootaround (Orlando Sentinel). ESPN had listed an estimated return of Nov. 22. Magic said about 4-6 weeks on Oct 24."
    },
    {
     "age": 25,
     "contract": "$41.8M. Signed through 2029-30",
     "cur": {
-     "gp": 13,
-     "pts": 24.2,
-     "reb": 6.8,
-     "ast": 8.3,
-     "fg": 0.464
+     "gp": 14,
+     "pts": 24.4,
+     "reb": 6.9,
+     "ast": 8.5,
+     "fg": 0.47
     },
     "exp": "5",
     "ht": "6-10",
@@ -1642,7 +1654,7 @@
      "reb": 5.2
     },
     "name": "Franz Wagner",
-    "note": "Missed 48 games last season with a high ankle sprain, then strained his right calf in the playoffs. Left the preseason finale with right shoulder soreness but practiced fully Oct 20 and is off the injury report. Career-high 15 assists Nov 5 at Phoenix, with 6 turnovers. Tied his career high with 38 points Nov 11 at Utah, his third straight 30-point game.",
+    "note": "Missed 48 games last season with a high ankle sprain, then strained his right calf in the playoffs. Left the preseason finale with right shoulder soreness but practiced fully Oct 20 and is off the injury report. Career-high 15 assists Nov 5 at Phoenix, with 6 turnovers. Tied his career high with 38 points Nov 11 at Utah, his third straight 30-point game. Scored 27 with 11 assists Nov 18 vs Philadelphia, his sixth straight 20-point game.",
     "num": "22",
     "pos": "F",
     "status": "Healthy",
@@ -1652,11 +1664,11 @@
     "age": 28,
     "contract": "$39.4M. Signed through 2028-29",
     "cur": {
-     "gp": 12,
-     "pts": 18.8,
-     "reb": 4.4,
+     "gp": 13,
+     "pts": 18.5,
+     "reb": 4.3,
      "ast": 2.7,
-     "fg": 0.42
+     "fg": 0.426
     },
     "exp": "6",
     "ht": "6-6",
@@ -1670,7 +1682,7 @@
      "reb": 4.1
     },
     "name": "Desmond Bane",
-    "note": "Played all 82 games last season. Missed Nov 7 at Golden State with an illness, his first missed game with Orlando. Made 7 of 11 threes for 25 points Nov 11 at Utah. Tied Rashard Lewis's team record with his eighth straight game of three or more threes Nov 16 at Boston.",
+    "note": "Played all 82 games last season. Missed Nov 7 at Golden State with an illness, his first missed game with Orlando. Made 7 of 11 threes for 25 points Nov 11 at Utah. Set a team record Nov 18 vs Philadelphia with his ninth straight game of three or more threes, passing Rashard Lewis.",
     "num": "3",
     "pos": "G",
     "status": "Healthy",
@@ -1680,11 +1692,11 @@
     "age": 25,
     "contract": "$32.4M. Signed through 2029-30",
     "cur": {
-     "gp": 5,
-     "pts": 7.8,
-     "reb": 4.6,
-     "ast": 4.8,
-     "fg": 0.364
+     "gp": 6,
+     "pts": 9.5,
+     "reb": 5.2,
+     "ast": 4.7,
+     "fg": 0.389
     },
     "exp": "5",
     "ht": "6-5",
@@ -1708,11 +1720,11 @@
     "age": 22,
     "contract": "$10.1M. Final rookie-scale year. No extension; restricted free agent in 2027",
     "cur": {
-     "gp": 10,
-     "pts": 16.7,
-     "reb": 5.2,
+     "gp": 11,
+     "pts": 16.5,
+     "reb": 4.9,
      "ast": 5.6,
-     "fg": 0.458
+     "fg": 0.449
     },
     "exp": "3",
     "ht": "6-7",
@@ -1736,11 +1748,11 @@
     "age": 27,
     "contract": "$18.1M. Through 2028-29 (team option in 2028-29)",
     "cur": {
-     "gp": 13,
-     "pts": 13.2,
+     "gp": 14,
+     "pts": 13.4,
      "reb": 8.8,
-     "ast": 1.1,
-     "fg": 0.575
+     "ast": 1.2,
+     "fg": 0.564
     },
     "exp": "8",
     "ht": "6-10",
@@ -1792,11 +1804,11 @@
     "age": 25,
     "contract": "$4.0M. 2027-28 team option ($6.1M) exercised Oct 21; signed through 2027-28",
     "cur": {
-     "gp": 11,
-     "pts": 14.6,
-     "reb": 4.1,
-     "ast": 1.8,
-     "fg": 0.457
+     "gp": 12,
+     "pts": 14.4,
+     "reb": 3.9,
+     "ast": 1.7,
+     "fg": 0.471
     },
     "exp": "2",
     "ht": "6-8",
@@ -1820,11 +1832,11 @@
     "age": 27,
     "contract": "$7.6M. Final year, UFA 2027",
     "cur": {
-     "gp": 11,
-     "pts": 4.9,
-     "reb": 3.9,
-     "ast": 0.6,
-     "fg": 0.69
+     "gp": 12,
+     "pts": 5.2,
+     "reb": 3.8,
+     "ast": 0.7,
+     "fg": 0.706
     },
     "exp": "7",
     "ht": "6-11",
@@ -1870,11 +1882,11 @@
     "age": 31,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 9,
-     "pts": 4.3,
-     "reb": 1.1,
-     "ast": 1.7,
-     "fg": 0.318
+     "gp": 10,
+     "pts": 4.5,
+     "reb": 1.2,
+     "ast": 1.8,
+     "fg": 0.333
     },
     "exp": "8",
     "ht": "6-0",
@@ -1898,9 +1910,9 @@
     "age": 27,
     "contract": "$2.6M. Not fully guaranteed until Jan 10",
     "cur": {
-     "gp": 12,
-     "pts": 6.0,
-     "reb": 3.3,
+     "gp": 13,
+     "pts": 5.5,
+     "reb": 3.2,
      "ast": 0.4,
      "fg": 0.4
     },
@@ -2048,11 +2060,11 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Ruled out Wednesday vs Philadelphia. RotoWire (Nov 17) says he has no firm timetable and can be considered week-to-week. Had surgery this offseason on the left ankle he fractured in Summer League and has not made his NBA debut. Osceola said he will join the G League team at some point."
+    "statusNote": "Out Wednesday vs Philadelphia. Sweeney said Nov 18 he is \"progressing, doing some on-court stuff here, a little bit at a time,\" but the work is \"just minimal\"; no timeline (Jason Beede, Orlando Sentinel). Had surgery this offseason on the left ankle he fractured in Summer League and has not made his NBA debut."
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-18T11:18:27Z"
+  "updatedAt": "2026-11-19T11:20:22Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",

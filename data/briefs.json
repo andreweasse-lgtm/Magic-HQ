@@ -1,6 +1,37 @@
 {
  "items": [
   {
+   "d": "2026-11-18",
+   "createdAt": "2026-11-19T03:45:00Z",
+   "headline": "Magic blow 17-point lead, lose 121-116 to 76ers",
+   "summary": "Orlando (6-8) led by as many as 17 and 97-92 after three quarters, but Philadelphia outscored them down the stretch and won 121-116, ending the Magic's four-game win streak. Wagner had 27 points, 11 assists and 8 rebounds. The Magic visit Brooklyn Friday in the NBA Cup.",
+   "bullets": [
+    {
+     "tag": "Game",
+     "text": "VJ Edgecombe hit a 28-foot three with 1:36 left, and LeBron James sealed it at the line. Embiid had 26 points for Philadelphia, which won without Maxey, Brown and Wade (Yahoo Sports, VAVEL)."
+    },
+    {
+     "tag": "Lineup",
+     "text": "Wagner led Orlando with 27 points, 11 assists and 8 rebounds; Suggs added 18 points, 8 rebounds and 4 assists."
+    },
+    {
+     "tag": "Standings",
+     "text": "Orlando is 6-8 and 1-5 at home; Philadelphia improved to 13-3."
+    },
+    {
+     "tag": "Next game",
+     "text": "At Brooklyn Friday, Nov. 20, 7:30 PM on TV27 (NBA Cup)."
+    }
+   ],
+   "recap": {
+    "title": "76ers 121, Magic 116",
+    "text": "Orlando won the first quarter 40-27 and led by 17, but Philadelphia rallied and took the lead for good on Edgecombe's three with 1:36 left.",
+    "leaders": "Wagner 27 pts, 11 ast, 8 reb; Suggs 18 pts, 8 reb"
+   },
+   "preview": null,
+   "watch": "Friday at Brooklyn, 7:30 PM (TV27, NBA Cup)."
+  },
+  {
    "d": "2026-11-17",
    "createdAt": "2026-11-17T11:18:17Z",
    "headline": "Magic win 115-105 at Boston; East-leading 76ers visit Wednesday",
