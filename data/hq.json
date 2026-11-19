@@ -2,7 +2,7 @@
  "meta": {
   "away": "5-3",
   "coach": "Sean Sweeney",
-  "home": "1-4",
+  "home": "1-5",
   "keyDates": [
    {
     "d": "2027-01-10",
@@ -27,13 +27,13 @@
   ],
   "l10": "5-5",
   "lastGame": {
-   "d": "2026-11-16",
-   "opp": "BOS",
-   "ha": "A",
-   "us": 115,
-   "them": 105,
-   "wl": "W",
-   "label": "at Celtics"
+   "d": "2026-11-18",
+   "opp": "PHI",
+   "ha": "H",
+   "us": 116,
+   "them": 121,
+   "wl": "L",
+   "label": "vs 76ers"
   },
   "lastSeason": {
    "l": 37,
@@ -41,57 +41,49 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 6-7, 8th in the East, winners of four straight. Tonight vs Philadelphia, 7:00 PM.",
+  "phaseDetail": "Magic 6-8, four-game win streak ended by Philadelphia. Next: at Brooklyn Friday, 7:30 PM (NBA Cup).",
   "record": {
    "w": 6,
-   "l": 7
+   "l": 8
   },
   "season": "2026-27",
   "standing": {
    "conf": 8,
    "div": 3
   },
-  "streak": "W4",
-  "updatedAt": "2026-11-18T19:25:49Z"
+  "streak": "L1",
+  "updatedAt": "2026-11-19T03:45:00Z"
  },
  "brief": {
   "d": "2026-11-18",
-  "createdAt": "2026-11-18T11:18:27Z",
-  "headline": "Magic go for five straight tonight vs East-leading 76ers",
-  "summary": "Orlando (6-7) hosts Philadelphia (12-3) at 7:00 PM on TV27 and DAZN, chasing a fifth straight win and only its second home win. The 76ers will be without Jaylen Brown (hamstring), but LeBron James and Joel Embiid are off the injury report. Banchero, Isaac, Penda and Nelson are out again for Orlando, and Philadelphia is a 1.5-point favorite.",
+  "createdAt": "2026-11-19T03:45:00Z",
+  "headline": "Magic blow 17-point lead, lose 121-116 to 76ers",
+  "summary": "Orlando (6-8) led by as many as 17 and 97-92 after three quarters, but Philadelphia outscored them down the stretch and won 121-116, ending the Magic's four-game win streak. Wagner had 27 points, 11 assists and 8 rebounds. The Magic visit Brooklyn Friday in the NBA Cup.",
   "bullets": [
    {
-    "tag": "Next game",
-    "text": "Tip at 7:00 PM at Kia Center on MagicTV 27, streaming on DAZN. Philadelphia is 6-1 on the road and has won three straight; Orlando is 1-4 at home (Orlando Sentinel)."
-   },
-   {
-    "tag": "Health",
-    "text": "Banchero (high ankle sprain) misses his 12th straight game. Isaac (knee), Penda (hamstring) and Nelson (ankle) are also out. RotoWire now calls Nelson week-to-week with no firm timetable."
-   },
-   {
-    "tag": "Next game",
-    "text": "76ers: Jaylen Brown is out with a left hamstring strain, along with Barlow (back), Bona (neck) and Hukporti (Achilles). LeBron James (back) is off the report after sitting Monday, and Embiid is expected to play (NBC Sports Philadelphia, Rotoworld)."
-   },
-   {
-    "tag": "Odds",
-    "text": "PHI -1.5 at BetRivers, total 222.5 at bet365, 76ers -124 on the moneyline at FanDuel (Covers, Wednesday morning)."
-   },
-   {
     "tag": "Game",
-    "text": "Bane has made three or more threes in eight straight games, tied with Rashard Lewis for the team record. One more tonight sets a new mark."
+    "text": "VJ Edgecombe hit a 28-foot three with 1:36 left, and LeBron James sealed it at the line. Embiid had 26 points for Philadelphia, which won without Maxey, Brown and Wade (Yahoo Sports, VAVEL)."
+   },
+   {
+    "tag": "Lineup",
+    "text": "Wagner led Orlando with 27 points, 11 assists and 8 rebounds; Suggs added 18 points, 8 rebounds and 4 assists."
    },
    {
     "tag": "Standings",
-    "text": "Orlando holds 8th in the East, 5 games behind Philadelphia. Detroit (9-4) and New York (8-6) won Tuesday; Toronto (5-9) and Charlotte (4-10) lost."
+    "text": "Orlando is 6-8 and 1-5 at home; Philadelphia improved to 13-3."
+   },
+   {
+    "tag": "Next game",
+    "text": "At Brooklyn Friday, Nov. 20, 7:30 PM on TV27 (NBA Cup)."
    }
   ],
-  "recap": null,
-  "preview": {
-   "title": "Wednesday vs 76ers, 7:00 PM, TV27",
-   "text": "Orlando goes for a fifth straight win against the East leaders. Philadelphia is missing Jaylen Brown but has LeBron James, Joel Embiid and Tyrese Maxey (26.5 ppg). The Magic are without Banchero, Isaac, Penda and Nelson. The teams meet twice more in December.",
-   "line": "PHI -1.5 (BetRivers), total 222.5 (bet365), PHI -124 ML (FanDuel), via Covers"
+  "recap": {
+   "title": "76ers 121, Magic 116",
+   "text": "Orlando won the first quarter 40-27 and led by 17, but Philadelphia rallied and took the lead for good on Edgecombe's three with 1:36 left.",
+   "leaders": "Wagner 27 pts, 11 ast, 8 reb; Suggs 18 pts, 8 reb"
   },
-  "watch": "Tonight vs Philadelphia, 7:00 PM (TV27, DAZN). Then at Brooklyn Friday, 7:30 PM (NBA Cup)."
+  "preview": null,
+  "watch": "Friday at Brooklyn, 7:30 PM (TV27, NBA Cup)."
  },
  "schedule": {
   "cup": {
@@ -417,7 +409,13 @@
     "id": "r20261118",
     "note": "Jaylen Brown out for PHI; LeBron James and Embiid expected to play",
     "opp": "PHI",
-    "res": null,
+    "res": {
+     "us": 116,
+     "them": 121,
+     "wl": "L",
+     "ot": "",
+     "note": "Wagner 27 pts, 11 ast, 8 reb; Suggs 18; Embiid 26, Edgecombe 24 for PHI; Magic led by 17"
+    },
     "t": "7:00 PM",
     "tag": "",
     "tv": "TV27, DAZN",
