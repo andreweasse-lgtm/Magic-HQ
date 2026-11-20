@@ -1,6 +1,49 @@
 {
  "items": [
   {
+   "d": "2026-11-19",
+   "createdAt": "2026-11-19T11:20:22Z",
+   "headline": "Magic visit 3-11 Nets in NBA Cup Friday after blown lead vs 76ers",
+   "summary": "Orlando (6-8) led by 17 on Wednesday but lost 121-116 to East-leading Philadelphia, going 9 of 17 at the line and losing the fourth quarter 29-19. Sean Sweeney said there is still no timeline for Paolo Banchero. No game today; the Magic open a two-game road trip Friday at Brooklyn in the NBA Cup.",
+   "bullets": [
+    {
+     "tag": "Game",
+     "text": "Philadelphia closed on a 10-1 run. Edgecombe's three off a James no-look pass put Philadelphia up 114-112 with 1:36 left, and Anfernee Simons hit a corner three with 14 seconds left (AP, NBA.com)."
+    },
+    {
+     "tag": "Lineup",
+     "text": "Wagner had 27 points (12 of 22), 11 assists and 8 rebounds, his sixth straight 20-point game. Suggs scored 18 on 5-of-6 threes; Black, Bane and Carter Jr. had 15 each and da Silva 12 off the bench."
+    },
+    {
+     "tag": "Game",
+     "text": "Bane made five threes, his ninth straight game with three or more, breaking Rashard Lewis's team record. Orlando shot 19 of 37 from three (NBA.com)."
+    },
+    {
+     "tag": "Health",
+     "text": "Sweeney on Banchero (high ankle sprain, 12 straight games missed): \"No timeline right now, but (he is) doing good.\" He said Nelson (ankle) is doing \"just minimal\" on-court work (Orlando Sentinel)."
+    },
+    {
+     "tag": "Standings",
+     "text": "Orlando is 8th in the East, 6 games behind Philadelphia (13-3) and 3 behind Miami and Atlanta in the Southeast."
+    },
+    {
+     "tag": "Next game",
+     "text": "At Brooklyn Friday, 7:30 PM on TV27 and DAZN. The Nets are 3-11 and lost 137-107 at home to Chicago on Wednesday. Orlando is 2-0 in Cup group play."
+    }
+   ],
+   "recap": {
+    "title": "76ers 121, Magic 116",
+    "text": "Orlando won the first quarter 40-27 and led by 17, but Philadelphia, without Maxey, Brown and Wade, won the last three quarters 94-76. The Sixers made 23 of 26 free throws; the Magic made 9 of 17.",
+    "leaders": "Wagner 27 pts, 11 ast, 8 reb; Suggs 18 pts, 8 reb; Embiid 26, Edgecombe 24, James 22 for PHI"
+   },
+   "preview": {
+    "title": "Friday at Nets, 7:30 PM, TV27",
+    "text": "NBA Cup East Group A game. Brooklyn has lost three straight, and Julius Randle called Wednesday's 30-point home loss to Chicago \"embarrassing.\" Orlando is 2-0 in group play. The official injury report is due Thursday afternoon.",
+    "line": "Sportsbook lines not posted as of Thursday morning"
+   },
+   "watch": "Friday at Brooklyn, 7:30 PM (TV27, DAZN, NBA Cup), then Sunday at Washington."
+  },
+  {
    "d": "2026-11-18",
    "createdAt": "2026-11-19T03:45:00Z",
    "headline": "Magic blow 17-point lead, lose 121-116 to 76ers",

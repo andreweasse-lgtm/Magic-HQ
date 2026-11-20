@@ -41,7 +41,7 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 6-8, 8th in the East. Next: at Brooklyn Friday, 7:30 PM (NBA Cup), then at Washington Sunday.",
+  "phaseDetail": "Magic 6-8, 8th in the East. Tonight at Brooklyn, 7:30 PM (NBA Cup), then at Washington Sunday.",
   "record": {
    "w": 6,
    "l": 8
@@ -52,50 +52,50 @@
    "div": 3
   },
   "streak": "L1",
-  "updatedAt": "2026-11-20T03:27:31Z"
+  "updatedAt": "2026-11-20T11:20:00Z"
  },
  "brief": {
-  "d": "2026-11-19",
-  "createdAt": "2026-11-19T11:20:22Z",
-  "headline": "Magic visit 3-11 Nets in NBA Cup Friday after blown lead vs 76ers",
-  "summary": "Orlando (6-8) led by 17 on Wednesday but lost 121-116 to East-leading Philadelphia, going 9 of 17 at the line and losing the fourth quarter 29-19. Sean Sweeney said there is still no timeline for Paolo Banchero. No game today; the Magic open a two-game road trip Friday at Brooklyn in the NBA Cup.",
+  "d": "2026-11-20",
+  "createdAt": "2026-11-20T11:20:00Z",
+  "headline": "Magic at Nets tonight in NBA Cup; Banchero hopes to return within weeks",
+  "summary": "Orlando (6-8) plays at Brooklyn (3-11) at 7:30 PM in its third NBA Cup group game, looking to go 3-0. Banchero, Isaac, Penda and Nelson are all out again. Banchero said Thursday he hopes to be back \"within the next couple of weeks\" but wants the ankle fully healed first. The Magic are 5.5-point favorites.",
   "bullets": [
    {
-    "tag": "Game",
-    "text": "Philadelphia closed on a 10-1 run. Edgecombe's three off a James no-look pass put Philadelphia up 114-112 with 1:36 left, and Anfernee Simons hit a corner three with 14 seconds left (AP, NBA.com)."
-   },
-   {
-    "tag": "Lineup",
-    "text": "Wagner had 27 points (12 of 22), 11 assists and 8 rebounds, his sixth straight 20-point game. Suggs scored 18 on 5-of-6 threes; Black, Bane and Carter Jr. had 15 each and da Silva 12 off the bench."
-   },
-   {
-    "tag": "Game",
-    "text": "Bane made five threes, his ninth straight game with three or more, breaking Rashard Lewis's team record. Orlando shot 19 of 37 from three (NBA.com)."
+    "tag": "Health",
+    "text": "Out tonight: Banchero (ankle, 13th straight game), Isaac (knee), Penda (hamstring) and Nelson (ankle), per the team's injury report."
    },
    {
     "tag": "Health",
-    "text": "Sweeney on Banchero (high ankle sprain, 12 straight games missed): \"No timeline right now, but (he is) doing good.\" He said Nelson (ankle) is doing \"just minimal\" on-court work (Orlando Sentinel)."
-   },
-   {
-    "tag": "Standings",
-    "text": "Orlando is 8th in the East, 6 games behind Philadelphia (13-3) and 3 behind Miami and Atlanta in the Southeast."
+    "text": "Banchero said he has done some on-court work, mostly shooting. He talked with Franz Wagner, who came back early from his own high ankle sprain last season and then missed more time, and said he does not want this one to linger (Orlando Sentinel)."
    },
    {
     "tag": "Next game",
-    "text": "At Brooklyn Friday, 7:30 PM on TV27 and DAZN. The Nets are 3-11 and lost 137-107 at home to Chicago on Wednesday. Orlando is 2-0 in Cup group play."
+    "text": "Brooklyn has lost three straight, including 137-107 at home to Chicago on Wednesday. Coach Jordi Fernandez cited \"selfishness\" and finger-pointing, and Julius Randle called it \"embarrassing\" (Field Level Media)."
+   },
+   {
+    "tag": "Lineup",
+    "text": "Franz Wagner faces his brother Moritz, who signed with Brooklyn this summer, for the first time. Franz is chasing a seventh straight 20-point game, and Bane's team-record streak of games with three or more threes is at nine."
+   },
+   {
+    "tag": "Game",
+    "text": "Late-game defense is the sore spot: opponents shoot a league-high 55.3% against Orlando in the final five minutes of games within five points (NBA.com)."
+   },
+   {
+    "tag": "Odds",
+    "text": "DraftKings: ORL -5.5, total 222.5, moneyline ORL -198, BKN +166."
+   },
+   {
+    "tag": "Standings",
+    "text": "Orlando is still 8th in the East. The Knicks won at Minnesota on Thursday to reach 9-6, tied with Miami and Atlanta. Milwaukee (1-15) has lost 12 straight."
    }
   ],
-  "recap": {
-   "title": "76ers 121, Magic 116",
-   "text": "Orlando won the first quarter 40-27 and led by 17, but Philadelphia, without Maxey, Brown and Wade, won the last three quarters 94-76. The Sixers made 23 of 26 free throws; the Magic made 9 of 17.",
-   "leaders": "Wagner 27 pts, 11 ast, 8 reb; Suggs 18 pts, 8 reb; Embiid 26, Edgecombe 24, James 22 for PHI"
-  },
+  "recap": null,
   "preview": {
    "title": "Friday at Nets, 7:30 PM, TV27",
-   "text": "NBA Cup East Group A game. Brooklyn has lost three straight, and Julius Randle called Wednesday's 30-point home loss to Chicago \"embarrassing.\" Orlando is 2-0 in group play. The official injury report is due Thursday afternoon.",
-   "line": "Sportsbook lines not posted as of Thursday morning"
+   "text": "NBA Cup East Group A game at Barclays Center, also on DAZN. Orlando is 2-0 in group play and 5-3 on the road; Brooklyn is 1-5 at home. Egor Demin scored 22 and Randle 17 in Wednesday's loss to Chicago, and Moritz Wagner is averaging 10.4 points.",
+   "line": "ORL -5.5, total 222.5 (DraftKings)"
   },
-  "watch": "Friday at Brooklyn, 7:30 PM (TV27, DAZN, NBA Cup), then Sunday at Washington."
+  "watch": "Tonight at Brooklyn, 7:30 PM (TV27, DAZN, NBA Cup), then Sunday at Washington and the Cup group finale vs Detroit on Tuesday."
  },
  "schedule": {
   "cup": {
@@ -437,7 +437,7 @@
     "d": "2026-11-20",
     "ha": "A",
     "id": "r20261120",
-    "note": "NBA Cup East Group A; Orlando 2-0 in group play",
+    "note": "NBA Cup East Group A; Orlando 2-0 in group play; Franz Wagner vs brother Moritz",
     "opp": "BKN",
     "res": null,
     "t": "7:30 PM",
@@ -1254,7 +1254,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-19T11:20:22Z"
+  "updatedAt": "2026-11-20T11:20:00Z"
  },
  "standings": {
   "division": {
@@ -1349,7 +1349,7 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-19",
+   "asOf": "2026-11-20",
    "rows": [
     {
      "abbr": "PHI",
@@ -1403,13 +1403,13 @@
     },
     {
      "abbr": "NYK",
-     "w": 8,
+     "w": 9,
      "l": 6,
-     "gb": 4.0,
+     "gb": 3.5,
      "home": "4-3",
-     "away": "4-3",
+     "away": "5-3",
      "l10": "7-3",
-     "strk": "W2"
+     "strk": "W3"
     },
     {
      "abbr": "CLE",
@@ -1494,12 +1494,12 @@
     {
      "abbr": "MIL",
      "w": 1,
-     "l": 14,
-     "gb": 11.5,
-     "home": "1-7",
+     "l": 15,
+     "gb": 12.0,
+     "home": "1-8",
      "away": "0-7",
      "l10": "0-10",
-     "strk": "L11"
+     "strk": "L12"
     }
    ]
   },
@@ -1600,7 +1600,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-19T11:20:22Z"
+  "updatedAt": "2026-11-20T11:20:00Z"
  },
  "roster": {
   "players": [
@@ -1630,7 +1630,7 @@
     "num": "5",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Missed his 12th straight game Wednesday vs Philadelphia. Sweeney said Nov 18: \"No timeline right now, but (he is) doing good. Good spirits.\" He was not on the court during the media portion of shootaround (Orlando Sentinel). ESPN had listed an estimated return of Nov. 22. Magic said about 4-6 weeks on Oct 24."
+    "statusNote": "Ruled out Friday at Brooklyn, his 13th straight missed game. Said Nov 19 he does not know when he will return but hopes it is \"within the next couple of weeks\"; he has done some on-court work, mostly shooting, and wants the ankle fully healed before coming back (Orlando Sentinel). Sweeney said Nov 18 there is no timeline."
    },
    {
     "age": 25,
@@ -1876,7 +1876,7 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Out Wednesday vs Philadelphia (left knee injury management). RotoWire calls him week-to-week until Orlando gives a clear return update. Assigned to Osceola and recalled Nov 1, presumably for practice. Told the Orlando Sentinel (Oct 28) he expects to play this season. Has not played since March 12."
+    "statusNote": "Ruled out Friday at Brooklyn (left knee injury management). RotoWire calls him week-to-week until Orlando gives a clear return update. Assigned to Osceola and recalled Nov 1, presumably for practice. Told the Orlando Sentinel (Oct 28) he expects to play this season. Has not played since March 12."
    },
    {
     "age": 31,
@@ -1982,7 +1982,7 @@
     "num": "93",
     "pos": "G-F",
     "status": "Out",
-    "statusNote": "Out Wednesday vs Philadelphia. Said Nov 14 he is running but not yet doing full-speed sprints; Sweeney said he is \"progressing well and ramping up\" and \"still on track.\" No timetable. CBS Sports lists him out until at least Nov. 22."
+    "statusNote": "Ruled out Friday at Brooklyn. Said Nov 14 he is running but not yet doing full-speed sprints; Sweeney said he is \"progressing well and ramping up\" and is evaluated weekly. No timetable."
    },
    {
     "age": 26,
@@ -2060,11 +2060,11 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Out Wednesday vs Philadelphia. Sweeney said Nov 18 he is \"progressing, doing some on-court stuff here, a little bit at a time,\" but the work is \"just minimal\"; no timeline (Jason Beede, Orlando Sentinel). Had surgery this offseason on the left ankle he fractured in Summer League and has not made his NBA debut."
+    "statusNote": "Ruled out Friday at Brooklyn. Sweeney said Nov 18 he is \"progressing, doing some on-court stuff here, a little bit at a time,\" but the work is \"just minimal\"; no timeline (Jason Beede, Orlando Sentinel). Had surgery this offseason on the left ankle he fractured in Summer League and has not made his NBA debut."
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-19T11:20:22Z"
+  "updatedAt": "2026-11-20T11:20:00Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",

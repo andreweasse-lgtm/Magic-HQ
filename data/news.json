@@ -1,6 +1,83 @@
 {
  "items": [
   {
+   "id": "2026-11-20-magic-5-5-point-favorites-at-brooklyn",
+   "d": "2026-11-20",
+   "cat": "Game",
+   "headline": "Magic 5.5-point favorites at Brooklyn",
+   "summary": "DraftKings has Orlando -5.5 with a total of 222.5 for Friday's NBA Cup game, and the Magic at -198 on the moneyline.",
+   "source": "Scores and Odds",
+   "url": "https://www.scoresandodds.com/nba/magic-vs-nets",
+   "flag": null,
+   "addedAt": "2026-11-20T11:20:00Z"
+  },
+  {
+   "id": "2026-11-19-banchero-hopes-to-return-within-the-next",
+   "d": "2026-11-19",
+   "cat": "Injury",
+   "headline": "Banchero hopes to return \"within the next couple of weeks\"",
+   "summary": "Banchero said Thursday he does not know when he will play but hopes it is within the next couple of weeks. He has done some on-court work, mostly shooting, and after talking with Franz Wagner about Wagner's own high ankle sprain he said he wants this one fully healed so it does not linger.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/magic-star-paolo-banchero-shares-110000466.html",
+   "flag": null,
+   "addedAt": "2026-11-20T11:20:00Z"
+  },
+  {
+   "id": "2026-11-19-banchero-isaac-penda-and-nelson-ruled-ou",
+   "d": "2026-11-19",
+   "cat": "Injury",
+   "headline": "Banchero, Isaac, Penda and Nelson ruled out at Brooklyn",
+   "summary": "Orlando listed the same four players out for Friday's NBA Cup game at Brooklyn: Banchero (ankle), Isaac (knee), Penda (hamstring) and Nelson (ankle).",
+   "source": "96.9 The Game",
+   "url": "https://969thegame.iheart.com/content/2026-11-20-magic-vs-nets-injury-report-nov-20/",
+   "flag": null,
+   "addedAt": "2026-11-20T11:20:00Z"
+  },
+  {
+   "id": "2026-11-19-nets-coach-cites-selfishness-before-host",
+   "d": "2026-11-19",
+   "cat": "Game",
+   "headline": "Nets coach cites \"selfishness\" before hosting Magic",
+   "summary": "Brooklyn allowed 21 threes in Wednesday's 137-107 home loss to Chicago, and Jordi Fernandez said he saw selfishness and finger-pointing. Franz Wagner brings a six-game streak of 20-point games, averaging 30.7 points in that stretch.",
+   "source": "CBS Sports (Field Level Media)",
+   "url": "https://www.cbssports.com/nba/news/magic-seek-3-0-nba-cup-start-against-reeling-nets/",
+   "flag": null,
+   "addedAt": "2026-11-20T11:20:00Z"
+  },
+  {
+   "id": "2026-11-19-franz-wagner-to-face-brother-moritz-for",
+   "d": "2026-11-19",
+   "cat": "Player",
+   "headline": "Franz Wagner to face brother Moritz for the first time",
+   "summary": "Moritz Wagner left Orlando for Brooklyn in free agency and is averaging 10.4 points. Franz said Friday's game \"will be a great day for our family.\"",
+   "source": "Eurohoops",
+   "url": "https://www.eurohoops.net/en/nba-news/2037605/franz-wagner-versus-moritz-wagner-orlando-magic-at-brooklyn-nets-nba/",
+   "flag": null,
+   "addedAt": "2026-11-20T11:20:00Z"
+  },
+  {
+   "id": "2026-11-19-free-throws-and-late-defense-sank-magic",
+   "d": "2026-11-19",
+   "cat": "Game",
+   "headline": "Free throws and late defense sank Magic vs 76ers",
+   "summary": "Philadelphia made 23 of 26 free throws to Orlando's 9 of 17, a 14-point swing in a five-point game. Opponents shoot a league-high 55.3% against the Magic in the final five minutes of games within five points.",
+   "source": "NBA.com (Josh Cohen)",
+   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-vs-76ers-20261119",
+   "flag": null,
+   "addedAt": "2026-11-20T11:20:00Z"
+  },
+  {
+   "id": "2026-11-19-osceola-magic-4-1-behind-g-league-s-top",
+   "d": "2026-11-19",
+   "cat": "G League",
+   "headline": "Osceola Magic 4-1 behind G League's top defense",
+   "summary": "Osceola went 4-0 in its first four Tip-Off Tournament games with the league's best defensive rating (89.8) and a league-high 14 steals per game. First-year coach Ronnie Burrell is running Sweeney's defensive principles.",
+   "source": "NBA.com (Dan Savage)",
+   "url": "https://www.nba.com/magic/news/osceola-magic-defensive-identity-leading-to-early-season-success-much-like-orlando-20261119",
+   "flag": null,
+   "addedAt": "2026-11-20T11:20:00Z"
+  },
+  {
    "id": "2026-11-18-randle-calls-nets-30-point-loss-to-bulls",
    "d": "2026-11-18",
    "cat": "Game",
@@ -1715,17 +1792,6 @@
    "flag": null,
    "addedAt": "2026-09-23T00:47:00Z",
    "id": "2026-08-27-da-silva-plays-world-cup-qualifiers-for-"
-  },
-  {
-   "d": "2026-08-21",
-   "cat": "Coaching",
-   "headline": "Bane says Sweeney flew to Texas to visit him",
-   "summary": "Bane: talent is not the problem, it is about collective buy-in. He called the visit a sign of Sweeney's commitment.",
-   "source": "ClutchPoints",
-   "url": "https://clutchpoints.com/nba/orlando-magic/magic-news-desmond-bane-reveals-sean-sweeney-gesture-before-2026-27-season",
-   "flag": null,
-   "addedAt": "2026-09-23T00:47:00Z",
-   "id": "2026-08-21-bane-says-sweeney-flew-to-texas-to-visit"
   }
  ]
 }
