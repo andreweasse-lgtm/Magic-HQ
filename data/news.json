@@ -1,6 +1,50 @@
 {
  "items": [
   {
+   "id": "2026-11-20-bane-extends-team-record-three-point",
+   "d": "2026-11-20",
+   "cat": "Player",
+   "headline": "Bane extends team-record three-point streak to 10 games",
+   "summary": "Desmond Bane scored 21 points, all on threes, going 7-for-13 at Brooklyn. It was his 10th straight game with at least three made threes, a franchise record. Wagner finished with 35 points, 5 rebounds and 7 assists.",
+   "source": "NBA.com",
+   "url": "https://www.nba.com/magic/news/franz-wagner-hits-game-winner-to-propel-orlando-magic-past-brooklyn-nets-20261120",
+   "flag": null,
+   "addedAt": "2026-11-21T11:15:06Z"
+  },
+  {
+   "id": "2026-11-20-vucevic-goes-5-for-5-off-the-bench",
+   "d": "2026-11-20",
+   "cat": "Player",
+   "headline": "Vucevic goes 5-for-5 off the bench in Brooklyn",
+   "summary": "Nikola Vucevic had 15 points on 5-of-5 shooting, including 3-of-3 from three, and 8 rebounds in 23 minutes, his best game of the season. Orlando made 19 threes, tying a season high.",
+   "source": "Magic On SI",
+   "url": "https://www.si.com/nba/magic/onsi/franz-wagner-sinks-game-winner-magic-secure-third-nba-cup-win-over-nets-01m7xsd9kjn8",
+   "flag": null,
+   "addedAt": "2026-11-21T11:15:06Z"
+  },
+  {
+   "id": "2026-11-20-raptors-top-pistons-magic-atop-cup-group",
+   "d": "2026-11-20",
+   "cat": "Schedule",
+   "headline": "Raptors beat Pistons, Magic alone atop Cup group",
+   "summary": "Toronto won 105-102 at Detroit behind Scottie Barnes' 29 points, dropping the Pistons to 1-1 in NBA Cup play. Orlando is 3-0 and hosts Detroit Tuesday in the East Group A finale.",
+   "source": "Yahoo Sports",
+   "url": "https://sports.yahoo.com/articles/raptors-upset-pistons-harden-scores-040823410.html",
+   "flag": null,
+   "addedAt": "2026-11-21T11:15:06Z"
+  },
+  {
+   "id": "2026-11-20-wizards-win-second-straight-before-magic",
+   "d": "2026-11-20",
+   "cat": "Game",
+   "headline": "Wizards win second straight before hosting Magic",
+   "summary": "Anthony Davis had 36 points and 11 rebounds and AJ Dybantsa added 20 points, 10 rebounds and 6 assists as Washington beat Chicago 98-94 in the NBA Cup. The Wizards (6-11) host Orlando on Sunday.",
+   "source": "Associated Press (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/davis-dybantsa-help-wizards-knock-033744791.html",
+   "flag": null,
+   "addedAt": "2026-11-21T11:15:06Z"
+  },
+  {
    "id": "2026-11-20-magic-edge-nets-113-111-on-wagner-shot",
    "d": "2026-11-20",
    "cat": "Game",

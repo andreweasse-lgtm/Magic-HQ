@@ -41,7 +41,7 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 7-8. Won at Brooklyn 113-111 in the NBA Cup Friday; at Washington Sunday, 7:00 PM.",
+  "phaseDetail": "Magic 7-8, eighth in the East, 3-0 in NBA Cup group play. At Washington Sunday, 7:00 PM; Cup group finale vs Detroit Tuesday.",
   "record": {
    "w": 7,
    "l": 8
@@ -52,46 +52,46 @@
    "div": 3
   },
   "streak": "W1",
-  "updatedAt": "2026-11-21T03:16:34Z"
+  "updatedAt": "2026-11-21T11:15:06Z"
  },
  "brief": {
   "d": "2026-11-21",
-  "createdAt": "2026-11-21T03:16:34Z",
-  "headline": "Wagner fadeaway lifts Magic past Nets 113-111 in NBA Cup",
-  "summary": "Franz Wagner hit a fadeaway with 2.4 seconds left and Orlando beat Brooklyn 113-111 at Barclays Center, going 3-0 in NBA Cup group play. Julius Randle missed a three at the buzzer. The Magic (7-8) were again without Banchero and Isaac. They visit Washington on Sunday.",
+  "createdAt": "2026-11-21T11:15:06Z",
+  "headline": "Wagner's 35 and late winner put Magic 3-0 in Cup; at Wizards Sunday",
+  "summary": "Franz Wagner scored 35 and hit the go-ahead jumper with 2.4 seconds left in Friday's 113-111 win at Brooklyn. Desmond Bane made seven threes to stretch his team-record streak to 10 games, and Nikola Vucevic went 5-for-5 off the bench. Toronto's win at Detroit left Orlando (7-8) alone atop East Group A. The Magic visit Washington on Sunday with no change to the injury list.",
   "bullets": [
    {
     "tag": "Game",
-    "text": "Magic 113, Nets 111. Wagner's fadeaway just inside the arc with 2.4 seconds left gave Orlando a two-point lead and Randle's three missed (Magic On SI)."
+    "text": "Magic 113, Nets 111. Wendell Carter Jr. tied it with a putback with 30.5 seconds left, Wagner hit the winner over Julius Randle's help and Randle (27 pts) missed a three at the buzzer (NBA.com)."
    },
    {
     "tag": "Lineup",
-    "text": "Magic On SI named Wagner, Desmond Bane and Nikola Vucevic as the winners of the night and Tristan da Silva as the loser. Franz faced his brother Moritz for the first time."
-   },
-   {
-    "tag": "Health",
-    "text": "Banchero (ankle) and Isaac (knee) were out Friday. No new injury news confirmed after the game."
-   },
-   {
-    "tag": "Next game",
-    "text": "Sunday at Washington, 7:00 PM on TV27, against the Wizards and No. 1 pick AJ Dybantsa."
+    "text": "Starters: Wagner, Bane, Suggs, Black, Carter Jr. Black had 13 pts, 7 reb, 6 ast, 3 steals and 2 blocks. Cain, Richardson and Morales did not play (ESPN box score)."
    },
    {
     "tag": "Standings",
-    "text": "Orlando is 7-8, and the Cup group finale is Tuesday vs Detroit."
+    "text": "Orlando is 7-8, eighth in the East, and has won five of six. Detroit fell to 1-1 in the Cup with a 105-102 home loss to Toronto, so Tuesday's Magic-Pistons game is the group finale and Orlando controls its own path (Magic On SI)."
+   },
+   {
+    "tag": "Health",
+    "text": "No change since Friday: Banchero (ankle), Isaac (knee), Penda (hamstring) and Nelson (ankle) are out. The team has given no return timeline for any of them."
+   },
+   {
+    "tag": "Next game",
+    "text": "Sunday at Washington, 7:00 PM on TV27. The Wizards (6-11) have won two straight, including 98-94 over Chicago Friday behind Anthony Davis (36 pts, 11 reb) and AJ Dybantsa (20 pts, 10 reb) (AP). No betting line posted yet."
    }
   ],
   "recap": {
    "title": "Magic 113, Nets 111",
-   "text": "Orlando held off Brooklyn at Barclays Center for its third straight NBA Cup group win. Wagner's fadeaway with 2.4 seconds left was the winner.",
-   "leaders": "Wagner game-winner; Bane and Vucevic also cited (full stat lines not confirmed)"
+   "text": "Orlando made 19 threes, tying a season high, and led 91-88 after three quarters. The fourth had nine lead changes. Carter's putback tied it at 111, Wagner's pull-up with 2.4 seconds left won it, and Randle missed at the buzzer. Orlando had 16 turnovers. Franz beat his brother Moritz (3 pts, 5 reb) in their first meeting.",
+   "leaders": "Wagner 35 pts, 7 ast, 5 reb; Bane 21 pts (7-13 3PT), 5 stl; Vucevic 15 pts, 8 reb (5-5 FG); Black 13 pts, 7 reb, 6 ast"
   },
   "preview": {
    "title": "Sunday at Wizards, 7:00 PM, TV27",
-   "text": "Orlando visits Washington, which will have No. 1 pick AJ Dybantsa.",
+   "text": "Washington (6-11, 2-5 at home) has won two in a row after an eight-game skid. Davis and No. 1 pick Dybantsa lead the Wizards. Banchero, Isaac, Penda and Nelson remain out for Orlando.",
    "line": ""
   },
-  "watch": "Sunday at Washington, then the Cup group finale vs Detroit on Tuesday."
+  "watch": "Sunday at Washington (7:00 PM, TV27), then the NBA Cup group finale vs Detroit on Tuesday."
  },
  "schedule": {
   "cup": {
@@ -440,7 +440,7 @@
      "them": 111,
      "wl": "W",
      "ot": "",
-     "note": "Wagner game-winning fadeaway with 2.4 seconds left; Randle missed a game-winning three"
+     "note": "Wagner 35 pts, 7 ast and the go-ahead jumper with 2.4 seconds left; Bane 21 (7 threes); Vucevic 15 on 5-5; Randle 27 for BKN, missed at the buzzer"
     },
     "t": "7:30 PM",
     "tag": "Cup",
@@ -451,19 +451,19 @@
     "d": "2026-11-22",
     "ha": "A",
     "id": "r20261122",
-    "note": "",
+    "note": "Washington has won two straight, 98-94 over Chicago on Friday (Davis 36 pts, Dybantsa 20 pts, 10 reb)",
     "opp": "WAS",
     "res": null,
     "t": "7:00 PM",
     "tag": "",
-    "tv": "TV27",
+    "tv": "TV27, DAZN",
     "type": "reg"
    },
    {
     "d": "2026-11-24",
     "ha": "H",
     "id": "r20261124",
-    "note": "",
+    "note": "NBA Cup East Group A finale; Orlando 3-0, Detroit 1-1",
     "opp": "DET",
     "res": null,
     "t": "7:00 PM",
@@ -1256,7 +1256,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-20T11:20:00Z"
+  "updatedAt": "2026-11-21T11:15:06Z"
  },
  "standings": {
   "division": {
@@ -1351,7 +1351,7 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-20",
+   "asOf": "2026-11-21",
    "rows": [
     {
      "abbr": "PHI",
@@ -1376,12 +1376,22 @@
     {
      "abbr": "DET",
      "w": 10,
-     "l": 4,
-     "gb": 2.0,
-     "home": "3-2",
+     "l": 5,
+     "gb": 2.5,
+     "home": "3-3",
      "away": "7-2",
+     "l10": "6-4",
+     "strk": "L1"
+    },
+    {
+     "abbr": "ATL",
+     "w": 10,
+     "l": 6,
+     "gb": 3.0,
+     "home": "4-3",
+     "away": "6-3",
      "l10": "7-3",
-     "strk": "W2"
+     "strk": "W3"
     },
     {
      "abbr": "MIA",
@@ -1392,16 +1402,6 @@
      "away": "4-3",
      "l10": "8-2",
      "strk": "W6"
-    },
-    {
-     "abbr": "ATL",
-     "w": 9,
-     "l": 6,
-     "gb": 3.5,
-     "home": "3-3",
-     "away": "6-3",
-     "l10": "7-3",
-     "strk": "W2"
     },
     {
      "abbr": "NYK",
@@ -1415,19 +1415,19 @@
     },
     {
      "abbr": "CLE",
-     "w": 8,
+     "w": 9,
      "l": 8,
-     "gb": 5.0,
-     "home": "6-3",
+     "gb": 4.5,
+     "home": "7-3",
      "away": "2-5",
-     "l10": "4-6",
-     "strk": "L1"
+     "l10": "5-5",
+     "strk": "W1"
     },
     {
      "abbr": "ORL",
      "w": 7,
      "l": 8,
-     "gb": 6.0,
+     "gb": 5.5,
      "home": "1-5",
      "away": "6-3",
      "l10": "5-5",
@@ -1435,59 +1435,59 @@
     },
     {
      "abbr": "TOR",
-     "w": 5,
+     "w": 6,
      "l": 10,
-     "gb": 7.5,
+     "gb": 7.0,
      "home": "2-6",
-     "away": "3-4",
+     "away": "4-4",
+     "l10": "3-7",
+     "strk": "W1"
+    },
+    {
+     "abbr": "WAS",
+     "w": 6,
+     "l": 11,
+     "gb": 7.5,
+     "home": "2-5",
+     "away": "4-6",
      "l10": "2-8",
-     "strk": "L6"
+     "strk": "W2"
     },
     {
      "abbr": "IND",
      "w": 5,
-     "l": 10,
-     "gb": 7.5,
-     "home": "2-5",
-     "away": "3-4",
-     "l10": "3-7",
-     "strk": "L2"
-    },
-    {
-     "abbr": "WAS",
-     "w": 5,
      "l": 11,
      "gb": 8.0,
      "home": "2-5",
-     "away": "3-6",
-     "l10": "2-8",
-     "strk": "W1"
+     "away": "3-5",
+     "l10": "3-7",
+     "strk": "L3"
     },
     {
      "abbr": "CHA",
      "w": 4,
-     "l": 10,
-     "gb": 8.0,
+     "l": 11,
+     "gb": 8.5,
      "home": "3-4",
-     "away": "1-6",
+     "away": "1-7",
      "l10": "1-9",
-     "strk": "L3"
+     "strk": "L4"
     },
     {
      "abbr": "CHI",
      "w": 4,
-     "l": 10,
-     "gb": 8.0,
-     "home": "1-4",
+     "l": 11,
+     "gb": 8.5,
+     "home": "1-5",
      "away": "3-6",
      "l10": "3-7",
-     "strk": "W1"
+     "strk": "L1"
     },
     {
      "abbr": "BKN",
      "w": 3,
      "l": 12,
-     "gb": 9.0,
+     "gb": 9.5,
      "home": "1-6",
      "away": "2-6",
      "l10": "3-7",
@@ -1602,7 +1602,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-20T11:20:00Z"
+  "updatedAt": "2026-11-21T11:15:06Z"
  },
  "roster": {
   "players": [
@@ -1638,11 +1638,11 @@
     "age": 25,
     "contract": "$41.8M. Signed through 2029-30",
     "cur": {
-     "gp": 14,
-     "pts": 24.4,
-     "reb": 6.9,
-     "ast": 8.5,
-     "fg": 0.47
+     "gp": 15,
+     "pts": 25.1,
+     "reb": 6.8,
+     "ast": 8.4,
+     "fg": 0.475
     },
     "exp": "5",
     "ht": "6-10",
@@ -1656,7 +1656,7 @@
      "reb": 5.2
     },
     "name": "Franz Wagner",
-    "note": "Missed 48 games last season with a high ankle sprain, then strained his right calf in the playoffs. Left the preseason finale with right shoulder soreness but practiced fully Oct 20 and is off the injury report. Career-high 15 assists Nov 5 at Phoenix, with 6 turnovers. Tied his career high with 38 points Nov 11 at Utah, his third straight 30-point game. Scored 27 with 11 assists Nov 18 vs Philadelphia, his sixth straight 20-point game.",
+    "note": "Missed 48 games last season with a high ankle sprain, then strained his right calf in the playoffs. Left the preseason finale with right shoulder soreness but practiced fully Oct 20 and is off the injury report. Career-high 15 assists Nov 5 at Phoenix, with 6 turnovers. Tied his career high with 38 points Nov 11 at Utah, his third straight 30-point game. Scored 27 with 11 assists Nov 18 vs Philadelphia, his sixth straight 20-point game. Scored 35 with the game-winning jumper with 2.4 seconds left Nov 20 at Brooklyn, his fifth 30-point game this season.",
     "num": "22",
     "pos": "F",
     "status": "Healthy",
@@ -1666,11 +1666,11 @@
     "age": 28,
     "contract": "$39.4M. Signed through 2028-29",
     "cur": {
-     "gp": 13,
-     "pts": 18.5,
-     "reb": 4.3,
+     "gp": 14,
+     "pts": 18.6,
+     "reb": 4.1,
      "ast": 2.7,
-     "fg": 0.426
+     "fg": 0.425
     },
     "exp": "6",
     "ht": "6-6",
@@ -1684,7 +1684,7 @@
      "reb": 4.1
     },
     "name": "Desmond Bane",
-    "note": "Played all 82 games last season. Missed Nov 7 at Golden State with an illness, his first missed game with Orlando. Made 7 of 11 threes for 25 points Nov 11 at Utah. Set a team record Nov 18 vs Philadelphia with his ninth straight game of three or more threes, passing Rashard Lewis.",
+    "note": "Played all 82 games last season. Missed Nov 7 at Golden State with an illness, his first missed game with Orlando. Made 7 of 11 threes for 25 points Nov 11 at Utah. Set a team record Nov 18 vs Philadelphia with his ninth straight game of three or more threes, passing Rashard Lewis, and extended it to 10 games Nov 20 at Brooklyn with 7 of 13 threes.",
     "num": "3",
     "pos": "G",
     "status": "Healthy",
@@ -1694,11 +1694,11 @@
     "age": 25,
     "contract": "$32.4M. Signed through 2029-30",
     "cur": {
-     "gp": 6,
-     "pts": 9.5,
-     "reb": 5.2,
-     "ast": 4.7,
-     "fg": 0.389
+     "gp": 7,
+     "pts": 9.3,
+     "reb": 5.3,
+     "ast": 4.3,
+     "fg": 0.375
     },
     "exp": "5",
     "ht": "6-5",
@@ -1722,11 +1722,11 @@
     "age": 22,
     "contract": "$10.1M. Final rookie-scale year. No extension; restricted free agent in 2027",
     "cur": {
-     "gp": 11,
-     "pts": 16.5,
-     "reb": 4.9,
+     "gp": 12,
+     "pts": 16.3,
+     "reb": 5.1,
      "ast": 5.6,
-     "fg": 0.449
+     "fg": 0.442
     },
     "exp": "3",
     "ht": "6-7",
@@ -1750,11 +1750,11 @@
     "age": 27,
     "contract": "$18.1M. Through 2028-29 (team option in 2028-29)",
     "cur": {
-     "gp": 14,
-     "pts": 13.4,
-     "reb": 8.8,
-     "ast": 1.2,
-     "fg": 0.564
+     "gp": 15,
+     "pts": 13.0,
+     "reb": 8.7,
+     "ast": 1.3,
+     "fg": 0.562
     },
     "exp": "8",
     "ht": "6-10",
@@ -1778,11 +1778,11 @@
     "age": 35,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 12,
-     "pts": 2.7,
-     "reb": 2.8,
+     "gp": 13,
+     "pts": 3.6,
+     "reb": 3.2,
      "ast": 1.1,
-     "fg": 0.361
+     "fg": 0.439
     },
     "exp": "15",
     "ht": "6-9",
@@ -1796,7 +1796,7 @@
      "reb": 8.4
     },
     "name": "Nikola Vucevic",
-    "note": "Back in Orlando after playing here from 2012 to 2021. Split last season between Chicago and Boston.",
+    "note": "Back in Orlando after playing here from 2012 to 2021. Split last season between Chicago and Boston. Had his best game of the season Nov 20 at Brooklyn: 15 pts on 5-of-5 shooting (3-of-3 from three) and 8 rebounds in 23 minutes.",
     "num": "9",
     "pos": "C",
     "status": "Healthy",
@@ -1806,11 +1806,11 @@
     "age": 25,
     "contract": "$4.0M. 2027-28 team option ($6.1M) exercised Oct 21; signed through 2027-28",
     "cur": {
-     "gp": 12,
-     "pts": 14.4,
-     "reb": 3.9,
+     "gp": 13,
+     "pts": 13.8,
+     "reb": 3.7,
      "ast": 1.7,
-     "fg": 0.471
+     "fg": 0.465
     },
     "exp": "2",
     "ht": "6-8",
@@ -1834,11 +1834,11 @@
     "age": 27,
     "contract": "$7.6M. Final year, UFA 2027",
     "cur": {
-     "gp": 12,
-     "pts": 5.2,
+     "gp": 13,
+     "pts": 5.1,
      "reb": 3.8,
      "ast": 0.7,
-     "fg": 0.706
+     "fg": 0.722
     },
     "exp": "7",
     "ht": "6-11",
@@ -1884,11 +1884,11 @@
     "age": 31,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 10,
-     "pts": 4.5,
-     "reb": 1.2,
-     "ast": 1.8,
-     "fg": 0.333
+     "gp": 11,
+     "pts": 4.4,
+     "reb": 1.1,
+     "ast": 1.6,
+     "fg": 0.347
     },
     "exp": "8",
     "ht": "6-0",
@@ -2066,7 +2066,7 @@
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-20T11:20:00Z"
+  "updatedAt": "2026-11-21T11:15:06Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
@@ -2475,7 +2475,7 @@
     "text": "Fired head coach Jamahl Mosley."
    }
   ],
-  "updatedAt": "2026-10-21T13:11:28Z",
+  "updatedAt": "2026-11-21T11:15:06Z",
   "watch": [
    {
     "k": "Local TV",
