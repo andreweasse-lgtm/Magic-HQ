@@ -1,6 +1,49 @@
 {
  "items": [
   {
+   "d": "2026-11-20",
+   "createdAt": "2026-11-20T11:20:00Z",
+   "headline": "Magic at Nets tonight in NBA Cup; Banchero hopes to return within weeks",
+   "summary": "Orlando (6-8) plays at Brooklyn (3-11) at 7:30 PM in its third NBA Cup group game, looking to go 3-0. Banchero, Isaac, Penda and Nelson are all out again. Banchero said Thursday he hopes to be back \"within the next couple of weeks\" but wants the ankle fully healed first. The Magic are 5.5-point favorites.",
+   "bullets": [
+    {
+     "tag": "Health",
+     "text": "Out tonight: Banchero (ankle, 13th straight game), Isaac (knee), Penda (hamstring) and Nelson (ankle), per the team's injury report."
+    },
+    {
+     "tag": "Health",
+     "text": "Banchero said he has done some on-court work, mostly shooting. He talked with Franz Wagner, who came back early from his own high ankle sprain last season and then missed more time, and said he does not want this one to linger (Orlando Sentinel)."
+    },
+    {
+     "tag": "Next game",
+     "text": "Brooklyn has lost three straight, including 137-107 at home to Chicago on Wednesday. Coach Jordi Fernandez cited \"selfishness\" and finger-pointing, and Julius Randle called it \"embarrassing\" (Field Level Media)."
+    },
+    {
+     "tag": "Lineup",
+     "text": "Franz Wagner faces his brother Moritz, who signed with Brooklyn this summer, for the first time. Franz is chasing a seventh straight 20-point game, and Bane's team-record streak of games with three or more threes is at nine."
+    },
+    {
+     "tag": "Game",
+     "text": "Late-game defense is the sore spot: opponents shoot a league-high 55.3% against Orlando in the final five minutes of games within five points (NBA.com)."
+    },
+    {
+     "tag": "Odds",
+     "text": "DraftKings: ORL -5.5, total 222.5, moneyline ORL -198, BKN +166."
+    },
+    {
+     "tag": "Standings",
+     "text": "Orlando is still 8th in the East. The Knicks won at Minnesota on Thursday to reach 9-6, tied with Miami and Atlanta. Milwaukee (1-15) has lost 12 straight."
+    }
+   ],
+   "recap": null,
+   "preview": {
+    "title": "Friday at Nets, 7:30 PM, TV27",
+    "text": "NBA Cup East Group A game at Barclays Center, also on DAZN. Orlando is 2-0 in group play and 5-3 on the road; Brooklyn is 1-5 at home. Egor Demin scored 22 and Randle 17 in Wednesday's loss to Chicago, and Moritz Wagner is averaging 10.4 points.",
+    "line": "ORL -5.5, total 222.5 (DraftKings)"
+   },
+   "watch": "Tonight at Brooklyn, 7:30 PM (TV27, DAZN, NBA Cup), then Sunday at Washington and the Cup group finale vs Detroit on Tuesday."
+  },
+  {
    "d": "2026-11-19",
    "createdAt": "2026-11-19T11:20:22Z",
    "headline": "Magic visit 3-11 Nets in NBA Cup Friday after blown lead vs 76ers",

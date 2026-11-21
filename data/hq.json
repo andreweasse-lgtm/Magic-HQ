@@ -1,6 +1,6 @@
 {
  "meta": {
-  "away": "5-3",
+  "away": "6-3",
   "coach": "Sean Sweeney",
   "home": "1-5",
   "keyDates": [
@@ -27,13 +27,13 @@
   ],
   "l10": "5-5",
   "lastGame": {
-   "d": "2026-11-18",
-   "opp": "PHI",
-   "ha": "H",
-   "us": 116,
-   "them": 121,
-   "wl": "L",
-   "label": "vs 76ers"
+   "d": "2026-11-20",
+   "opp": "BKN",
+   "ha": "A",
+   "us": 113,
+   "them": 111,
+   "wl": "W",
+   "label": "at Nets"
   },
   "lastSeason": {
    "l": 37,
@@ -41,9 +41,9 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 6-8, 8th in the East. Tonight at Brooklyn, 7:30 PM (NBA Cup), then at Washington Sunday.",
+  "phaseDetail": "Magic 7-8. Won at Brooklyn 113-111 in the NBA Cup Friday; at Washington Sunday, 7:00 PM.",
   "record": {
-   "w": 6,
+   "w": 7,
    "l": 8
   },
   "season": "2026-27",
@@ -51,51 +51,47 @@
    "conf": 8,
    "div": 3
   },
-  "streak": "L1",
-  "updatedAt": "2026-11-20T19:08:42Z"
+  "streak": "W1",
+  "updatedAt": "2026-11-21T03:16:34Z"
  },
  "brief": {
-  "d": "2026-11-20",
-  "createdAt": "2026-11-20T11:20:00Z",
-  "headline": "Magic at Nets tonight in NBA Cup; Banchero hopes to return within weeks",
-  "summary": "Orlando (6-8) plays at Brooklyn (3-11) at 7:30 PM in its third NBA Cup group game, looking to go 3-0. Banchero, Isaac, Penda and Nelson are all out again. Banchero said Thursday he hopes to be back \"within the next couple of weeks\" but wants the ankle fully healed first. The Magic are 5.5-point favorites.",
+  "d": "2026-11-21",
+  "createdAt": "2026-11-21T03:16:34Z",
+  "headline": "Wagner fadeaway lifts Magic past Nets 113-111 in NBA Cup",
+  "summary": "Franz Wagner hit a fadeaway with 2.4 seconds left and Orlando beat Brooklyn 113-111 at Barclays Center, going 3-0 in NBA Cup group play. Julius Randle missed a three at the buzzer. The Magic (7-8) were again without Banchero and Isaac. They visit Washington on Sunday.",
   "bullets": [
    {
-    "tag": "Health",
-    "text": "Out tonight: Banchero (ankle, 13th straight game), Isaac (knee), Penda (hamstring) and Nelson (ankle), per the team's injury report."
-   },
-   {
-    "tag": "Health",
-    "text": "Banchero said he has done some on-court work, mostly shooting. He talked with Franz Wagner, who came back early from his own high ankle sprain last season and then missed more time, and said he does not want this one to linger (Orlando Sentinel)."
-   },
-   {
-    "tag": "Next game",
-    "text": "Brooklyn has lost three straight, including 137-107 at home to Chicago on Wednesday. Coach Jordi Fernandez cited \"selfishness\" and finger-pointing, and Julius Randle called it \"embarrassing\" (Field Level Media)."
+    "tag": "Game",
+    "text": "Magic 113, Nets 111. Wagner's fadeaway just inside the arc with 2.4 seconds left gave Orlando a two-point lead and Randle's three missed (Magic On SI)."
    },
    {
     "tag": "Lineup",
-    "text": "Franz Wagner faces his brother Moritz, who signed with Brooklyn this summer, for the first time. Franz is chasing a seventh straight 20-point game, and Bane's team-record streak of games with three or more threes is at nine."
+    "text": "Magic On SI named Wagner, Desmond Bane and Nikola Vucevic as the winners of the night and Tristan da Silva as the loser. Franz faced his brother Moritz for the first time."
    },
    {
-    "tag": "Game",
-    "text": "Late-game defense is the sore spot: opponents shoot a league-high 55.3% against Orlando in the final five minutes of games within five points (NBA.com)."
+    "tag": "Health",
+    "text": "Banchero (ankle) and Isaac (knee) were out Friday. No new injury news confirmed after the game."
    },
    {
-    "tag": "Odds",
-    "text": "DraftKings: ORL -5.5, total 222.5, moneyline ORL -198, BKN +166."
+    "tag": "Next game",
+    "text": "Sunday at Washington, 7:00 PM on TV27, against the Wizards and No. 1 pick AJ Dybantsa."
    },
    {
     "tag": "Standings",
-    "text": "Orlando is still 8th in the East. The Knicks won at Minnesota on Thursday to reach 9-6, tied with Miami and Atlanta. Milwaukee (1-15) has lost 12 straight."
+    "text": "Orlando is 7-8, and the Cup group finale is Tuesday vs Detroit."
    }
   ],
-  "recap": null,
-  "preview": {
-   "title": "Friday at Nets, 7:30 PM, TV27",
-   "text": "NBA Cup East Group A game at Barclays Center, also on DAZN. Orlando is 2-0 in group play and 5-3 on the road; Brooklyn is 1-5 at home. Egor Demin scored 22 and Randle 17 in Wednesday's loss to Chicago, and Moritz Wagner is averaging 10.4 points.",
-   "line": "ORL -5.5, total 222.5 (DraftKings)"
+  "recap": {
+   "title": "Magic 113, Nets 111",
+   "text": "Orlando held off Brooklyn at Barclays Center for its third straight NBA Cup group win. Wagner's fadeaway with 2.4 seconds left was the winner.",
+   "leaders": "Wagner game-winner; Bane and Vucevic also cited (full stat lines not confirmed)"
   },
-  "watch": "Tonight at Brooklyn, 7:30 PM (TV27, DAZN, NBA Cup), then Sunday at Washington and the Cup group finale vs Detroit on Tuesday."
+  "preview": {
+   "title": "Sunday at Wizards, 7:00 PM, TV27",
+   "text": "Orlando visits Washington, which will have No. 1 pick AJ Dybantsa.",
+   "line": ""
+  },
+  "watch": "Sunday at Washington, then the Cup group finale vs Detroit on Tuesday."
  },
  "schedule": {
   "cup": {
@@ -439,7 +435,13 @@
     "id": "r20261120",
     "note": "NBA Cup East Group A; Orlando 2-0 in group play; Franz Wagner vs brother Moritz",
     "opp": "BKN",
-    "res": null,
+    "res": {
+     "us": 113,
+     "them": 111,
+     "wl": "W",
+     "ot": "",
+     "note": "Wagner game-winning fadeaway with 2.4 seconds left; Randle missed a game-winning three"
+    },
     "t": "7:30 PM",
     "tag": "Cup",
     "tv": "TV27, DAZN",
@@ -1423,13 +1425,13 @@
     },
     {
      "abbr": "ORL",
-     "w": 6,
+     "w": 7,
      "l": 8,
      "gb": 6.0,
      "home": "1-5",
-     "away": "5-3",
+     "away": "6-3",
      "l10": "5-5",
-     "strk": "L1"
+     "strk": "W1"
     },
     {
      "abbr": "TOR",
@@ -1484,12 +1486,12 @@
     {
      "abbr": "BKN",
      "w": 3,
-     "l": 11,
+     "l": 12,
      "gb": 9.0,
-     "home": "1-5",
+     "home": "1-6",
      "away": "2-6",
      "l10": "3-7",
-     "strk": "L3"
+     "strk": "L4"
     },
     {
      "abbr": "MIL",
