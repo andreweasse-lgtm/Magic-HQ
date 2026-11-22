@@ -1,6 +1,39 @@
 {
  "items": [
   {
+   "id": "2026-11-22-banchero-isaac-penda-and-nelson-out-at-w",
+   "d": "2026-11-22",
+   "cat": "Injury",
+   "headline": "Banchero, Isaac, Penda and Nelson out at Washington",
+   "summary": "All four remain out for Sunday at Washington. The Wizards list Jamir Watkins (torn ACL), Reece Beekman (shoulder), Tristan Vukcevic (hip) and Justin Champagnie (foot) as out.",
+   "source": "96.9 The Game",
+   "url": "https://969thegame.iheart.com/content/2026-11-22-magic-vs-wizards-injury-report-nov-22/",
+   "flag": null,
+   "addedAt": "2026-11-22T11:13:39Z"
+  },
+  {
+   "id": "2026-11-22-magic-5-5-point-favorites-at-washington",
+   "d": "2026-11-22",
+   "cat": "Game",
+   "headline": "Magic 5.5-point favorites at Washington",
+   "summary": "Orlando is a 5.5-point road favorite with a total of 221.5 in early Sunday market odds. Novig has the Magic at -194 on the moneyline.",
+   "source": "Dimers",
+   "url": "https://www.dimers.com/nba/predictions/2026_34_was_orl",
+   "flag": null,
+   "addedAt": "2026-11-22T11:13:39Z"
+  },
+  {
+   "id": "2026-11-21-win-over-detroit-would-clinch-a-cup-quar",
+   "d": "2026-11-21",
+   "cat": "Schedule",
+   "headline": "Win over Detroit would clinch a Cup quarterfinal spot",
+   "summary": "Orlando (3-0 in East Group A, 14-4 all-time in Cup play) clinches a quarterfinal berth with a win over Detroit at Kia Center on Tuesday. The Magic are 5-5 in clutch games, and Sweeney said he wants to keep \"building those fundamentals, building those habits\" late in games.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/facing-brother-franz-wagner-saves-161500136.html",
+   "flag": null,
+   "addedAt": "2026-11-22T11:13:39Z"
+  },
+  {
    "id": "2026-11-20-bane-extends-team-record-three-point",
    "d": "2026-11-20",
    "cat": "Player",
