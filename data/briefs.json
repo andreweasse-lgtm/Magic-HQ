@@ -1,6 +1,45 @@
 {
  "items": [
   {
+   "d": "2026-11-22",
+   "createdAt": "2026-11-22T11:13:39Z",
+   "headline": "Magic at Wizards tonight as 5.5-point favorites; injury list unchanged",
+   "summary": "Orlando (7-8) plays at Washington (6-11) at 7:00 PM on TV27 after a day off Saturday. The Magic are 5.5-point road favorites and are again without Banchero, Isaac, Penda and Nelson. Washington won the first meeting 103-94 in Orlando on Nov 2. A win would get the Magic back to .500 before Tuesday's NBA Cup group finale against Detroit, where a win clinches a quarterfinal spot.",
+   "bullets": [
+    {
+     "tag": "Next game",
+     "text": "Tonight at Washington, 7:00 PM, TV27 and DAZN. The Wizards have won two straight on the road (103-99 at Toronto, 98-94 at Chicago) and held Orlando to 94 points in the Nov 2 meeting (Covers)."
+    },
+    {
+     "tag": "Odds",
+     "text": "Orlando -5.5, total 221.5 (market consensus via Dimers, 4:02 AM ET). Moneyline Magic -194 at Novig."
+    },
+    {
+     "tag": "Health",
+     "text": "Banchero (ankle), Isaac (knee), Penda (hamstring) and Nelson (ankle) are out again (96.9 The Game). Washington is without Jamir Watkins (torn ACL), Reece Beekman (shoulder), Tristan Vukcevic (hip) and Justin Champagnie (foot)."
+    },
+    {
+     "tag": "Standings",
+     "text": "Saturday: Philadelphia beat Milwaukee to reach 14-3, New York won its fourth straight and Boston lost its third in a row. Orlando stays eighth, 1 game behind seventh-place Cleveland and 2 behind sixth-place Miami (ESPN)."
+    },
+    {
+     "tag": "Game",
+     "text": "Orlando is 3-0 in East Group A and 14-4 all-time in Cup play. A win over Detroit at Kia Center on Tuesday clinches a Cup quarterfinal spot (Orlando Sentinel)."
+    },
+    {
+     "tag": "Coaching",
+     "text": "The Magic are 5-5 in clutch games. Sweeney said players have been offering ideas on late-game execution and he wants to keep \"building those fundamentals, building those habits\" (Orlando Sentinel)."
+    }
+   ],
+   "recap": null,
+   "preview": {
+    "title": "Sunday at Wizards, 7:00 PM, TV27",
+    "text": "Washington (6-11, 2-5 at home) has won two straight behind Anthony Davis and No. 1 pick AJ Dybantsa, with Trae Young at point guard. The Wizards won 103-94 in Orlando on Nov 2. Banchero, Isaac, Penda and Nelson are out for Orlando; Wagner is averaging 25.1 points and 8.4 assists.",
+    "line": "ORL -5.5, total 221.5 (consensus via Dimers); ML ORL -194 (Novig)"
+   },
+   "watch": "Tonight at Washington (7:00 PM, TV27), then Detroit at home Tuesday with a Cup quarterfinal spot on the line."
+  },
+  {
    "d": "2026-11-21",
    "createdAt": "2026-11-21T11:15:06Z",
    "headline": "Wagner's 35 and late winner put Magic 3-0 in Cup; at Wizards Sunday",
@@ -2031,37 +2070,6 @@
     {
      "tag": "Contract",
      "text": "Still no Anthony Black extension with the Oct 19 rookie-scale deadline three and a half weeks away."
-    }
-   ],
-   "recap": null,
-   "preview": null,
-   "watch": "Next up: media day, Monday Sept 28 at 11 AM ET."
-  },
-  {
-   "d": "2026-09-23",
-   "createdAt": "2026-09-24T01:08:34Z",
-   "headline": "Four camp signees quietly routed to Osceola's G League roster",
-   "summary": "A quiet Wednesday before camp. Orlando signed and waived four Exhibit 10 players this week purely to secure their G League rights for Osceola; the actual 14-man standard roster is unchanged. Franz Wagner and Jonathan Isaac remain questionable for the season opener with no new team update, and Anthony Black still has no extension four weeks from his Oct 19 deadline.",
-   "bullets": [
-    {
-     "tag": "G League",
-     "text": "The Magic signed Ace Baldwin Jr., Ricky Council IV, Jarron Cumberland and Au'Diese Toney to Exhibit 10 deals and waived all four the same day, a routine move that locks up their returning-player rights for Osceola. It does not change the real training camp roster."
-    },
-    {
-     "tag": "Health",
-     "text": "Franz Wagner (calf) and Jonathan Isaac (knee) are still listed questionable for the start of the season on CBS's injury page, unchanged since Sept 8. No team statement yet; expect one at media day Monday. Izaiyah Nelson (ankle surgery) is out until at least Nov 1."
-    },
-    {
-     "tag": "Contract",
-     "text": "Still no Anthony Black extension. Bleacher Report projects the Magic will let the Oct 19 deadline pass and revisit it in restricted free agency next July, citing the team's tax bill and apron limits."
-    },
-    {
-     "tag": "Camp",
-     "text": "Position battles to watch: starting center (Wendell Carter Jr. vs Nikola Vucevic), Noah Penda vs Tristan da Silva, and whether Suggs keeps the starting point guard job over Black."
-    },
-    {
-     "tag": "Roster",
-     "text": "14 standard contracts, with the 15th spot likely to stay open to save tax money. Malaki Branham and JD Davison remain in camp on non-guaranteed Exhibit 10 deals."
     }
    ],
    "recap": null,

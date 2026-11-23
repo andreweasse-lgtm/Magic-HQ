@@ -1,6 +1,6 @@
 {
  "meta": {
-  "away": "6-3",
+  "away": "6-4",
   "coach": "Sean Sweeney",
   "home": "1-5",
   "keyDates": [
@@ -27,13 +27,13 @@
   ],
   "l10": "5-5",
   "lastGame": {
-   "d": "2026-11-20",
-   "opp": "BKN",
+   "d": "2026-11-22",
+   "opp": "WAS",
    "ha": "A",
-   "us": 113,
-   "them": 111,
-   "wl": "W",
-   "label": "at Nets"
+   "us": 96,
+   "them": 116,
+   "wl": "L",
+   "label": "at Wizards"
   },
   "lastSeason": {
    "l": 37,
@@ -41,57 +41,61 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 7-8, eighth in the East, 3-0 in NBA Cup group play. At Washington tonight, 7:00 PM; Cup group finale vs Detroit Tuesday.",
+  "phaseDetail": "Magic 7-9, eighth in the East, 3-0 in NBA Cup group play. Host Detroit Tuesday, 7:00 PM, with East Group A on the line.",
   "record": {
    "w": 7,
-   "l": 8
+   "l": 9
   },
   "season": "2026-27",
   "standing": {
    "conf": 8,
    "div": 3
   },
-  "streak": "W1",
-  "updatedAt": "2026-11-23T02:53:24Z"
+  "streak": "L1",
+  "updatedAt": "2026-11-23T11:19:40Z"
  },
  "brief": {
-  "d": "2026-11-22",
-  "createdAt": "2026-11-22T11:13:39Z",
-  "headline": "Magic at Wizards tonight as 5.5-point favorites; injury list unchanged",
-  "summary": "Orlando (7-8) plays at Washington (6-11) at 7:00 PM on TV27 after a day off Saturday. The Magic are 5.5-point road favorites and are again without Banchero, Isaac, Penda and Nelson. Washington won the first meeting 103-94 in Orlando on Nov 2. A win would get the Magic back to .500 before Tuesday's NBA Cup group finale against Detroit, where a win clinches a quarterfinal spot.",
+  "d": "2026-11-23",
+  "createdAt": "2026-11-23T11:19:40Z",
+  "headline": "Wizards rout Magic 116-96; Cup group finale vs Detroit Tuesday",
+  "summary": "Washington hit 22 of 39 threes and never trailed in a 116-96 win Sunday night, dropping Orlando to 7-9. The Magic shot 12 of 39 from three, and Franz Wagner's run of 20-point games ended at seven. Orlando (3-0 in East Group A) hosts Detroit Tuesday at 7:00 PM, where a win clinches the group and a Cup quarterfinal spot. Banchero, Isaac, Penda and Nelson remain out.",
   "bullets": [
    {
+    "tag": "Game",
+    "text": "Washington opened on an 11-0 run, led 38-21 after one quarter and made 22 of 39 threes, one short of its franchise record. Orlando shot 36 of 88 overall and 12 of 39 from three and trailed by as many as 25 (AP, Orlando Sentinel)."
+   },
+   {
+    "tag": "Lineup",
+    "text": "Tristan da Silva led Orlando with 18 off the bench. Bane scored 17 and made three threes, extending his team record to 11 straight games with three or more. Wagner had 16 on 7-of-18 shooting with 8 rebounds and 6 assists. Suggs went 2 of 11 (0 of 6 from three) in 22 minutes with early foul trouble (Magic On SI)."
+   },
+   {
     "tag": "Next game",
-    "text": "Tonight at Washington, 7:00 PM, TV27 and DAZN. The Wizards have won two straight on the road (103-99 at Toronto, 98-94 at Chicago) and held Orlando to 94 points in the Nov 2 meeting (Covers)."
-   },
-   {
-    "tag": "Odds",
-    "text": "Orlando -5.5, total 221.5 (market consensus via Dimers, 4:02 AM ET). Moneyline Magic -194 at Novig."
-   },
-   {
-    "tag": "Health",
-    "text": "Banchero (ankle), Isaac (knee), Penda (hamstring) and Nelson (ankle) are out again (96.9 The Game). Washington is without Jamir Watkins (torn ACL), Reece Beekman (shoulder), Tristan Vukcevic (hip) and Justin Champagnie (foot)."
+    "text": "Tuesday vs Detroit, 7:00 PM, TV27. The Pistons (10-6, 1-1 in Cup play) lost 107-97 at Atlanta on Sunday; Cade Cunningham, listed with right knee soreness, scored 5 points with 15 assists (AP)."
    },
    {
     "tag": "Standings",
-    "text": "Saturday: Philadelphia beat Milwaukee to reach 14-3, New York won its fourth straight and Boston lost its third in a row. Orlando stays eighth, 1 game behind seventh-place Cleveland and 2 behind sixth-place Miami (ESPN)."
+    "text": "Orlando is eighth in the East, 1.5 games behind seventh-place Cleveland and 3 behind Detroit and Miami, who have won seven straight. Washington and Toronto are 1 game back in ninth and tenth (ESPN)."
    },
    {
-    "tag": "Game",
-    "text": "Orlando is 3-0 in East Group A and 14-4 all-time in Cup play. A win over Detroit at Kia Center on Tuesday clinches a Cup quarterfinal spot (Orlando Sentinel)."
+    "tag": "Health",
+    "text": "No change: Banchero (ankle), Isaac (knee), Penda (hamstring) and Nelson (ankle) were inactive Sunday. CBS Sports estimates Banchero, Penda and Nelson out until at least Nov 29 and Isaac until at least Nov 28. The team practices today at 11 AM."
    },
    {
-    "tag": "Coaching",
-    "text": "The Magic are 5-5 in clutch games. Sweeney said players have been offering ideas on late-game execution and he wants to keep \"building those fundamentals, building those habits\" (Orlando Sentinel)."
+    "tag": "Odds",
+    "text": "FanDuel futures (Monday): win total 40.5 (Over -115), make playoffs -120, Southeast +430, East Group A winner -125, Cup winner +2000. Tuesday's game line was not posted yet."
    }
   ],
-  "recap": null,
-  "preview": {
-   "title": "Sunday at Wizards, 7:00 PM, TV27",
-   "text": "Washington (6-11, 2-5 at home) has won two straight behind Anthony Davis and No. 1 pick AJ Dybantsa, with Trae Young at point guard. The Wizards won 103-94 in Orlando on Nov 2. Banchero, Isaac, Penda and Nelson are out for Orlando; Wagner is averaging 25.1 points and 8.4 assists.",
-   "line": "ORL -5.5, total 221.5 (consensus via Dimers); ML ORL -194 (Novig)"
+  "recap": {
+   "title": "Wizards 116, Magic 96",
+   "text": "Washington scored the first 11 points and never trailed, leading 63-51 at the half. Orlando cut it to seven in the third quarter before a 12-0 Wizards run put it away. Kyshawn George had 24 points and Anthony Davis 22 for Washington, which has won three straight. Orlando won the paint 42-24 but was outshot from three 66 points to 36.",
+   "leaders": "da Silva 18 pts; Bane 17 pts, 5 ast; Wagner 16 pts, 8 reb, 6 ast; Black 14 pts, 5 reb"
   },
-  "watch": "Tonight at Washington (7:00 PM, TV27), then Detroit at home Tuesday with a Cup quarterfinal spot on the line."
+  "preview": {
+   "title": "Tuesday vs Pistons, 7:00 PM, TV27",
+   "text": "NBA Cup East Group A finale at Kia Center. Orlando (3-0) clinches the group and a quarterfinal spot with a win; Detroit is 1-1. The Pistons are 10-6 and have lost two straight. Banchero, Isaac, Penda and Nelson are expected to stay out for Orlando; Detroit's Cunningham has been managing right knee soreness. The teams meet again Sunday in Detroit.",
+   "line": "Not posted yet (FanDuel, Monday morning)"
+  },
+  "watch": "Tuesday vs Detroit (7:00 PM, TV27) with East Group A on the line, then at Washington Saturday and at Detroit Sunday."
  },
  "schedule": {
   "cup": {
@@ -453,7 +457,13 @@
     "id": "r20261122",
     "note": "Washington has won two straight and beat Orlando 103-94 on Nov 2; Magic 5.5-point favorites",
     "opp": "WAS",
-    "res": null,
+    "res": {
+     "us": 96,
+     "them": 116,
+     "wl": "L",
+     "ot": "",
+     "note": "da Silva 18 pts off the bench; Bane 17; Wagner 16 pts, 8 reb, 6 ast; Washington made 22 of 39 threes and never trailed; George 24, Davis 22 for WAS"
+    },
     "t": "7:00 PM",
     "tag": "",
     "tv": "TV27, DAZN",
@@ -463,12 +473,12 @@
     "d": "2026-11-24",
     "ha": "H",
     "id": "r20261124",
-    "note": "NBA Cup East Group A finale; Orlando 3-0, Detroit 1-1. A Magic win clinches a quarterfinal spot",
+    "note": "NBA Cup East Group A finale; Orlando 3-0, Detroit 1-1. A Magic win clinches the group and a quarterfinal spot",
     "opp": "DET",
     "res": null,
     "t": "7:00 PM",
     "tag": "Cup",
-    "tv": "TV27",
+    "tv": "TV27, DAZN",
     "type": "reg"
    },
    {
@@ -1256,7 +1266,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-22T11:13:39Z"
+  "updatedAt": "2026-11-23T11:19:40Z"
  },
  "standings": {
   "division": {
@@ -1351,7 +1361,7 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-22",
+   "asOf": "2026-11-23",
    "rows": [
     {
      "abbr": "PHI",
@@ -1364,54 +1374,54 @@
      "strk": "W5"
     },
     {
-     "abbr": "BOS",
-     "w": 11,
-     "l": 5,
-     "gb": 2.5,
-     "home": "6-1",
-     "away": "5-4",
-     "l10": "6-4",
-     "strk": "L3"
-    },
-    {
-     "abbr": "DET",
-     "w": 10,
-     "l": 5,
-     "gb": 3.0,
-     "home": "3-3",
-     "away": "7-2",
-     "l10": "6-4",
-     "strk": "L1"
-    },
-    {
      "abbr": "ATL",
-     "w": 10,
+     "w": 11,
      "l": 6,
-     "gb": 3.5,
-     "home": "4-3",
-     "away": "6-3",
-     "l10": "7-3",
-     "strk": "W3"
-    },
-    {
-     "abbr": "NYK",
-     "w": 10,
-     "l": 6,
-     "gb": 3.5,
+     "gb": 3.0,
      "home": "5-3",
-     "away": "5-3",
+     "away": "6-3",
      "l10": "8-2",
      "strk": "W4"
     },
     {
-     "abbr": "MIA",
-     "w": 9,
+     "abbr": "BOS",
+     "w": 11,
      "l": 6,
-     "gb": 4.0,
-     "home": "5-3",
+     "gb": 3.0,
+     "home": "6-1",
+     "away": "5-5",
+     "l10": "6-4",
+     "strk": "L4"
+    },
+    {
+     "abbr": "NYK",
+     "w": 11,
+     "l": 6,
+     "gb": 3.0,
+     "home": "6-3",
+     "away": "5-3",
+     "l10": "8-2",
+     "strk": "W5"
+    },
+    {
+     "abbr": "DET",
+     "w": 10,
+     "l": 6,
+     "gb": 3.5,
+     "home": "3-3",
+     "away": "7-3",
+     "l10": "5-5",
+     "strk": "L2"
+    },
+    {
+     "abbr": "MIA",
+     "w": 10,
+     "l": 6,
+     "gb": 3.5,
+     "home": "6-3",
      "away": "4-3",
      "l10": "8-2",
-     "strk": "W6"
+     "strk": "W7"
     },
     {
      "abbr": "CLE",
@@ -1426,12 +1436,22 @@
     {
      "abbr": "ORL",
      "w": 7,
-     "l": 8,
-     "gb": 6.0,
+     "l": 9,
+     "gb": 6.5,
      "home": "1-5",
-     "away": "6-3",
+     "away": "6-4",
      "l10": "5-5",
-     "strk": "W1"
+     "strk": "L1"
+    },
+    {
+     "abbr": "WAS",
+     "w": 7,
+     "l": 11,
+     "gb": 7.5,
+     "home": "3-5",
+     "away": "4-6",
+     "l10": "3-7",
+     "strk": "W3"
     },
     {
      "abbr": "TOR",
@@ -1444,24 +1464,14 @@
      "strk": "W1"
     },
     {
-     "abbr": "WAS",
-     "w": 6,
-     "l": 11,
-     "gb": 8.0,
-     "home": "2-5",
-     "away": "4-6",
-     "l10": "2-8",
-     "strk": "W2"
-    },
-    {
      "abbr": "IND",
      "w": 5,
-     "l": 11,
-     "gb": 8.5,
-     "home": "2-6",
-     "away": "3-5",
+     "l": 12,
+     "gb": 9.0,
+     "home": "2-5",
+     "away": "3-6",
      "l10": "3-7",
-     "strk": "L3"
+     "strk": "L4"
     },
     {
      "abbr": "CHA",
@@ -1476,12 +1486,12 @@
     {
      "abbr": "CHI",
      "w": 4,
-     "l": 11,
-     "gb": 9.0,
-     "home": "1-5",
+     "l": 12,
+     "gb": 9.5,
+     "home": "1-6",
      "away": "3-6",
      "l10": "3-7",
-     "strk": "L1"
+     "strk": "L2"
     },
     {
      "abbr": "BKN",
@@ -1602,7 +1612,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-22T11:13:39Z"
+  "updatedAt": "2026-11-23T11:19:40Z"
  },
  "roster": {
   "players": [
@@ -1632,17 +1642,17 @@
     "num": "5",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Ruled out Sunday at Washington, his 14th straight missed game. Said Nov 19 he does not know when he will return but hopes it is \"within the next couple of weeks\"; he has done some on-court work, mostly shooting, and wants the ankle fully healed before coming back (Orlando Sentinel). Sweeney said Nov 18 there is no timeline."
+    "statusNote": "Missed Sunday's game at Washington, his 14th straight. CBS Sports estimates he is out until at least Nov 29. Said Nov 19 he does not know when he will return but hopes it is \"within the next couple of weeks\"; he has done some on-court work, mostly shooting, and wants the ankle fully healed before coming back (Orlando Sentinel). Sweeney said Nov 18 there is no timeline."
    },
    {
     "age": 25,
     "contract": "$41.8M. Signed through 2029-30",
     "cur": {
-     "gp": 15,
-     "pts": 25.1,
-     "reb": 6.8,
-     "ast": 8.4,
-     "fg": 0.475
+     "gp": 16,
+     "pts": 24.5,
+     "reb": 6.9,
+     "ast": 8.3,
+     "fg": 0.47
     },
     "exp": "5",
     "ht": "6-10",
@@ -1656,7 +1666,7 @@
      "reb": 5.2
     },
     "name": "Franz Wagner",
-    "note": "Missed 48 games last season with a high ankle sprain, then strained his right calf in the playoffs. Left the preseason finale with right shoulder soreness but practiced fully Oct 20 and is off the injury report. Career-high 15 assists Nov 5 at Phoenix, with 6 turnovers. Tied his career high with 38 points Nov 11 at Utah, his third straight 30-point game. Scored 27 with 11 assists Nov 18 vs Philadelphia, his sixth straight 20-point game. Scored 35 with the game-winning jumper with 2.4 seconds left Nov 20 at Brooklyn, his fifth 30-point game this season.",
+    "note": "Missed 48 games last season with a high ankle sprain, then strained his right calf in the playoffs. Left the preseason finale with right shoulder soreness but practiced fully Oct 20 and is off the injury report. Career-high 15 assists Nov 5 at Phoenix, with 6 turnovers. Tied his career high with 38 points Nov 11 at Utah, his third straight 30-point game. Scored 27 with 11 assists Nov 18 vs Philadelphia, his sixth straight 20-point game. Scored 35 with the game-winning jumper with 2.4 seconds left Nov 20 at Brooklyn, his fifth 30-point game this season. His streak of 20-point games ended at seven Nov 22 at Washington (16 pts on 7-of-18).",
     "num": "22",
     "pos": "F",
     "status": "Healthy",
@@ -1666,11 +1676,11 @@
     "age": 28,
     "contract": "$39.4M. Signed through 2028-29",
     "cur": {
-     "gp": 14,
-     "pts": 18.6,
-     "reb": 4.1,
-     "ast": 2.7,
-     "fg": 0.425
+     "gp": 15,
+     "pts": 18.5,
+     "reb": 3.9,
+     "ast": 2.9,
+     "fg": 0.43
     },
     "exp": "6",
     "ht": "6-6",
@@ -1684,7 +1694,7 @@
      "reb": 4.1
     },
     "name": "Desmond Bane",
-    "note": "Played all 82 games last season. Missed Nov 7 at Golden State with an illness, his first missed game with Orlando. Made 7 of 11 threes for 25 points Nov 11 at Utah. Set a team record Nov 18 vs Philadelphia with his ninth straight game of three or more threes, passing Rashard Lewis, and extended it to 10 games Nov 20 at Brooklyn with 7 of 13 threes.",
+    "note": "Played all 82 games last season. Missed Nov 7 at Golden State with an illness, his first missed game with Orlando. Made 7 of 11 threes for 25 points Nov 11 at Utah. Set a team record Nov 18 vs Philadelphia with his ninth straight game of three or more threes, passing Rashard Lewis, and extended it to 10 games Nov 20 at Brooklyn with 7 of 13 threes and to 11 games Nov 22 at Washington.",
     "num": "3",
     "pos": "G",
     "status": "Healthy",
@@ -1694,11 +1704,11 @@
     "age": 25,
     "contract": "$32.4M. Signed through 2029-30",
     "cur": {
-     "gp": 7,
+     "gp": 8,
      "pts": 9.3,
-     "reb": 5.3,
-     "ast": 4.3,
-     "fg": 0.375
+     "reb": 5.1,
+     "ast": 4.0,
+     "fg": 0.347
     },
     "exp": "5",
     "ht": "6-5",
@@ -1722,11 +1732,11 @@
     "age": 22,
     "contract": "$10.1M. Final rookie-scale year. No extension; restricted free agent in 2027",
     "cur": {
-     "gp": 12,
-     "pts": 16.3,
+     "gp": 13,
+     "pts": 16.1,
      "reb": 5.1,
-     "ast": 5.6,
-     "fg": 0.442
+     "ast": 5.4,
+     "fg": 0.44
     },
     "exp": "3",
     "ht": "6-7",
@@ -1750,11 +1760,11 @@
     "age": 27,
     "contract": "$18.1M. Through 2028-29 (team option in 2028-29)",
     "cur": {
-     "gp": 15,
-     "pts": 13.0,
-     "reb": 8.7,
-     "ast": 1.3,
-     "fg": 0.562
+     "gp": 16,
+     "pts": 12.8,
+     "reb": 8.6,
+     "ast": 1.4,
+     "fg": 0.567
     },
     "exp": "8",
     "ht": "6-10",
@@ -1778,11 +1788,11 @@
     "age": 35,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 13,
-     "pts": 3.6,
+     "gp": 14,
+     "pts": 3.7,
      "reb": 3.2,
-     "ast": 1.1,
-     "fg": 0.439
+     "ast": 1.2,
+     "fg": 0.426
     },
     "exp": "15",
     "ht": "6-9",
@@ -1806,11 +1816,11 @@
     "age": 25,
     "contract": "$4.0M. 2027-28 team option ($6.1M) exercised Oct 21; signed through 2027-28",
     "cur": {
-     "gp": 13,
-     "pts": 13.8,
-     "reb": 3.7,
-     "ast": 1.7,
-     "fg": 0.465
+     "gp": 14,
+     "pts": 14.1,
+     "reb": 3.6,
+     "ast": 1.6,
+     "fg": 0.474
     },
     "exp": "2",
     "ht": "6-8",
@@ -1824,7 +1834,7 @@
      "reb": 3.7
     },
     "name": "Tristan da Silva",
-    "note": "Played World Cup qualifiers for Germany in August. Moved to the bench Nov 16 when Suggs rejoined the starting lineup.",
+    "note": "Played World Cup qualifiers for Germany in August. Moved to the bench Nov 16 when Suggs rejoined the starting lineup. Scored a team-high 18 off the bench (4 threes) Nov 22 at Washington.",
     "num": "23",
     "pos": "F",
     "status": "Healthy",
@@ -1834,9 +1844,9 @@
     "age": 27,
     "contract": "$7.6M. Final year, UFA 2027",
     "cur": {
-     "gp": 13,
-     "pts": 5.1,
-     "reb": 3.8,
+     "gp": 14,
+     "pts": 4.8,
+     "reb": 3.9,
      "ast": 0.7,
      "fg": 0.722
     },
@@ -1878,17 +1888,17 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Ruled out Sunday at Washington (left knee injury management). RotoWire calls him week-to-week until Orlando gives a clear return update. Assigned to Osceola and recalled Nov 1, presumably for practice. Told the Orlando Sentinel (Oct 28) he expects to play this season. Has not played since March 12."
+    "statusNote": "Inactive Sunday at Washington (left knee injury management). CBS Sports estimates he is out until at least Nov 28. Assigned to Osceola and recalled Nov 1, presumably for practice. Told the Orlando Sentinel (Oct 28) he expects to play this season. Has not played since March 12."
    },
    {
     "age": 31,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 11,
-     "pts": 4.4,
-     "reb": 1.1,
-     "ast": 1.6,
-     "fg": 0.347
+     "gp": 12,
+     "pts": 4.3,
+     "reb": 1.2,
+     "ast": 1.7,
+     "fg": 0.333
     },
     "exp": "8",
     "ht": "6-0",
@@ -1912,11 +1922,11 @@
     "age": 27,
     "contract": "$2.6M. Not fully guaranteed until Jan 10",
     "cur": {
-     "gp": 13,
-     "pts": 5.5,
-     "reb": 3.2,
+     "gp": 14,
+     "pts": 5.3,
+     "reb": 3.0,
      "ast": 0.4,
-     "fg": 0.4
+     "fg": 0.403
     },
     "exp": "4",
     "ht": "6-7",
@@ -1940,10 +1950,10 @@
     "age": 20,
     "contract": "$3.1M rookie scale. 2027-28 team option ($3.3M) exercised Oct 21",
     "cur": {
-     "gp": 11,
-     "pts": 5.9,
-     "reb": 1.9,
-     "ast": 2.5,
+     "gp": 12,
+     "pts": 5.6,
+     "reb": 1.8,
+     "ast": 2.3,
      "fg": 0.321
     },
     "exp": "1",
@@ -1984,7 +1994,7 @@
     "num": "93",
     "pos": "G-F",
     "status": "Out",
-    "statusNote": "Ruled out Sunday at Washington. Said Nov 14 he is running but not yet doing full-speed sprints; Sweeney said he is \"progressing well and ramping up\" and is evaluated weekly. No timetable."
+    "statusNote": "Inactive Sunday at Washington. CBS Sports estimates he is out until at least Nov 29. Said Nov 14 he is running but not yet doing full-speed sprints; Sweeney said he is \"progressing well and ramping up\" and is evaluated weekly. No timetable."
    },
    {
     "age": 26,
@@ -2018,11 +2028,11 @@
     "age": 28,
     "contract": "Two-way, year 2",
     "cur": {
-     "gp": 8,
-     "pts": 2.1,
-     "reb": 2.4,
-     "ast": 0.6,
-     "fg": 0.467
+     "gp": 9,
+     "pts": 1.9,
+     "reb": 2.2,
+     "ast": 0.8,
+     "fg": 0.438
     },
     "exp": "1",
     "ht": "6-6",
@@ -2062,11 +2072,11 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Ruled out Sunday at Washington. Sweeney said Nov 18 he is \"progressing, doing some on-court stuff here, a little bit at a time,\" but the work is \"just minimal\"; no timeline (Jason Beede, Orlando Sentinel). Had surgery this offseason on the left ankle he fractured in Summer League and has not made his NBA debut."
+    "statusNote": "Inactive Sunday at Washington. CBS Sports estimates he is out until at least Nov 29. Sweeney said Nov 18 he is \"progressing, doing some on-court stuff here, a little bit at a time,\" but the work is \"just minimal\"; no timeline (Jason Beede, Orlando Sentinel). Had surgery this offseason on the left ankle he fractured in Summer League and has not made his NBA debut."
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-22T11:13:39Z"
+  "updatedAt": "2026-11-23T11:19:40Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
@@ -2187,38 +2197,38 @@
    }
   ],
   "futures": {
-   "asOf": "2026-11-16",
+   "asOf": "2026-11-23",
    "book": "FanDuel Sportsbook",
    "rows": [
     {
      "market": "Win total",
      "price": "40.5",
-     "detail": "Over -110, Under -115. Down from 41.5 on Nov 1."
+     "detail": "Over -115, Under -110. Was Over -110, Under -115 on Nov 16."
     },
     {
      "market": "Make playoffs",
      "price": "-120",
-     "detail": "Miss -110. Was -155 on Oct 19. Make the Play-In -135."
+     "detail": "Miss -110. Unchanged from Nov 16. Make the Play-In -155 (was -135)."
     },
     {
      "market": "Southeast Division",
-     "price": "+280",
-     "detail": "Was +270 on Nov 1."
+     "price": "+430",
+     "detail": "Was +280 on Nov 16."
     },
     {
      "market": "Eastern Conference",
-     "price": "+2700",
-     "detail": "Was +2000 on Nov 1."
+     "price": "+2500",
+     "detail": "Was +2700 on Nov 16."
     },
     {
      "market": "NBA title",
      "price": "+8000",
-     "detail": "Was +6500 on Nov 1."
+     "detail": "Unchanged from Nov 16."
     }
    ],
    "extra": [
-    "FanDuel seed prices (Nov 16): 6th +900, 7th +650, 8th +600; top-six finish +240.",
-    "FanDuel NBA Cup winner +2500; Cup East Group A winner +260 (Oct 12).",
+    "FanDuel seed prices (Nov 23): 6th +850, 7th +600, 8th +550; top-six finish +260.",
+    "FanDuel NBA Cup (Nov 23): winner +2000, East Group A winner -125, reach quarterfinals -175.",
     "Sweeney Coach of the Year +1000, Black Sixth Man +2000 (BetRivers, late September)."
    ]
   },
@@ -2308,6 +2318,21 @@
    "total": "$217.9M"
   },
   "predictions": [
+   {
+    "outlet": "ESPN (panel)",
+    "d": "2026-11-18",
+    "text": "19th, up from 24th. Credits \"the impact of new head coach Sean Sweeney\" and a fourth-ranked defense during a four-game winning streak, including holding Boston to 105 points."
+   },
+   {
+    "outlet": "NBC Sports (Kurt Helin, via Yahoo Sports)",
+    "d": "2026-11-16",
+    "text": "19th, up from 23rd. Says the offense (109.7 rating) \"still just does not seem to click\" and that recent wins came against weak competition."
+   },
+   {
+    "outlet": "NBA.com",
+    "d": "2026-11-16",
+    "text": "21st, up from 23rd. Offense 24th, defense 15th, net rating -3.7 (20th). Notes Wagner scored 30-plus in four straight games and Orlando is 20 points per 100 possessions better with him on the floor."
+   },
    {
     "outlet": "OKC Thunder Wire (via Yahoo Sports)",
     "d": "2026-11-16",

@@ -1,6 +1,50 @@
 {
  "items": [
   {
+   "id": "2026-11-22-wizards-hit-22-threes-rout-magic-116-96",
+   "d": "2026-11-22",
+   "cat": "Game",
+   "headline": "Wizards hit 22 threes, rout Magic 116-96",
+   "summary": "Washington opened on an 11-0 run, never trailed and made 22 of 39 threes, one short of its franchise record. Kyshawn George scored 24 and Anthony Davis 22; Orlando fell to 7-9.",
+   "source": "Associated Press (via ABC News)",
+   "url": "https://abcnews.com/Sports/wireStory/wizards-rout-magic-116-96-win-3rd-straight-138367591",
+   "flag": null,
+   "addedAt": "2026-11-23T11:19:40Z"
+  },
+  {
+   "id": "2026-11-22-wagner-s-20-point-streak-ends-at-seven-g",
+   "d": "2026-11-22",
+   "cat": "Player",
+   "headline": "Wagner's 20-point streak ends at seven games",
+   "summary": "Davis and Alex Sarr packed the paint and Wagner finished with 16 points on 7-of-18 shooting, 8 rebounds and 6 assists. Suggs went 2 of 11, 0 of 6 from three, in 22 minutes after early foul trouble.",
+   "source": "Magic On SI",
+   "url": "https://www.si.com/nba/magic/onsi/why-magic-got-gashed-by-wizards-in-dc",
+   "flag": null,
+   "addedAt": "2026-11-23T11:19:40Z"
+  },
+  {
+   "id": "2026-11-22-bane-extends-three-point-streak-to-11-ga",
+   "d": "2026-11-22",
+   "cat": "Player",
+   "headline": "Bane extends three-point streak to 11 games",
+   "summary": "Desmond Bane scored 17 and made three threes, his 11th straight game with at least three, extending his franchise record. Tristan da Silva led Orlando with 18 off the bench.",
+   "source": "Orlando Magic Daily",
+   "url": "https://orlandomagicdaily.com/orlando-magic-have-no-answers-washington-wizards-catch-fire-deep-01m82xjbs7ae",
+   "flag": null,
+   "addedAt": "2026-11-23T11:19:40Z"
+  },
+  {
+   "id": "2026-11-22-pistons-lose-at-atlanta-before-cup-final",
+   "d": "2026-11-22",
+   "cat": "Game",
+   "headline": "Pistons lose at Atlanta before Cup finale in Orlando",
+   "summary": "Cade Cunningham, listed with right knee soreness, scored 5 points on 2-of-9 shooting with 15 assists in a 107-97 loss at Atlanta. Detroit visits Orlando Tuesday, where a Magic win clinches East Group A.",
+   "source": "Associated Press (via FOX 2 Detroit)",
+   "url": "https://www.fox2detroit.com/sports/alexander-walker-has-27-points-hawks-roll-107-97-win-over-pistons-off-game-cunningham",
+   "flag": null,
+   "addedAt": "2026-11-23T11:19:40Z"
+  },
+  {
    "id": "2026-11-22-banchero-isaac-penda-and-nelson-out-at-w",
    "d": "2026-11-22",
    "cat": "Injury",
