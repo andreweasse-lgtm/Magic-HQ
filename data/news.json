@@ -1,6 +1,50 @@
 {
  "items": [
   {
+   "id": "2026-11-24-cunningham-day-to-day-duren-robinson-out",
+   "d": "2026-11-24",
+   "cat": "Injury",
+   "headline": "Cunningham day-to-day; Duren, Robinson out for Pistons",
+   "summary": "Detroit lists Cade Cunningham (right knee) as day-to-day for Tuesday's game in Orlando and rules out Jalen Duren (hamstring), Duncan Robinson (quadriceps), Taurean Prince (knee) and Ebuka Okorie (oblique). Orlando again lists Banchero, Isaac, Penda and Nelson as out.",
+   "source": "96.9 The Game (iHeart)",
+   "url": "https://969thegame.iheart.com/content/2026-11-24-pistons-vs-magic-injury-report-nov-24/",
+   "flag": null,
+   "addedAt": "2026-11-24T11:14:26Z"
+  },
+  {
+   "id": "2026-11-23-pistons-1-5-point-favorites-in-orlando",
+   "d": "2026-11-23",
+   "cat": "Game",
+   "headline": "Pistons 1.5-point favorites in Orlando",
+   "summary": "FanDuel has Detroit -1.5 with a total of 213.5 for Tuesday's Cup finale; the moneyline is Magic +108, Pistons -126. numberFire gives Detroit a 64.5% chance to win.",
+   "source": "FanDuel Research",
+   "url": "https://www.fanduel.com/research/magic-vs-pistons-prediction-nba-odds-spread-best-bets-for-11-24-2026",
+   "flag": null,
+   "addedAt": "2026-11-24T11:14:26Z"
+  },
+  {
+   "id": "2026-11-23-win-plus-help-would-give-magic-a-home-cu",
+   "d": "2026-11-23",
+   "cat": "Schedule",
+   "headline": "Win plus help would give Magic a home Cup quarterfinal",
+   "summary": "A win over Detroit clinches East Group A. Orlando also clinches home court in the quarterfinals if it wins and Boston or Miami loses its Cup finale. A loss would leave the Magic waiting until next week, and they are fifth among East teams in Cup point differential.",
+   "source": "Magic On SI",
+   "url": "https://www.si.com/nba/magic/onsi/how-orlando-magic-can-clinch-home-court-in-nba-cup-01m853rjrtsk",
+   "flag": null,
+   "addedAt": "2026-11-24T11:14:26Z"
+  },
+  {
+   "id": "2026-11-23-sweeney-wants-a-stronger-start-after-was",
+   "d": "2026-11-23",
+   "cat": "Coaching",
+   "headline": "Sweeney wants a stronger start after Washington loss",
+   "summary": "Sweeney said Orlando's perimeter close-outs were short against the Wizards and stressed being \"ready to go at the beginning\" against Detroit. The Magic are 1-5 at home and have lost all five games in which they failed to reach 100 points.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/stronger-start-emphasis-magic-host-170200330.html",
+   "flag": null,
+   "addedAt": "2026-11-24T11:14:26Z"
+  },
+  {
    "id": "2026-11-22-wizards-hit-22-threes-rout-magic-116-96",
    "d": "2026-11-22",
    "cat": "Game",

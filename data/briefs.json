@@ -1,6 +1,49 @@
 {
  "items": [
   {
+   "d": "2026-11-23",
+   "createdAt": "2026-11-23T11:19:40Z",
+   "headline": "Wizards rout Magic 116-96; Cup group finale vs Detroit Tuesday",
+   "summary": "Washington hit 22 of 39 threes and never trailed in a 116-96 win Sunday night, dropping Orlando to 7-9. The Magic shot 12 of 39 from three, and Franz Wagner's run of 20-point games ended at seven. Orlando (3-0 in East Group A) hosts Detroit Tuesday at 7:00 PM, where a win clinches the group and a Cup quarterfinal spot. Banchero, Isaac, Penda and Nelson remain out.",
+   "bullets": [
+    {
+     "tag": "Game",
+     "text": "Washington opened on an 11-0 run, led 38-21 after one quarter and made 22 of 39 threes, one short of its franchise record. Orlando shot 36 of 88 overall and 12 of 39 from three and trailed by as many as 25 (AP, Orlando Sentinel)."
+    },
+    {
+     "tag": "Lineup",
+     "text": "Tristan da Silva led Orlando with 18 off the bench. Bane scored 17 and made three threes, extending his team record to 11 straight games with three or more. Wagner had 16 on 7-of-18 shooting with 8 rebounds and 6 assists. Suggs went 2 of 11 (0 of 6 from three) in 22 minutes with early foul trouble (Magic On SI)."
+    },
+    {
+     "tag": "Next game",
+     "text": "Tuesday vs Detroit, 7:00 PM, TV27. The Pistons (10-6, 1-1 in Cup play) lost 107-97 at Atlanta on Sunday; Cade Cunningham, listed with right knee soreness, scored 5 points with 15 assists (AP)."
+    },
+    {
+     "tag": "Standings",
+     "text": "Orlando is eighth in the East, 1.5 games behind seventh-place Cleveland and 3 behind Detroit and Miami, who have won seven straight. Washington and Toronto are 1 game back in ninth and tenth (ESPN)."
+    },
+    {
+     "tag": "Health",
+     "text": "No change: Banchero (ankle), Isaac (knee), Penda (hamstring) and Nelson (ankle) were inactive Sunday. CBS Sports estimates Banchero, Penda and Nelson out until at least Nov 29 and Isaac until at least Nov 28. The team practices today at 11 AM."
+    },
+    {
+     "tag": "Odds",
+     "text": "FanDuel futures (Monday): win total 40.5 (Over -115), make playoffs -120, Southeast +430, East Group A winner -125, Cup winner +2000. Tuesday's game line was not posted yet."
+    }
+   ],
+   "recap": {
+    "title": "Wizards 116, Magic 96",
+    "text": "Washington scored the first 11 points and never trailed, leading 63-51 at the half. Orlando cut it to seven in the third quarter before a 12-0 Wizards run put it away. Kyshawn George had 24 points and Anthony Davis 22 for Washington, which has won three straight. Orlando won the paint 42-24 but was outshot from three 66 points to 36.",
+    "leaders": "da Silva 18 pts; Bane 17 pts, 5 ast; Wagner 16 pts, 8 reb, 6 ast; Black 14 pts, 5 reb"
+   },
+   "preview": {
+    "title": "Tuesday vs Pistons, 7:00 PM, TV27",
+    "text": "NBA Cup East Group A finale at Kia Center. Orlando (3-0) clinches the group and a quarterfinal spot with a win; Detroit is 1-1. The Pistons are 10-6 and have lost two straight. Banchero, Isaac, Penda and Nelson are expected to stay out for Orlando; Detroit's Cunningham has been managing right knee soreness. The teams meet again Sunday in Detroit.",
+    "line": "Not posted yet (FanDuel, Monday morning)"
+   },
+   "watch": "Tuesday vs Detroit (7:00 PM, TV27) with East Group A on the line, then at Washington Saturday and at Detroit Sunday."
+  },
+  {
    "d": "2026-11-22",
    "createdAt": "2026-11-22T11:13:39Z",
    "headline": "Magic at Wizards tonight as 5.5-point favorites; injury list unchanged",
@@ -2043,33 +2086,6 @@
     {
      "tag": "Next game",
      "text": "Preseason opens Oct 7 at Memphis. First up on the calendar: media day Monday, Sept 28 at 11 AM ET, then camp opens Sept 29."
-    }
-   ],
-   "recap": null,
-   "preview": null,
-   "watch": "Next up: media day, Monday Sept 28 at 11 AM ET."
-  },
-  {
-   "d": "2026-09-24",
-   "createdAt": "2026-09-24T08:48:08Z",
-   "headline": "Magic add Kevin Knox II to camp roster on Exhibit 10 deal",
-   "summary": "Orlando's 20-man training camp roster is set, one shy of the offseason limit, after signing forward Kevin Knox II on Wednesday. Unlike the four players signed and waived earlier in the week, Knox is staying in camp to compete for a roster spot. No change yet on Franz Wagner or Jonathan Isaac's status, and Anthony Black still has no extension with the Oct 19 deadline approaching.",
-   "bullets": [
-    {
-     "tag": "Roster",
-     "text": "Kevin Knox II, the No. 9 pick in 2018, signed an Exhibit 10 deal Sept 23 and will wear No. 24. He averaged 22.7 points, 8.2 rebounds and 2.5 assists for Windy City in the G League last season and will compete for a camp spot rather than being waived immediately."
-    },
-    {
-     "tag": "Roster",
-     "text": "The camp roster is now 20 players, one below the offseason limit, with media day Monday and camp opening Sept 29."
-    },
-    {
-     "tag": "Health",
-     "text": "Franz Wagner (calf) and Jonathan Isaac (knee) remain questionable for the start of the season on CBS's injury page, unchanged since Sept 8. Izaiyah Nelson (ankle surgery) is out until at least Nov 1."
-    },
-    {
-     "tag": "Contract",
-     "text": "Still no Anthony Black extension with the Oct 19 rookie-scale deadline three and a half weeks away."
     }
    ],
    "recap": null,
