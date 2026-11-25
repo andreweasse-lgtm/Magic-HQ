@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "2026-11-25-magic-finish-cup-group-3-1-need-detroit",
+   "d": "2026-11-25",
+   "cat": "Schedule",
+   "headline": "Magic finish Cup group 3-1, need Detroit loss Friday",
+   "summary": "Orlando leads East Group A at 3-1 with a -1 point differential and has no group games left. If Detroit beats Milwaukee on Friday, the Pistons take the group on their head-to-head win over Orlando.",
+   "source": "Sports Illustrated",
+   "url": "https://www.si.com/nba/updated-nba-cup-standings-projected-bracket-knockout-round-nears",
+   "flag": null,
+   "addedAt": "2026-11-25T11:16:03Z"
+  },
+  {
+   "id": "2026-11-24-magic-met-with-free-agent-guard-kevin-po",
+   "d": "2026-11-24",
+   "cat": "Trade/Rumor",
+   "headline": "Magic met with free agent guard Kevin Porter Jr.",
+   "summary": "Porter met with the Magic on Monday, Marc Stein reported and the Orlando Sentinel's Jason Beede confirmed through league sources; no deal has been reported. HoopsHype's Michael Scotto had reported Orlando and Denver among interested teams. Porter, waived by Milwaukee in October, averaged 17.4 points and 7.4 assists last season.",
+   "source": "Hoops Rumors",
+   "url": "https://www.hoopsrumors.com/2026/11/eastern-notes-michael-porter-jr-vukcevic-joe-black-kevin-porter-jr.html",
+   "flag": null,
+   "addedAt": "2026-11-25T11:16:03Z"
+  },
+  {
    "id": "2026-11-24-pistons-beat-magic-104-86-nba-cup",
    "d": "2026-11-24",
    "cat": "Game",
@@ -21,6 +43,17 @@
    "url": "https://969thegame.iheart.com/content/2026-11-24-pistons-vs-magic-injury-report-nov-24/",
    "flag": null,
    "addedAt": "2026-11-24T11:14:26Z"
+  },
+  {
+   "id": "2026-11-23-wagner-on-espn-s-too-early-east-all-star",
+   "d": "2026-11-23",
+   "cat": "Player",
+   "headline": "Wagner on ESPN's too-early East All-Star list",
+   "summary": "Ben Golliver named Franz Wagner among his 12 early Eastern Conference All-Star picks.",
+   "source": "Hoops Rumors",
+   "url": "https://www.hoopsrumors.com/2026/11/and-ones-early-all-stars-neto-nunnally-perry.html",
+   "flag": null,
+   "addedAt": "2026-11-25T11:16:03Z"
   },
   {
    "id": "2026-11-23-pistons-1-5-point-favorites-in-orlando",

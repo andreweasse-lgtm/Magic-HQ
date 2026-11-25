@@ -41,7 +41,7 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 7-10, 2-1 in NBA Cup group play. Not eliminated, but need Detroit to lose to Milwaukee Friday. At Washington Saturday, 5:00 PM.",
+  "phaseDetail": "Magic 7-10, finished NBA Cup group play 3-1. They win East Group A if Detroit loses to Milwaukee Friday. At Washington Saturday, 5:00 PM.",
   "record": {
    "w": 7,
    "l": 10
@@ -52,47 +52,47 @@
    "div": 3
   },
   "streak": "L2",
-  "updatedAt": "2026-11-25T04:56:34Z"
+  "updatedAt": "2026-11-25T11:16:03Z"
  },
  "brief": {
-  "d": "2026-11-24",
-  "createdAt": "2026-11-25T04:56:34Z",
-  "headline": "Magic fall to Pistons 104-86, Cup hopes now depend on Detroit",
-  "summary": "Orlando committed 20 turnovers and shot 41% in a 104-86 home loss to Detroit, dropping to 7-10 and 2-1 in NBA Cup group play. The Magic are not eliminated but need the Pistons to lose to Milwaukee on Friday. Banchero, Isaac and Penda were out again. Next up is Saturday at Washington.",
+  "d": "2026-11-25",
+  "createdAt": "2026-11-25T11:16:03Z",
+  "headline": "Magic met with free agent Kevin Porter Jr.; Cup fate rests on Friday",
+  "summary": "Free agent guard Kevin Porter Jr. met with the Magic on Monday, Marc Stein reported and the Orlando Sentinel confirmed; no deal has been reported. Orlando finished NBA Cup group play 3-1 and wins East Group A only if Detroit loses to Milwaukee on Friday. The team is off Wednesday and Thursday, practices Friday, then opens a three-game road trip Saturday at Washington.",
   "bullets": [
    {
-    "tag": "Game",
-    "text": "Pistons 104, Magic 86. Bane scored 21, Wagner had 20 points, 9 rebounds and 6 assists, and da Silva added 16. Orlando had 20 turnovers, shot 41% overall and 33% on threes (NBA.com)."
+    "tag": "Rumor",
+    "text": "Porter, 26, was waived by Milwaukee before the season and averaged 17.4 points, 7.4 assists and 2.2 steals in 38 games last season. HoopsHype reported Orlando and Denver among the teams interested. Orlando has one open standard roster spot but is already a luxury tax team (Hoops Rumors)."
    },
    {
     "tag": "Standings",
-    "text": "Orlando is 7-10 with a 1-6 home record and two straight losses. Cup: 2-1 in group play, needs Detroit to lose to Milwaukee Friday."
+    "text": "Cup: Orlando is 3-1 in East Group A with a -1 point differential, all games played. A Detroit win Friday gives the Pistons the group on head-to-head. Orlando's only other path would be the wild card, which also needs Toronto to lose to Brooklyn."
+   },
+   {
+    "tag": "Game",
+    "text": "More from Tuesday's 104-86 loss: Carter Jr. had 13 rebounds, Black scored 5 on 2-of-8 shooting with 5 turnovers, and Detroit broke it open with an 18-0 run. Orlando is 7-10, 1-6 at home, eighth in the East."
    },
    {
     "tag": "Health",
-    "text": "Banchero (ankle), Isaac (knee) and Penda (hamstring) were out. Cunningham sat for Detroit with right knee soreness, announced about 30 minutes before tip."
-   },
-   {
-    "tag": "Coaching",
-    "text": "Sweeney said the Magic \"have to and will be better\" and must protect home court better."
+    "text": "No change. Banchero (ankle, 15 straight games missed), Isaac (knee), Penda (hamstring) and Nelson (ankle) are all estimated out until at least Nov 29 (CBS Sports)."
    },
    {
     "tag": "Next game",
-    "text": "Saturday at Washington, 5:00 PM, TV27, the start of a three-game road trip. Washington beat Orlando 116-96 on Sunday."
+    "text": "Saturday at Washington, 5:00 PM, TV27. Then Sunday at Detroit (6:00 PM) and Wednesday at Dallas (8:00 PM). Washington has won both meetings this season."
+   },
+   {
+    "tag": "Roster",
+    "text": "Franz Wagner made Ben Golliver's too-early East All-Star list (ESPN, via Hoops Rumors)."
    }
   ],
-  "recap": {
-   "title": "Pistons 104, Magic 86",
-   "text": "Orlando turned it over 20 times and shot 41% in a Cup loss at Kia Center. Detroit won without Cade Cunningham and Duncan Robinson.",
-   "leaders": "Bane 21 pts; Wagner 20 pts, 9 reb, 6 ast; da Silva 16 pts"
-  },
+  "recap": null,
   "preview": null,
-  "watch": "Friday: Detroit vs Milwaukee decides Orlando's Cup fate. Saturday at Washington (5:00 PM), Sunday at Detroit (6:00 PM)."
+  "watch": "Friday: Milwaukee at Detroit (7:30 PM) decides Orlando's Cup group. Saturday at Washington, 5:00 PM, TV27."
  },
  "schedule": {
   "cup": {
    "group": "East Group A",
-   "note": "Group games Oct 30 at TOR, Nov 13 vs MIL, Nov 20 at BKN, Nov 24 vs DET. Knockouts Dec 4-9, final Dec 11 in Indianapolis.",
+   "note": "Group play finished 3-1: W at TOR Oct 30, W vs MIL Nov 13, W at BKN Nov 20, L vs DET Nov 24. Orlando wins the group if Detroit loses to Milwaukee Nov 27. Quarterfinals Dec 4-5, semifinals Dec 8-9, final Dec 11 in Indianapolis.",
    "teams": [
     "DET",
     "TOR",
@@ -472,7 +472,7 @@
      "them": 104,
      "wl": "L",
      "ot": "",
-     "note": "Bane 21 pts, Wagner 20 pts, 9 reb, 6 ast; da Silva 16; 20 turnovers, 41% shooting; Joe 21 and Jenkins 15 pts, 10 ast for DET; Cunningham out (knee)"
+     "note": "Bane 21 pts; Wagner 20 pts, 9 reb, 6 ast; da Silva 16; Carter Jr. 13 reb; 20 turnovers, 41% shooting; Detroit 18-0 run; Joe 21 and Jenkins 15 pts, 10 ast for DET; Cunningham out (knee)"
     },
     "t": "7:00 PM",
     "tag": "Cup",
@@ -483,7 +483,7 @@
     "d": "2026-11-28",
     "ha": "A",
     "id": "r20261128",
-    "note": "",
+    "note": "Washington won both earlier meetings (103-94 Nov 2, 116-96 Nov 22); Wizards lost at home to Boston Nov 24",
     "opp": "WAS",
     "res": null,
     "t": "5:00 PM",
@@ -1264,7 +1264,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-25T04:56:34Z"
+  "updatedAt": "2026-11-25T11:16:03Z"
  },
  "standings": {
   "division": {
@@ -1359,17 +1359,27 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-24",
+   "asOf": "2026-11-25",
    "rows": [
     {
      "abbr": "PHI",
      "w": 14,
      "l": 4,
-     "gb": 0,
+     "gb": 0.0,
      "home": "7-3",
      "away": "7-1",
      "l10": "7-3",
      "strk": "L1"
+    },
+    {
+     "abbr": "BOS",
+     "w": 12,
+     "l": 6,
+     "gb": 2.0,
+     "home": "6-1",
+     "away": "6-5",
+     "l10": "6-4",
+     "strk": "W1"
     },
     {
      "abbr": "ATL",
@@ -1382,14 +1392,14 @@
      "strk": "W4"
     },
     {
-     "abbr": "BOS",
+     "abbr": "DET",
      "w": 11,
      "l": 6,
      "gb": 2.5,
-     "home": "6-1",
-     "away": "5-5",
-     "l10": "6-4",
-     "strk": "L4"
+     "home": "3-3",
+     "away": "8-3",
+     "l10": "5-5",
+     "strk": "W1"
     },
     {
      "abbr": "NYK",
@@ -1400,16 +1410,6 @@
      "away": "5-3",
      "l10": "8-2",
      "strk": "W5"
-    },
-    {
-     "abbr": "DET",
-     "w": 10,
-     "l": 6,
-     "gb": 3.0,
-     "home": "3-3",
-     "away": "7-3",
-     "l10": "5-5",
-     "strk": "L2"
     },
     {
      "abbr": "MIA",
@@ -1434,22 +1434,22 @@
     {
      "abbr": "ORL",
      "w": 7,
-     "l": 9,
-     "gb": 6.0,
-     "home": "1-5",
+     "l": 10,
+     "gb": 6.5,
+     "home": "1-6",
      "away": "6-4",
      "l10": "5-5",
-     "strk": "L1"
+     "strk": "L2"
     },
     {
      "abbr": "WAS",
      "w": 7,
-     "l": 11,
-     "gb": 7.0,
-     "home": "3-5",
+     "l": 12,
+     "gb": 7.5,
+     "home": "3-6",
      "away": "4-6",
      "l10": "3-7",
-     "strk": "W3"
+     "strk": "L1"
     },
     {
      "abbr": "TOR",
@@ -1610,7 +1610,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-24T11:14:26Z"
+  "updatedAt": "2026-11-25T11:16:03Z"
  },
  "roster": {
   "players": [
@@ -1640,7 +1640,7 @@
     "num": "5",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Listed out for Tuesday vs Detroit, which would be his 15th straight missed game. CBS Sports estimates he is out until at least Nov 29. Said Nov 19 he does not know when he will return but hopes it is \"within the next couple of weeks\"; he has done some on-court work, mostly shooting, and wants the ankle fully healed before coming back (Orlando Sentinel). Sweeney said Nov 18 there is no timeline."
+    "statusNote": "Missed Tuesday vs Detroit, his 15th straight game. CBS Sports estimates he is out until at least Nov 29. Said Nov 19 he does not know when he will return but hopes it is \"within the next couple of weeks\"; he has done some on-court work, mostly shooting, and wants the ankle fully healed before coming back (Orlando Sentinel). Sweeney said Nov 18 there is no timeline."
    },
    {
     "age": 25,
@@ -1886,7 +1886,7 @@
     "num": "1",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Listed out for Tuesday vs Detroit (left knee injury management). CBS Sports moved his estimate to out until at least Nov 29 (was Nov 28). Assigned to Osceola and recalled Nov 1, presumably for practice. Told the Orlando Sentinel (Oct 28) he expects to play this season. Has not played since March 12."
+    "statusNote": "Missed Tuesday vs Detroit. CBS Sports moved his estimate to out until at least Nov 29 (was Nov 28). Assigned to Osceola and recalled Nov 1, presumably for practice. Told the Orlando Sentinel (Oct 28) he expects to play this season. Has not played since March 12."
    },
    {
     "age": 31,
@@ -1992,7 +1992,7 @@
     "num": "93",
     "pos": "G-F",
     "status": "Out",
-    "statusNote": "Listed out for Tuesday vs Detroit. CBS Sports estimates he is out until at least Nov 29. Said Nov 14 he is running but not yet doing full-speed sprints; Sweeney said he is \"progressing well and ramping up\" and is evaluated weekly. No timetable."
+    "statusNote": "Missed Tuesday vs Detroit. CBS Sports estimates he is out until at least Nov 29. Said Nov 14 he is running but not yet doing full-speed sprints; Sweeney said he is \"progressing well and ramping up\" and is evaluated weekly. No timetable."
    },
    {
     "age": 26,
@@ -2070,11 +2070,11 @@
     "num": "25",
     "pos": "F",
     "status": "Out",
-    "statusNote": "Listed out for Tuesday vs Detroit. CBS Sports estimates he is out until at least Nov 29. Sweeney said Nov 18 he is \"progressing, doing some on-court stuff here, a little bit at a time,\" but the work is \"just minimal\"; no timeline (Jason Beede, Orlando Sentinel). Had surgery this offseason on the left ankle he fractured in Summer League and has not made his NBA debut."
+    "statusNote": "Missed Tuesday vs Detroit. CBS Sports estimates he is out until at least Nov 29. Sweeney said Nov 18 he is \"progressing, doing some on-court stuff here, a little bit at a time,\" but the work is \"just minimal\"; no timeline (Jason Beede, Orlando Sentinel). Had surgery this offseason on the left ankle he fractured in Summer League and has not made his NBA debut."
    }
   ],
-  "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-25T04:56:34Z"
+  "statsLabel": "2026-27 per game (through Nov 22)",
+  "updatedAt": "2026-11-25T11:16:03Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
