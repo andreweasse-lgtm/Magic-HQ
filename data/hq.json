@@ -2,7 +2,7 @@
  "meta": {
   "away": "6-4",
   "coach": "Sean Sweeney",
-  "home": "1-5",
+  "home": "1-6",
   "keyDates": [
    {
     "d": "2027-01-10",
@@ -27,13 +27,13 @@
   ],
   "l10": "5-5",
   "lastGame": {
-   "d": "2026-11-22",
-   "opp": "WAS",
-   "ha": "A",
-   "us": 96,
-   "them": 116,
+   "d": "2026-11-24",
+   "opp": "DET",
+   "ha": "H",
+   "us": 86,
+   "them": 104,
    "wl": "L",
-   "label": "at Wizards"
+   "label": "vs Pistons"
   },
   "lastSeason": {
    "l": 37,
@@ -41,57 +41,53 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 7-9, eighth in the East, 3-0 in NBA Cup group play. Host Detroit tonight, 7:00 PM, with East Group A on the line.",
+  "phaseDetail": "Magic 7-10, 2-1 in NBA Cup group play. Not eliminated, but need Detroit to lose to Milwaukee Friday. At Washington Saturday, 5:00 PM.",
   "record": {
    "w": 7,
-   "l": 9
+   "l": 10
   },
   "season": "2026-27",
   "standing": {
    "conf": 8,
    "div": 3
   },
-  "streak": "L1",
-  "updatedAt": "2026-11-24T21:20:45Z"
+  "streak": "L2",
+  "updatedAt": "2026-11-25T04:56:34Z"
  },
  "brief": {
   "d": "2026-11-24",
-  "createdAt": "2026-11-24T11:14:26Z",
-  "headline": "Game day: Magic host Pistons with Cup Group A on the line",
-  "summary": "Orlando (7-9, 3-0 in NBA Cup play) hosts Detroit at 7:00 PM on TV27, and a win clinches East Group A and a quarterfinal spot. FanDuel has the Pistons as 1.5-point favorites. Banchero, Isaac, Penda and Nelson are out again; Detroit is without Jalen Duren and Duncan Robinson and lists Cade Cunningham as day-to-day with right knee soreness. It is the first meeting since Detroit won last spring's first-round series in seven games.",
+  "createdAt": "2026-11-25T04:56:34Z",
+  "headline": "Magic fall to Pistons 104-86, Cup hopes now depend on Detroit",
+  "summary": "Orlando committed 20 turnovers and shot 41% in a 104-86 home loss to Detroit, dropping to 7-10 and 2-1 in NBA Cup group play. The Magic are not eliminated but need the Pistons to lose to Milwaukee on Friday. Banchero, Isaac and Penda were out again. Next up is Saturday at Washington.",
   "bullets": [
    {
-    "tag": "Next game",
-    "text": "Tonight vs Detroit, 7:00 PM, TV27 and DAZN. A win clinches East Group A; a win plus a Boston or Miami loss in their Cup finales also clinches a home quarterfinal. A loss pushes Orlando's fate to next week, and the Magic are fifth among East teams in Cup point differential, the key tiebreaker (NBA.com, Magic On SI)."
-   },
-   {
-    "tag": "Health",
-    "text": "Banchero (ankle), Isaac (knee), Penda (hamstring) and Nelson (ankle) are listed out. CBS Sports now estimates all four out until at least Nov 29, the Sunday game at Detroit."
-   },
-   {
-    "tag": "Next game",
-    "text": "Detroit (10-6, two straight losses) is without Jalen Duren (hamstring), Duncan Robinson (quadriceps), Taurean Prince (knee) and Ebuka Okorie (oblique). Cunningham (24.2 ppg) is day-to-day with right knee soreness after a 5-point, 15-assist night at Atlanta."
-   },
-   {
-    "tag": "Odds",
-    "text": "FanDuel (Monday evening): Pistons -1.5, total 213.5, moneyline Magic +108, Pistons -126. numberFire gives Detroit a 64.5% chance to win."
-   },
-   {
-    "tag": "Coaching",
-    "text": "Sweeney said the perimeter close-outs were short in Washington and stressed being \"ready to go at the beginning.\" Orlando is 1-5 at Kia Center and 0-5 when held under 100 points; Detroit is 7-3 on the road (Orlando Sentinel)."
+    "tag": "Game",
+    "text": "Pistons 104, Magic 86. Bane scored 21, Wagner had 20 points, 9 rebounds and 6 assists, and da Silva added 16. Orlando had 20 turnovers, shot 41% overall and 33% on threes (NBA.com)."
    },
    {
     "tag": "Standings",
-    "text": "Cleveland lost at Chicago Monday, so eighth-place Orlando is now one game behind the 9-9 Cavaliers for seventh. Washington is one game back in ninth and Toronto 1.5 back in tenth (ESPN)."
+    "text": "Orlando is 7-10 with a 1-6 home record and two straight losses. Cup: 2-1 in group play, needs Detroit to lose to Milwaukee Friday."
+   },
+   {
+    "tag": "Health",
+    "text": "Banchero (ankle), Isaac (knee) and Penda (hamstring) were out. Cunningham sat for Detroit with right knee soreness, announced about 30 minutes before tip."
+   },
+   {
+    "tag": "Coaching",
+    "text": "Sweeney said the Magic \"have to and will be better\" and must protect home court better."
+   },
+   {
+    "tag": "Next game",
+    "text": "Saturday at Washington, 5:00 PM, TV27, the start of a three-game road trip. Washington beat Orlando 116-96 on Sunday."
    }
   ],
-  "recap": null,
-  "preview": {
-   "title": "Tuesday vs Pistons, 7:00 PM, TV27",
-   "text": "NBA Cup East Group A finale at Kia Center. Orlando (3-0) clinches the group with a win; Detroit (1-1) could be eliminated with a loss. Banchero, Isaac, Penda and Nelson are out for Orlando. Detroit is missing Duren, Robinson, Prince and Okorie, and Cunningham is day-to-day. The teams meet again Sunday in Detroit.",
-   "line": "ORL +1.5, total 213.5, ORL ML +108 (FanDuel)"
+  "recap": {
+   "title": "Pistons 104, Magic 86",
+   "text": "Orlando turned it over 20 times and shot 41% in a Cup loss at Kia Center. Detroit won without Cade Cunningham and Duncan Robinson.",
+   "leaders": "Bane 21 pts; Wagner 20 pts, 9 reb, 6 ast; da Silva 16 pts"
   },
-  "watch": "Tonight vs Detroit (7:00 PM, TV27) for the Cup group, then at Washington Saturday (5:00 PM) and at Detroit Sunday (6:00 PM)."
+  "preview": null,
+  "watch": "Friday: Detroit vs Milwaukee decides Orlando's Cup fate. Saturday at Washington (5:00 PM), Sunday at Detroit (6:00 PM)."
  },
  "schedule": {
   "cup": {
@@ -469,9 +465,15 @@
     "d": "2026-11-24",
     "ha": "H",
     "id": "r20261124",
-    "note": "NBA Cup East Group A finale; Orlando 3-0, Detroit 1-1. A Magic win clinches the group. Pistons -1.5 (FanDuel); Cunningham day-to-day, Duren and Robinson out for DET",
+    "note": "NBA Cup East Group A finale; Cunningham and Robinson out for DET. Orlando needs Detroit to lose to Milwaukee Friday.",
     "opp": "DET",
-    "res": null,
+    "res": {
+     "us": 86,
+     "them": 104,
+     "wl": "L",
+     "ot": "",
+     "note": "Bane 21 pts, Wagner 20 pts, 9 reb, 6 ast; da Silva 16; 20 turnovers, 41% shooting; Joe 21 and Jenkins 15 pts, 10 ast for DET; Cunningham out (knee)"
+    },
     "t": "7:00 PM",
     "tag": "Cup",
     "tv": "TV27, DAZN",
@@ -1262,7 +1264,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-24T11:14:26Z"
+  "updatedAt": "2026-11-25T04:56:34Z"
  },
  "standings": {
   "division": {
@@ -2072,7 +2074,7 @@
    }
   ],
   "statsLabel": "2026-27 per game",
-  "updatedAt": "2026-11-24T11:14:26Z"
+  "updatedAt": "2026-11-25T04:56:34Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
