@@ -1,6 +1,39 @@
 {
  "items": [
   {
+   "id": "2026-11-25-magic-sign-free-agent-guard-kevin-porter",
+   "d": "2026-11-25",
+   "cat": "Contract",
+   "headline": "Magic sign free agent guard Kevin Porter Jr.",
+   "summary": "Orlando announced the signing Wednesday night after ESPN reported a two-year deal that afternoon. Porter, 26, averaged 17.4 points, 7.4 assists and 2.2 steals in 38 games for Milwaukee last season and will wear No. 7. He also met with Denver this week.",
+   "source": "NBA.com/magic",
+   "url": "https://www.nba.com/magic/news/orlando-magic-sign-free-agent-kevin-porter-jr-20261125",
+   "flag": null,
+   "addedAt": "2026-11-26T11:15:43Z"
+  },
+  {
+   "id": "2026-11-25-porter-deal-pushes-projected-tax-bill-ne",
+   "d": "2026-11-25",
+   "cat": "Contract",
+   "headline": "Porter deal pushes projected tax bill near $43M",
+   "summary": "The minimum deal pays about $2.4M prorated this season and $3.45M in 2027-28, and fills Orlando's open 15th roster spot. Hoops Rumors projects the tax bill rising from about $32.2M to about $42.8M. Milwaukee still pays his $5.4M salary after waiving him.",
+   "source": "Hoops Rumors",
+   "url": "https://www.hoopsrumors.com/2026/11/magic-to-sign-kevin-porter-jr.html",
+   "flag": null,
+   "addedAt": "2026-11-26T11:15:43Z"
+  },
+  {
+   "id": "2026-11-25-porter-expected-to-add-depth-behind-sugg",
+   "d": "2026-11-25",
+   "cat": "Player",
+   "headline": "Porter expected to add depth behind Suggs and Black",
+   "summary": "NBC Sports says Orlando wants more scoring from its guards, especially off the bench, and that the second year of the deal is very likely non-guaranteed. RotoWire expects Porter to compete with Jevon Carter for backup point guard minutes.",
+   "source": "NBC Sports",
+   "url": "https://www.nbcsports.com/nba/news/kevin-porter-jr-reportedly-to-sign-two-year-deal-with-orlando-magic",
+   "flag": null,
+   "addedAt": "2026-11-26T11:15:43Z"
+  },
+  {
    "id": "2026-11-25-magic-finish-cup-group-3-1-need-detroit",
    "d": "2026-11-25",
    "cat": "Schedule",
@@ -2001,17 +2034,6 @@
    "flag": null,
    "addedAt": "2026-09-23T00:47:00Z",
    "id": "2026-08-28-bitadze-scores-23-as-georgia-routs-monte"
-  },
-  {
-   "d": "2026-08-27",
-   "cat": "Player",
-   "headline": "Da Silva plays World Cup qualifiers for Germany",
-   "summary": "Scored 5 in a 99-83 win over the Netherlands. Germany then won in overtime at Poland.",
-   "source": "DBB",
-   "url": "https://www.basketball-bund.de/world-cup-qualifier-herren-dbb-team-bezwingt-die-niederlande/",
-   "flag": null,
-   "addedAt": "2026-09-23T00:47:00Z",
-   "id": "2026-08-27-da-silva-plays-world-cup-qualifiers-for-"
   }
  ]
 }

@@ -41,7 +41,7 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 7-10, finished NBA Cup group play 3-1. They win East Group A if Detroit loses to Milwaukee Friday. At Washington Saturday, 5:00 PM.",
+  "phaseDetail": "Magic 7-10, eighth in the East. Signed Kevin Porter Jr. Wednesday. They win Cup East Group A if Detroit loses to Milwaukee Friday. At Washington Saturday, 5:00 PM.",
   "record": {
    "w": 7,
    "l": 10
@@ -52,42 +52,46 @@
    "div": 3
   },
   "streak": "L2",
-  "updatedAt": "2026-11-26T04:12:12Z"
+  "updatedAt": "2026-11-26T11:15:43Z"
  },
  "brief": {
-  "d": "2026-11-25",
-  "createdAt": "2026-11-25T11:16:03Z",
-  "headline": "Magic met with free agent Kevin Porter Jr.; Cup fate rests on Friday",
-  "summary": "Free agent guard Kevin Porter Jr. met with the Magic on Monday, Marc Stein reported and the Orlando Sentinel confirmed; no deal has been reported. Orlando finished NBA Cup group play 3-1 and wins East Group A only if Detroit loses to Milwaukee on Friday. The team is off Wednesday and Thursday, practices Friday, then opens a three-game road trip Saturday at Washington.",
+  "d": "2026-11-26",
+  "createdAt": "2026-11-26T11:15:43Z",
+  "headline": "Magic sign Kevin Porter Jr. to a two-year deal",
+  "summary": "Orlando signed free agent guard Kevin Porter Jr. on Wednesday night to a two-year minimum contract, filling its 15th and final standard roster spot. He also met with Denver this week. Porter averaged 17.4 points and 7.4 assists for Milwaukee last season and is expected to add guard depth. The Magic are off for Thanksgiving and open a three-game road trip Saturday at Washington.",
   "bullets": [
    {
-    "tag": "Rumor",
-    "text": "Porter, 26, was waived by Milwaukee before the season and averaged 17.4 points, 7.4 assists and 2.2 steals in 38 games last season. HoopsHype reported Orlando and Denver among the teams interested. Orlando has one open standard roster spot but is already a luxury tax team (Hoops Rumors)."
+    "tag": "Roster",
+    "text": "Porter, 26, wears No. 7 and is listed at 6-5 as a guard/forward. ESPN reported the deal Wednesday afternoon and the team announced it that night. Milwaukee waived him before the season and still pays his $5.4M salary."
+   },
+   {
+    "tag": "Contract",
+    "text": "Terms: about $2.4M prorated this season and $3.45M in 2027-28 (Hoops Rumors). NBC Sports says the second year is very likely non-guaranteed. Hoops Rumors projects Orlando's tax bill rising from about $32.2M to about $42.8M."
+   },
+   {
+    "tag": "Lineup",
+    "text": "RotoWire expects Porter to compete with Jevon Carter for backup point guard minutes. He played 38 games last season and had knee surgeries in November 2025 and April 2026. The team has not said when he will debut."
    },
    {
     "tag": "Standings",
-    "text": "Cup: Orlando is 3-1 in East Group A with a -1 point differential, all games played. A Detroit win Friday gives the Pistons the group on head-to-head. Orlando's only other path would be the wild card, which also needs Toronto to lose to Brooklyn."
+    "text": "Orlando (7-10) is eighth in the East, one game behind Cleveland (9-10), which lost Wednesday, and one game ahead of Washington (7-12)."
    },
    {
-    "tag": "Game",
-    "text": "More from Tuesday's 104-86 loss: Carter Jr. had 13 rebounds, Black scored 5 on 2-of-8 shooting with 5 turnovers, and Detroit broke it open with an 18-0 run. Orlando is 7-10, 1-6 at home, eighth in the East."
+    "tag": "Standings",
+    "text": "Cup: no change. Orlando (3-1) wins East Group A only if Detroit loses to Milwaukee on Friday."
    },
    {
     "tag": "Health",
-    "text": "No change. Banchero (ankle, 15 straight games missed), Isaac (knee), Penda (hamstring) and Nelson (ankle) are all estimated out until at least Nov 29 (CBS Sports)."
-   },
-   {
-    "tag": "Next game",
-    "text": "Saturday at Washington, 5:00 PM, TV27. Then Sunday at Detroit (6:00 PM) and Wednesday at Dallas (8:00 PM). Washington has won both meetings this season."
-   },
-   {
-    "tag": "Roster",
-    "text": "Franz Wagner made Ben Golliver's too-early East All-Star list (ESPN, via Hoops Rumors)."
+    "text": "No change. Banchero (ankle), Isaac (knee), Penda (hamstring) and Nelson (ankle) are still estimated out until at least Nov 29 (CBS Sports). The next official report comes Friday."
    }
   ],
   "recap": null,
-  "preview": null,
-  "watch": "Friday: Milwaukee at Detroit (7:30 PM) decides Orlando's Cup group. Saturday at Washington, 5:00 PM, TV27."
+  "preview": {
+   "title": "Saturday at Wizards, 5:00 PM, TV27",
+   "text": "Washington (7-12) has beaten Orlando twice this season, 103-94 on Nov 2 and 116-96 on Nov 22, when it made 22 of 39 threes. The Wizards lost at home to Boston on Tuesday. Tristan Vukcevic (hip) and Reece Beekman (shoulder) are expected out for Washington (CBS Sports).",
+   "line": "Not posted yet as of Thursday morning"
+  },
+  "watch": "Friday: Milwaukee at Detroit decides Orlando's Cup group. Saturday at Washington, 5:00 PM, TV27."
  },
  "schedule": {
   "cup": {
@@ -483,7 +487,7 @@
     "d": "2026-11-28",
     "ha": "A",
     "id": "r20261128",
-    "note": "Washington won both earlier meetings (103-94 Nov 2, 116-96 Nov 22); Wizards lost at home to Boston Nov 24",
+    "note": "Washington won both earlier meetings (103-94 Nov 2, 116-96 Nov 22). Vukcevic (hip) and Beekman (shoulder) expected out for WAS. Kevin Porter Jr. signed Nov 25; debut not announced.",
     "opp": "WAS",
     "res": null,
     "t": "5:00 PM",
@@ -1264,7 +1268,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-25T11:16:03Z"
+  "updatedAt": "2026-11-26T11:15:43Z"
  },
  "standings": {
   "division": {
@@ -1359,33 +1363,43 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "rows": [
     {
      "abbr": "PHI",
-     "w": 14,
+     "w": 15,
      "l": 4,
      "gb": 0.0,
-     "home": "7-3",
+     "home": "8-3",
      "away": "7-1",
      "l10": "7-3",
-     "strk": "L1"
+     "strk": "W1"
     },
     {
      "abbr": "BOS",
      "w": 12,
      "l": 6,
-     "gb": 2.0,
+     "gb": 2.5,
      "home": "6-1",
      "away": "6-5",
      "l10": "6-4",
      "strk": "W1"
     },
     {
+     "abbr": "NYK",
+     "w": 12,
+     "l": 6,
+     "gb": 2.5,
+     "home": "7-3",
+     "away": "5-3",
+     "l10": "8-2",
+     "strk": "W6"
+    },
+    {
      "abbr": "ATL",
      "w": 11,
      "l": 6,
-     "gb": 2.5,
+     "gb": 3.0,
      "home": "5-3",
      "away": "6-3",
      "l10": "8-2",
@@ -1395,47 +1409,37 @@
      "abbr": "DET",
      "w": 11,
      "l": 6,
-     "gb": 2.5,
+     "gb": 3.0,
      "home": "3-3",
      "away": "8-3",
      "l10": "5-5",
      "strk": "W1"
     },
     {
-     "abbr": "NYK",
-     "w": 11,
-     "l": 6,
-     "gb": 2.5,
-     "home": "6-3",
-     "away": "5-3",
-     "l10": "8-2",
-     "strk": "W5"
-    },
-    {
      "abbr": "MIA",
      "w": 10,
-     "l": 6,
-     "gb": 3.0,
+     "l": 7,
+     "gb": 4.0,
      "home": "6-3",
-     "away": "4-3",
+     "away": "4-4",
      "l10": "8-2",
-     "strk": "W7"
+     "strk": "L1"
     },
     {
      "abbr": "CLE",
      "w": 9,
-     "l": 9,
-     "gb": 5.0,
+     "l": 10,
+     "gb": 6.0,
      "home": "7-3",
-     "away": "2-6",
-     "l10": "5-5",
-     "strk": "L1"
+     "away": "2-7",
+     "l10": "4-6",
+     "strk": "L2"
     },
     {
      "abbr": "ORL",
      "w": 7,
      "l": 10,
-     "gb": 6.5,
+     "gb": 7.0,
      "home": "1-6",
      "away": "6-4",
      "l10": "5-5",
@@ -1445,7 +1449,7 @@
      "abbr": "WAS",
      "w": 7,
      "l": 12,
-     "gb": 7.5,
+     "gb": 8.0,
      "home": "3-6",
      "away": "4-6",
      "l10": "3-7",
@@ -1455,28 +1459,28 @@
      "abbr": "TOR",
      "w": 6,
      "l": 11,
-     "gb": 7.5,
+     "gb": 8.0,
      "home": "2-7",
      "away": "4-4",
      "l10": "2-8",
      "strk": "L1"
     },
     {
-     "abbr": "IND",
-     "w": 6,
-     "l": 12,
-     "gb": 8.0,
-     "home": "3-5",
-     "away": "3-6",
-     "l10": "4-6",
-     "strk": "W1"
-    },
-    {
      "abbr": "CHI",
-     "w": 5,
+     "w": 6,
      "l": 12,
      "gb": 8.5,
      "home": "2-6",
+     "away": "4-6",
+     "l10": "5-5",
+     "strk": "W2"
+    },
+    {
+     "abbr": "IND",
+     "w": 6,
+     "l": 12,
+     "gb": 8.5,
+     "home": "3-5",
      "away": "3-6",
      "l10": "4-6",
      "strk": "W1"
@@ -1484,32 +1488,32 @@
     {
      "abbr": "CHA",
      "w": 4,
-     "l": 12,
-     "gb": 9.0,
-     "home": "3-5",
+     "l": 13,
+     "gb": 10.0,
+     "home": "3-6",
      "away": "1-7",
      "l10": "1-9",
-     "strk": "L5"
+     "strk": "L6"
     },
     {
      "abbr": "BKN",
-     "w": 3,
+     "w": 4,
      "l": 13,
      "gb": 10.0,
      "home": "1-6",
-     "away": "2-7",
-     "l10": "2-8",
-     "strk": "L5"
+     "away": "3-7",
+     "l10": "3-7",
+     "strk": "W1"
     },
     {
      "abbr": "MIL",
      "w": 2,
-     "l": 16,
-     "gb": 12.0,
-     "home": "1-8",
+     "l": 17,
+     "gb": 13.0,
+     "home": "1-9",
      "away": "1-8",
      "l10": "1-9",
-     "strk": "W1"
+     "strk": "L1"
     }
    ]
   },
@@ -1610,7 +1614,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-25T11:16:03Z"
+  "updatedAt": "2026-11-26T11:15:43Z"
  },
  "roster": {
   "players": [
@@ -1646,11 +1650,11 @@
     "age": 25,
     "contract": "$41.8M. Signed through 2029-30",
     "cur": {
-     "gp": 16,
-     "pts": 24.5,
-     "reb": 6.9,
-     "ast": 8.3,
-     "fg": 0.47
+     "gp": 17,
+     "pts": 24.2,
+     "reb": 7.0,
+     "ast": 8.1,
+     "fg": 0.468
     },
     "exp": "5",
     "ht": "6-10",
@@ -1674,11 +1678,11 @@
     "age": 28,
     "contract": "$39.4M. Signed through 2028-29",
     "cur": {
-     "gp": 15,
-     "pts": 18.5,
-     "reb": 3.9,
-     "ast": 2.9,
-     "fg": 0.43
+     "gp": 16,
+     "pts": 18.7,
+     "reb": 3.8,
+     "ast": 3.0,
+     "fg": 0.441
     },
     "exp": "6",
     "ht": "6-6",
@@ -1702,11 +1706,11 @@
     "age": 25,
     "contract": "$32.4M. Signed through 2029-30",
     "cur": {
-     "gp": 8,
-     "pts": 9.3,
-     "reb": 5.1,
-     "ast": 4.0,
-     "fg": 0.347
+     "gp": 9,
+     "pts": 8.7,
+     "reb": 4.9,
+     "ast": 4.1,
+     "fg": 0.337
     },
     "exp": "5",
     "ht": "6-5",
@@ -1730,11 +1734,11 @@
     "age": 22,
     "contract": "$10.1M. Final rookie-scale year. No extension; restricted free agent in 2027",
     "cur": {
-     "gp": 13,
-     "pts": 16.1,
-     "reb": 5.1,
-     "ast": 5.4,
-     "fg": 0.44
+     "gp": 14,
+     "pts": 15.3,
+     "reb": 5.0,
+     "ast": 5.1,
+     "fg": 0.431
     },
     "exp": "3",
     "ht": "6-7",
@@ -1758,11 +1762,11 @@
     "age": 27,
     "contract": "$18.1M. Through 2028-29 (team option in 2028-29)",
     "cur": {
-     "gp": 16,
-     "pts": 12.8,
-     "reb": 8.6,
+     "gp": 17,
+     "pts": 12.5,
+     "reb": 8.8,
      "ast": 1.4,
-     "fg": 0.567
+     "fg": 0.547
     },
     "exp": "8",
     "ht": "6-10",
@@ -1814,11 +1818,11 @@
     "age": 25,
     "contract": "$4.0M. 2027-28 team option ($6.1M) exercised Oct 21; signed through 2027-28",
     "cur": {
-     "gp": 14,
-     "pts": 14.1,
+     "gp": 15,
+     "pts": 14.2,
      "reb": 3.6,
-     "ast": 1.6,
-     "fg": 0.474
+     "ast": 1.5,
+     "fg": 0.473
     },
     "exp": "2",
     "ht": "6-8",
@@ -1842,11 +1846,11 @@
     "age": 27,
     "contract": "$7.6M. Final year, UFA 2027",
     "cur": {
-     "gp": 14,
-     "pts": 4.8,
-     "reb": 3.9,
+     "gp": 15,
+     "pts": 4.6,
+     "reb": 4.1,
      "ast": 0.7,
-     "fg": 0.722
+     "fg": 0.692
     },
     "exp": "7",
     "ht": "6-11",
@@ -1892,11 +1896,11 @@
     "age": 31,
     "contract": "1-yr minimum. UFA 2027",
     "cur": {
-     "gp": 12,
-     "pts": 4.3,
-     "reb": 1.2,
-     "ast": 1.7,
-     "fg": 0.333
+     "gp": 13,
+     "pts": 4.6,
+     "reb": 1.1,
+     "ast": 1.5,
+     "fg": 0.35
     },
     "exp": "8",
     "ht": "6-0",
@@ -1917,13 +1921,35 @@
     "statusNote": ""
    },
    {
+    "num": "7",
+    "name": "Kevin Porter Jr.",
+    "pos": "G-F",
+    "age": 26,
+    "ht": "6-5",
+    "exp": "6",
+    "kind": "Standard",
+    "contract": "Two-year minimum: about $2.4M prorated in 2026-27, $3.45M in 2027-28 (second year reportedly very likely non-guaranteed)",
+    "status": "Healthy",
+    "injury": "",
+    "statusNote": "Signed Nov 25. The team has not said whether he will debut Saturday at Washington.",
+    "last": {
+     "gp": 38,
+     "pts": 17.4,
+     "reb": 5.2,
+     "ast": 7.4,
+     "fg": 0.465
+    },
+    "cur": null,
+    "note": "Signed Nov 25 after visits with Orlando and Denver. Waived by Milwaukee before the season. Had knee surgeries in November 2025 and April 2026. 30th pick in 2019; has also played for Cleveland, Houston and the Clippers, plus a season in Greece. Orlando did \"extensive\" due diligence before signing him (ESPN); his stints in Cleveland and Houston ended over off-court issues (Hoops Rumors). Expected to compete with Jevon Carter for backup point guard minutes (RotoWire)."
+   },
+   {
     "age": 27,
     "contract": "$2.6M. Not fully guaranteed until Jan 10",
     "cur": {
-     "gp": 14,
-     "pts": 5.3,
-     "reb": 3.0,
-     "ast": 0.4,
+     "gp": 15,
+     "pts": 4.9,
+     "reb": 2.8,
+     "ast": 0.3,
      "fg": 0.403
     },
     "exp": "4",
@@ -1948,10 +1974,10 @@
     "age": 20,
     "contract": "$3.1M rookie scale. 2027-28 team option ($3.3M) exercised Oct 21",
     "cur": {
-     "gp": 12,
-     "pts": 5.6,
-     "reb": 1.8,
-     "ast": 2.3,
+     "gp": 13,
+     "pts": 5.2,
+     "reb": 1.7,
+     "ast": 2.2,
      "fg": 0.321
     },
     "exp": "1",
@@ -2026,11 +2052,11 @@
     "age": 28,
     "contract": "Two-way, year 2",
     "cur": {
-     "gp": 9,
-     "pts": 1.9,
-     "reb": 2.2,
-     "ast": 0.8,
-     "fg": 0.438
+     "gp": 10,
+     "pts": 1.7,
+     "reb": 2.0,
+     "ast": 0.7,
+     "fg": 0.389
     },
     "exp": "1",
     "ht": "6-6",
@@ -2073,8 +2099,8 @@
     "statusNote": "Missed Tuesday vs Detroit. CBS Sports estimates he is out until at least Nov 29. Sweeney said Nov 18 he is \"progressing, doing some on-court stuff here, a little bit at a time,\" but the work is \"just minimal\"; no timeline (Jason Beede, Orlando Sentinel). Had surgery this offseason on the left ankle he fractured in Summer League and has not made his NBA debut."
    }
   ],
-  "statsLabel": "2026-27 per game (through Nov 22)",
-  "updatedAt": "2026-11-25T11:16:03Z"
+  "statsLabel": "2026-27 per game (through Nov 24)",
+  "updatedAt": "2026-11-26T11:15:43Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
@@ -2150,6 +2176,11 @@
     "text": "The Oct 19 rookie-scale extension deadline passed without a deal. Black becomes a restricted free agent next summer and Orlando can match offers.",
     "title": "Anthony Black: no extension, restricted free agency in 2027",
     "when": "Summer 2027"
+   },
+   {
+    "title": "Kevin Porter Jr. second year",
+    "when": "2027-28",
+    "text": "$3.45M salary in 2027-28. NBC Sports reports the second year is very likely non-guaranteed."
    },
    {
     "text": "$2.6M salary becomes fully guaranteed if he is on the roster.",
@@ -2297,23 +2328,23 @@
    "lines": [
     {
      "k": "Over the luxury tax",
-     "v": "$17.4M"
+     "v": "$19.8M"
     },
     {
      "k": "Estimated tax bill",
-     "v": "$32.2M"
+     "v": "$42.8M"
     },
     {
      "k": "Room under 2nd apron",
-     "v": "$2.5M"
+     "v": "About $0.1M"
     },
     {
      "k": "Standard contracts",
-     "v": "14 of 15"
+     "v": "15 of 15"
     }
    ],
-   "note": "First tax bill since 2010-11. The 15th spot is likely to stay open to save money.",
-   "total": "$217.9M"
+   "note": "First tax bill since 2010-11. Signing Kevin Porter Jr. on Nov 25 filled the 15th roster spot and raised the projected tax bill from about $32.2M to about $42.8M (Hoops Rumors). Porter's deal leaves Orlando roughly $100K under the second apron.",
+   "total": "$220.3M"
   },
   "predictions": [
    {
@@ -2434,6 +2465,10 @@
   ],
   "transactions": [
    {
+    "d": "2026-11-25",
+    "text": "Signed free agent guard Kevin Porter Jr. to a two-year minimum contract (about $2.4M prorated this season, $3.45M in 2027-28). Filled the 15th standard roster spot; no corresponding move."
+   },
+   {
     "d": "2026-11-01",
     "text": "Assigned Jonathan Isaac to the Osceola Magic and recalled him the same day, presumably to practice with the affiliate (RotoWire)."
    },
@@ -2498,7 +2533,7 @@
     "text": "Fired head coach Jamahl Mosley."
    }
   ],
-  "updatedAt": "2026-11-21T11:15:06Z",
+  "updatedAt": "2026-11-26T11:15:43Z",
   "watch": [
    {
     "k": "Local TV",
