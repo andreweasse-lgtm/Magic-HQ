@@ -41,7 +41,7 @@
    "w": 45
   },
   "phase": "Regular season",
-  "phaseDetail": "Magic 7-10, eighth in the East. Signed Kevin Porter Jr. Wednesday. They win Cup East Group A if Detroit loses to Milwaukee Friday. At Washington Saturday, 5:00 PM.",
+  "phaseDetail": "Magic 7-10, eighth in the East. Practice Friday, then a three-game road trip starting Saturday at Washington, 5:00 PM. Milwaukee at Detroit tonight decides Orlando's Cup group.",
   "record": {
    "w": 7,
    "l": 10
@@ -52,46 +52,42 @@
    "div": 3
   },
   "streak": "L2",
-  "updatedAt": "2026-11-27T04:18:21Z"
+  "updatedAt": "2026-11-27T11:15:53Z"
  },
  "brief": {
-  "d": "2026-11-26",
-  "createdAt": "2026-11-26T11:15:43Z",
-  "headline": "Magic sign Kevin Porter Jr. to a two-year deal",
-  "summary": "Orlando signed free agent guard Kevin Porter Jr. on Wednesday night to a two-year minimum contract, filling its 15th and final standard roster spot. He also met with Denver this week. Porter averaged 17.4 points and 7.4 assists for Milwaukee last season and is expected to add guard depth. The Magic are off for Thanksgiving and open a three-game road trip Saturday at Washington.",
+  "d": "2026-11-27",
+  "createdAt": "2026-11-27T11:15:53Z",
+  "headline": "Weltman explains Porter signing; Magic leave for Washington today",
+  "summary": "The Magic were off for Thanksgiving. President of basketball operations Jeff Weltman told the Orlando Sentinel the team ran a \"very thorough process\" before signing Kevin Porter Jr. Orlando practices Friday morning and then flies to Washington for Saturday's 5:00 PM game. Tonight's Milwaukee at Detroit game decides Orlando's NBA Cup group.",
   "bullets": [
    {
-    "tag": "Roster",
-    "text": "Porter, 26, wears No. 7 and is listed at 6-5 as a guard/forward. ESPN reported the deal Wednesday afternoon and the team announced it that night. Milwaukee waived him before the season and still pays his $5.4M salary."
+    "tag": "Front office",
+    "text": "Weltman on Porter: \"We're trying to get better. We're looking at our team and seeing where we need help.\" On Porter's off-court past: \"This isn't a gift. This is something that we wanted to determine ourselves.\" (Orlando Sentinel, via Hoops Rumors)"
    },
    {
     "tag": "Contract",
-    "text": "Terms: about $2.4M prorated this season and $3.45M in 2027-28 (Hoops Rumors). NBC Sports says the second year is very likely non-guaranteed. Hoops Rumors projects Orlando's tax bill rising from about $32.2M to about $42.8M."
-   },
-   {
-    "tag": "Lineup",
-    "text": "RotoWire expects Porter to compete with Jevon Carter for backup point guard minutes. He played 38 games last season and had knee surgeries in November 2025 and April 2026. The team has not said when he will debut."
+    "text": "Porter's second year ($3.45M in 2027-28) is a team option, per Jason Beede of the Orlando Sentinel. Payroll is about $220.3M, roughly $19.8M over the tax and less than $100K under the second apron (Magic On SI)."
    },
    {
     "tag": "Standings",
-    "text": "Orlando (7-10) is eighth in the East, one game behind Cleveland (9-10), which lost Wednesday, and one game ahead of Washington (7-12)."
-   },
-   {
-    "tag": "Standings",
-    "text": "Cup: no change. Orlando (3-1) wins East Group A only if Detroit loses to Milwaukee on Friday."
+    "text": "Cup: Orlando (3-1, -1 point differential) wins East Group A if Milwaukee beats Detroit tonight. A Detroit win gives the Pistons the group on tiebreakers. Toronto (2-1) also hosts Brooklyn."
    },
    {
     "tag": "Health",
-    "text": "No change. Banchero (ankle), Isaac (knee), Penda (hamstring) and Nelson (ankle) are still estimated out until at least Nov 29 (CBS Sports). The next official report comes Friday."
+    "text": "No change. Banchero (ankle), Isaac (knee), Penda (hamstring) and Nelson (ankle) are still estimated out until at least Nov 29 (CBS Sports). The injury report for Saturday comes out Friday afternoon, after a 10:00 AM practice."
+   },
+   {
+    "tag": "Next game",
+    "text": "Saturday at Washington (5:00 PM, TV27), then Sunday at Detroit (6:00 PM), with no shootaround either day (Magic PR). Porter's debut has not been announced."
    }
   ],
   "recap": null,
   "preview": {
    "title": "Saturday at Wizards, 5:00 PM, TV27",
-   "text": "Washington (7-12) has beaten Orlando twice this season, 103-94 on Nov 2 and 116-96 on Nov 22, when it made 22 of 39 threes. The Wizards lost at home to Boston on Tuesday. Tristan Vukcevic (hip) and Reece Beekman (shoulder) are expected out for Washington (CBS Sports).",
-   "line": "Not posted yet as of Thursday morning"
+   "text": "Washington (7-12) has beaten Orlando twice this season, 103-94 on Nov 2 and 116-96 on Nov 22, when it made 22 of 39 threes. Tristan Vukcevic (hip), Reece Beekman (shoulder), Justin Champagnie (foot) and Jamir Watkins (knee) are listed out for Washington (ESPN). ESPN Analytics gives Orlando a 55.8% chance to win. First game of a back-to-back.",
+   "line": "Not posted yet as of Friday morning"
   },
-  "watch": "Friday: Milwaukee at Detroit decides Orlando's Cup group. Saturday at Washington, 5:00 PM, TV27."
+  "watch": "Tonight: Milwaukee at Detroit decides Orlando's Cup group. Saturday at Washington, 5:00 PM, TV27; Sunday at Detroit, 6:00 PM."
  },
  "schedule": {
   "cup": {
@@ -487,7 +483,7 @@
     "d": "2026-11-28",
     "ha": "A",
     "id": "r20261128",
-    "note": "Washington won both earlier meetings (103-94 Nov 2, 116-96 Nov 22). Vukcevic (hip) and Beekman (shoulder) expected out for WAS. Kevin Porter Jr. signed Nov 25; debut not announced.",
+    "note": "Washington won both earlier meetings (103-94 Nov 2, 116-96 Nov 22). Vukcevic (hip), Beekman (shoulder), Champagnie (foot) and Watkins (knee) listed out for WAS. No shootaround; first night of a back-to-back. Porter's debut not announced.",
     "opp": "WAS",
     "res": null,
     "t": "5:00 PM",
@@ -499,7 +495,7 @@
     "d": "2026-11-29",
     "ha": "A",
     "id": "r20261129",
-    "note": "",
+    "note": "Second night of a back-to-back; no shootaround. Detroit beat Orlando 104-86 on Nov 24.",
     "opp": "DET",
     "res": null,
     "t": "6:00 PM",
@@ -1268,7 +1264,7 @@
   ],
   "localTV": "Every non-national game airs free on MagicTV 27 (WRDQ), select games on WFTV 9, and streams on DAZN.",
   "season": "2026-27",
-  "updatedAt": "2026-11-26T11:15:43Z"
+  "updatedAt": "2026-11-27T11:15:53Z"
  },
  "standings": {
   "division": {
@@ -1363,7 +1359,7 @@
    "season": "2025-26"
   },
   "live": {
-   "asOf": "2026-11-26",
+   "asOf": "2026-11-27",
    "rows": [
     {
      "abbr": "PHI",
@@ -1614,7 +1610,7 @@
    ],
    "source": "BetMGM season win totals"
   },
-  "updatedAt": "2026-11-26T11:15:43Z"
+  "updatedAt": "2026-11-27T11:15:53Z"
  },
  "roster": {
   "players": [
@@ -1928,10 +1924,10 @@
     "ht": "6-5",
     "exp": "6",
     "kind": "Standard",
-    "contract": "Two-year minimum: about $2.4M prorated in 2026-27, $3.45M in 2027-28 (second year reportedly very likely non-guaranteed)",
+    "contract": "Two-year minimum: about $2.4M prorated in 2026-27, $3.45M in 2027-28 (second year is a team option, per the Orlando Sentinel)",
     "status": "Healthy",
     "injury": "",
-    "statusNote": "Signed Nov 25. The team has not said whether he will debut Saturday at Washington.",
+    "statusNote": "Signed Nov 25. Debut not announced; the team practices Friday before flying to Washington.",
     "last": {
      "gp": 38,
      "pts": 17.4,
@@ -1940,7 +1936,7 @@
      "fg": 0.465
     },
     "cur": null,
-    "note": "Signed Nov 25 after visits with Orlando and Denver. Waived by Milwaukee before the season. Had knee surgeries in November 2025 and April 2026. 30th pick in 2019; has also played for Cleveland, Houston and the Clippers, plus a season in Greece. Orlando did \"extensive\" due diligence before signing him (ESPN); his stints in Cleveland and Houston ended over off-court issues (Hoops Rumors). Expected to compete with Jevon Carter for backup point guard minutes (RotoWire)."
+    "note": "Signed Nov 25 after visits with Orlando and Denver. Waived by Milwaukee before the season. Had knee surgeries in November 2025 and April 2026. 30th pick in 2019; has also played for Cleveland, Houston and the Clippers, plus a season in Greece. Orlando did \"extensive\" due diligence before signing him (ESPN); his stints in Cleveland and Houston ended over off-court issues (Hoops Rumors). Expected to compete with Jevon Carter for backup point guard minutes (RotoWire). Weltman said the team ran a \"very thorough process\" to understand \"where Kevin was in his life\" (Orlando Sentinel)."
    },
    {
     "age": 27,
@@ -2100,7 +2096,7 @@
    }
   ],
   "statsLabel": "2026-27 per game (through Nov 24)",
-  "updatedAt": "2026-11-26T11:15:43Z"
+  "updatedAt": "2026-11-27T11:15:53Z"
  },
  "team": {
   "arena": "Kia Center, Orlando",
@@ -2178,9 +2174,9 @@
     "when": "Summer 2027"
    },
    {
-    "title": "Kevin Porter Jr. second year",
+    "title": "Kevin Porter Jr. team option",
     "when": "2027-28",
-    "text": "$3.45M salary in 2027-28. NBC Sports reports the second year is very likely non-guaranteed."
+    "text": "$3.45M salary in 2027-28 is a team option, per Jason Beede of the Orlando Sentinel. Declining it would add room under the tax next season (Magic On SI)."
    },
    {
     "text": "$2.6M salary becomes fully guaranteed if he is on the roster.",

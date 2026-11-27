@@ -1,6 +1,45 @@
 {
  "items": [
   {
+   "d": "2026-11-26",
+   "createdAt": "2026-11-26T11:15:43Z",
+   "headline": "Magic sign Kevin Porter Jr. to a two-year deal",
+   "summary": "Orlando signed free agent guard Kevin Porter Jr. on Wednesday night to a two-year minimum contract, filling its 15th and final standard roster spot. He also met with Denver this week. Porter averaged 17.4 points and 7.4 assists for Milwaukee last season and is expected to add guard depth. The Magic are off for Thanksgiving and open a three-game road trip Saturday at Washington.",
+   "bullets": [
+    {
+     "tag": "Roster",
+     "text": "Porter, 26, wears No. 7 and is listed at 6-5 as a guard/forward. ESPN reported the deal Wednesday afternoon and the team announced it that night. Milwaukee waived him before the season and still pays his $5.4M salary."
+    },
+    {
+     "tag": "Contract",
+     "text": "Terms: about $2.4M prorated this season and $3.45M in 2027-28 (Hoops Rumors). NBC Sports says the second year is very likely non-guaranteed. Hoops Rumors projects Orlando's tax bill rising from about $32.2M to about $42.8M."
+    },
+    {
+     "tag": "Lineup",
+     "text": "RotoWire expects Porter to compete with Jevon Carter for backup point guard minutes. He played 38 games last season and had knee surgeries in November 2025 and April 2026. The team has not said when he will debut."
+    },
+    {
+     "tag": "Standings",
+     "text": "Orlando (7-10) is eighth in the East, one game behind Cleveland (9-10), which lost Wednesday, and one game ahead of Washington (7-12)."
+    },
+    {
+     "tag": "Standings",
+     "text": "Cup: no change. Orlando (3-1) wins East Group A only if Detroit loses to Milwaukee on Friday."
+    },
+    {
+     "tag": "Health",
+     "text": "No change. Banchero (ankle), Isaac (knee), Penda (hamstring) and Nelson (ankle) are still estimated out until at least Nov 29 (CBS Sports). The next official report comes Friday."
+    }
+   ],
+   "recap": null,
+   "preview": {
+    "title": "Saturday at Wizards, 5:00 PM, TV27",
+    "text": "Washington (7-12) has beaten Orlando twice this season, 103-94 on Nov 2 and 116-96 on Nov 22, when it made 22 of 39 threes. The Wizards lost at home to Boston on Tuesday. Tristan Vukcevic (hip) and Reece Beekman (shoulder) are expected out for Washington (CBS Sports).",
+    "line": "Not posted yet as of Thursday morning"
+   },
+   "watch": "Friday: Milwaukee at Detroit decides Orlando's Cup group. Saturday at Washington, 5:00 PM, TV27."
+  },
+  {
    "d": "2026-11-25",
    "createdAt": "2026-11-25T11:16:03Z",
    "headline": "Magic met with free agent Kevin Porter Jr.; Cup fate rests on Friday",
@@ -2068,41 +2107,6 @@
    "recap": null,
    "preview": null,
    "watch": "Next up: training camp opens tomorrow, Sept 29, then preseason at Memphis Oct 7."
-  },
-  {
-   "d": "2026-09-27",
-   "createdAt": "2026-09-27T20:16:06Z",
-   "headline": "Quiet Sunday: Weltman stands pat, media day tomorrow",
-   "summary": "No transactions, injury changes or extension news since Saturday. A Yahoo Sports preview says GM Jeff Weltman is sticking with the core (only real addition was Nikola Vucevic) and expects Sean Sweeney's hire to produce immediate results, even as the East got tougher with Philadelphia, Boston and Indiana all improving. Media day is tomorrow morning, with camp opening Tuesday.",
-   "bullets": [
-    {
-     "tag": "Front office",
-     "text": "Jeff Weltman avoided blockbuster moves this offseason, betting on the existing young core rather than a shakeup; Nikola Vucevic's return was the only notable addition. A Yahoo Sports preview frames Sean Sweeney's hire as a bet on immediate improvement, not a rebuild (Yahoo Sports, Sept 27)."
-    },
-    {
-     "tag": "Standings",
-     "text": "The same preview notes the East got harder to climb: the champion Knicks, Philadelphia, Boston and Indiana are all seen as improved, raising the bar for Orlando's playoff push."
-    },
-    {
-     "tag": "Roster",
-     "text": "Camp roster still stands at 20, unchanged since Kevin Knox II's Exhibit 10 signing Sept 23. No cuts expected until camp opens Sept 29."
-    },
-    {
-     "tag": "Health",
-     "text": "Franz Wagner (calf) and Jonathan Isaac (knee) remain questionable for the start of the season on the official injury report, unchanged since Sept 8. Izaiyah Nelson (ankle surgery) remains out until at least Nov 1."
-    },
-    {
-     "tag": "Contract",
-     "text": "No Anthony Black extension yet, with the Oct 19 rookie-scale deadline just over three weeks away."
-    },
-    {
-     "tag": "Next game",
-     "text": "Media day is tomorrow, Monday Sept 28 at 11 AM ET, with training camp opening Tuesday, Sept 29. Preseason opens Oct 7 at Memphis."
-    }
-   ],
-   "recap": null,
-   "preview": null,
-   "watch": "Next up: media day, Monday Sept 28 at 11 AM ET."
   }
  ]
 }

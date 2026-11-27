@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "2026-11-26-weltman-details-very-thorough-process-be",
+   "d": "2026-11-26",
+   "cat": "Front Office",
+   "headline": "Weltman details \"very thorough process\" behind Porter signing",
+   "summary": "Jeff Weltman told the Orlando Sentinel the Magic did extensive background work on Kevin Porter Jr. before signing him. \"This isn't a gift. This is something that we wanted to determine ourselves,\" he said, adding that the team is \"trying to get better.\"",
+   "source": "Hoops Rumors (via Orlando Sentinel)",
+   "url": "https://www.hoopsrumors.com/2026/11/jeff-weltman-discusses-why-magic-signed-kevin-porter-jr.html",
+   "flag": null,
+   "addedAt": "2026-11-27T11:15:53Z"
+  },
+  {
+   "id": "2026-11-26-porter-s-second-year-is-a-team-option-ma",
+   "d": "2026-11-26",
+   "cat": "Contract",
+   "headline": "Porter's second year is a team option; Magic just under second apron",
+   "summary": "Porter's $3.45M salary for 2027-28 is a team option, per Jason Beede of the Orlando Sentinel. Orlando's payroll is about $220.3M, roughly $19.8M over the luxury tax and less than $100K below the second apron.",
+   "source": "Magic On SI",
+   "url": "https://www.si.com/nba/magic/onsi/orlando-magic-s-updated-cap-sheet-after-signing-kevin-porter-jr-01m8b2w5b7cd",
+   "flag": null,
+   "addedAt": "2026-11-27T11:15:53Z"
+  },
+  {
    "id": "2026-11-25-magic-sign-free-agent-guard-kevin-porter",
    "d": "2026-11-25",
    "cat": "Contract",
@@ -2023,17 +2045,6 @@
    "flag": null,
    "addedAt": "2026-09-23T00:47:00Z",
    "id": "2026-09-01-wmor-32-will-carry-every-non-national-ga"
-  },
-  {
-   "d": "2026-08-28",
-   "cat": "Player",
-   "headline": "Bitadze scores 23 as Georgia routs Montenegro",
-   "summary": "23 points, 8 rebounds and 2 blocks in a 101-74 World Cup qualifier win.",
-   "source": "NBA.com",
-   "url": "https://www.nba.com/news/live-updates-2027-fiba-world-cup-qualifiers",
-   "flag": null,
-   "addedAt": "2026-09-23T00:47:00Z",
-   "id": "2026-08-28-bitadze-scores-23-as-georgia-routs-monte"
   }
  ]
 }
