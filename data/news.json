@@ -1,6 +1,50 @@
 {
  "items": [
   {
+   "id": "2026-11-27-magic-miss-cup-knockouts-as-pistons-win",
+   "d": "2026-11-27",
+   "cat": "Schedule",
+   "headline": "Magic miss Cup knockouts as Pistons win East Group A",
+   "summary": "Detroit beat Milwaukee 113-98 Friday to finish 3-1 and win East Group A on point differential over Toronto and Orlando, who also went 3-1. Boston (3-1, +67) took the East wild card. The quarterfinals are Philadelphia at Atlanta on Dec 4 and Boston at Detroit on Dec 5.",
+   "source": "Associated Press (via WFTV)",
+   "url": "https://www.wftv.com/sports/nba-cup/VVKMTBJLXU6GJLMA4N2ZHQJLSQ/",
+   "flag": null,
+   "addedAt": "2026-11-28T11:18:43Z"
+  },
+  {
+   "id": "2026-11-27-nba-adds-dec-6-at-cleveland-dec-10-vs-ch",
+   "d": "2026-11-27",
+   "cat": "Schedule",
+   "headline": "NBA adds Dec 6 at Cleveland, Dec 10 vs Chicago",
+   "summary": "The NBA filled the two open dates for teams that missed the Cup knockout round. Orlando plays at Cleveland on Sunday, Dec 6 at 6:00 PM and hosts Chicago on Thursday, Dec 10 at 7:00 PM.",
+   "source": "ESPN",
+   "url": "https://www.espn.com/nba/game/_/gameId/401937098",
+   "flag": null,
+   "addedAt": "2026-11-28T11:18:43Z"
+  },
+  {
+   "id": "2026-11-27-porter-out-saturday-for-reconditioning-b",
+   "d": "2026-11-27",
+   "cat": "Injury",
+   "headline": "Porter out Saturday for reconditioning; Black questionable",
+   "summary": "Kevin Porter Jr. practiced with the Magic for the first time Friday but is listed out at Washington for return-to-competition reconditioning. Anthony Black was added as questionable with back soreness, and Banchero, Isaac, Penda and Nelson remain out.",
+   "source": "Orlando Sentinel (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/nba/articles/magic-seek-better-result-wizards-232400287.html",
+   "flag": null,
+   "addedAt": "2026-11-28T11:18:43Z"
+  },
+  {
+   "id": "2026-11-27-porter-says-he-brings-energy-some-swag-a",
+   "d": "2026-11-27",
+   "cat": "Player",
+   "headline": "Porter says he brings \"energy, some swag and culture\"",
+   "summary": "Porter said the Magic are \"building a foundation\" and are \"ready to turn the page when it comes to winning.\" Sweeney told him to be himself and be aggressive attacking off the dribble.",
+   "source": "Orlando Magic Daily",
+   "url": "https://orlandomagicdaily.com/kevin-porter-jr-embraces-orlando-magic-culture-clear-purpose-01m8f5pmnr7r",
+   "flag": null,
+   "addedAt": "2026-11-28T11:18:43Z"
+  },
+  {
    "id": "2026-11-26-weltman-details-very-thorough-process-be",
    "d": "2026-11-26",
    "cat": "Front Office",

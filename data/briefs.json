@@ -1,6 +1,41 @@
 {
  "items": [
   {
+   "d": "2026-11-27",
+   "createdAt": "2026-11-27T11:15:53Z",
+   "headline": "Weltman explains Porter signing; Magic leave for Washington today",
+   "summary": "The Magic were off for Thanksgiving. President of basketball operations Jeff Weltman told the Orlando Sentinel the team ran a \"very thorough process\" before signing Kevin Porter Jr. Orlando practices Friday morning and then flies to Washington for Saturday's 5:00 PM game. Tonight's Milwaukee at Detroit game decides Orlando's NBA Cup group.",
+   "bullets": [
+    {
+     "tag": "Front office",
+     "text": "Weltman on Porter: \"We're trying to get better. We're looking at our team and seeing where we need help.\" On Porter's off-court past: \"This isn't a gift. This is something that we wanted to determine ourselves.\" (Orlando Sentinel, via Hoops Rumors)"
+    },
+    {
+     "tag": "Contract",
+     "text": "Porter's second year ($3.45M in 2027-28) is a team option, per Jason Beede of the Orlando Sentinel. Payroll is about $220.3M, roughly $19.8M over the tax and less than $100K under the second apron (Magic On SI)."
+    },
+    {
+     "tag": "Standings",
+     "text": "Cup: Orlando (3-1, -1 point differential) wins East Group A if Milwaukee beats Detroit tonight. A Detroit win gives the Pistons the group on tiebreakers. Toronto (2-1) also hosts Brooklyn."
+    },
+    {
+     "tag": "Health",
+     "text": "No change. Banchero (ankle), Isaac (knee), Penda (hamstring) and Nelson (ankle) are still estimated out until at least Nov 29 (CBS Sports). The injury report for Saturday comes out Friday afternoon, after a 10:00 AM practice."
+    },
+    {
+     "tag": "Next game",
+     "text": "Saturday at Washington (5:00 PM, TV27), then Sunday at Detroit (6:00 PM), with no shootaround either day (Magic PR). Porter's debut has not been announced."
+    }
+   ],
+   "recap": null,
+   "preview": {
+    "title": "Saturday at Wizards, 5:00 PM, TV27",
+    "text": "Washington (7-12) has beaten Orlando twice this season, 103-94 on Nov 2 and 116-96 on Nov 22, when it made 22 of 39 threes. Tristan Vukcevic (hip), Reece Beekman (shoulder), Justin Champagnie (foot) and Jamir Watkins (knee) are listed out for Washington (ESPN). ESPN Analytics gives Orlando a 55.8% chance to win. First game of a back-to-back.",
+    "line": "Not posted yet as of Friday morning"
+   },
+   "watch": "Tonight: Milwaukee at Detroit decides Orlando's Cup group. Saturday at Washington, 5:00 PM, TV27; Sunday at Detroit, 6:00 PM."
+  },
+  {
    "d": "2026-11-26",
    "createdAt": "2026-11-26T11:15:43Z",
    "headline": "Magic sign Kevin Porter Jr. to a two-year deal",
@@ -2072,41 +2107,6 @@
    "recap": null,
    "preview": null,
    "watch": "Next up: more camp practices, then preseason at Memphis Oct 7."
-  },
-  {
-   "d": "2026-09-28",
-   "createdAt": "2026-09-29T02:03:18Z",
-   "headline": "Media day done: Banchero slimmer, Nelson out to start",
-   "summary": "Media day is complete and training camp opens Tuesday, Sept 29. Coach Sean Sweeney's staff set player roles before media day, and Paolo Banchero looked slimmer and stronger after his offseason work. Izaiyah Nelson (ankle) will not be ready for the season start, and Jonathan Isaac is still hoping to be ready for the Oct 21 opener. No transactions or extension news.",
-   "bullets": [
-    {
-     "tag": "Health",
-     "text": "Per Magic On SI's media day coverage, Izaiyah Nelson (ankle) will not be ready for the season start and Jonathan Isaac (knee) is still hoping to be ready for the opener. Franz Wagner said Sept 27 he feels fully healthy but remains officially questionable on CBS's injury page."
-    },
-    {
-     "tag": "Coaching",
-     "text": "Sweeney's staff met before media day to define every player's role for the season, a change from past years, with flexibility to adjust. Banchero appeared slimmer and stronger."
-    },
-    {
-     "tag": "Odds",
-     "text": "BetMGM has posted a line for the Oct 21 season opener at home against Atlanta: Magic -2.5 (-110), moneyline -135. Season-long futures are unchanged: Southeast Division +250, Eastern Conference +2500, NBA title +8000."
-    },
-    {
-     "tag": "Roster",
-     "text": "Camp roster holds at 20, unchanged since Kevin Knox II's Exhibit 10 signing Sept 23. No cuts expected until camp trims the roster later this week."
-    },
-    {
-     "tag": "Contract",
-     "text": "No Anthony Black extension yet, with the Oct 19 rookie-scale deadline three weeks away."
-    },
-    {
-     "tag": "Next game",
-     "text": "Training camp opens tomorrow, Sept 29, running through Oct 6 (off Oct 3). Preseason opens Oct 7 at Memphis."
-    }
-   ],
-   "recap": null,
-   "preview": null,
-   "watch": "Next up: training camp opens tomorrow, Sept 29, then preseason at Memphis Oct 7."
   }
  ]
 }
